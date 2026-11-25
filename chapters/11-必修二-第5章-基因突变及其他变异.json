@@ -1,0 +1,1157 @@
+[
+ {
+  "root_id": "mkjr_CfBb2dZd6w2J_8j9Qyty_Q",
+  "chapter": "必修二 第5章 基因突变及其他变异",
+  "points": [
+   "染色体结构变异"
+  ],
+  "province": "四川",
+  "year": "2026",
+  "type": "单选",
+  "answer": "B",
+  "stem": "甲与乙是二倍体近缘物种，甲的1号和32号染色体由祖先1号染色体断裂形成，乙保留了祖先1号染色体；二者其余染色体数目相同。端粒酶是含有RNA序列的逆转录酶复合体，与端粒形成有关。在甲物种形成过程中，基因Dna2突变，表达水平降低，改变端粒酶活性，影响端粒形成。下列推断不合理的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "端粒酶以RNA为模板合成DNA"
+   },
+   {
+    "label": "B",
+    "text": "敲除基因Dna2不利于新端粒的形成"
+   },
+   {
+    "label": "C",
+    "text": "甲成熟生殖细胞的染色体比乙多1条"
+   },
+   {
+    "label": "D",
+    "text": "该染色体断裂事件会阻碍甲和乙之间的基因交流"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_CfBb2dZd6w2J_8j9Qyty_Q#2026四川·染色体结构变异]"
+ },
+ {
+  "root_id": "mkjr_6XEgPAuzc..h5QTkFzsicA",
+  "chapter": "必修二 第5章 基因突变及其他变异",
+  "points": [
+   "基因突变"
+  ],
+  "province": "安徽",
+  "year": "2026",
+  "type": "单选",
+  "answer": "C",
+  "stem": "诱变剂亚硝酸可使DNA上的碱基A和C脱去氨基分别成为次黄嘌呤（H）和尿嘧啶（U），复制时，碱基配对发生改变，引起碱基对替换（图a、b）。羟胺也是一种诱变剂，能使碱基C中的氨基发生修饰，进而诱发碱基对替换（图c）。下列叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "两种诱变剂通过改变碱基的结构，均能诱发两种形式的碱基对替换"
+   },
+   {
+    "label": "B",
+    "text": "亚硝酸和羟胺引起碱基对替换突变，至少需要经过三轮DNA复制"
+   },
+   {
+    "label": "C",
+    "text": "羟胺能够引起DNA序列改变，说明该序列中一定有G—C碱基对"
+   },
+   {
+    "label": "D",
+    "text": "由亚硝酸诱发A—T到G—C的突变，不能由亚硝酸再诱变回到A—T"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_6XEgPAuzc..h5QTkFzsicA#2026安徽·基因突变]"
+ },
+ {
+  "root_id": "mkjr_owJJ4rUSdaqAvgHUjvjzoQ",
+  "chapter": "必修二 第5章 基因突变及其他变异",
+  "points": [
+   "基因突变"
+  ],
+  "province": "安徽",
+  "year": "2026",
+  "type": "单选",
+  "answer": "B",
+  "stem": "为研究某种鱼中新发现的R基因的功能，对该种鱼的受精卵进行基因敲除，使R基因的编码序列缺失4个连续的碱基成为R-，获得1条能正常生长的F0代个体（RR-），经杂交培育获得了纯合突变体。与野生型相比，纯合突变体的体型变小，体色变为浅红色。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "选用受精卵进行基因敲除，目的是确保突变的基因可以遗传给子代"
+   },
+   {
+    "label": "B",
+    "text": "用F0个体进行杂交培育，最早可以在F1获得纯合突变体"
+   },
+   {
+    "label": "C",
+    "text": "R-编码的氨基酸序列发生改变，纯合突变体可用于R基因功能的研究"
+   },
+   {
+    "label": "D",
+    "text": "突变体有多种表型变异，说明一个基因的功能可能影响多个性状"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_owJJ4rUSdaqAvgHUjvjzoQ#2026安徽·基因突变]"
+ },
+ {
+  "root_id": "mkjr_eEi7MjEfsVavzH2OfP0QoA",
+  "chapter": "必修二 第5章 基因突变及其他变异",
+  "points": [
+   "染色体结构变异"
+  ],
+  "province": "河北",
+  "year": "2026",
+  "type": "单选",
+  "answer": "D",
+  "stem": "X染色体上基因排列顺序为a-b-c-d-e的隐性纯合突变体雌果蝇与经射线照射后的野生型雄蝇杂交，子代中出现一只由染色体片段缺失导致的b、c和d隐性表型的雌蝇甲。已知缺失纯合体致死，不考虑其他突变和X、Y染色体同源区段，下列分析正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "由于缺失纯合体致死，因此该变异不能为进化提供原材料"
+   },
+   {
+    "label": "B",
+    "text": "雌蝇甲与正常野生型雄蝇杂交，子代中雌雄的数量比为1∶1"
+   },
+   {
+    "label": "C",
+    "text": "雌蝇甲的减数分裂过程中，每对同源染色体均能通过联会形成正常四分体"
+   },
+   {
+    "label": "D",
+    "text": "雌蝇甲与正常野生型雄蝇杂交，子代雄蝇中可出现A基因控制的显性表型"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_eEi7MjEfsVavzH2OfP0QoA#2026河北·染色体结构变异]"
+ },
+ {
+  "root_id": "mkjr__hVkMJbFn3SlAkM_5wVw5Q",
+  "chapter": "必修二 第5章 基因突变及其他变异",
+  "points": [
+   "遗传病的检测与预防"
+  ],
+  "province": "湖北",
+  "year": "2026",
+  "type": "单选",
+  "answer": "B",
+  "stem": "常见产前检查包括羊水检查、无创产前筛查（NIPT）等。NIPT技术通过抽取孕妇血液，对其中的胎儿游离DNA进行测序和生物信息分析，可筛查染色体非整倍体、染色体微缺失综合征等遗传病，是实现优生优育的重要技术之一。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "利用NIPT技术可筛查出胎儿是否患“13三体综合征”"
+   },
+   {
+    "label": "B",
+    "text": "NIPT技术通过基因测序可以筛查出胎儿的各类遗传病"
+   },
+   {
+    "label": "C",
+    "text": "与抽取羊水检查相比，NIPT技术对孕妇和胎儿安全性更高"
+   },
+   {
+    "label": "D",
+    "text": "富集血液中胎儿游离DNA，可减少孕妇DNA对检测结果的影响"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr__hVkMJbFn3SlAkM_5wVw5Q#2026湖北·遗传病的检测与预防]"
+ },
+ {
+  "root_id": "mkjr__7j9bybLj7uXUmzOqYnJog",
+  "chapter": "必修二 第5章 基因突变及其他变异",
+  "points": [
+   "染色体结构变异"
+  ],
+  "province": "湖北",
+  "year": "2026",
+  "type": "单选",
+  "answer": "C",
+  "stem": "如图所示，某二倍体细胞中的一条2号染色体的B区段与6号染色体的D区段发生移接。①②③表示该细胞分裂不同时期的染色体状态。 [图] 下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "染色体移接是生物变异的来源之一"
+   },
+   {
+    "label": "B",
+    "text": "染色体移接可产生基因缺失的生殖细胞"
+   },
+   {
+    "label": "C",
+    "text": "①代表该细胞有丝分裂时2号和6号染色体状态"
+   },
+   {
+    "label": "D",
+    "text": "该细胞减数分裂后可产生含有②或③所示染色体的配子"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr__7j9bybLj7uXUmzOqYnJog#2026湖北·染色体结构变异]"
+ },
+ {
+  "root_id": "mkjr_1b8UHird3cnfAPiUZgtnIA",
+  "chapter": "必修二 第5章 基因突变及其他变异",
+  "points": [
+   "育种方法"
+  ],
+  "province": "课标",
+  "year": "2025",
+  "type": "单选",
+  "answer": "B",
+  "stem": "为获得作物新品种，可采用不同的育种技术。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "三倍体西瓜育种时，利用了人工诱导染色体加倍获得的多倍体"
+   },
+   {
+    "label": "B",
+    "text": "作物单倍体育种时，利用了由植物茎尖组织培养获得的单倍体"
+   },
+   {
+    "label": "C",
+    "text": "航天育种时，利用了太空多种因素导致基因突变产生的突变体"
+   },
+   {
+    "label": "D",
+    "text": "水稻杂交育种时，利用了水稻有性繁殖过程中产生的重组个体"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_1b8UHird3cnfAPiUZgtnIA#2025课标·育种方法]"
+ },
+ {
+  "root_id": "mkjr_oYx8N9gKA9GfbfXL35SCbA",
+  "chapter": "必修二 第5章 基因突变及其他变异",
+  "points": [
+   "单倍体与多倍体"
+  ],
+  "province": "北京",
+  "year": "2024",
+  "type": "单选",
+  "answer": "A",
+  "stem": "有性杂交可培育出综合性状优于双亲的后代，是植物育种的重要手段。六倍体小麦和四倍体小麦有性杂交获得F1。F1花粉母细胞减数分裂时染色体的显微照片如图。 [图] 据图判断，错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "F1体细胞中有21条染色体"
+   },
+   {
+    "label": "B",
+    "text": "F1含有不成对的染色体"
+   },
+   {
+    "label": "C",
+    "text": "F1植株的育性低于亲本"
+   },
+   {
+    "label": "D",
+    "text": "两个亲本有亲缘关系"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_oYx8N9gKA9GfbfXL35SCbA#2024北京·单倍体与多倍体]"
+ },
+ {
+  "root_id": "mkjr_Ugx1wzos.h3TMY6aLtubxw",
+  "chapter": "必修二 第5章 基因突变及其他变异",
+  "points": [
+   "细胞癌变"
+  ],
+  "province": "广东",
+  "year": "2023",
+  "type": "单选",
+  "answer": "C",
+  "stem": "中外科学家经多年合作研究，发现circDNMT1（一种RNA分子）通过与抑癌基因p53表达的蛋白结合诱发乳腺癌，为解决乳腺癌这一威胁全球女性健康的重大问题提供了新思路。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "p53基因突变可能引起细胞癌变"
+   },
+   {
+    "label": "B",
+    "text": "p53蛋白能够调控细胞的生长和增殖"
+   },
+   {
+    "label": "C",
+    "text": "circDNMT1高表达会使乳腺癌细胞增殖变慢"
+   },
+   {
+    "label": "D",
+    "text": "circDNMT1的基因编辑可用于乳腺癌的基础研究"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_Ugx1wzos.h3TMY6aLtubxw#2023广东·细胞癌变]"
+ },
+ {
+  "root_id": "mkjr_dKftCpgxMehxFRJ8sK0v7Q",
+  "chapter": "必修二 第5章 基因突变及其他变异",
+  "points": [
+   "染色体数目变异"
+  ],
+  "province": "江苏",
+  "year": "2023",
+  "type": "单选",
+  "answer": "C",
+  "stem": "由三条21号染色体引起的唐氏综合征是一种常见遗传病，患者常伴有自身免疫病。下列相关叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "病因主要是母亲的卵母细胞减数分裂时染色体不分离"
+   },
+   {
+    "label": "B",
+    "text": "通过分析有丝分裂中期细胞的染色体组型进行产前诊断"
+   },
+   {
+    "label": "C",
+    "text": "患者性母细胞减数分裂时联会紊乱不能形成可育配子"
+   },
+   {
+    "label": "D",
+    "text": "降低感染可减轻患者的自身免疫病症状"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_dKftCpgxMehxFRJ8sK0v7Q#2023江苏·染色体数目变异]"
+ },
+ {
+  "root_id": "mkjr_UcUwecwtZvuoIocyQgY0dA",
+  "chapter": "必修二 第5章 基因突变及其他变异",
+  "points": [
+   "单倍体与多倍体"
+  ],
+  "province": "江苏",
+  "year": "2023",
+  "type": "单选",
+  "answer": "C",
+  "stem": "2022年我国科学家发布燕麦基因组，揭示了燕麦的起源与进化，燕麦进化模式如图所示。下列相关叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "燕麦是起源于同一祖先的同源六倍体"
+   },
+   {
+    "label": "B",
+    "text": "燕麦是由AA和CCDD连续多代杂交形成的"
+   },
+   {
+    "label": "C",
+    "text": "燕麦多倍化过程说明染色体数量的变异是可遗传的"
+   },
+   {
+    "label": "D",
+    "text": "燕麦中A和D基因组同源性小，D和C同源性大"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_UcUwecwtZvuoIocyQgY0dA#2023江苏·单倍体与多倍体]"
+ },
+ {
+  "root_id": "mkjr_JYnbUmC3HK1x_Qr1LBBeIw",
+  "chapter": "必修二 第5章 基因突变及其他变异",
+  "points": [
+   "染色体结构变异"
+  ],
+  "province": "山东",
+  "year": "2022",
+  "type": "单选",
+  "answer": "D",
+  "stem": "家蝇Y染色体由于某种影响断成两段，含s基因的小片段移接到常染色体获得XY'个体，不含s基因的大片段丢失。含s基因的家蝇发育为雄性，只含一条X染色体的雌蝇胚胎致死，其他均可存活且繁殖力相同。M、m是控制家蝇体色的基因，灰色基因M对黑色基因m为完全显性。如图所示的两亲本杂交获得F1，从F1开始逐代随机交配获得Fn。不考虑交换和其他突变，关于F1至Fn，下列说法错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "所有个体均可由体色判断性别"
+   },
+   {
+    "label": "B",
+    "text": "各代均无基因型为MM的个体"
+   },
+   {
+    "label": "C",
+    "text": "雄性个体中XY'所占比例逐代降低"
+   },
+   {
+    "label": "D",
+    "text": "雌性个体所占比例逐代降低"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_JYnbUmC3HK1x_Qr1LBBeIw#2022山东·染色体结构变异]"
+ },
+ {
+  "root_id": "mkjr_pYMYgf8D.v2O95cXU109MA",
+  "chapter": "必修二 第5章 基因突变及其他变异",
+  "points": [
+   "基因突变"
+  ],
+  "province": "山东",
+  "year": "2022",
+  "type": "单选",
+  "answer": "C",
+  "stem": "野生型拟南芥的叶片是光滑形边缘，研究影响其叶片形状的基因时，发现了6个不同的隐性突变，每个隐性突变只涉及1个基因。这些突变都能使拟南芥的叶片表现为锯齿状边缘。利用上述突变培育成6个不同纯合突变体①~⑥，每个突变体只有1种隐性突变。不考虑其他突变，根据表中的杂交实验结果，下列推断错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "②和③杂交，子代叶片边缘为光滑形"
+   },
+   {
+    "label": "B",
+    "text": "③和④杂交，子代叶片边缘为锯齿状"
+   },
+   {
+    "label": "C",
+    "text": "②和⑤杂交，子代叶片边缘为光滑形"
+   },
+   {
+    "label": "D",
+    "text": "④和⑤杂交，子代叶片边缘为光滑形"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_pYMYgf8D.v2O95cXU109MA#2022山东·基因突变]"
+ },
+ {
+  "root_id": "mkjr_huexyFbgLiXSZswF64pxWg",
+  "chapter": "必修二 第5章 基因突变及其他变异",
+  "points": [
+   "基因突变"
+  ],
+  "province": "山东",
+  "year": "2025",
+  "type": "单选",
+  "answer": "A",
+  "stem": "镰状细胞贫血是由等位基因H、h控制的遗传病。患者（hh）的红细胞只含异常血红蛋白，仅少数患者可存活到成年；正常人（HH）的红细胞只含正常血红蛋白；携带者（Hh）的红细胞含有正常和异常血红蛋白，并对疟疾有较强的抵抗力。下列说法错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "引起镰状细胞贫血的基因突变为中性突变"
+   },
+   {
+    "label": "B",
+    "text": "疟疾流行区，基因h不会在进化历程中消失"
+   },
+   {
+    "label": "C",
+    "text": "基因h通过控制血红蛋白的结构影响红细胞的形态"
+   },
+   {
+    "label": "D",
+    "text": "基因h可影响多个性状，不能体现基因突变的不定向性"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_huexyFbgLiXSZswF64pxWg#2025山东·基因突变]"
+ },
+ {
+  "root_id": "mkjr_VxUX5QEvG2D4FfM3BH4.Lw",
+  "chapter": "必修二 第5章 基因突变及其他变异",
+  "points": [
+   "基因突变"
+  ],
+  "province": "广东",
+  "year": "2025",
+  "type": "单选",
+  "answer": "D",
+  "stem": "VHL基因的一个碱基发生突变，使其编码区中某CCA（编码脯氨酸）变成CCG（编码脯氨酸），导致合成的mRNA变短，引发VHL综合征。该突变（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "改变了DNA序列中嘧啶的数目"
+   },
+   {
+    "label": "B",
+    "text": "没有体现密码子的简并性"
+   },
+   {
+    "label": "C",
+    "text": "影响了VHL基因的转录起始"
+   },
+   {
+    "label": "D",
+    "text": "改变了VHL基因表达的蛋白序列"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_VxUX5QEvG2D4FfM3BH4.Lw#2025广东·基因突变]"
+ },
+ {
+  "root_id": "mkjr_Yf.z1gCXGOt1BLzbTcTFsA",
+  "chapter": "必修二 第5章 基因突变及其他变异",
+  "points": [
+   "染色体数目变异"
+  ],
+  "province": "广东",
+  "year": "2025",
+  "type": "单选",
+  "answer": "C",
+  "stem": "临床发现一例特殊的特纳综合征患者，其体内存在3种核型：“45，X”“46，XX”“47，XXX”（细胞中染色体总数，性染色体组成）。导致该患者染色体异常最可能的原因是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "其母亲卵母细胞减数分裂Ⅰ中X染色体不分离"
+   },
+   {
+    "label": "B",
+    "text": "其母亲卵母细胞减数分裂Ⅱ中X染色体不分离"
+   },
+   {
+    "label": "C",
+    "text": "胚胎发育早期有丝分裂中1条X染色体不分离"
+   },
+   {
+    "label": "D",
+    "text": "胚胎发育早期有丝分裂中2条X染色体不分离"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_Yf.z1gCXGOt1BLzbTcTFsA#2025广东·染色体数目变异]"
+ },
+ {
+  "root_id": "mkjr_ZtQWeQwMckFskmGNOHsa5g",
+  "chapter": "必修二 第5章 基因突变及其他变异",
+  "points": [
+   "人类遗传病"
+  ],
+  "province": "广东",
+  "year": "2025",
+  "type": "单选",
+  "answer": "D",
+  "stem": "若某常染色体隐性单基因遗传病的致病基因存在两个独立的致病变异位点1和2（M和N表示正常，m和n表示异常），理论上会形成两种变异类型且效应不同（如图），但仅凭个体的基因检测不足以区分这两种变异类型。通过对人群中变异位点的大规模基因检测，有助于该遗传病的风险评估。表为某人群中这两个变异位点的检测数据。下列对该人群的推测，合理的是（ ） [图] [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "m和n位于同一条染色体上"
+   },
+   {
+    "label": "B",
+    "text": "携带m的基因频率约是携带n的基因频率的3倍"
+   },
+   {
+    "label": "C",
+    "text": "有3种携带致病变异的基因"
+   },
+   {
+    "label": "D",
+    "text": "MmNn组合个体均患病"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_ZtQWeQwMckFskmGNOHsa5g#2025广东·人类遗传病]"
+ },
+ {
+  "root_id": "mkjr_rQhvDjtqkUFzeaDYrBL0Bg",
+  "chapter": "必修二 第5章 基因突变及其他变异",
+  "points": [
+   "染色体结构变异"
+  ],
+  "province": "河北",
+  "year": "2025",
+  "type": "多选",
+  "answer": "AB",
+  "stem": "X染色体上的D基因异常可导致人体患病，在男性中发病率为1/3500，某患病男孩（其母亲没有患病）X染色体上的基因D和H内各有一处断裂，断裂点间的染色体片段发生颠倒重接。研究者对患儿和母亲的DNA进行了PCR检测，所用引物和扩增产物电泳结果如图。不考虑其他变异，下列分析错误的是（ ） [图] 注：引物组合S1和S2，R1和R2可分别用于对正常基因D和H序列的扩增检测",
+  "options": [
+   {
+    "label": "A",
+    "text": "该病患者中男性显著多于女性，女性中携带者的占比为1/3500"
+   },
+   {
+    "label": "B",
+    "text": "用R1和R2对母亲和患儿DNA进行PCR检测的结果相同"
+   },
+   {
+    "label": "C",
+    "text": "与正常男性相比，患病男孩X染色体上的基因排列顺序发生改变"
+   },
+   {
+    "label": "D",
+    "text": "利用S1和S2进行PCR检测，可诊断母亲再次孕育的胎儿是否患该病"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_rQhvDjtqkUFzeaDYrBL0Bg#2025河北·染色体结构变异]"
+ },
+ {
+  "root_id": "mkjr_XSUjXJuahzUyQ7dkP.6SYQ",
+  "chapter": "必修二 第5章 基因突变及其他变异",
+  "points": [
+   "人类遗传病"
+  ],
+  "province": "湖南",
+  "year": "2025",
+  "type": "多选",
+  "answer": "BD",
+  "stem": "已知甲、乙家系的耳聋分别由基因E、F突变导致；丙家系耳聋由线粒体基因G突变为g所致，部分个体携带基因g但听力正常。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "听觉相关基因在人的DNA上本来就存在"
+   },
+   {
+    "label": "B",
+    "text": "遗传病是由获得了双亲的致病遗传物质所致"
+   },
+   {
+    "label": "C",
+    "text": "含基因g的线粒体积累到一定程度才会导致耳聋"
+   },
+   {
+    "label": "D",
+    "text": "甲、乙家系的耳聋是多基因遗传病"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_XSUjXJuahzUyQ7dkP.6SYQ#2025湖南·人类遗传病]"
+ },
+ {
+  "root_id": "mkjr_wnr0iTBcS7V3hFL87hIksg",
+  "chapter": "必修二 第5章 基因突变及其他变异",
+  "points": [
+   "单倍体与多倍体"
+  ],
+  "province": "辽宁",
+  "year": "2024",
+  "type": "单选",
+  "answer": "C",
+  "stem": "栽培马铃薯为同源四倍体，育性偏低。GBSS基因（显隐性基因分别表示为G和g）在直链淀粉合成中起重要作用，只有存在G基因才能产生直链淀粉。不考虑突变和染色体互换，下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "相比二倍体马铃薯，四倍体马铃薯的茎秆粗壮，块茎更大"
+   },
+   {
+    "label": "B",
+    "text": "选用块茎繁殖可解决马铃薯同源四倍体育性偏低问题，并保持优良性状"
+   },
+   {
+    "label": "C",
+    "text": "Gggg个体产生的次级精母细胞中均含有1个或2个G基因"
+   },
+   {
+    "label": "D",
+    "text": "若同源染色体两两联会，GGgg个体自交，子代中产直链淀粉的个体占35/36"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_wnr0iTBcS7V3hFL87hIksg#2024辽宁·单倍体与多倍体]"
+ },
+ {
+  "root_id": "mkjr_nxZkDkhXhjSrisVg.yjrJQ",
+  "chapter": "必修二 第5章 基因突变及其他变异",
+  "points": [
+   "染色体结构变异"
+  ],
+  "province": "山东",
+  "year": "2024",
+  "type": "多选",
+  "answer": "AC",
+  "stem": "果蝇的直翅、弯翅受Ⅳ号常染色体上的等位基因A、a控制。现有甲、乙2只都只含7条染色体的直翅雄果蝇，产生原因都是Ⅳ号常染色体中的1条移接到某条非同源染色体末端，且移接的Ⅳ号常染色体着丝粒丢失。为探究Ⅳ号常染色体移接情况，进行了如表所示的杂交实验。已知甲、乙在减数分裂时，未移接的Ⅳ号常染色体随机移向一极；配子和个体的存活力都正常。不考虑其他突变和染色体互换，下列推断正确的是（ ） 实验①：甲×正常雌果蝇→F1中直翅∶弯翅=7∶1，且雄果蝇群体中的直翅∶弯翅=3∶1 实验②：乙×正常雌果蝇→F1中直翅∶弯翅=3∶1，且直翅和弯翅群体中的雌雄比都是1∶1",
+  "options": [
+   {
+    "label": "A",
+    "text": "①中亲本雌果蝇的基因型一定为Aa"
+   },
+   {
+    "label": "B",
+    "text": "②中亲本雌果蝇的基因型一定为aa"
+   },
+   {
+    "label": "C",
+    "text": "甲中含基因A的1条染色体一定移接到X染色体末端"
+   },
+   {
+    "label": "D",
+    "text": "乙中含基因A的1条染色体一定移接到X染色体末端"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_nxZkDkhXhjSrisVg.yjrJQ#2024山东·染色体结构变异]"
+ },
+ {
+  "root_id": "mkjr_aYiuCAxIcBL986c0zr8XBQ",
+  "chapter": "必修二 第5章 基因突变及其他变异",
+  "points": [
+   "染色体数目变异"
+  ],
+  "province": "辽宁",
+  "year": "2025",
+  "type": "单选",
+  "answer": "A",
+  "stem": "某二倍体（2n）植物的三体（2n+1）变异株可正常生长。该变异株减数分裂得到的配子为“n”型和“n+1”型两种，其中“n+1”型的花粉只有约50%的受精率，而卵子不受影响。该变异株自交，假设四体（2n+2）细胞无法存活，预期子一代中三体变异株的比例约为（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "3/5"
+   },
+   {
+    "label": "B",
+    "text": "3/4"
+   },
+   {
+    "label": "C",
+    "text": "2/3"
+   },
+   {
+    "label": "D",
+    "text": "1/2"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_aYiuCAxIcBL986c0zr8XBQ#2025辽宁·染色体数目变异]"
+ },
+ {
+  "root_id": "mkjr_an4WQ0BQtau77ZqhQWso.Q",
+  "chapter": "必修二 第5章 基因突变及其他变异",
+  "points": [
+   "基因突变"
+  ],
+  "province": "贵州",
+  "year": "2025",
+  "type": "单选",
+  "answer": "C",
+  "stem": "研究发现，椪柑中CrMER3基因编码区单碱基T缺失，突变为CrMER3a基因。该突变基因转录的mRNA上终止密码子提前出现，无法编码功能性CrMER3蛋白，导致无法形成正常四分体，表现为果实无子。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "CrMER3a基因编码的多肽比CrMER3基因编码的短"
+   },
+   {
+    "label": "B",
+    "text": "CrMER3蛋白发挥作用的时期是减数分裂Ⅰ前期"
+   },
+   {
+    "label": "C",
+    "text": "CrMER3基因突变为CrMER3a基因是人工选择的结果"
+   },
+   {
+    "label": "D",
+    "text": "在生产实践中宜选用无性繁殖的方式培育无子椪柑"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_an4WQ0BQtau77ZqhQWso.Q#2025贵州·基因突变]"
+ },
+ {
+  "root_id": "mkjr_dwaN2ArEkXbdfmI3ZRciPA",
+  "chapter": "必修二 第5章 基因突变及其他变异",
+  "points": [
+   "细胞癌变"
+  ],
+  "province": "贵州",
+  "year": "2025",
+  "type": "单选",
+  "answer": "A",
+  "stem": "结肠癌是一种消化道恶性肿瘤，临床上常用药物5-氟尿嘧啶（抑制DNA合成）治疗。研究发现，结肠癌患者肠道内多种细菌数量发生显著变化，部分细菌产生具有致癌的毒素，与肿瘤发生密切相关。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "肠道内细菌分泌毒素的过程需高尔基体和溶酶体参与"
+   },
+   {
+    "label": "B",
+    "text": "人体结肠癌的发生与原癌基因和抑癌基因的突变有关"
+   },
+   {
+    "label": "C",
+    "text": "取可疑癌变组织进行镜检观察细胞的形态可初步诊断"
+   },
+   {
+    "label": "D",
+    "text": "利用5-氟尿嘧啶治疗结肠癌可将癌细胞阻断在分裂间期"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_dwaN2ArEkXbdfmI3ZRciPA#2025贵州·细胞癌变]"
+ },
+ {
+  "root_id": "mkjr_gd4h.Jb4KyRp.P0pizwRow",
+  "chapter": "必修二 第5章 基因突变及其他变异",
+  "points": [
+   "单倍体与多倍体"
+  ],
+  "province": "浙江",
+  "year": "2025",
+  "type": "单选",
+  "answer": "A",
+  "stem": "作物甲与乙都是六倍体，它们杂交产生的F1体细胞中有42条染色体，其中3个染色体组来自甲，3个染色体组来自乙。F1减数分裂过程中部分染色体不能正常联会。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "用亲本甲的花药离体培养成的植株为三倍体"
+   },
+   {
+    "label": "B",
+    "text": "亲本乙的体细胞中含有6个染色体组"
+   },
+   {
+    "label": "C",
+    "text": "杂交产生的 F1个体具有高度不育的特性"
+   },
+   {
+    "label": "D",
+    "text": "杂交产生的 F1体细胞中可能存在成对的同源染色体"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_gd4h.Jb4KyRp.P0pizwRow#2025浙江·单倍体与多倍体]"
+ },
+ {
+  "root_id": "mkjr_vHV6wLqEk73tdV__go4k6w",
+  "chapter": "必修二 第5章 基因突变及其他变异",
+  "points": [
+   "染色体结构变异"
+  ],
+  "province": "江苏",
+  "year": "2024",
+  "type": "单选",
+  "answer": "A",
+  "stem": "图示甲、乙、丙3种昆虫的染色体组，相同数字标注的结构起源相同。下列相关叙述错误的是（ ） [图] 甲 乙 丙",
+  "options": [
+   {
+    "label": "A",
+    "text": "相同数字标注结构上基因表达相同"
+   },
+   {
+    "label": "B",
+    "text": "甲和乙具有生殖隔离现象"
+   },
+   {
+    "label": "C",
+    "text": "与乙相比，丙发生了染色体结构变异"
+   },
+   {
+    "label": "D",
+    "text": "染色体变异是新物种产生的方式之一"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_vHV6wLqEk73tdV__go4k6w#2024江苏·染色体结构变异]"
+ },
+ {
+  "root_id": "mkjr_yTmIYuafoTAJ3QJ.8YgXng",
+  "chapter": "必修二 第5章 基因突变及其他变异",
+  "points": [
+   "遗传病的检测与预防"
+  ],
+  "province": "河北",
+  "year": "2022",
+  "type": "多选",
+  "answer": "AB",
+  "stem": "囊性纤维病是由CFTR蛋白异常导致的常染色体隐性遗传病，其中约70%患者发生的是CFTR蛋白508位苯丙氨酸（Phe508）缺失。研究者设计了两种杂交探针（能和特异的核酸序列杂交的DNA片段）：探针1和2分别能与Phe508正常和Phe508缺失的CFTR基因结合。利用两种探针对三个家系各成员的基因组进行分子杂交，结果如下图。下列叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "利用这两种探针能对甲、丙家系Ⅱ-2的CFTR基因进行产前诊断"
+   },
+   {
+    "label": "B",
+    "text": "乙家系成员CFTR蛋白的Phe508没有缺失"
+   },
+   {
+    "label": "C",
+    "text": "丙家系Ⅱ-1携带两个DNA序列相同的CFTR基因"
+   },
+   {
+    "label": "D",
+    "text": "如果丙家系Ⅱ-2表型正常，用这两种探针检测出两条带的概率为1/3"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_yTmIYuafoTAJ3QJ.8YgXng#2022河北·遗传病的检测与预防]"
+ },
+ {
+  "root_id": "mkjr_S_esN2RoIEubzSQxEhL_AA",
+  "chapter": "必修二 第5章 基因突变及其他变异",
+  "points": [
+   "人类遗传病"
+  ],
+  "province": "湖北",
+  "year": "2022",
+  "type": "单选",
+  "answer": "C",
+  "stem": "如图为某单基因遗传病的家系图。据图分析，下列叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "该遗传病可能存在多种遗传方式"
+   },
+   {
+    "label": "B",
+    "text": "若Ⅰ-2为纯合子，则Ⅲ-3是杂合子"
+   },
+   {
+    "label": "C",
+    "text": "若Ⅲ--2为纯合子，可推测Ⅱ-5为杂合子"
+   },
+   {
+    "label": "D",
+    "text": "若Ⅱ-2和Ⅱ-3再生一个孩子，其患病的概率为1/2"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_S_esN2RoIEubzSQxEhL_AA#2022湖北·人类遗传病]"
+ },
+ {
+  "root_id": "mkjr_WpxV7DDLuYu945lfe0LCdQ",
+  "chapter": "必修二 第5章 基因突变及其他变异",
+  "points": [
+   "细胞癌变"
+  ],
+  "province": "湖南",
+  "year": "2022",
+  "type": "单选",
+  "answer": "C",
+  "stem": "关于癌症，下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "成纤维细胞癌变后变成球形，其结构和功能会发生相应改变"
+   },
+   {
+    "label": "B",
+    "text": "癌症发生的频率不是很高，大多数癌症的发生是多个基因突变的累积效应"
+   },
+   {
+    "label": "C",
+    "text": "正常细胞生长和分裂失控变成癌细胞，原因是抑癌基因突变成原癌基因"
+   },
+   {
+    "label": "D",
+    "text": "乐观向上的心态、良好的生活习惯，可降低癌症发生的可能性"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_WpxV7DDLuYu945lfe0LCdQ#2022湖南·细胞癌变]"
+ },
+ {
+  "root_id": "mkjr_Gg_eui7jESDcokkJHb5kfA",
+  "chapter": "必修二 第5章 基因突变及其他变异",
+  "points": [
+   "人类遗传病"
+  ],
+  "province": "浙江",
+  "year": "2022",
+  "type": "单选",
+  "answer": "B",
+  "stem": "各类遗传病在人体不同发育阶段的发病风险如图。下列叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "染色体病在胎儿期高发可导致婴儿存活率不下降"
+   },
+   {
+    "label": "B",
+    "text": "青春期发病风险低更容易使致病基因在人群中保留"
+   },
+   {
+    "label": "C",
+    "text": "图示表明，早期胎儿不含多基因遗传病的致病基因"
+   },
+   {
+    "label": "D",
+    "text": "图示表明，显性遗传病在幼年期高发，隐性遗传病在成年期高发"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_Gg_eui7jESDcokkJHb5kfA#2022浙江·人类遗传病]"
+ },
+ {
+  "root_id": "mkjr_4MTcbzCJ0vPkRnNEemAknw",
+  "chapter": "必修二 第5章 基因突变及其他变异",
+  "points": [
+   "基因突变"
+  ],
+  "province": "浙江",
+  "year": "2023",
+  "type": "单选",
+  "answer": "C",
+  "stem": "紫外线引发的DNA损伤，可通过“核苷酸切除修复（NER）”方式修复，机制如图所示。着色性干皮症（XP）患者的NER酶系统存在缺陷，受阳光照射后，皮肤出现炎症等症状。患者幼年发病，20岁后开始发展成皮肤癌。下列叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "修复过程需要限制酶和DNA聚合酶"
+   },
+   {
+    "label": "B",
+    "text": "填补缺口时，新链合成以5’到3’的方向进行"
+   },
+   {
+    "label": "C",
+    "text": "DNA有害损伤发生后，在细胞增殖后进行修复，对细胞最有利"
+   },
+   {
+    "label": "D",
+    "text": "随年龄增长，XP患者几乎都会发生皮肤癌的原因，可用突变累积解释"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_4MTcbzCJ0vPkRnNEemAknw#2023浙江·基因突变]"
+ },
+ {
+  "root_id": "mkjr_lZlBGKVSOZjOdd3Gca4s5Q",
+  "chapter": "必修二 第5章 基因突变及其他变异",
+  "points": [
+   "人类遗传病"
+  ],
+  "province": "重庆",
+  "year": "2023",
+  "type": "单选",
+  "answer": "B",
+  "stem": "甲乙丙三种酶参与葡萄糖和糖原之间的转化，过程如图1所示。任一酶的基因发生突变导致相应酶功能缺陷，均会引发GSD病。图2为三种GSD亚型患者家系，其中至少一种是伴性遗传。不考虑新的突变，下列分析正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "若①同时患有红绿色盲，则其父母再生育健康孩子的概率是3/8"
+   },
+   {
+    "label": "B",
+    "text": "若②长期表现为低血糖，则一定不是乙酶功能缺陷所致"
+   },
+   {
+    "label": "C",
+    "text": "若丙酶缺陷GSD发病率是1/10000，则③患该病的概率为1/300"
+   },
+   {
+    "label": "D",
+    "text": "三种GSD亚型患者体内的糖原含量都会异常升高"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_lZlBGKVSOZjOdd3Gca4s5Q#2023重庆·人类遗传病]"
+ },
+ {
+  "root_id": "mkjr_DCZitwzBh3tz.L2b_UznSg",
+  "chapter": "必修二 第5章 基因突变及其他变异",
+  "points": [
+   "基因重组"
+  ],
+  "province": "河北",
+  "year": "2024",
+  "type": "多选",
+  "answer": "BCD",
+  "stem": "单基因隐性遗传性多囊肾病是P基因突变所致。图中所示为某患者及其父母同源染色体上P基因的相关序列检测结果（每个基因序列仅列出一条链，其他未显示序列均正常）。患者的父亲、母亲分别具有①、②突变位点，但均未患病。患者弟弟具有①和②突变位点。下列分析正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "未突变P基因的位点①碱基对为A－T"
+   },
+   {
+    "label": "B",
+    "text": "①和②位点的突变均会导致P基因功能的改变"
+   },
+   {
+    "label": "C",
+    "text": "患者同源染色体的①和②位点间发生交换，可使其产生正常配子"
+   },
+   {
+    "label": "D",
+    "text": "不考虑其他变异，患者弟弟体细胞的①和②突变位点不会位于同一条染色体上"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_DCZitwzBh3tz.L2b_UznSg#2024河北·基因重组]"
+ },
+ {
+  "root_id": "mkjr_HZkWFVLnCVkeKqLT6LLXvA",
+  "chapter": "必修二 第5章 基因突变及其他变异",
+  "points": [
+   "染色体结构变异"
+  ],
+  "province": "浙江",
+  "year": "2024",
+  "type": "单选",
+  "answer": "C",
+  "stem": "野生型果蝇的复眼为椭圆形，当果蝇X染色体上的16A片段发生重复时，形成棒状的复眼（棒眼），如图所示。 [图] 棒眼果蝇X染色体的这种变化属于（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "基因突变"
+   },
+   {
+    "label": "B",
+    "text": "基因重组"
+   },
+   {
+    "label": "C",
+    "text": "染色体结构变异"
+   },
+   {
+    "label": "D",
+    "text": "染色体数目变异"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_HZkWFVLnCVkeKqLT6LLXvA#2024浙江·染色体结构变异]"
+ },
+ {
+  "root_id": "mkjr_.UnVkOphTMbna6imYMZYaA",
+  "chapter": "必修二 第5章 基因突变及其他变异",
+  "points": [
+   "细胞癌变"
+  ],
+  "province": "甘肃",
+  "year": "2024",
+  "type": "单选",
+  "answer": "D",
+  "stem": "癌症的发生涉及原癌基因和抑癌基因一系列遗传或表观遗传的变化，最终导致细胞不可控的增殖。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "在膀胱癌患者中，发现原癌基因H-ras所编码蛋白质的第十二位氨基酸由甘氨酸变为缬氨酸，表明基因突变可导致癌变"
+   },
+   {
+    "label": "B",
+    "text": "在肾母细胞瘤患者中，发现抑癌基因WT1的高度甲基化抑制了基因的表达，表明表观遗传变异可导致癌变"
+   },
+   {
+    "label": "C",
+    "text": "在神经母细胞瘤患者中，发现原癌基因N-myc发生异常扩增，基因数目增加，表明染色体变异可导致癌变"
+   },
+   {
+    "label": "D",
+    "text": "在慢性髓细胞性白血病患者中，发现9号和22号染色体互换片段，原癌基因abl过度表达，表明基因重组可导致癌变"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_.UnVkOphTMbna6imYMZYaA#2024甘肃·细胞癌变]"
+ }
+]

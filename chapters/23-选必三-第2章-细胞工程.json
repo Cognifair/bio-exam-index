@@ -1,0 +1,2259 @@
+[
+ {
+  "root_id": "mkjr_n9YeXa.IMCwFQ06EY6RnIQ",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "植物组织培养技术"
+  ],
+  "province": "云南",
+  "year": "2026",
+  "type": "单选",
+  "answer": "C",
+  "stem": "菊花的组织培养实现了从茎段到植株的转变。下列说法正确的是（　　）",
+  "options": [
+   {
+    "label": "A",
+    "text": "培养基、玻璃器皿和金属器具需进行干热灭菌"
+   },
+   {
+    "label": "B",
+    "text": "诱导愈伤组织的培养基中，生长素与细胞分裂素的质量比大于1"
+   },
+   {
+    "label": "C",
+    "text": "外植体茎段先脱分化形成愈伤组织，再诱导生芽"
+   },
+   {
+    "label": "D",
+    "text": "愈伤组织后续分化培养过程一般不需要光照"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_n9YeXa.IMCwFQ06EY6RnIQ#2026云南·植物组织培养技术]"
+ },
+ {
+  "root_id": "mkjr_7LdCWGTiqlsIYyKm6ZPvzA",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "核移植技术"
+  ],
+  "province": "四川",
+  "year": "2026",
+  "type": "单选",
+  "answer": "C",
+  "stem": "为探究编码酪氨酸酶的T基因对狗毛色的影响，有人通过如图所示过程获得了两只小狗。下列叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "采集卵子后立即与获能的精子受精，可有效提高受精率"
+   },
+   {
+    "label": "B",
+    "text": "将胚胎1培养至桑葚胚期，取成纤维细胞完成后续实验"
+   },
+   {
+    "label": "C",
+    "text": "用蛋白酶合成抑制剂激活重构胚，可获得胚胎2和胚胎3"
+   },
+   {
+    "label": "D",
+    "text": "利用现代生物技术获得的两只小狗毛色和性别可能都不一样"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_7LdCWGTiqlsIYyKm6ZPvzA#2026四川·核移植技术]"
+ },
+ {
+  "root_id": "mkjr_3jrngELzuz9hudjg.TbkFA",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "核移植技术"
+  ],
+  "province": "安徽",
+  "year": "2026",
+  "type": "单选",
+  "answer": "B",
+  "stem": "动物体细胞核移植技术在畜牧业、医药卫生等领域有着广泛的应用前景。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "若卵母细胞去核不完全，可能会导致重构胚细胞中染色体数目改变"
+   },
+   {
+    "label": "B",
+    "text": "胚胎移植前，需要对核移植获得的重构胚进行遗传筛查和性别鉴定"
+   },
+   {
+    "label": "C",
+    "text": "胚胎移植前，需要对受体进行处理，使其生理状态适合胚胎发育"
+   },
+   {
+    "label": "D",
+    "text": "克隆动物的核遗传物质与供体相同，但性状与供体不完全相同"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_3jrngELzuz9hudjg.TbkFA#2026安徽·核移植技术]"
+ },
+ {
+  "root_id": "mkjr_uL_L01PxQa94BjfP_dV34w",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "植物组织培养技术"
+  ],
+  "province": "山东",
+  "year": "2026",
+  "type": "单选",
+  "answer": "D",
+  "stem": "利用微型繁殖技术扩繁某种兰花时，待愈伤组织诱导出芽后，将芽转入增殖培养基进行扩增培养，以诱导芽的数量增加。下列说法正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "扩增培养期间不需要光照"
+   },
+   {
+    "label": "B",
+    "text": "接种时应将芽的形态学上端插入培养基"
+   },
+   {
+    "label": "C",
+    "text": "诱导出的芽在转入增殖培养基时，必须对芽进行消毒处理"
+   },
+   {
+    "label": "D",
+    "text": "为获得试管苗，还需将芽转接到诱导生根的培养基上培养"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_uL_L01PxQa94BjfP_dV34w#2026山东·植物组织培养技术]"
+ },
+ {
+  "root_id": "mkjr_R.QDoYD2jzKZIXtAPVbuhw",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "干细胞培养"
+  ],
+  "province": "广东",
+  "year": "2026",
+  "type": "单选",
+  "answer": "D",
+  "stem": "中华鲟和长江鲟均为国家重点保护动物，其性成熟时间分别约为20年和5年。如图示我国科学家运用鱼类生殖干细胞移植技术成功繁殖中华鲟的过程，该技术显著缩短了繁殖周期。下列分析错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "①示从供体中华鲟分离性腺组织"
+   },
+   {
+    "label": "B",
+    "text": "②示用胰蛋白酶处理，获取生殖干细胞"
+   },
+   {
+    "label": "C",
+    "text": "③示干细胞移植过程，应在无菌环境中操作"
+   },
+   {
+    "label": "D",
+    "text": "④示体外受精，受精卵基因组均与中华鲟的相同"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_R.QDoYD2jzKZIXtAPVbuhw#2026广东·干细胞培养]"
+ },
+ {
+  "root_id": "mkjr_6tkd5TBGGRrwHhlBpW61xQ",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "核移植技术"
+  ],
+  "province": "江西",
+  "year": "2026",
+  "type": "单选",
+  "answer": "A",
+  "stem": "为探究从冰冻多年的组织细胞中“复活”基因组的可能性，研究人员将-20℃冷冻后的实验小鼠解冻，检测发现细胞均死亡，细胞膜受损；提取不同组织细胞的细胞核，分别注入去核卵母细胞进行克隆，结果如表。下列叙述合理的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "利用差速离心法可从解冻组织匀浆液中获得细胞核"
+   },
+   {
+    "label": "B",
+    "text": "细胞核注入去核卵母细胞后还需采用电融合法将两者融合"
+   },
+   {
+    "label": "C",
+    "text": "利用心脏来源的细胞核未能成功构建ntES，说明其没有全能性"
+   },
+   {
+    "label": "D",
+    "text": "利用胰腺细胞的核成功构建ntES的比例比脑低，说明此分化程度更高"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_6tkd5TBGGRrwHhlBpW61xQ#2026江西·核移植技术]"
+ },
+ {
+  "root_id": "mkjr_8h5H2USLoVz3GldxLBqLSQ",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "动物细胞融合与单克隆抗体"
+  ],
+  "province": "江西",
+  "year": "2026",
+  "type": "单选",
+  "answer": "D",
+  "stem": "植物生物反应器是一种新兴的重组蛋白表达系统，研究人员按图示流程制备抗蛋白F的抗体。下列叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "制备杂交瘤细胞需将免疫小鼠的B淋巴细胞与骨髓瘤细胞融合"
+   },
+   {
+    "label": "B",
+    "text": "利用F免疫的小鼠能制备出多种抗F的单克隆抗体"
+   },
+   {
+    "label": "C",
+    "text": "单克隆抗体阳性克隆培养液中通常需要添加血清"
+   },
+   {
+    "label": "D",
+    "text": "可用PCR检测植物叶片中是否含有抗F的抗体"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_8h5H2USLoVz3GldxLBqLSQ#2026江西·动物细胞融合与单克隆抗体]"
+ },
+ {
+  "root_id": "mkjr_F4IWR6G1B4AcqPk.pmbcSw",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "植物组织培养技术",
+   "植物体细胞杂交"
+  ],
+  "province": "河北",
+  "year": "2026",
+  "type": "单选",
+  "answer": "A",
+  "stem": "植物细胞工程技术可用于马铃薯育种，下列分析错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "将融合的原生质体在细胞壁形成前转到固体培养基上，以诱导愈伤组织"
+   },
+   {
+    "label": "B",
+    "text": "用优良栽培品种与抗青枯病野生种进行体细胞杂交，以获得抗病新材料"
+   },
+   {
+    "label": "C",
+    "text": "采集四倍体植株的花粉进行组织培养，以获得单倍体植株"
+   },
+   {
+    "label": "D",
+    "text": "利用茎尖进行组织培养，以培育脱毒苗"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_F4IWR6G1B4AcqPk.pmbcSw#2026河北·植物组织培养技术]"
+ },
+ {
+  "root_id": "mkjr_1V9FVt_Mq6vFv51nrGBTLQ",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "植物组织培养技术",
+   "植物体细胞杂交"
+  ],
+  "province": "河南",
+  "year": "2026",
+  "type": "单选",
+  "answer": "A",
+  "stem": "植物细胞工程在生产实践中有着广泛的应用，技术选择的决策流程如图所示。甲、乙、丙、丁所代表的最适技术依次为（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "植物细胞培养、快速繁殖、杂交+单倍体育种、体细胞杂交"
+   },
+   {
+    "label": "B",
+    "text": "快速繁殖、植物细胞培养、体细胞杂交、杂交+单倍体育种"
+   },
+   {
+    "label": "C",
+    "text": "快速繁殖、杂交+单倍体育种、植物细胞培养、体细胞杂交"
+   },
+   {
+    "label": "D",
+    "text": "植物细胞培养、体细胞杂交、快速繁殖、杂交+单倍体育种"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_1V9FVt_Mq6vFv51nrGBTLQ#2026河南·植物组织培养技术]"
+ },
+ {
+  "root_id": "mkjr_wb9AZ2YWcoG0CkoRq2BW9g",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "干细胞培养"
+  ],
+  "province": "湖北",
+  "year": "2026",
+  "type": "单选",
+  "answer": "A",
+  "stem": "类器官是体外培养的由干细胞分化形成的微型器官样结构。我国科学家培育出胰岛类器官、肾类器官等，能模拟真实器官部分结构与功能。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "体外培养基质中的钾离子浓度高于胞内钾离子浓度"
+   },
+   {
+    "label": "B",
+    "text": "多种类器官的成功培育，为体外研究器官间相互作用奠定了基础"
+   },
+   {
+    "label": "C",
+    "text": "若要使胰岛类器官分泌更多胰岛素，可诱导更多干细胞向胰岛B细胞定向分化"
+   },
+   {
+    "label": "D",
+    "text": "若要初步判断肾类器官的培育是否成功，可检测其对水、无机盐平衡的调节能力"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_wb9AZ2YWcoG0CkoRq2BW9g#2026湖北·干细胞培养]"
+ },
+ {
+  "root_id": "mkjr_kI4_Lez4MUxv9kpin.muRw",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "动物细胞融合与单克隆抗体",
+   "动物细胞培养"
+  ],
+  "province": "湖南",
+  "year": "2026",
+  "type": "单选",
+  "answer": "C",
+  "stem": "大规模生产治疗性单克隆抗体时，常采用悬浮细胞表达系统。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "该类抗体在细胞中的翻译起始于游离在细胞质基质中的核糖体"
+   },
+   {
+    "label": "B",
+    "text": "该类抗体在细胞的内质网和高尔基体中修饰加工"
+   },
+   {
+    "label": "C",
+    "text": "悬浮细胞在培养过程中出现增殖能力下降的原因是接触抑制"
+   },
+   {
+    "label": "D",
+    "text": "一种治疗性单克隆抗体一般只能与一种抗原结合"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_kI4_Lez4MUxv9kpin.muRw#2026湖南·动物细胞融合与单克隆抗体]"
+ },
+ {
+  "root_id": "mkjr_QPtoOODxZzxJcogjOu7Ikg",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "胚胎早期发育"
+  ],
+  "province": "湖南",
+  "year": "2026",
+  "type": "单选",
+  "answer": "B",
+  "stem": "科研人员将6个处于4细胞期的恒河猴胚胎融合后，成功培育出了二倍体嵌合体猴。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "该融合胚胎在体外发育成嵌合体猴"
+   },
+   {
+    "label": "B",
+    "text": "4细胞期胚胎细胞具有发育成完整个体的潜能"
+   },
+   {
+    "label": "C",
+    "text": "该嵌合体猴的培育过程运用了动物细胞融合技术"
+   },
+   {
+    "label": "D",
+    "text": "该嵌合体猴的体细胞中含有12个染色体组"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_QPtoOODxZzxJcogjOu7Ikg#2026湖南·胚胎早期发育]"
+ },
+ {
+  "root_id": "mkjr_7Ej6VDBg3opnUIvvPw4ImQ",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "动物细胞培养"
+  ],
+  "province": "北京",
+  "year": "2025",
+  "type": "单选",
+  "answer": "C",
+  "stem": "动物细胞培养基一般呈淡红色。某次实验时，调控pH的CO2耗尽，培养基转为黄色。由此推断使培养基呈淡红色的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "必需氨基酸"
+   },
+   {
+    "label": "B",
+    "text": "抗生素"
+   },
+   {
+    "label": "C",
+    "text": "酸碱指示剂"
+   },
+   {
+    "label": "D",
+    "text": "血清"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_7Ej6VDBg3opnUIvvPw4ImQ#2025北京·动物细胞培养]"
+ },
+ {
+  "root_id": "mkjr_RqTwFXVYh6xeAsI_saZMeA",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "干细胞培养"
+  ],
+  "province": "安徽",
+  "year": "2025",
+  "type": "单选",
+  "answer": "B",
+  "stem": "细胞工程技术已在生物制药和物种繁育等领域得到了广泛应用。下列关于动物细胞工程的叙述，正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "从动物体内取出组织，用胰蛋白酶处理后直接培养的细胞称为传代细胞"
+   },
+   {
+    "label": "B",
+    "text": "将特定基因或特定蛋白导入已分化的T细胞，可将其诱导形成iPS细胞"
+   },
+   {
+    "label": "C",
+    "text": "将B淋巴细胞与骨髓瘤细胞混合，经诱导融合的细胞即为能分泌所需抗体的细胞"
+   },
+   {
+    "label": "D",
+    "text": "采用胚胎分割技术克隆动物常选用桑葚胚或囊胚，因这两个时期的细胞未发生分化"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_RqTwFXVYh6xeAsI_saZMeA#2025安徽·干细胞培养]"
+ },
+ {
+  "root_id": "mkjr_wVnWqtzxvXDitgu1DLVwHg",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "体外受精",
+   "胚胎移植与胚胎分割"
+  ],
+  "province": "云南",
+  "year": "2025",
+  "type": "单选",
+  "answer": "C",
+  "stem": "孕酮具有促进子宫内膜增生，为受精卵着床做准备作用。某奶牛场发现一头高产奶量母牛生产两胎后重复配种均未成功妊娠，该牛可正常排卵但孕酮量低于正常母牛。为获得该母牛的后代，下列说法正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "运用体外受精或人工授精技术可提高该牛的妊娠率"
+   },
+   {
+    "label": "B",
+    "text": "使用外源促性腺激素处理该牛获得更多卵子进而可获得多枚胚胎"
+   },
+   {
+    "label": "C",
+    "text": "体外受精或人工授精后形成受精卵移植到健康受体可提高存活率"
+   },
+   {
+    "label": "D",
+    "text": "使用该牛MⅡ期卵母细胞的细胞核进行核移植可获得可育后代"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_wVnWqtzxvXDitgu1DLVwHg#2025云南·体外受精]"
+ },
+ {
+  "root_id": "mkjr_vAXmYwjVt0E0zPSR75SWJg",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "干细胞培养"
+  ],
+  "province": "北京",
+  "year": "2024",
+  "type": "单选",
+  "answer": "C",
+  "stem": "我国科学家体外诱导食蟹猴胚胎干细胞，形成了类似囊胚的结构（类囊胚），为研究灵长类胚胎发育机制提供了实验体系（如图）。相关叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "实验证实食蟹猴胚胎干细胞具有分化潜能"
+   },
+   {
+    "label": "B",
+    "text": "实验过程中使用的培养基含有糖类"
+   },
+   {
+    "label": "C",
+    "text": "类囊胚的获得利用了核移植技术"
+   },
+   {
+    "label": "D",
+    "text": "可借助胚胎移植技术研究类囊胚的后续发育"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_vAXmYwjVt0E0zPSR75SWJg#2024北京·干细胞培养]"
+ },
+ {
+  "root_id": "mkjr_LV4_R_Ovh4N30H90Q4vG8Q",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "植物体细胞杂交"
+  ],
+  "province": "北京",
+  "year": "2024",
+  "type": "单选",
+  "answer": "D",
+  "stem": "大豆叶片细胞的细胞壁被酶解后，可获得原生质体。以下对原生质体的叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "制备时需用纤维素酶和果胶酶"
+   },
+   {
+    "label": "B",
+    "text": "膜具有选择透过性"
+   },
+   {
+    "label": "C",
+    "text": "可再生出细胞壁"
+   },
+   {
+    "label": "D",
+    "text": "失去细胞全能性"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_LV4_R_Ovh4N30H90Q4vG8Q#2024北京·植物体细胞杂交]"
+ },
+ {
+  "root_id": "mkjr_g75RyVMwebvIVIc3LaCUTA",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "动物细胞融合与单克隆抗体"
+  ],
+  "province": "北京",
+  "year": "2023",
+  "type": "单选",
+  "answer": "D",
+  "stem": "甲状旁腺激素（PTH）水平是人类多种疾病的重要诊断指标。研究者制备单克隆抗体用于快速检测PTH，有关制备过程的叙述不正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "需要使用动物细胞培养技术"
+   },
+   {
+    "label": "B",
+    "text": "需要制备用PTH免疫的小鼠"
+   },
+   {
+    "label": "C",
+    "text": "利用抗原-抗体结合的原理筛选杂交瘤细胞"
+   },
+   {
+    "label": "D",
+    "text": "筛选能分泌多种抗体的单个杂交瘤细胞"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_g75RyVMwebvIVIc3LaCUTA#2023北京·动物细胞融合与单克隆抗体]"
+ },
+ {
+  "root_id": "mkjr_5V8rNHYs_hcrv45b8gBpeQ",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "核移植技术"
+  ],
+  "province": "天津",
+  "year": "2023",
+  "type": "单选",
+  "answer": "D",
+  "stem": "根据下图，正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "子代动物遗传性状和受体动物完全一致"
+   },
+   {
+    "label": "B",
+    "text": "过程1需要MII期去核卵母细胞"
+   },
+   {
+    "label": "C",
+    "text": "过程2可以大幅改良动物性状"
+   },
+   {
+    "label": "D",
+    "text": "过程2为过程3提供了量产方式，过程3为过程1、2提供了改良性状的方式"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_5V8rNHYs_hcrv45b8gBpeQ#2023天津·核移植技术]"
+ },
+ {
+  "root_id": "mkjr_Av2_LhjclfQSbmu04ko0.Q",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "植物细胞培养"
+  ],
+  "province": "山东",
+  "year": "2023",
+  "type": "单选",
+  "answer": "A",
+  "stem": "利用植物细胞培养技术在离体条件下对单个细胞或细胞团进行培养使其增殖，可获得植物细胞的某些次生代谢物。下列说法正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "利用该技术可获得某些无法通过化学合成途径得到的产物"
+   },
+   {
+    "label": "B",
+    "text": "植物细胞体积小，故不能通过该技术进行其产物的工厂化生产"
+   },
+   {
+    "label": "C",
+    "text": "次生代谢物是植物所必需的，但含量少，应选择产量高的细胞进行培养"
+   },
+   {
+    "label": "D",
+    "text": "该技术主要利用促进细胞生长的培养条件提高单个细胞中次生代谢物的含量"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_Av2_LhjclfQSbmu04ko0.Q#2023山东·植物细胞培养]"
+ },
+ {
+  "root_id": "mkjr_6Y7ISxlp1sVcJt1AGVvc4Q",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "体外受精",
+   "胚胎移植与胚胎分割"
+  ],
+  "province": "广东",
+  "year": "2023",
+  "type": "单选",
+  "answer": "C",
+  "stem": "科学家采用体外受精技术获得紫羚羊胚胎，并将其移植到长角羚羊体内，使后者成功妊娠并产仔，该工作有助于恢复濒危紫羚羊的种群数量。此过程不涉及的操作是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "超数排卵"
+   },
+   {
+    "label": "B",
+    "text": "精子获能处理"
+   },
+   {
+    "label": "C",
+    "text": "细胞核移植"
+   },
+   {
+    "label": "D",
+    "text": "胚胎培养"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_6Y7ISxlp1sVcJt1AGVvc4Q#2023广东·体外受精]"
+ },
+ {
+  "root_id": "mkjr_w.XXcv0Whz3kyZX4ZF9Djw",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "植物体细胞杂交"
+  ],
+  "province": "江苏",
+  "year": "2023",
+  "type": "单选",
+  "answer": "D",
+  "stem": "研究者通过体细胞杂交技术，探索利用条斑紫菜和拟线紫菜培育杂种紫菜。下列相关叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "从食用紫菜的动物消化道内提取蛋白酶，用于去除细胞壁"
+   },
+   {
+    "label": "B",
+    "text": "原生质体需在低渗溶液中长期保存，以防止过度失水而死亡"
+   },
+   {
+    "label": "C",
+    "text": "检测原生质体活力时可用苯酚品红或甲紫溶液处理，活的原生质体被染色"
+   },
+   {
+    "label": "D",
+    "text": "聚乙二醇促进原生质体融合后，以叶绿体颜色等差异为标志可识别杂种细胞"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_w.XXcv0Whz3kyZX4ZF9Djw#2023江苏·植物体细胞杂交]"
+ },
+ {
+  "root_id": "mkjr_TkIRESUJD62XSyJvrxz7BQ",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "胚胎早期发育"
+  ],
+  "province": "北京",
+  "year": "2022",
+  "type": "单选",
+  "answer": "A",
+  "stem": "将黑色小鼠囊胚的内细胞团部分细胞注射到白色小鼠囊胚腔中，接受注射的囊胚发育为黑白相间的小鼠（Mc）。据此分析，下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "获得Mc的生物技术属于核移植"
+   },
+   {
+    "label": "B",
+    "text": "Mc表皮中有两种基因型的细胞"
+   },
+   {
+    "label": "C",
+    "text": "注射入的细胞会分化成Mc的多种组织"
+   },
+   {
+    "label": "D",
+    "text": "将接受注射的囊胚均分为二，可发育成两只幼鼠"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_TkIRESUJD62XSyJvrxz7BQ#2022北京·胚胎早期发育]"
+ },
+ {
+  "root_id": "mkjr_qLDDMTC8Rt3gZZWtgcW.mw",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "干细胞培养"
+  ],
+  "province": "贵州",
+  "year": "2026",
+  "type": "单选",
+  "answer": "B",
+  "stem": "利用胚胎干细胞法构建转基因动物的流程如图。下列叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "甲可以通过将获能的精子和成熟的卵子共培养获得"
+   },
+   {
+    "label": "B",
+    "text": "可从嵌合体动物发绿色荧光的皮肤组织中分离胚胎干细胞"
+   },
+   {
+    "label": "C",
+    "text": "进行①过程后乙须在代孕动物体内正常孵化才能继续发育"
+   },
+   {
+    "label": "D",
+    "text": "可从嵌合体动物的后代中筛选出所需转基因动物个体"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_qLDDMTC8Rt3gZZWtgcW.mw#2026贵州·干细胞培养]"
+ },
+ {
+  "root_id": "mkjr_fkbmwZtfHNiANzEXe.w5vA",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "植物组织培养技术"
+  ],
+  "province": "未知",
+  "year": "2026",
+  "type": "单选",
+  "answer": "A",
+  "stem": "研究人员将调控根尖干细胞微环境的P、W基因过表达系统导入某植物根尖外植体，在无外源激素条件下诱导外植体形成胚状体，并最终发育为完整植株。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "P、W基因过表达诱导组织形成新植株需经历细胞分化"
+   },
+   {
+    "label": "B",
+    "text": "将流水充分冲洗后的外植体用无菌水反复冲洗进行灭菌"
+   },
+   {
+    "label": "C",
+    "text": "使用无激素培养基时不涉及激素对植物分化的调节作用"
+   },
+   {
+    "label": "D",
+    "text": "导入P、W基因过表达系统使根尖细胞具备了全能性"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_fkbmwZtfHNiANzEXe.w5vA#2026未知·植物组织培养技术]"
+ },
+ {
+  "root_id": "mkjr_tq7CeiNTDJQBP.09NYvRyQ",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "核移植技术",
+   "动物细胞融合与单克隆抗体"
+  ],
+  "province": "未知",
+  "year": "2026",
+  "type": "单选",
+  "answer": "C",
+  "stem": "将人类免疫球蛋白(Ig)基因导入小鼠胚胎干细胞后，经核移植技术获得的转基因小鼠可用于制备单克隆抗体。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "核移植受体卵母细胞培养成熟的标志是排出第二极体"
+   },
+   {
+    "label": "B",
+    "text": "人Ig基因在小鼠胚胎干细胞不表达是因为未接受抗原刺激"
+   },
+   {
+    "label": "C",
+    "text": "免疫的B淋巴细胞无需克隆化培养即可与小鼠骨髓瘤细胞融合"
+   },
+   {
+    "label": "D",
+    "text": "将选择培养基上存活的杂交瘤细胞注入小鼠腹腔培养获得单克隆抗体"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_tq7CeiNTDJQBP.09NYvRyQ#2026未知·核移植技术]"
+ },
+ {
+  "root_id": "mkjr_5_VDE7sKMK8SMo7_2Nv3Rg",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "植物组织培养技术"
+  ],
+  "province": "黑吉辽蒙",
+  "year": "2026",
+  "type": "单选",
+  "answer": "C",
+  "stem": "下列关于菊花愈伤组织诱导及培养的叙述，正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "诱导愈伤组织形成及后期培养，全程需光照"
+   },
+   {
+    "label": "B",
+    "text": "为防止植物激素高温失活，培养基可不灭菌"
+   },
+   {
+    "label": "C",
+    "text": "用幼嫩的茎段作外植体能诱导形成愈伤组织"
+   },
+   {
+    "label": "D",
+    "text": "生长素与细胞分裂素的比例不影响愈伤组织细胞分化方向"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_5_VDE7sKMK8SMo7_2Nv3Rg#2026黑吉辽蒙·植物组织培养技术]"
+ },
+ {
+  "root_id": "mkjr_oxF8V4egaOaPNOY37RXVjw",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "动物细胞培养"
+  ],
+  "province": "黑吉辽蒙",
+  "year": "2026",
+  "type": "单选",
+  "answer": "B",
+  "stem": "人端粒酶催化亚基（hTERT）能维持端粒DNA序列长度。将间充质干细胞分为两组并进行贴壁培养：a组导入空载体；b组导入hTERT基因并持续表达。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "细胞培养过程中，培养液需要定期更换"
+   },
+   {
+    "label": "B",
+    "text": "传代培养时，可用纤维素酶处理使贴壁细胞分散"
+   },
+   {
+    "label": "C",
+    "text": "a组细胞端粒DNA序列会随分裂次数增加而逐渐缩短"
+   },
+   {
+    "label": "D",
+    "text": "与a组细胞相比，b组细胞可分裂的次数会明显增加"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_oxF8V4egaOaPNOY37RXVjw#2026黑吉辽蒙·动物细胞培养]"
+ },
+ {
+  "root_id": "mkjr_j955rOywKKKxHkDA6m4xvw",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "胚胎早期发育"
+  ],
+  "province": "黑吉辽蒙",
+  "year": "2026",
+  "type": "单选",
+  "answer": "A",
+  "stem": "为模拟胚胎发育过程中子宫的力学环境，科学家设计了水凝胶材料，小鼠囊胚在其内部生长，如下图。下列叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "囊胚置于水凝胶之前，已经历了桑葚胚阶段"
+   },
+   {
+    "label": "B",
+    "text": "胚胎培养时，物质分子由培养基至胚胎单向转移"
+   },
+   {
+    "label": "C",
+    "text": "水凝胶基质硬度越大，越有利于胚胎生长"
+   },
+   {
+    "label": "D",
+    "text": "囊胚孵化后，与水凝胶接触的部位由滋养层变为透明带"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_j955rOywKKKxHkDA6m4xvw#2026黑吉辽蒙·胚胎早期发育]"
+ },
+ {
+  "root_id": "mkjr_12DS1r4MyuyjCuTSePAv8Q",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "核移植技术"
+  ],
+  "province": "山东",
+  "year": "2025",
+  "type": "单选",
+  "answer": "B",
+  "stem": "利用动物体细胞核移植技术培育转基因牛的过程如图所示，下列说法错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "对牛乙注射促性腺激素是为了收集更多的卵母细胞"
+   },
+   {
+    "label": "B",
+    "text": "卵母细胞去核应在其减数分裂Ⅰ中期进行"
+   },
+   {
+    "label": "C",
+    "text": "培养牛甲的体细胞时应定期更换培养液"
+   },
+   {
+    "label": "D",
+    "text": "可用PCR技术鉴定犊牛丁是否为转基因牛"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_12DS1r4MyuyjCuTSePAv8Q#2025山东·核移植技术]"
+ },
+ {
+  "root_id": "mkjr_0Jy7R8Ov0Pnx6h3bPU5yxA",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "动物细胞培养"
+  ],
+  "province": "广东",
+  "year": "2025",
+  "type": "单选",
+  "answer": "D",
+  "stem": "将人眼睑成纤维细胞传代培养后，再培养形成支架，在该支架上接种人口腔黏膜上皮细胞，培养一段时间后分离获得上皮细胞片层，可用于人工角膜的研究。上述过程不涉及（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "制备细胞悬液"
+   },
+   {
+    "label": "B",
+    "text": "置于等适宜条件下培养"
+   },
+   {
+    "label": "C",
+    "text": "离心收集细胞"
+   },
+   {
+    "label": "D",
+    "text": "用胰蛋白酶消化支架后分离片层"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_0Jy7R8Ov0Pnx6h3bPU5yxA#2025广东·动物细胞培养]"
+ },
+ {
+  "root_id": "mkjr_qw1NIkfe_P5sSOw2zmihhw",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "植物体细胞杂交"
+  ],
+  "province": "广西",
+  "year": "2025",
+  "type": "单选",
+  "answer": "D",
+  "stem": "甘薯是重要的农作物，为了改良甘薯品质，科学家利用甘薯（2N=90）与其近缘野生种（2N=30）进行体细胞杂交，选育得到杂种植株M1。下列说法正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "需用几丁质酶和果胶酶来降解甘薯细胞壁"
+   },
+   {
+    "label": "B",
+    "text": "为防止原生质体失水，需使用低渗缓冲液"
+   },
+   {
+    "label": "C",
+    "text": "M1具有两个物种的所有性状，且染色体数目为2N=120"
+   },
+   {
+    "label": "D",
+    "text": "在培育M1时，配制的各种培养基常以MS培养基为基础"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_qw1NIkfe_P5sSOw2zmihhw#2025广西·植物体细胞杂交]"
+ },
+ {
+  "root_id": "mkjr_bzw5lmn_GEYIZZsjWUDN_w",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "植物组织培养技术"
+  ],
+  "province": "广西",
+  "year": "2025",
+  "type": "单选",
+  "answer": "C",
+  "stem": "切取虎尾兰的叶插入土壤，置于适宜条件下培养。一段时间后，切口处会长出新植株。下列有关该过程的说法错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "体现了细胞的全能性"
+   },
+   {
+    "label": "B",
+    "text": "受到植物激素的调节"
+   },
+   {
+    "label": "C",
+    "text": "属于有性生殖的范畴"
+   },
+   {
+    "label": "D",
+    "text": "包含脱分化及再分化"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_bzw5lmn_GEYIZZsjWUDN_w#2025广西·植物组织培养技术]"
+ },
+ {
+  "root_id": "mkjr_CcQFHa.tHFr8Pv4YiiXShA",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "植物组织培养技术"
+  ],
+  "province": "江苏",
+  "year": "2025",
+  "type": "单选",
+  "answer": "C",
+  "stem": "图示一种植物组织培养周期，①~③表示相应过程。下列相关叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "过程①发生了细胞的脱分化和有丝分裂"
+   },
+   {
+    "label": "B",
+    "text": "过程②经细胞的再分化形成不同种类的细胞"
+   },
+   {
+    "label": "C",
+    "text": "过程②③所用培养基的成分、浓度相同"
+   },
+   {
+    "label": "D",
+    "text": "培养基中糖类既能作为碳源，又与维持渗透压有关"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_CcQFHa.tHFr8Pv4YiiXShA#2025江苏·植物组织培养技术]"
+ },
+ {
+  "root_id": "mkjr_PKGCj4aXRm3UoEk39EZIxg",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "干细胞培养"
+  ],
+  "province": "江西",
+  "year": "2025",
+  "type": "单选",
+  "answer": "B",
+  "stem": "诱导多能干细胞(ips细胞)在生物医药领域有广阔的应用前景。研究人员利用多种小分子化合物协同诱导小鼠胎儿成纤维细胞，成功获得ips细胞。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "小分子化合物改变了小鼠胎儿成纤维细胞的基因表达"
+   },
+   {
+    "label": "B",
+    "text": "小鼠胎儿成纤维细胞形成ips细胞的过程属于细胞分化"
+   },
+   {
+    "label": "C",
+    "text": "利用胰蛋白酶处理小鼠胎儿某些组织可获得分散的成纤维细胞"
+   },
+   {
+    "label": "D",
+    "text": "培养小鼠胎儿成纤维细胞和ips细胞时需提供一定浓度的CO2"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_PKGCj4aXRm3UoEk39EZIxg#2025江西·干细胞培养]"
+ },
+ {
+  "root_id": "mkjr_HiLuFVWsp69UIwbjMzgVXg",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "植物组织培养技术"
+  ],
+  "province": "河北",
+  "year": "2025",
+  "type": "单选",
+  "answer": "C",
+  "stem": "某科创小组将叶绿素合成相关基因转入小麦愈伤组织，获得再生植株，并进行相关检测。下列实验操作错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "将种子消毒后，取种胚接种到适当的固体培养基诱导愈伤组织"
+   },
+   {
+    "label": "B",
+    "text": "在提取的DNA溶液中加入二苯胺试剂，沸水浴后观察颜色以鉴定DNA"
+   },
+   {
+    "label": "C",
+    "text": "将小麦色素提取液滴加到滤纸条，然后将色素滴加部位浸入层析液进行层析"
+   },
+   {
+    "label": "D",
+    "text": "对叶片抽气处理后，转到富含CO2的清水中，探究不同光照下的光合作用强度"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_HiLuFVWsp69UIwbjMzgVXg#2025河北·植物组织培养技术]"
+ },
+ {
+  "root_id": "mkjr__uMpuPIU_z0hqcCas2H7pw",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "植物细胞培养"
+  ],
+  "province": "湖北",
+  "year": "2025",
+  "type": "单选",
+  "answer": "B",
+  "stem": "水母雪莲是我国的一种名贵药材，主要活性成分为次生代谢产物黄酮。水母雪莲生长缓慢，长期的掠夺性采挖导致该药材资源严重匮乏。研究人员开展了悬浮培养水母雪莲细胞合成黄酮的工程技术研究，结果如表所示。下列叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "黄酮产量与细胞干重呈正相关"
+   },
+   {
+    "label": "B",
+    "text": "黄酮是水母雪莲细胞生存和生长所必需的"
+   },
+   {
+    "label": "C",
+    "text": "氧气供给对于水母雪莲细胞生长、分裂和代谢是必需的"
+   },
+   {
+    "label": "D",
+    "text": "转速为75r/min时既利于细胞分裂，又利于黄酮的积累"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr__uMpuPIU_z0hqcCas2H7pw#2025湖北·植物细胞培养]"
+ },
+ {
+  "root_id": "mkjr_RCR_LLuIDQksDjFJO0d48Q",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "动物细胞培养"
+  ],
+  "province": "湖北",
+  "year": "2025",
+  "type": "单选",
+  "answer": "B",
+  "stem": "利用犬肾细胞MDCK扩增流感病毒，生产流感疫苗，具有标准化、产量高等优点。但MDCK细胞贴壁生长的特性不利于生产规模的扩大，严重制约疫苗的生产效率。研究人员通过筛选，成功获得一种无成瘤性的（多代培养不会癌变）、可悬浮培养的MDCK细胞——XF06.下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "XF06悬浮培养可提高细胞密度，进而提升生产效率"
+   },
+   {
+    "label": "B",
+    "text": "细胞贴壁生长特性的改变是由于流感病毒感染所导致"
+   },
+   {
+    "label": "C",
+    "text": "可采用离心技术从感染病毒的细胞裂解液中分离出流感病毒"
+   },
+   {
+    "label": "D",
+    "text": "采用无成瘤性细胞生产疫苗，是为了避免疫苗中有致瘤DNA的污染"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_RCR_LLuIDQksDjFJO0d48Q#2025湖北·动物细胞培养]"
+ },
+ {
+  "root_id": "mkjr_AEByuM2g2D7BxLpJhrsoTQ",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "动物细胞融合与单克隆抗体"
+  ],
+  "province": "甘肃",
+  "year": "2025",
+  "type": "单选",
+  "answer": "B",
+  "stem": "肿瘤坏死因子α（TNF-α）是一种细胞因子，高浓度时可以引发疾病。研究者利用细胞工程技术制备了TNF-α单克隆抗体，用于治疗由TNF-α引发的疾病，制备流程如下图。下列叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "①是从小鼠的血液中获得的骨髓瘤细胞"
+   },
+   {
+    "label": "B",
+    "text": "②含未融合细胞、同种核及异种核融合细胞"
+   },
+   {
+    "label": "C",
+    "text": "③需用特定培养基筛选得到大量的杂交瘤细胞"
+   },
+   {
+    "label": "D",
+    "text": "④需在体外或小鼠腹腔进行克隆化培养和抗体检测"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_AEByuM2g2D7BxLpJhrsoTQ#2025甘肃·动物细胞融合与单克隆抗体]"
+ },
+ {
+  "root_id": "mkjr_kpk9UKquZQwcMVHhvEwpcA",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "植物细胞培养"
+  ],
+  "province": "辽宁",
+  "year": "2024",
+  "type": "单选",
+  "answer": "B",
+  "stem": "迷迭香酸具有多种药理活性。进行工厂化生产时，先诱导外植体形成愈伤组织，再进行细胞悬浮培养获得迷迭香酸，加入诱导剂茉莉酸甲酯可大幅提高产量。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "迷迭香顶端幼嫩的茎段适合用作外植体"
+   },
+   {
+    "label": "B",
+    "text": "诱导愈伤组织时需加入NAA和脱落酸"
+   },
+   {
+    "label": "C",
+    "text": "悬浮培养时需将愈伤组织打散成单个细胞或较小的细胞团"
+   },
+   {
+    "label": "D",
+    "text": "茉莉酸甲酯改变了迷迭香次生代谢产物的合成速率"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_kpk9UKquZQwcMVHhvEwpcA#2024辽宁·植物细胞培养]"
+ },
+ {
+  "root_id": "mkjr_wLXogP3tLxabaKF19k7onA",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "动物细胞培养"
+  ],
+  "province": "辽宁",
+  "year": "2024",
+  "type": "单选",
+  "answer": "D",
+  "stem": "从小鼠胚胎中分离获取胚胎成纤维细胞进行贴壁培养，在传代后的不同时间点检测细胞数目，结果如图。下列叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "传代培养时，培养皿需密封防止污染"
+   },
+   {
+    "label": "B",
+    "text": "选取①的细胞进行传代培养比②更合理"
+   },
+   {
+    "label": "C",
+    "text": "直接用离心法收集细胞进行传代培养"
+   },
+   {
+    "label": "D",
+    "text": "细胞增长进入平台期可能与细胞密度过大有关"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_wLXogP3tLxabaKF19k7onA#2024辽宁·动物细胞培养]"
+ },
+ {
+  "root_id": "mkjr_8Byr205oXnnRhhoK8aFqOw",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "植物细胞培养"
+  ],
+  "province": "安徽",
+  "year": "2024",
+  "type": "单选",
+  "answer": "B",
+  "stem": "植物细胞悬浮培养技术在生产中已得到应用。某兴趣小组尝试利用该技术培养胡萝卜细胞并获取番茄红素，设计了以下实验流程和培养装置（如图），请同学们进行评议。下列评议不合理的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "实验流程中应该用果胶酶等处理愈伤组织，制备悬浮细胞"
+   },
+   {
+    "label": "B",
+    "text": "装置中的充气管应置于液面上方，该管可同时作为排气管"
+   },
+   {
+    "label": "C",
+    "text": "装置充气口需要增设无菌滤器，用于防止杂菌污染培养液"
+   },
+   {
+    "label": "D",
+    "text": "细胞培养需要适宜的温度，装置需增设温度监测和控制设备"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_8Byr205oXnnRhhoK8aFqOw#2024安徽·植物细胞培养]"
+ },
+ {
+  "root_id": "mkjr_v9_2vcpu.J_cgD3MQCGHIg",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "植物体细胞杂交",
+   "植物组织培养技术"
+  ],
+  "province": "山东",
+  "year": "2024",
+  "type": "多选",
+  "answer": "BD",
+  "stem": "下列关于植物愈伤组织的说法正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "用果胶酶和胶原蛋白酶去除愈伤组织的细胞壁获得原生质体"
+   },
+   {
+    "label": "B",
+    "text": "融合的原生质体需再生出细胞壁后才能形成愈伤组织"
+   },
+   {
+    "label": "C",
+    "text": "体细胞杂交获得的杂种植株细胞中具有来自亲本的2个细胞核"
+   },
+   {
+    "label": "D",
+    "text": "通过愈伤组织再生出多个完整植株的过程属于无性繁殖"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_v9_2vcpu.J_cgD3MQCGHIg#2024山东·植物体细胞杂交]"
+ },
+ {
+  "root_id": "mkjr_MENoTvhIMsP4jG_3FPt8Eg",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "核移植技术"
+  ],
+  "province": "浙江",
+  "year": "2023",
+  "type": "单选",
+  "answer": "D",
+  "stem": "以哺乳动物为研究对象的生物技术已获得了长足的进步。对生物技术应用于人类，在安全与伦理方面有不同的观点，下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "试管婴儿技术应全面禁止"
+   },
+   {
+    "label": "B",
+    "text": "治疗性克隆不需要监控和审查"
+   },
+   {
+    "label": "C",
+    "text": "生殖性克隆不存在伦理道德方面的风险"
+   },
+   {
+    "label": "D",
+    "text": "我国不赞成、不允许、不支持、不接受任何生殖性克隆人实验"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_MENoTvhIMsP4jG_3FPt8Eg#2023浙江·核移植技术]"
+ },
+ {
+  "root_id": "mkjr_Bq5MvUiKJo0om0E.UkyA7Q",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "核移植技术"
+  ],
+  "province": "辽宁",
+  "year": "2025",
+  "type": "单选",
+  "answer": "C",
+  "stem": "研究显示，约70%的小鼠体细胞核移植胚胎未能成功发育至囊胚期，且仅有约2%的胚胎移植到代孕母鼠后可正常发育。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "体细胞核进入去核的MⅡ期卵母细胞形成重构胚"
+   },
+   {
+    "label": "B",
+    "text": "移植前胚胎发育率低，可能是植入的体细胞核不能完全恢复分化前的功能状态"
+   },
+   {
+    "label": "C",
+    "text": "胚胎移植到代孕母鼠后成活率低，可能是早期胚胎未能及时从滋养层内孵化"
+   },
+   {
+    "label": "D",
+    "text": "为提高胚胎成活率，可用胚胎细胞核移植代替体细胞核移植"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_Bq5MvUiKJo0om0E.UkyA7Q#2025辽宁·核移植技术]"
+ },
+ {
+  "root_id": "mkjr_yiGuFOud.uU0lQ1jcBBeGA",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "动物细胞融合与单克隆抗体"
+  ],
+  "province": "辽宁",
+  "year": "2025",
+  "type": "多选",
+  "answer": "ABD",
+  "stem": "下图是制备抗白细胞介素-6（IL-6）单克隆抗体的示意图。下列叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "步骤①给小鼠注射IL-6后，应从脾中分离筛选T淋巴细胞"
+   },
+   {
+    "label": "B",
+    "text": "步骤②在脾组织中加入胃蛋白酶，制成单细胞悬液"
+   },
+   {
+    "label": "C",
+    "text": "步骤③加入灭活病毒或PEG诱导细胞融合，体现了细胞膜的流动性"
+   },
+   {
+    "label": "D",
+    "text": "步骤④经过克隆化培养和抗体检测筛选出了杂交瘤细胞"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_yiGuFOud.uU0lQ1jcBBeGA#2025辽宁·动物细胞融合与单克隆抗体]"
+ },
+ {
+  "root_id": "mkjr_hpsAF5F8cU2nJi.1CH_LQA",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "胚胎移植与胚胎分割"
+  ],
+  "province": "山西",
+  "year": "2025",
+  "type": "单选",
+  "answer": "C",
+  "stem": "科研人员通过对绵羊受精卵进行基因编辑和胚胎移植等操作，获得了羊毛长度显著长于对照组的优良品系。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "为获取足够的卵子，需对供体绵羊注射促性腺激素进行超数排卵处理"
+   },
+   {
+    "label": "B",
+    "text": "为确保受体绵羊与供体绵羊生理状态一致，需进行同期发情处理"
+   },
+   {
+    "label": "C",
+    "text": "受精卵发育至桑葚胚阶段，细胞数量和胚胎总体积均增加"
+   },
+   {
+    "label": "D",
+    "text": "对照组绵羊的选择需考虑年龄、性别等无关变量的影响"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_hpsAF5F8cU2nJi.1CH_LQA#2025山西·胚胎移植与胚胎分割]"
+ },
+ {
+  "root_id": "mkjr_M30acr8m._v8fPxnbBsmJg",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "动物细胞融合与单克隆抗体"
+  ],
+  "province": "贵州",
+  "year": "2025",
+  "type": "单选",
+  "answer": "D",
+  "stem": "下图为PML蛋白单克隆抗体的制备过程。下列叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "应使用总蛋白进行多次免疫且每次免疫间隔适宜时间"
+   },
+   {
+    "label": "B",
+    "text": "W细胞是先提取B淋巴细胞再用PML蛋白免疫而获得"
+   },
+   {
+    "label": "C",
+    "text": "步骤2的目的是去除不能产生特异性抗体的细胞"
+   },
+   {
+    "label": "D",
+    "text": "应选择孔2中的细胞进行后续处理以制备单克隆抗体"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_M30acr8m._v8fPxnbBsmJg#2025贵州·动物细胞融合与单克隆抗体]"
+ },
+ {
+  "root_id": "mkjr_uJ6neOxBdm2U7bzfl5UYPg",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "核移植技术",
+   "胚胎早期发育"
+  ],
+  "province": "重庆",
+  "year": "2025",
+  "type": "单选",
+  "answer": "D",
+  "stem": "为保护濒危哺乳动物甲，科研工作者将甲的近亲物种乙（种群数量多）进行了如图所示的研究，下列叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "克隆动物的核基因组来源于甲、乙"
+   },
+   {
+    "label": "B",
+    "text": "体外受精需用获能的精子与MI期的卵母细胞受精"
+   },
+   {
+    "label": "C",
+    "text": "囊胚①的内细胞团可发育为胎盘、个体"
+   },
+   {
+    "label": "D",
+    "text": "滋养层可影响内细胞团的发育"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_uJ6neOxBdm2U7bzfl5UYPg#2025重庆·核移植技术]"
+ },
+ {
+  "root_id": "mkjr_x5ym.Qu9KcVAokIYWXUEJQ",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "植物细胞培养"
+  ],
+  "province": "浙江",
+  "year": "2025",
+  "type": "单选",
+  "answer": "B",
+  "stem": "科研人员研究某种红豆杉的细胞悬浮培养和原生质体培养方式对合成紫杉醇的影响，甲组为细胞悬浮培养，乙组为原生质体的液体静置培养，丙组为琼脂糖包埋后的原生质体悬浮培养。三组的培养基相同，其中乙、丙两组另加细胞壁合成抑制剂等。结果如图所示。 [图] 下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "比较甲和丙，丙组的培养方式有利于原生质体的增殖，从而提高紫杉醇总产量"
+   },
+   {
+    "label": "B",
+    "text": "比较乙和丙，丙组的培养方式有利于应用到发酵罐进行紫杉醇的生产"
+   },
+   {
+    "label": "C",
+    "text": "丙组中琼脂糖凝胶的作用是持续为原生质体供应碳源"
+   },
+   {
+    "label": "D",
+    "text": "上述实验表明细胞壁完整有助于紫杉醇在细胞内的合成与积累"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_x5ym.Qu9KcVAokIYWXUEJQ#2025浙江·植物细胞培养]"
+ },
+ {
+  "root_id": "mkjr_vrcZK3JxQtXHLB39kNqLdA",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "植物体细胞杂交"
+  ],
+  "province": "江苏",
+  "year": "2024",
+  "type": "单选",
+  "answer": "C",
+  "stem": "图示植物原生质体制备、分离和检测的流程。下列相关叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "步骤①添加盐酸以去除细胞壁"
+   },
+   {
+    "label": "B",
+    "text": "步骤②吸取原生质体放入无菌水中清洗"
+   },
+   {
+    "label": "C",
+    "text": "原生质体密度介于图中甘露醇和蔗糖溶液密度之间"
+   },
+   {
+    "label": "D",
+    "text": "台盼蓝检测后应选择蓝色的原生质体继续培养"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_vrcZK3JxQtXHLB39kNqLdA#2024江苏·植物体细胞杂交]"
+ },
+ {
+  "root_id": "mkjr_iaP0D8H6U0j4WmFgrEIdwg",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "植物组织培养技术"
+  ],
+  "province": "江苏",
+  "year": "2024",
+  "type": "多选",
+  "answer": "ABC",
+  "stem": "图示普通韭菜（2n=16）的花药结构。为了快速获得普通韭菜的纯系，科研人员利用其花药进行单倍体育种。下列相关叙述正确的有（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "花粉细胞和花药壁细胞均具有全能性"
+   },
+   {
+    "label": "B",
+    "text": "培养基中生长素与细胞分裂素的比例影响愈伤组织再分化"
+   },
+   {
+    "label": "C",
+    "text": "镜检根尖分生区细胞的染色体，可鉴定出单倍体幼苗"
+   },
+   {
+    "label": "D",
+    "text": "秋水仙素处理单倍体幼苗，所得植株的细胞中染色体数都是16"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_iaP0D8H6U0j4WmFgrEIdwg#2024江苏·植物组织培养技术]"
+ },
+ {
+  "root_id": "mkjr_C3AJYeCbQgyLPwlxrt5pQA",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "体外受精"
+  ],
+  "province": "江苏",
+  "year": "2024",
+  "type": "多选",
+  "answer": "BCD",
+  "stem": "从牛卵巢采集卵母细胞进行体外成熟培养，探究高温对卵母细胞成熟的影响，结果如图所示。下列相关叙述错误的有（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "选取发育状态一致的卵母细胞进行培养"
+   },
+   {
+    "label": "B",
+    "text": "体外培养卵母细胞时通常加入湿热灭菌后的血清"
+   },
+   {
+    "label": "C",
+    "text": "对采集的卵母细胞传代培养以产生大量卵细胞"
+   },
+   {
+    "label": "D",
+    "text": "体外培养时高温提高了卵母细胞发育的成熟率"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_C3AJYeCbQgyLPwlxrt5pQA#2024江苏·体外受精]"
+ },
+ {
+  "root_id": "mkjr_vm8RLKvtmkNJtaFF.4Bs9A",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "体外受精",
+   "胚胎移植与胚胎分割"
+  ],
+  "province": "浙江",
+  "year": "2023",
+  "type": "单选",
+  "answer": "C",
+  "stem": "在家畜优良品种培育过程中常涉及胚胎工程的相关技术。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "经获能处理的精子才能用于体外受精"
+   },
+   {
+    "label": "B",
+    "text": "受精卵经体外培养可获得早期胚胎"
+   },
+   {
+    "label": "C",
+    "text": "胚胎分割技术提高了移植胚胎的成活率"
+   },
+   {
+    "label": "D",
+    "text": "胚胎移植前需对受体进行选择和处理"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_vm8RLKvtmkNJtaFF.4Bs9A#2023浙江·体外受精]"
+ },
+ {
+  "root_id": "mkjr_HahYuCuyKcggjTfjo0_89g",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "核移植技术",
+   "胚胎移植与胚胎分割"
+  ],
+  "province": "江苏",
+  "year": "2022",
+  "type": "单选",
+  "answer": "C",
+  "stem": "下列关于动物细胞工程和胚胎工程的叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "通常采用培养法或化学诱导法使精子获得能量后进行体外受精"
+   },
+   {
+    "label": "B",
+    "text": "哺乳动物体外受精后的早期胚胎培养不需要额外提供营养物质"
+   },
+   {
+    "label": "C",
+    "text": "克隆牛技术涉及体细胞核移植、动物细胞培养、胚胎移植等过程"
+   },
+   {
+    "label": "D",
+    "text": "将小鼠桑葚胚分割成2等份获得同卵双胎的过程属于有性生殖"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_HahYuCuyKcggjTfjo0_89g#2022江苏·核移植技术]"
+ },
+ {
+  "root_id": "mkjr_22F3XqU9omhvINQrzRg2Qg",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "动物细胞融合与单克隆抗体"
+  ],
+  "province": "江苏",
+  "year": "2022",
+  "type": "多选",
+  "answer": "ACD",
+  "stem": "下图表示利用细胞融合技术进行基因定位的过程，在人-鼠杂种细胞中人的染色体会以随机方式丢失，通过分析基因产物进行基因定位。现检测细胞Ⅰ、Ⅱ、Ⅲ中人的4种酶活性，只有Ⅱ具有芳烃羟化酶活性，只有Ⅲ具有胸苷激酶活性，Ⅰ、Ⅲ都有磷酸甘油酸激酶活性，Ⅰ、Ⅱ、Ⅲ均有乳酸脱氢酶活性。下列相关叙述正确的有（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "加入灭活仙台病毒的作用是促进细胞融合"
+   },
+   {
+    "label": "B",
+    "text": "细胞Ⅰ、Ⅱ、Ⅲ分别为人-人、人-鼠、鼠-鼠融合细胞"
+   },
+   {
+    "label": "C",
+    "text": "芳烃羟化酶基因位于2号染色体上，乳酸脱氢酶基因位于11号染色上"
+   },
+   {
+    "label": "D",
+    "text": "胸苷激酶基因位于17号染色体上，磷酸甘油酸激酶基因位于X染色体上"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_22F3XqU9omhvINQrzRg2Qg#2022江苏·动物细胞融合与单克隆抗体]"
+ },
+ {
+  "root_id": "mkjr_CC_yhqnCmenYmlfBPdodOw",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "植物组织培养技术"
+  ],
+  "province": "辽宁",
+  "year": "2022",
+  "type": "单选",
+  "answer": "D",
+  "stem": "蓝莓细胞富含花青素等多酚类化合物。在蓝莓组织培养过程中，外植体切口处细胞被破坏，多酚类化合物被氧化成褐色醌类化合物，这一过程称为褐变。褐变会引起细胞生长停滞甚至死亡，导致蓝莓组织培养失败。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "花青素通常存在于蓝莓细胞的液泡中"
+   },
+   {
+    "label": "B",
+    "text": "适当增加培养物转移至新鲜培养基的频率以减少褐变"
+   },
+   {
+    "label": "C",
+    "text": "在培养基中添加合适的抗氧化剂以减少褐变"
+   },
+   {
+    "label": "D",
+    "text": "宜选用蓝莓成熟叶片为材料制备外植体"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_CC_yhqnCmenYmlfBPdodOw#2022辽宁·植物组织培养技术]"
+ },
+ {
+  "root_id": "mkjr_Zmr0apuvSN9cS9aM4Cqj8w",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "植物组织培养技术"
+  ],
+  "province": "浙江",
+  "year": "2022",
+  "type": "单选",
+  "answer": "A",
+  "stem": "农作物秸秆的回收利用方式很多，其中之一是将秸秆碎化后作为食用菌的栽培基质。碎化秸秆中纤维所起的作用，相当于植物组织培养中固体培养基的（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "琼脂+蔗糖"
+   },
+   {
+    "label": "B",
+    "text": "蔗糖+激素"
+   },
+   {
+    "label": "C",
+    "text": "激素+无机盐"
+   },
+   {
+    "label": "D",
+    "text": "无机盐+琼脂"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_Zmr0apuvSN9cS9aM4Cqj8w#2022浙江·植物组织培养技术]"
+ },
+ {
+  "root_id": "mkjr_KLewRNM2X41svk1xUtbV1w",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "动物细胞培养"
+  ],
+  "province": "辽宁",
+  "year": "2023",
+  "type": "单选",
+  "answer": "D",
+  "stem": "大量悬浮培养产流感病毒的单克隆细胞，可用于流感疫苗的生产。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "悬浮培养单克隆细胞可有效避免接触抑制"
+   },
+   {
+    "label": "B",
+    "text": "用于培养单克隆细胞的培养基通常需加血清"
+   },
+   {
+    "label": "C",
+    "text": "当病毒达到一定数量时会影响细胞的增殖"
+   },
+   {
+    "label": "D",
+    "text": "培养基pH不会影响单克隆细胞的病毒产量"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_KLewRNM2X41svk1xUtbV1w#2023辽宁·动物细胞培养]"
+ },
+ {
+  "root_id": "mkjr_hdceG.uIPRx0WEZYYXo6IA",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "动物细胞融合与单克隆抗体"
+  ],
+  "province": "江西",
+  "year": "2024",
+  "type": "多选",
+  "answer": "AD",
+  "stem": "某病毒颗粒表面有一特征性的大分子结构蛋白S（含有多个不同的抗原决定基，每一个抗原决定基能够刺激机体产生一种抗体）。为了建立一种灵敏、高效检测S蛋白的方法，研究人员采用杂交瘤技术制备了抗-S单克隆抗体（如图）。下列说法正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "利用胶原蛋白酶处理，可分散贴壁生长的骨髓瘤细胞"
+   },
+   {
+    "label": "B",
+    "text": "制备的单克隆抗体A和单克隆抗体B是相同的单克隆抗体"
+   },
+   {
+    "label": "C",
+    "text": "用于生产单克隆抗体的杂交瘤细胞可传代培养，但不能冻存"
+   },
+   {
+    "label": "D",
+    "text": "单克隆抗体A和单克隆抗体B都能够特异性识别S蛋白"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_hdceG.uIPRx0WEZYYXo6IA#2024江西·动物细胞融合与单克隆抗体]"
+ },
+ {
+  "root_id": "mkjr_JqxZZISfbVZEZkmdcUKdYw",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "植物组织培养技术",
+   "动物细胞融合与单克隆抗体"
+  ],
+  "province": "海南",
+  "year": "2024",
+  "type": "单选",
+  "answer": "D",
+  "stem": "海南龙血树具有药用和观赏价值，可利用植物组织培养技术产生愈伤组织，进而获得该种植株。动物细胞融合技术可将骨髓瘤细胞和产生特定抗体的B淋巴细胞融合形成杂交瘤细胞，进而制备单克隆抗体。下列有关这两种技术的叙述，正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "利用的原理均是细胞的全能性"
+   },
+   {
+    "label": "B",
+    "text": "使用的培养基均需添加葡萄糖和血清"
+   },
+   {
+    "label": "C",
+    "text": "培养时的温度和pH均相同"
+   },
+   {
+    "label": "D",
+    "text": "产生的愈伤组织细胞或杂交瘤细胞均具有增殖能力"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_JqxZZISfbVZEZkmdcUKdYw#2024海南·植物组织培养技术]"
+ },
+ {
+  "root_id": "mkjr_.rRyf5pn92Nel7IJkD4DyQ",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "植物体细胞杂交"
+  ],
+  "province": "湖北",
+  "year": "2024",
+  "type": "单选",
+  "answer": "B",
+  "stem": "植物甲抗旱、抗病性强，植物乙分蘖能力强、结实性好。科研人员通过植物体细胞杂交技术培育出兼有甲、乙优良性状的植物丙，过程如下图所示。下列叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "过程①中酶处理的时间差异，原因可能是两种亲本的细胞壁结构有差异"
+   },
+   {
+    "label": "B",
+    "text": "过程②中常采用灭活的仙台病毒或PEG诱导原生质体融合"
+   },
+   {
+    "label": "C",
+    "text": "过程④和⑤的培养基中均需要添加生长素和细胞分裂素"
+   },
+   {
+    "label": "D",
+    "text": "可通过分析植物丙的染色体，来鉴定其是否为杂种植株"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_.rRyf5pn92Nel7IJkD4DyQ#2024湖北·植物体细胞杂交]"
+ },
+ {
+  "root_id": "mkjr_gt0abnMolXlrvZai_0uaIQ",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "植物组织培养技术"
+  ],
+  "province": "甘肃",
+  "year": "2024",
+  "type": "单选",
+  "answer": "D",
+  "stem": "兰州百合栽培过程中易受病毒侵染，造成品质退化。某研究小组尝试通过组织培养技术获得脱毒苗，操作流程如下图。下列叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "①为脱分化过程，1号培养基中的愈伤组织是排列规则的薄壁组织团块"
+   },
+   {
+    "label": "B",
+    "text": "②为再分化过程，愈伤组织细胞分化时可能会发生基因突变或基因重组"
+   },
+   {
+    "label": "C",
+    "text": "3号培养基用于诱导生根，其细胞分裂素浓度与生长素浓度的比值大于1"
+   },
+   {
+    "label": "D",
+    "text": "百合分生区附近的病毒极少，甚至无病毒，可以作为该研究中的外植体"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_gt0abnMolXlrvZai_0uaIQ#2024甘肃·植物组织培养技术]"
+ },
+ {
+  "root_id": "mkjr_KgfWjoTJhLy1E6K3yA8pKw",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "体外受精",
+   "胚胎移植与胚胎分割"
+  ],
+  "province": "甘肃",
+  "year": "2024",
+  "type": "单选",
+  "answer": "B",
+  "stem": "甘加藏羊是甘肃高寒牧区的优良品种，是季节性发情动物，每年产羔一次，每胎一羔，繁殖率较低。为促进畜牧业发展，研究人员通过体外受精、胚胎移植等胚胎工程技术提高藏羊的繁殖率，流程如下图。下列叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "藏羊甲需用促性腺激素处理使其卵巢卵泡发育和超数排卵"
+   },
+   {
+    "label": "B",
+    "text": "藏羊乙的获能精子能与刚采集到的藏羊甲的卵母细胞受精"
+   },
+   {
+    "label": "C",
+    "text": "受体藏羊丙需和藏羊甲进行同期发情处理"
+   },
+   {
+    "label": "D",
+    "text": "后代丁的遗传物质来源于藏羊甲和藏羊乙"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_KgfWjoTJhLy1E6K3yA8pKw#2024甘肃·体外受精]"
+ },
+ {
+  "root_id": "mkjr_pPHPYD8W5PTGYs5FTLHdbQ",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "动物细胞融合与单克隆抗体"
+  ],
+  "province": "福建",
+  "year": "2024",
+  "type": "单选",
+  "answer": "D",
+  "stem": "我国科研团队研制出全球首个以尿液中的抗原为靶标的戊肝诊断试剂盒，该成果属于单克隆抗体在临床上的应用。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "该试剂盒的研制过程应用了动物细胞融合技术"
+   },
+   {
+    "label": "B",
+    "text": "该试剂盒的检测原理为抗原抗体的特异性结合"
+   },
+   {
+    "label": "C",
+    "text": "该试剂盒检测前的采样不会对受检者造成创伤"
+   },
+   {
+    "label": "D",
+    "text": "该试剂盒还可用于其他类型病毒性肝炎的检测"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_pPHPYD8W5PTGYs5FTLHdbQ#2024福建·动物细胞融合与单克隆抗体]"
+ },
+ {
+  "root_id": "mkjr_dsB07muB6LZNGJvqKGgU2Q",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "植物组织培养技术"
+  ],
+  "province": "福建",
+  "year": "2024",
+  "type": "单选",
+  "answer": "B",
+  "stem": "中国水仙是一种三倍体观赏花卉。传统生产采用分球茎繁殖方式，不仅周期长、产率低、花色单调，还易积累病毒。下列措施无法达到改良目的的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "用水仙鳞片进行植物组织培养以提高产率"
+   },
+   {
+    "label": "B",
+    "text": "利用单倍体育种对中国水仙进行品种选育"
+   },
+   {
+    "label": "C",
+    "text": "选用水仙幼嫩组织作为外植体获得脱毒苗"
+   },
+   {
+    "label": "D",
+    "text": "通过基因工程技术引入外源基因改变花色"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_dsB07muB6LZNGJvqKGgU2Q#2024福建·植物组织培养技术]"
+ },
+ {
+  "root_id": "mkjr_eyeKqn4PWv5K2R6NR_YnLg",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "胚胎移植与胚胎分割",
+   "植物组织培养技术"
+  ],
+  "province": "贵州",
+  "year": "2024",
+  "type": "单选",
+  "answer": "B",
+  "stem": "生物学实验中合理选择材料和研究方法是顺利完成实验的前提条件。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "稀释涂布平板法既可分离菌株又可用于计数"
+   },
+   {
+    "label": "B",
+    "text": "进行胚胎分割时通常是在原肠胚期进行分割"
+   },
+   {
+    "label": "C",
+    "text": "获取马铃薯脱毒苗常选取茎尖进行组织培养"
+   },
+   {
+    "label": "D",
+    "text": "使用不同的限制酶也能产生相同的黏性末端"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_eyeKqn4PWv5K2R6NR_YnLg#2024贵州·胚胎移植与胚胎分割]"
+ },
+ {
+  "root_id": "mkjr_YQ78_4uNEObYJqfNEgU4vQ",
+  "chapter": "选必三 第2章 细胞工程",
+  "points": [
+   "干细胞培养"
+  ],
+  "province": "重庆",
+  "year": "2024",
+  "type": "单选",
+  "answer": "C",
+  "stem": "自然条件下，甲、乙两种鱼均通过体外受精繁殖后代，甲属于国家保护的稀有物种，乙的种群数量多且繁殖速度较甲快。我国科学家通过下图所示流程进行相关研究，以期用于濒危鱼类的保护。下列叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "诱导后的iPGCs具有胚胎干细胞的特性"
+   },
+   {
+    "label": "B",
+    "text": "移植的iPGCs最终产生的配子具有相同的遗传信息"
+   },
+   {
+    "label": "C",
+    "text": "该实验中，子一代的遗传物质来源于物种甲"
+   },
+   {
+    "label": "D",
+    "text": "通过该实验可以获得甲的克隆"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_YQ78_4uNEObYJqfNEgU4vQ#2024重庆·干细胞培养]"
+ }
+]

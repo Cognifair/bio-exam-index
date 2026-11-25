@@ -1,0 +1,1572 @@
+[
+ {
+  "root_id": "mkjr_okTdXlPH1k31P3NCOCy7lg",
+  "chapter": "选必一 第4章 免疫调节",
+  "points": [
+   "免疫系统的功能",
+   "免疫学的应用"
+  ],
+  "province": "四川",
+  "year": "2026",
+  "type": "单选",
+  "answer": "A",
+  "stem": "汉坦病毒以啮齿类动物为主要自然宿主，人类接触汉坦病毒宿主或其排泄物、分泌物可能被感染。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "啮齿类动物丰富度下降，汉坦病毒传播率也下降"
+   },
+   {
+    "label": "B",
+    "text": "可利用抗原与抗体结合原理检测机体是否被感染"
+   },
+   {
+    "label": "C",
+    "text": "汉坦病毒必须在宿主活细胞内才能完成病毒增殖"
+   },
+   {
+    "label": "D",
+    "text": "人体依赖机体免疫防御功能清除感染的汉坦病毒"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_okTdXlPH1k31P3NCOCy7lg#2026四川·免疫系统的功能]"
+ },
+ {
+  "root_id": "mkjr_hCbSDtQ0FVbY9C30xhFPow",
+  "chapter": "选必一 第4章 免疫调节",
+  "points": [
+   "免疫系统的功能",
+   "细胞免疫"
+  ],
+  "province": "广东",
+  "year": "2026",
+  "type": "单选",
+  "answer": "D",
+  "stem": "研究人员发现，B7-H4蛋白在人滋养层细胞和某种乳腺癌细胞中高表达，且该蛋白与孕激素、细胞毒性T细胞的关系见图。已知细胞毒性T细胞可杀伤滋养层细胞和癌细胞。据图分析，下列叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "滋养层细胞将来会发育成胎膜和胎盘的一部分"
+   },
+   {
+    "label": "B",
+    "text": "该种乳腺癌细胞通过表达B7-H4蛋白逃避免疫监视"
+   },
+   {
+    "label": "C",
+    "text": "孕妇体内孕激素水平低下可能因免疫异常导致流产"
+   },
+   {
+    "label": "D",
+    "text": "孕激素类似物可抑制该种乳腺癌患者体内癌细胞生长"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_hCbSDtQ0FVbY9C30xhFPow#2026广东·免疫系统的功能]"
+ },
+ {
+  "root_id": "mkjr_f.3cDs59h4nMxU0K1p1yTg",
+  "chapter": "选必一 第4章 免疫调节",
+  "points": [
+   "非特异性免疫"
+  ],
+  "province": "江西",
+  "year": "2026",
+  "type": "单选",
+  "answer": "A",
+  "stem": "B-1a是具有自我更新能力的B淋巴细胞亚群，无需特定抗原刺激即可持续分泌天然抗体IgM，偶尔也受特定抗原刺激产生抗体IgG，是维持机体内环境稳态的重要免疫屏障。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "B-1a细胞产生天然抗体IgM的过程属于非特异性免疫"
+   },
+   {
+    "label": "B",
+    "text": "B-1a细胞是一种记忆细胞，在免疫调节中发挥重要作用"
+   },
+   {
+    "label": "C",
+    "text": "B-1a细胞分化成浆细胞产生IgG无需辅助性T细胞的参与"
+   },
+   {
+    "label": "D",
+    "text": "一定年龄后机体免疫功能开始衰退是因为B-1a细胞数量减少"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_f.3cDs59h4nMxU0K1p1yTg#2026江西·非特异性免疫]"
+ },
+ {
+  "root_id": "mkjr_FtXB.IFMzfDmeb_7pCDN8g",
+  "chapter": "选必一 第4章 免疫调节",
+  "points": [
+   "抗原呈递与识别",
+   "体液免疫"
+  ],
+  "province": "河北",
+  "year": "2026",
+  "type": "多选",
+  "answer": "ABC",
+  "stem": "幽门螺杆菌（HP）释放的毒素可破坏胃黏膜，损伤巨噬细胞，抑制辅助性T细胞的活化，从而对机体造成危害。下列分析正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "毒素会影响HP抗原信息的呈递"
+   },
+   {
+    "label": "B",
+    "text": "HP的感染会削弱机体的非特异性免疫"
+   },
+   {
+    "label": "C",
+    "text": "毒素可使患者辅助性T细胞释放的细胞因子减少"
+   },
+   {
+    "label": "D",
+    "text": "毒素作为抗原引发的免疫反应能产生与HP特异性结合的抗体"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_FtXB.IFMzfDmeb_7pCDN8g#2026河北·抗原呈递与识别]"
+ },
+ {
+  "root_id": "mkjr_8MVSVL15kXo7VyexC4qkaw",
+  "chapter": "选必一 第4章 免疫调节",
+  "points": [
+   "免疫学的应用",
+   "抗原呈递与识别"
+  ],
+  "province": "湖北",
+  "year": "2026",
+  "type": "单选",
+  "answer": "C",
+  "stem": "将患者肿瘤细胞特有的新抗原基因导入益生菌中获得的工程菌可在患者肠道内表达新抗原，从而激活患者的特异性免疫，精准杀伤肿瘤细胞，实现个性化的癌症免疫治疗。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "选用益生菌的原因是其对人体具有天然的安全性"
+   },
+   {
+    "label": "B",
+    "text": "为实现个性化癌症免疫治疗，需针对患者筛选特定肿瘤新抗原"
+   },
+   {
+    "label": "C",
+    "text": "工程菌可在体内长期存活，以维持工程菌对肿瘤的持续免疫监视"
+   },
+   {
+    "label": "D",
+    "text": "树突状细胞将肿瘤新抗原加工后呈递给辅助性T细胞，激活特异性免疫"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_8MVSVL15kXo7VyexC4qkaw#2026湖北·免疫学的应用]"
+ },
+ {
+  "root_id": "mkjr_RIigJ3OjJh4XJs_M_01VuQ",
+  "chapter": "选必一 第4章 免疫调节",
+  "points": [
+   "免疫系统的功能"
+  ],
+  "province": "湖北",
+  "year": "2026",
+  "type": "单选",
+  "answer": "D",
+  "stem": "植物局部组织受病原体侵染后会产生可移动信号分子，诱导未感染部位建立系统获得性抗性（SAR）。为研究N-羟基哌啶酸（NHP）是否是植物建立SAR的可移动信号分子，用野生型和NHP合成缺陷突变体烟草进行嫁接实验，并在砧木上接种烟草花叶病毒（TMV），检测结果如下表。 [图] 下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "若在第3组砧木上添加NHP，接穗也能建立SAR"
+   },
+   {
+    "label": "B",
+    "text": "砧木感染部位的NHP可运输到接穗并诱导建立SAR"
+   },
+   {
+    "label": "C",
+    "text": "若只在第4组的接穗上接种TMV，不会使砧木建立SAR"
+   },
+   {
+    "label": "D",
+    "text": "只要砧木为野生型，即使不接种TMV，接穗也能建立SAR"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_RIigJ3OjJh4XJs_M_01VuQ#2026湖北·免疫系统的功能]"
+ },
+ {
+  "root_id": "mkjr_qbm6ib7gydUqx7UjX1Fung",
+  "chapter": "选必一 第4章 免疫调节",
+  "points": [
+   "体液免疫"
+  ],
+  "province": "安徽",
+  "year": "2025",
+  "type": "单选",
+  "answer": "B",
+  "stem": "病原体突破机体的第一、二道防线，会激活机体的第三道防线，产生特异性免疫。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "一种病原体侵入人体，机体通常只产生一种特异性的抗体"
+   },
+   {
+    "label": "B",
+    "text": "活化后的辅助性T细胞表面的特定分子与B细胞结合，参与激活B细胞"
+   },
+   {
+    "label": "C",
+    "text": "辅助性T细胞受体和B细胞受体识别同一抗原分子的相同部位"
+   },
+   {
+    "label": "D",
+    "text": "HIV主要侵染辅助性T细胞，侵入人体后辅助性T细胞数量即开始下降"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_qbm6ib7gydUqx7UjX1Fung#2025安徽·体液免疫]"
+ },
+ {
+  "root_id": "mkjr_VxNgTu1dpS3dPx9bqMcSdQ",
+  "chapter": "选必一 第4章 免疫调节",
+  "points": [
+   "免疫学的应用"
+  ],
+  "province": "云南",
+  "year": "2025",
+  "type": "单选",
+  "answer": "D",
+  "stem": "抗蛇毒毒素血清用于治疗被毒蛇咬伤的患者。关于抗蛇毒毒素血清的制备和运用，下列说法错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "制备抗蛇毒毒素血清可用减毒的蛇毒毒素对动物多次免疫"
+   },
+   {
+    "label": "B",
+    "text": "从已免疫动物血液中分离抗蛇毒毒素血清时需去除血细胞"
+   },
+   {
+    "label": "C",
+    "text": "医务人员需根据毒蛇种类为患者注射对应抗蛇毒毒素血清"
+   },
+   {
+    "label": "D",
+    "text": "患者体内蛇毒记忆细胞是因注射抗蛇毒毒素血清而产生的"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_VxNgTu1dpS3dPx9bqMcSdQ#2025云南·免疫学的应用]"
+ },
+ {
+  "root_id": "mkjr_GxOBQYUZ9X1Bt3MbhQvMzg",
+  "chapter": "选必一 第4章 免疫调节",
+  "points": [
+   "免疫失调病"
+  ],
+  "province": "北京",
+  "year": "2023",
+  "type": "单选",
+  "answer": "C",
+  "stem": "有些人吸入花粉等过敏原会引发过敏性鼻炎，以下对过敏的正确理解是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "过敏是对“非己”物质的正常反应"
+   },
+   {
+    "label": "B",
+    "text": "初次接触过敏原就会出现过敏症状"
+   },
+   {
+    "label": "C",
+    "text": "过敏存在明显的个体差异和遗传倾向"
+   },
+   {
+    "label": "D",
+    "text": "抗体与过敏原结合后吸附于肥大细胞"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_GxOBQYUZ9X1Bt3MbhQvMzg#2023北京·免疫失调病]"
+ },
+ {
+  "root_id": "mkjr_9GVa432Vsy5OXkqFQwXZAg",
+  "chapter": "选必一 第4章 免疫调节",
+  "points": [
+   "免疫学的应用"
+  ],
+  "province": "北京",
+  "year": "2023",
+  "type": "单选",
+  "answer": "D",
+  "stem": "有关预防和治疗病毒性疾病的表述，正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "75%的乙醇能破坏病毒结构，故饮酒可预防感染"
+   },
+   {
+    "label": "B",
+    "text": "疫苗接种后可立即实现有效保护，无需其他防护"
+   },
+   {
+    "label": "C",
+    "text": "大多数病毒耐冷不耐热，故洗热水澡可预防病毒感染"
+   },
+   {
+    "label": "D",
+    "text": "吸烟不能预防病毒感染，也不能用于治疗病毒性疾病"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_9GVa432Vsy5OXkqFQwXZAg#2023北京·免疫学的应用]"
+ },
+ {
+  "root_id": "mkjr_FEqJu3jpPqIMQh5IJgEt2Q",
+  "chapter": "选必一 第4章 免疫调节",
+  "points": [
+   "体液免疫与细胞免疫的关系"
+  ],
+  "province": "天津",
+  "year": "2023",
+  "type": "单选",
+  "answer": "C",
+  "stem": "CD4是辅助性T细胞（CD4+）上的一种膜蛋白，CD8是细胞毒性T细胞（CD8+）上的一种膜蛋白，下列过程不能发生的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "CD4+参与体液免疫"
+   },
+   {
+    "label": "B",
+    "text": "CD4+参与细胞免疫"
+   },
+   {
+    "label": "C",
+    "text": "CD8+参与体液免疫"
+   },
+   {
+    "label": "D",
+    "text": "CD8+参与细胞免疫"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_FEqJu3jpPqIMQh5IJgEt2Q#2023天津·体液免疫与细胞免疫的关系]"
+ },
+ {
+  "root_id": "mkjr_e351Klo8JaKEfugubvClPQ",
+  "chapter": "选必一 第4章 免疫调节",
+  "points": [
+   "体液免疫与细胞免疫的关系"
+  ],
+  "province": "广东",
+  "year": "2023",
+  "type": "单选",
+  "answer": "C",
+  "stem": "病原体感染可引起人体产生免疫反应。如图表示某人被病毒感染后体内T细胞和病毒的变化。下列叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "a-b期间辅助性T细胞增殖并分泌细胞因子"
+   },
+   {
+    "label": "B",
+    "text": "b-c期间细胞毒性T细胞大量裂解被病毒感染的细胞"
+   },
+   {
+    "label": "C",
+    "text": "病毒与辅助性T细胞接触为B细胞的激活提供第二个信号"
+   },
+   {
+    "label": "D",
+    "text": "病毒和细菌感染可刺激记忆B细胞和记忆T细胞的形成"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_e351Klo8JaKEfugubvClPQ#2023广东·体液免疫与细胞免疫的关系]"
+ },
+ {
+  "root_id": "mkjr_MWmBnXP3pWJT.d3TyPApZQ",
+  "chapter": "选必一 第4章 免疫调节",
+  "points": [
+   "免疫系统的功能"
+  ],
+  "province": "北京",
+  "year": "2022",
+  "type": "单选",
+  "answer": "A",
+  "stem": "人体皮肤损伤时，金黄色葡萄球菌容易侵入伤口并引起感染。清除金黄色葡萄球菌的过程中，免疫系统发挥的基本功能属于（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "免疫防御"
+   },
+   {
+    "label": "B",
+    "text": "免疫自稳"
+   },
+   {
+    "label": "C",
+    "text": "免疫监视、免疫自稳"
+   },
+   {
+    "label": "D",
+    "text": "免疫防御、免疫监视"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_MWmBnXP3pWJT.d3TyPApZQ#2022北京·免疫系统的功能]"
+ },
+ {
+  "root_id": "mkjr_UF0zNmCGY0XjqY1aLGm8bQ",
+  "chapter": "选必一 第4章 免疫调节",
+  "points": [
+   "免疫记忆与二次免疫",
+   "细胞免疫"
+  ],
+  "province": "未知",
+  "year": "2026",
+  "type": "单选",
+  "answer": "B",
+  "stem": "人体鼻腔黏膜中长期驻留着针对甲型流感病毒(IAV)的记忆T细胞(TRM)，该细胞是一种辅助性T细胞，其增殖活性较低，但数量随年龄增长而增多。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "TRM发挥免疫防御作用，其数量与IAV感染次数有关"
+   },
+   {
+    "label": "B",
+    "text": "TRM具有IAV抗原特异性，可识别并裂解感染IAV的靶细胞"
+   },
+   {
+    "label": "C",
+    "text": "再次接触IAV时，B细胞活化需要IAV和TRM两个信号共同刺激"
+   },
+   {
+    "label": "D",
+    "text": "鼻腔接种能诱导TRM增殖和驻留的IAV疫苗，可增强局部免疫"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_UF0zNmCGY0XjqY1aLGm8bQ#2026未知·免疫记忆与二次免疫]"
+ },
+ {
+  "root_id": "mkjr_c_3Vvabqrg3FUEDgdD01kg",
+  "chapter": "选必一 第4章 免疫调节",
+  "points": [
+   "免疫失调病"
+  ],
+  "province": "黑吉辽蒙",
+  "year": "2026",
+  "type": "多选",
+  "answer": "ABD",
+  "stem": "下图为某种自身免疫病发病过程中，自身抗体参与的免疫反应部分环节示意图。下列叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "B细胞通过膜表面受体直接识别受损细胞释放的自身抗原"
+   },
+   {
+    "label": "B",
+    "text": "该过程中辅助性T细胞表面的特定分子会发生变化并与B细胞结合"
+   },
+   {
+    "label": "C",
+    "text": "自身抗体能与自身抗原特异性结合，从而限制自身免疫病的发展"
+   },
+   {
+    "label": "D",
+    "text": "正常情况下，位于胞内的自身抗原不引发免疫反应"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_c_3Vvabqrg3FUEDgdD01kg#2026黑吉辽蒙·免疫失调病]"
+ },
+ {
+  "root_id": "mkjr_DAwi3vZEAqg1lRO9I1MlRw",
+  "chapter": "选必一 第4章 免疫调节",
+  "points": [
+   "免疫系统的功能"
+  ],
+  "province": "山东",
+  "year": "2025",
+  "type": "单选",
+  "answer": "A",
+  "stem": "机体长期感染某病毒可导致细胞癌变。交感神经释放的神经递质作用于癌细胞表面β受体，上调癌细胞某蛋白的表达，破坏癌细胞的连接，从而促进癌细胞转移。下列说法错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "机体清除癌细胞的过程属于免疫自稳"
+   },
+   {
+    "label": "B",
+    "text": "使用β受体阻断剂可降低癌细胞转移率"
+   },
+   {
+    "label": "C",
+    "text": "可通过接种该病毒疫苗降低患相关癌症的风险"
+   },
+   {
+    "label": "D",
+    "text": "辅助性T细胞可能参与机体清除癌细胞的过程"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_DAwi3vZEAqg1lRO9I1MlRw#2025山东·免疫系统的功能]"
+ },
+ {
+  "root_id": "mkjr_fgTXFi0XyRG_VOYMoUpMvA",
+  "chapter": "选必一 第4章 免疫调节",
+  "points": [
+   "免疫系统的功能"
+  ],
+  "province": "广西",
+  "year": "2025",
+  "type": "单选",
+  "answer": "A",
+  "stem": "科学家利用携带猪源细胞表面蛋白基因（GT）的NDV病毒靶向感染人体内癌细胞，从而强烈激活免疫系统，起到了较好的肿瘤治疗效果。下列有关说法正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "培养体外实验使用的癌细胞时，通常需添加血清"
+   },
+   {
+    "label": "B",
+    "text": "感染NDV-GT的癌细胞会被巨噬细胞特异性吞噬"
+   },
+   {
+    "label": "C",
+    "text": "经NDV-GT方法治愈的患者，体内不存在能识别GT蛋白的免疫细胞"
+   },
+   {
+    "label": "D",
+    "text": "人体正常细胞若被感染并表达了GT，不会被免疫系统识别为“非己”成分"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_fgTXFi0XyRG_VOYMoUpMvA#2025广西·免疫系统的功能]"
+ },
+ {
+  "root_id": "mkjr_Qa5Q.Bukds.Am8CwIFviIQ",
+  "chapter": "选必一 第4章 免疫调节",
+  "points": [
+   "免疫失调病"
+  ],
+  "province": "江西",
+  "year": "2025",
+  "type": "单选",
+  "answer": "C",
+  "stem": "机体免疫失调会导致低丙种球蛋白血症和重症肌无力等疾病。低丙种球蛋白血症主要是机体辅助性T细胞功能异常，进而引起相关抗体合成障碍所致；重症肌无力主要是自身的乙酰胆碱受体刺激机体产生抗体，该抗体竞争性结合乙酰胆碱受体导致的功能性障碍。依据以上叙述，下列判断正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "低丙种球蛋白血症和重症肌无力都属于自身免疫病"
+   },
+   {
+    "label": "B",
+    "text": "低丙种球蛋白血症主要是细胞免疫异常引起的疾病"
+   },
+   {
+    "label": "C",
+    "text": "重症肌无力发生过程中出现了体液免疫异常的现象"
+   },
+   {
+    "label": "D",
+    "text": "记忆B细胞是乙酰胆碱受体刺激机体产生抗体的必要条件"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_Qa5Q.Bukds.Am8CwIFviIQ#2025江西·免疫失调病]"
+ },
+ {
+  "root_id": "mkjr_v5XmijPEfFJkFm6491DzRg",
+  "chapter": "选必一 第4章 免疫调节",
+  "points": [
+   "体液免疫"
+  ],
+  "province": "河北",
+  "year": "2025",
+  "type": "单选",
+  "answer": "C",
+  "stem": "轮状病毒引起的小儿腹泻是主要经消化道感染的常见传染病，多表现出高热和腹泻等症状。病毒繁殖后，经消化道排出体外。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "当体温维持在39℃时，患儿的产热量与散热量相等"
+   },
+   {
+    "label": "B",
+    "text": "检查粪便可诊断腹泻患儿是否为轮状病毒感染"
+   },
+   {
+    "label": "C",
+    "text": "抗病毒抗体可诱导机体产生针对该病毒的特异性免疫"
+   },
+   {
+    "label": "D",
+    "text": "保持手的清洁和饮食卫生有助于预防该传染病"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_v5XmijPEfFJkFm6491DzRg#2025河北·体液免疫]"
+ },
+ {
+  "root_id": "mkjr_6B53TadTgxtZ_r4Hlg1zYA",
+  "chapter": "选必一 第4章 免疫调节",
+  "points": [
+   "细胞免疫",
+   "体液免疫与细胞免疫的关系"
+  ],
+  "province": "河北",
+  "year": "2025",
+  "type": "单选",
+  "answer": "B",
+  "stem": "根据子代病毒释放时宿主细胞是否裂解，病毒可分为裂解型和非裂解型。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "与裂解型相比，非裂解型病毒被清除过程中细胞免疫发挥更关键的作用"
+   },
+   {
+    "label": "B",
+    "text": "裂解型病毒引起的体液免疫不需要抗原呈递细胞的参与"
+   },
+   {
+    "label": "C",
+    "text": "病毒的感染可引起辅助性T细胞分泌细胞因子，促进B细胞的分裂和分化"
+   },
+   {
+    "label": "D",
+    "text": "病毒感染后，浆细胞产生的抗体可特异性结合胞外游离的病毒"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_6B53TadTgxtZ_r4Hlg1zYA#2025河北·细胞免疫]"
+ },
+ {
+  "root_id": "mkjr_VA7Y7OPQ5BbOCkBbHjo.xg",
+  "chapter": "选必一 第4章 免疫调节",
+  "points": [
+   "体液免疫与细胞免疫的关系"
+  ],
+  "province": "河南",
+  "year": "2025",
+  "type": "单选",
+  "answer": "C",
+  "stem": "病原体进入机体引起免疫应答过程的示意图如下。下列叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "阶段Ⅰ发生在感染早期，①和②为参与特异性免疫的淋巴细胞"
+   },
+   {
+    "label": "B",
+    "text": "①和②通过摄取并呈递抗原，参与构成保卫机体的第一道防线"
+   },
+   {
+    "label": "C",
+    "text": "活化之后的③可以分泌细胞因子，从而加速④的分裂分化过程"
+   },
+   {
+    "label": "D",
+    "text": "阶段Ⅱ消灭病原体可通过③→⑤→⑥示意的细胞免疫过程来完成"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_VA7Y7OPQ5BbOCkBbHjo.xg#2025河南·体液免疫与细胞免疫的关系]"
+ },
+ {
+  "root_id": "mkjr_wuC2b_isxEIQjphDfNZmFA",
+  "chapter": "选必一 第4章 免疫调节",
+  "points": [
+   "免疫学的应用",
+   "体液免疫"
+  ],
+  "province": "海南",
+  "year": "2025",
+  "type": "单选",
+  "answer": "B",
+  "stem": "某团队从一养蛇人所捐献的血样中，利用现代生物技术获得两种具有抗蛇毒能力的单克隆抗体，用于治疗毒蛇咬伤，效果良好。下列有关叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "若同种蛇毒再次进入该养蛇人体内，则其血液中抗蛇毒抗体的含量会增加"
+   },
+   {
+    "label": "B",
+    "text": "该养蛇人体内抗蛇毒抗体的产生与B细胞有关，与T细胞无关"
+   },
+   {
+    "label": "C",
+    "text": "抗蛇毒抗体能与蛇毒中的特定抗原结合，体现了抗体作用的特异性"
+   },
+   {
+    "label": "D",
+    "text": "这两种单克隆抗体在体内结合蛇毒抗原后，可被免疫细胞吞噬"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_wuC2b_isxEIQjphDfNZmFA#2025海南·免疫学的应用]"
+ },
+ {
+  "root_id": "mkjr_KMXZf1vjh6UayYKQ_4a5FQ",
+  "chapter": "选必一 第4章 免疫调节",
+  "points": [
+   "免疫系统的组成"
+  ],
+  "province": "湖南",
+  "year": "2025",
+  "type": "单选",
+  "answer": "A",
+  "stem": "T细胞是重要的免疫细胞。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "T细胞来自骨髓造血干细胞并在骨髓中成熟"
+   },
+   {
+    "label": "B",
+    "text": "树突状细胞可将病毒相关抗原呈递给辅助性T细胞"
+   },
+   {
+    "label": "C",
+    "text": "辅助性T细胞可参与细胞毒性T细胞的活化"
+   },
+   {
+    "label": "D",
+    "text": "T细胞可集中分布在淋巴结等免疫器官"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_KMXZf1vjh6UayYKQ_4a5FQ#2025湖南·免疫系统的组成]"
+ },
+ {
+  "root_id": "mkjr_8xuhhVQ.VYpMvXT8VaUORg",
+  "chapter": "选必一 第4章 免疫调节",
+  "points": [
+   "体液免疫"
+  ],
+  "province": "湖南",
+  "year": "2025",
+  "type": "多选",
+  "answer": "CD",
+  "stem": "红细胞凝集的本质是抗原—抗体反应。ABO血型分型依据如表。A和B抗原都在H抗原的基础上形成，基因H决定H抗原的形成，基因H缺失者血清中有抗A、抗B和抗H抗体。下列叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "A和B抗原都是红细胞的分子标签"
+   },
+   {
+    "label": "B",
+    "text": "若按ABO血型分型依据，基因H缺失者的血型属于O型"
+   },
+   {
+    "label": "C",
+    "text": "O型血的血液与A型血的血清混合，会发生红细胞凝集"
+   },
+   {
+    "label": "D",
+    "text": "基因H缺失者的血液与基因H正常的O型血液混合，不会发生红细胞凝集"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_8xuhhVQ.VYpMvXT8VaUORg#2025湖南·体液免疫]"
+ },
+ {
+  "root_id": "mkjr_cbjAcNYjaiwridCzrbXmPQ",
+  "chapter": "选必一 第4章 免疫调节",
+  "points": [
+   "体液免疫"
+  ],
+  "province": "天津",
+  "year": "2024",
+  "type": "单选",
+  "answer": "A",
+  "stem": "白细胞介素-14是一种由T细胞分泌的细胞因子，通过刺激B细胞增殖分化而促进（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "浆细胞形成"
+   },
+   {
+    "label": "B",
+    "text": "树突状细胞呈递抗原"
+   },
+   {
+    "label": "C",
+    "text": "细胞毒性T细胞分化"
+   },
+   {
+    "label": "D",
+    "text": "巨噬细胞吞噬抗原"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_cbjAcNYjaiwridCzrbXmPQ#2024天津·体液免疫]"
+ },
+ {
+  "root_id": "mkjr_OHgySf1Il58unstdTxZ58w",
+  "chapter": "选必一 第4章 免疫调节",
+  "points": [
+   "体液免疫"
+  ],
+  "province": "安徽",
+  "year": "2024",
+  "type": "单选",
+  "answer": "C",
+  "stem": "羊口疮是由羊口疮病毒（ORFV）感染引起的急性接触性人畜共患传染病，宿主易被ORFV反复感染，影响畜牧业发展，危害人体健康。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "ORFV感染宿主引起的特异性免疫反应属于细胞免疫"
+   },
+   {
+    "label": "B",
+    "text": "ORFV感染宿主后被APC和T细胞摄取、处理和呈递"
+   },
+   {
+    "label": "C",
+    "text": "ORFV反复感染可能与感染后宿主产生的抗体少有关"
+   },
+   {
+    "label": "D",
+    "text": "辅助性T细胞在ORFV和细胞因子的刺激下增殖分化"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_OHgySf1Il58unstdTxZ58w#2024安徽·体液免疫]"
+ },
+ {
+  "root_id": "mkjr_xacm9cMt9MG.k5ia88SZxw",
+  "chapter": "选必一 第4章 免疫调节",
+  "points": [
+   "免疫学的应用",
+   "体液免疫与细胞免疫的关系"
+  ],
+  "province": "山东",
+  "year": "2024",
+  "type": "单选",
+  "answer": "C",
+  "stem": "乙型肝炎病毒（HBV）的结构模式图如图所示。HBV与肝细胞吸附结合后，脱去含有表面抗原的包膜，进入肝细胞后再脱去由核心抗原组成的衣壳，大量增殖形成新的HBV，释放后再感染其他肝细胞。下列说法正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "树突状细胞识别HBV后只发挥其吞噬功能"
+   },
+   {
+    "label": "B",
+    "text": "辅助性T细胞识别并裂解被HBV感染的肝细胞"
+   },
+   {
+    "label": "C",
+    "text": "根据表面抗原可制备预防乙型肝炎的乙肝疫苗"
+   },
+   {
+    "label": "D",
+    "text": "核心抗原诱导机体产生特异性抗体的过程属于细胞免疫"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_xacm9cMt9MG.k5ia88SZxw#2024山东·免疫学的应用]"
+ },
+ {
+  "root_id": "mkjr_cMwzwZkcRw8dZ1Xs.Q2wCA",
+  "chapter": "选必一 第4章 免疫调节",
+  "points": [
+   "免疫系统的功能",
+   "细胞免疫"
+  ],
+  "province": "辽宁",
+  "year": "2025",
+  "type": "多选",
+  "answer": "CD",
+  "stem": "T细胞通过T细胞受体（TCR）识别肿瘤抗原，为研究TCR与抗原结合的亲和力对肿瘤生长的影响，将高、低两种亲和力的特异性T细胞输入至肿瘤模型小鼠，检测肿瘤生长情况（图1）及评估T细胞耗竭程度（图2）。T细胞耗竭指T细胞功能下降和增殖能力减弱，表达耗竭标志物的T细胞比例与其耗竭程度正相关。下列叙述正确的是（ ） [图] [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "T细胞的抗肿瘤作用体现了免疫自稳功能"
+   },
+   {
+    "label": "B",
+    "text": "T细胞在抗肿瘤免疫中不需要抗原呈递细胞参与"
+   },
+   {
+    "label": "C",
+    "text": "低亲和力T细胞能够抑制肿瘤生长"
+   },
+   {
+    "label": "D",
+    "text": "高亲和力T细胞更易耗竭且能抑制小鼠的免疫"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_cMwzwZkcRw8dZ1Xs.Q2wCA#2025辽宁·免疫系统的功能]"
+ },
+ {
+  "root_id": "mkjr_ydrxelavZp3RcQkQnMB0YA",
+  "chapter": "选必一 第4章 免疫调节",
+  "points": [
+   "免疫失调病",
+   "免疫学的应用"
+  ],
+  "province": "贵州",
+  "year": "2025",
+  "type": "单选",
+  "answer": "A",
+  "stem": "抗蛇毒血清常用已免疫的马制备，对毒蛇咬伤病人的治疗具有不可替代的临床价值，但注射后可能引起部分病人皮肤潮红、呼吸困难等，严重者可致过敏性休克。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "给病人注射抗蛇毒血清使B细胞分化并产生针对蛇毒的特异性抗体"
+   },
+   {
+    "label": "B",
+    "text": "抗蛇毒血清引起病人出现皮肤潮红是机体排除外来异物的免疫防御"
+   },
+   {
+    "label": "C",
+    "text": "注射后出现呼吸困难的病人应停用抗蛇毒血清并适当使用抗组胺药物"
+   },
+   {
+    "label": "D",
+    "text": "上述症状的出现与否和严重程度存在着明显的遗传倾向以及个体差异"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_ydrxelavZp3RcQkQnMB0YA#2025贵州·免疫失调病]"
+ },
+ {
+  "root_id": "mkjr_m_nibCS.rsAdn0s_77BrRw",
+  "chapter": "选必一 第4章 免疫调节",
+  "points": [
+   "免疫失调病",
+   "免疫系统的功能"
+  ],
+  "province": "重庆",
+  "year": "2025",
+  "type": "单选",
+  "answer": "A",
+  "stem": "图为机体感染HIV一段时间后血浆中HIV含量的变化，下列说法正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "机体的第三道防线在t0-t1段已经开始发挥作用"
+   },
+   {
+    "label": "B",
+    "text": "时期Ⅰ血浆中病毒的清除主要靠细胞免疫"
+   },
+   {
+    "label": "C",
+    "text": "时期Ⅱ病毒含量的上升会促进辅助性T细胞数量增加"
+   },
+   {
+    "label": "D",
+    "text": "t1时刻进行治疗比t2时刻更有利于维持机体的免疫功能"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_m_nibCS.rsAdn0s_77BrRw#2025重庆·免疫失调病]"
+ },
+ {
+  "root_id": "mkjr_Er4w0rnCAe1znOyqrABdMw",
+  "chapter": "选必一 第4章 免疫调节",
+  "points": [
+   "免疫失调病"
+  ],
+  "province": "浙江",
+  "year": "2023",
+  "type": "单选",
+  "answer": "C",
+  "stem": "某人的左眼球严重损伤，医生建议立即摘除左眼球，若不及时摘除，右眼会因自身免疫而受损。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "在人体发育过程中，眼球内部的抗原性物质已被完全清除"
+   },
+   {
+    "label": "B",
+    "text": "正常情况下，人体内不存在能识别眼球内部抗原的免疫细胞"
+   },
+   {
+    "label": "C",
+    "text": "眼球损伤后，眼球内部的某些物质释放出来引发特异性免疫"
+   },
+   {
+    "label": "D",
+    "text": "左眼球损伤后释放的抗原性物质运送至右眼球引发自身免疫"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_Er4w0rnCAe1znOyqrABdMw#2023浙江·免疫失调病]"
+ },
+ {
+  "root_id": "mkjr_AJLERDHW9VG6RBEJ.Smwog",
+  "chapter": "选必一 第4章 免疫调节",
+  "points": [
+   "免疫系统的功能"
+  ],
+  "province": "浙江",
+  "year": "2023",
+  "type": "单选",
+  "answer": "C",
+  "stem": "肿瘤细胞在体内生长、转移及复发的过程中，必须不断逃避机体免疫系统的攻击，这就是所谓的“免疫逃逸”。关于“免疫逃逸”，下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "肿瘤细胞表面产生抗原“覆盖物”，可“躲避”免疫细胞的识别"
+   },
+   {
+    "label": "B",
+    "text": "肿瘤细胞表面抗原性物质的丢失，可逃避T细胞的识别"
+   },
+   {
+    "label": "C",
+    "text": "肿瘤细胞大量表达某种产物，可减弱细胞毒性T细胞的凋亡"
+   },
+   {
+    "label": "D",
+    "text": "肿瘤细胞分泌某种免疫抑制因子，可减弱免疫细胞的作用"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_AJLERDHW9VG6RBEJ.Smwog#2023浙江·免疫系统的功能]"
+ },
+ {
+  "root_id": "mkjr_nwxLYT2VtVZ.xi4m3T7hsA",
+  "chapter": "选必一 第4章 免疫调节",
+  "points": [
+   "非特异性免疫",
+   "体液免疫"
+  ],
+  "province": "河北",
+  "year": "2022",
+  "type": "单选",
+  "answer": "D",
+  "stem": "气管黏膜由黏膜上皮和固有层组成。在抗原刺激下，分泌型抗体IgA（sIgA）穿过黏膜上皮细胞到达黏膜表面，可与相应病原体结合形成复合物，随气管黏膜分泌物排出体外（如下图）。下列叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "图中甲为浆细胞，内质网发达，不具备识别抗原的能力"
+   },
+   {
+    "label": "B",
+    "text": "sIgA通过阻断相应病原体对黏膜上皮细胞的黏附发挥抗感染作用"
+   },
+   {
+    "label": "C",
+    "text": "黏膜及其分泌物参与组成保卫人体的第一道防线"
+   },
+   {
+    "label": "D",
+    "text": "sIgA分泌及参与清除病原体的过程实现了免疫系统的防卫、监控和清除功能"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_nwxLYT2VtVZ.xi4m3T7hsA#2022河北·非特异性免疫]"
+ },
+ {
+  "root_id": "mkjr_JqraUDCaTY2rNjXpK23p0A",
+  "chapter": "选必一 第4章 免疫调节",
+  "points": [
+   "免疫学的应用"
+  ],
+  "province": "湖北",
+  "year": "2022",
+  "type": "单选",
+  "answer": "D",
+  "stem": "某肾病患者需进行肾脏移植手术。针对该患者可能出现的免疫排斥反应，下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "免疫排斥反应主要依赖于T细胞的作用"
+   },
+   {
+    "label": "B",
+    "text": "患者在术后需使用免疫抑制剂以抑制免疫细胞的活性"
+   },
+   {
+    "label": "C",
+    "text": "器官移植前可以对患者进行血浆置换，以减轻免疫排斥反应"
+   },
+   {
+    "label": "D",
+    "text": "进行肾脏移植前，无需考虑捐献者与患者的ABO血型是否相同"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_JqraUDCaTY2rNjXpK23p0A#2022湖北·免疫学的应用]"
+ },
+ {
+  "root_id": "mkjr_wA2SQ5TDix4bTjica0VAiw",
+  "chapter": "选必一 第4章 免疫调节",
+  "points": [
+   "免疫系统的功能"
+  ],
+  "province": "湖南",
+  "year": "2022",
+  "type": "单选",
+  "answer": "D",
+  "stem": "病原体入侵引起机体免疫应答，释放免疫活性物质。过度免疫应答造成机体炎症损伤，机体可通过一系列反应来降低损伤，如图所示。下列叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "免疫活性物质可与相应受体结合，从而调节神经-内分泌系统功能"
+   },
+   {
+    "label": "B",
+    "text": "适度使用肾上腺皮质激素可缓解某些病原体引起的过度炎症反应"
+   },
+   {
+    "label": "C",
+    "text": "过度炎症反应引起的免疫抑制会增加机体肿瘤发生风险"
+   },
+   {
+    "label": "D",
+    "text": "图中神经递质与肾上腺皮质激素对下丘脑分泌CRH有协同促进作用"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_wA2SQ5TDix4bTjica0VAiw#2022湖南·免疫系统的功能]"
+ },
+ {
+  "root_id": "mkjr_djtDMQTU8K1bkj8AGCDnbA",
+  "chapter": "选必一 第4章 免疫调节",
+  "points": [
+   "免疫系统的功能"
+  ],
+  "province": "辽宁",
+  "year": "2022",
+  "type": "单选",
+  "answer": "A",
+  "stem": "下列关于人体免疫系统功能的叙述，错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "抗体能消灭细胞外液中的病原体，细胞毒性T细胞能消灭侵入细胞内的病原体"
+   },
+   {
+    "label": "B",
+    "text": "首次感染新的病原体时，B细胞在辅助性T细胞的辅助下才能被活化"
+   },
+   {
+    "label": "C",
+    "text": "若免疫监视功能低下，机体会有持续的病毒感染或肿瘤发生"
+   },
+   {
+    "label": "D",
+    "text": "“预防”胜于“治疗”，保持机体正常的免疫功能对抵抗疾病非常重要"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_djtDMQTU8K1bkj8AGCDnbA#2022辽宁·免疫系统的功能]"
+ },
+ {
+  "root_id": "mkjr_dsa2pqaKsQveStEbx8kxjw",
+  "chapter": "选必一 第4章 免疫调节",
+  "points": [
+   "免疫记忆与二次免疫",
+   "体液免疫与细胞免疫的关系"
+  ],
+  "province": "浙江",
+  "year": "2022",
+  "type": "单选",
+  "answer": "B",
+  "stem": "免疫应答的特殊性与记忆包括三个事件：①对“非己”的分子标志进行特异识别；②淋巴细胞反复分裂产生数量大的淋巴细胞群；③淋巴细胞分化成特化的效应细胞群和记忆细胞群。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "针对胞外毒素，事件①中一个未活化的B细胞可能被任何一种胞外毒素致敏"
+   },
+   {
+    "label": "B",
+    "text": "针对异体移植细胞，事件①中辅助性T细胞和细胞毒性T细胞都需接受抗原MHC复合体的信息"
+   },
+   {
+    "label": "C",
+    "text": "事件②中，辅助性T细胞在胸腺中大量增殖，分泌白细胞介素-2等多种蛋白因子"
+   },
+   {
+    "label": "D",
+    "text": "事件③中，效应细胞群和记忆细胞群协同杀灭和清除入侵病原体"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_dsa2pqaKsQveStEbx8kxjw#2022浙江·免疫记忆与二次免疫]"
+ },
+ {
+  "root_id": "mkjr_rq1Zmjm3heP.O46VyxKWlA",
+  "chapter": "选必一 第4章 免疫调节",
+  "points": [
+   "免疫学的应用",
+   "免疫失调病"
+  ],
+  "province": "湖南",
+  "year": "2023",
+  "type": "单选",
+  "answer": "B",
+  "stem": "某少年意外被锈钉扎出一较深伤口，经查体内无抗破伤风的抗体。医生建议使用破伤风类毒素（抗原）和破伤风抗毒素（抗体）以预防破伤风。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "伤口清理后，须尽快密闭包扎，以防止感染"
+   },
+   {
+    "label": "B",
+    "text": "注射破伤风抗毒素可能出现的过敏反应属于免疫防御"
+   },
+   {
+    "label": "C",
+    "text": "注射破伤风类毒素后激活的记忆细胞能产生抗体"
+   },
+   {
+    "label": "D",
+    "text": "有效注射破伤风抗毒素对人体的保护时间长于注射破伤风类毒素"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_rq1Zmjm3heP.O46VyxKWlA#2023湖南·免疫学的应用]"
+ },
+ {
+  "root_id": "mkjr_R4k7wb9HyGFp1RaCWKWabQ",
+  "chapter": "选必一 第4章 免疫调节",
+  "points": [
+   "抗原呈递与识别",
+   "体液免疫与细胞免疫的关系"
+  ],
+  "province": "课标",
+  "year": "2023",
+  "type": "单选",
+  "answer": "B",
+  "stem": "人体内的免疫细胞是体液免疫和细胞免疫过程的重要参与者。下列叙述正确的是（ ） ①免疫细胞表面的受体可识别细菌、病毒等入侵机体的病原体 ②树突状细胞能够处理和呈递抗原，淋巴细胞不能呈递抗原 ③辅助性T细胞参与体液免疫过程而不参与细胞免疫过程 ④体液免疫可产生记忆B细胞，细胞免疫可产生记忆T细胞 ⑤某些致病细菌感染人体既可引发体液免疫又可引发细胞免疫",
+  "options": [
+   {
+    "label": "A",
+    "text": "①②④"
+   },
+   {
+    "label": "B",
+    "text": "①④⑤"
+   },
+   {
+    "label": "C",
+    "text": "②③⑤"
+   },
+   {
+    "label": "D",
+    "text": "③④⑤"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_R4k7wb9HyGFp1RaCWKWabQ#2023课标·抗原呈递与识别]"
+ },
+ {
+  "root_id": "mkjr_zJxQbj._KfPft.Lsn.rXTw",
+  "chapter": "选必一 第4章 免疫调节",
+  "points": [
+   "体液免疫"
+  ],
+  "province": "辽宁",
+  "year": "2023",
+  "type": "多选",
+  "answer": "ABC",
+  "stem": "下图是人体被某寄生虫感染后，发生特异性免疫的部分过程。下列叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "m为树突状细胞，能识别、吞噬抗原和呈递抗原信息"
+   },
+   {
+    "label": "B",
+    "text": "n为辅助性T细胞，能分泌细胞因子、接受和传递信息"
+   },
+   {
+    "label": "C",
+    "text": "p为B细胞，其活化需两个信号的刺激和细胞因子的作用"
+   },
+   {
+    "label": "D",
+    "text": "q为浆细胞，能分泌特异性抗体和分裂分化为记忆细胞"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_zJxQbj._KfPft.Lsn.rXTw#2023辽宁·体液免疫]"
+ },
+ {
+  "root_id": "mkjr_vm9oJu3iQ4Vf_qly3XOWGA",
+  "chapter": "选必一 第4章 免疫调节",
+  "points": [
+   "免疫失调病"
+  ],
+  "province": "江西",
+  "year": "2024",
+  "type": "单选",
+  "answer": "C",
+  "stem": "某些病原微生物的感染会引起机体产生急性炎症反应（造成机体组织损伤）。为研究化合物Y的抗炎效果，研究人员以细菌脂多糖（LPS）诱导的急性炎症小鼠为空白对照，以中药复方制剂H为阳性对照，用相关淋巴细胞的增殖率表示炎症反应程度，进行相关实验，结果如图。下列说法错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "LPS诱导的急性炎症是一种特异性免疫失调所引起的机体反应"
+   },
+   {
+    "label": "B",
+    "text": "中药复方制剂H可以缓解LPS诱导的小鼠急性炎症"
+   },
+   {
+    "label": "C",
+    "text": "化合物Y可以增强急性炎症小鼠的特异性免疫反应"
+   },
+   {
+    "label": "D",
+    "text": "中药复方制剂H比化合物Y具有更好的抗炎效果"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_vm9oJu3iQ4Vf_qly3XOWGA#2024江西·免疫失调病]"
+ },
+ {
+  "root_id": "mkjr_0wAHanc9mv.cVlWbQfhdxQ",
+  "chapter": "选必一 第4章 免疫调节",
+  "points": [
+   "免疫系统的组成"
+  ],
+  "province": "海南",
+  "year": "2024",
+  "type": "单选",
+  "answer": "C",
+  "stem": "细胞因子作为免疫活性物质在免疫调节中发挥重要作用。I型干扰素具有抑制真核细胞蛋白质合成等多种作用，是一类临床上常用于治疗疾病的细胞因子。下列有关叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "细胞因子与神经递质、激素都属于信号分子，他们的受体结构相同"
+   },
+   {
+    "label": "B",
+    "text": "细胞因子能促进T淋巴细胞和浆细胞的分裂、分化"
+   },
+   {
+    "label": "C",
+    "text": "I型干扰素可用于治疗肿瘤和病毒感染性疾病"
+   },
+   {
+    "label": "D",
+    "text": "干扰素、抗体、溶菌酶都属于免疫活性物质，三者发挥相同的免疫作用"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_0wAHanc9mv.cVlWbQfhdxQ#2024海南·免疫系统的组成]"
+ },
+ {
+  "root_id": "mkjr_UW184G210OhO0unCjXo64A",
+  "chapter": "选必一 第4章 免疫调节",
+  "points": [
+   "免疫系统的组成",
+   "抗原呈递与识别"
+  ],
+  "province": "湖南",
+  "year": "2024",
+  "type": "单选",
+  "answer": "D",
+  "stem": "抗原呈递细胞（APC）可以通过某类受体识别入侵病原体的独特结构而诱发炎症和免疫反应。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "APC的细胞膜上存在该类受体"
+   },
+   {
+    "label": "B",
+    "text": "该类受体也可以在溶酶体膜上"
+   },
+   {
+    "label": "C",
+    "text": "诱发炎症和免疫反应过强可能会引起组织损伤"
+   },
+   {
+    "label": "D",
+    "text": "APC包括巨噬细胞、树突状细胞和浆细胞等"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_UW184G210OhO0unCjXo64A#2024湖南·免疫系统的组成]"
+ },
+ {
+  "root_id": "mkjr_W3qXM9SewnCTfMjd5tkr3A",
+  "chapter": "选必一 第4章 免疫调节",
+  "points": [
+   "细胞免疫",
+   "体液免疫与细胞免疫的关系"
+  ],
+  "province": "甘肃",
+  "year": "2024",
+  "type": "单选",
+  "answer": "A",
+  "stem": "乙脑病毒进入机体后可穿过血脑屏障侵入脑组织细胞并增殖，使机体出现昏睡、抽搐等症状。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "细胞毒性T细胞被抗原呈递细胞和辅助性T细胞分泌的细胞因子激活，识别并裂解乙脑病毒"
+   },
+   {
+    "label": "B",
+    "text": "吞噬细胞表面受体识别乙脑病毒表面特定蛋白，通过内吞形成吞噬溶酶体消化降解病毒"
+   },
+   {
+    "label": "C",
+    "text": "浆细胞分泌的抗体随体液循环并与乙脑病毒结合，抑制该病毒的增殖并发挥抗感染作用"
+   },
+   {
+    "label": "D",
+    "text": "接种乙脑疫苗可刺激机体产生特异性抗体、记忆B细胞和记忆T细胞，预防乙脑病毒的感染"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_W3qXM9SewnCTfMjd5tkr3A#2024甘肃·细胞免疫]"
+ },
+ {
+  "root_id": "mkjr_kPF6z43..8nM..W6uQrBTw",
+  "chapter": "选必一 第4章 免疫调节",
+  "points": [
+   "免疫学的应用"
+  ],
+  "province": "贵州",
+  "year": "2024",
+  "type": "单选",
+  "answer": "A",
+  "stem": "接种疫苗是预防传染病的重要手段，下列疾病中可通过接种疾苗预防的是（ ） ①肺结核 ②白化病 ③缺铁性贫血 ④流行性感冒 ⑤尿毒症",
+  "options": [
+   {
+    "label": "A",
+    "text": "①④"
+   },
+   {
+    "label": "B",
+    "text": "②③"
+   },
+   {
+    "label": "C",
+    "text": "①⑤"
+   },
+   {
+    "label": "D",
+    "text": "③④"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_kPF6z43..8nM..W6uQrBTw#2024贵州·免疫学的应用]"
+ },
+ {
+  "root_id": "mkjr_dh_32BuQ59jOfMhqpH55pw",
+  "chapter": "选必一 第4章 免疫调节",
+  "points": [
+   "免疫系统的组成",
+   "免疫学的应用"
+  ],
+  "province": "重庆",
+  "year": "2024",
+  "type": "单选",
+  "answer": "B",
+  "stem": "科学家证明胸腺是免疫系统的重要组成，说法正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "①组排斥时不用辅助性T细胞参与"
+   },
+   {
+    "label": "B",
+    "text": "②组成功小鼠比排斥小鼠更易患肿瘤"
+   },
+   {
+    "label": "C",
+    "text": "③组使用免疫抑制剂可避免免疫排斥"
+   },
+   {
+    "label": "D",
+    "text": "根据所给信息推测，出生后20小时摘除胸腺，再移植皮肤后不出现排斥"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_dh_32BuQ59jOfMhqpH55pw#2024重庆·免疫系统的组成]"
+ },
+ {
+  "root_id": "mkjr_jrXN3hxUQt1tiaYoCKid4Q",
+  "chapter": "选必一 第4章 免疫调节",
+  "points": [
+   "免疫记忆与二次免疫",
+   "抗原呈递与识别"
+  ],
+  "province": "重庆",
+  "year": "2024",
+  "type": "单选",
+  "answer": "A",
+  "stem": "某些树突状细胞可迁移到抗原所在部位，特异性识别主要组织相容性复合体，增殖后大部分形成活化的树突状细胞，小部分形成记忆树突状细胞。为验证树突状细胞的免疫记忆，研究人员用3种不同品系的小鼠（同一品系小鼠具有相同的主要组织相容性复合体）进行了如图实验，下列叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "树突状细胞的免疫记忆体现在抗原呈递功能增强"
+   },
+   {
+    "label": "B",
+    "text": "③中活化的树突状细胞可识别丙品系小鼠的抗原"
+   },
+   {
+    "label": "C",
+    "text": "II组中检测到的活化树突状细胞与I组相近"
+   },
+   {
+    "label": "D",
+    "text": "II组和III组骨髓中均可检测到记忆树突状细胞"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_jrXN3hxUQt1tiaYoCKid4Q#2024重庆·免疫记忆与二次免疫]"
+ }
+]

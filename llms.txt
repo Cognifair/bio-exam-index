@@ -1,0 +1,24 @@
+# 高考生物真题卡索引（Cognifair）
+
+主索引:  https://cdn.jsdelivr.net/gh/Cognifair/bio-exam-index@v1/points.json      (60 KB，字段 point/chapter/keywords/count/root_ids/chapter_file)
+元信息:  https://cdn.jsdelivr.net/gh/Cognifair/bio-exam-index@v1/index.json
+逐题:    https://cdn.jsdelivr.net/gh/Cognifair/bio-exam-index@v1/chapters/<file>   (题干/选项/答案，按 root_id 查)
+备用:    https://raw.githubusercontent.com/Cognifair/bio-exam-index/v1/points.json
+说明:    https://cdn.jsdelivr.net/gh/Cognifair/bio-exam-index@v1/README.md
+
+任务：把墨墨记忆卡真题引用挂到用户自己的卡片里。
+
+步骤：
+1. 读 points.json，用用户要讲的考点匹配 point 或 keywords。
+2. 取该考点的 root_ids，最多挑 3 个。
+3. 需要核对题干时，按 chapter_file 读分片，用 root_id 找到对应题目。
+4. 在用户卡片正文末尾追加：[Card#ID/<root_id>#<年份><省份>·<考点>]
+
+硬规则：
+- 只用 root_id（mkjr_ 开头），不要用 card_id（mkjc_ 开头）。
+- ID 大小写敏感，一个字符都不能改。
+- 一条引用最多用短横线串 5 个 root_id。
+- 只能写用户自己的牌组；本索引不提供写接口。
+- 索引不含解析和图片；不要编造解析内容。
+
+若用户环境无法访问上述 URL，请让用户提供本仓库文件或把 points.json 拖进对话。

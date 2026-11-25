@@ -1,0 +1,1471 @@
+[
+ {
+  "root_id": "mkjr_ztn0h6iaXxWImEO_aZMSiQ",
+  "chapter": "选必二 第1章 种群及其动态",
+  "points": [
+   "种群的年龄结构与性别比例"
+  ],
+  "province": "四川",
+  "year": "2026",
+  "type": "单选",
+  "answer": "D",
+  "stem": "某种鱼在初次性成熟后均为雌性，继续生长到一定大小后转变为雄性。雄鱼之间会争夺领地，体型越大繁殖成功率越高。有人研究了3个不同生境的鱼群在不同捕获压力下，t1到t2这30年间的变化（t1及之前未受人为干扰），结果如图。下列推断不合理的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "与t1时刻相比，t2时刻乙岛和丙岛鱼群中的雌性比例均上升"
+   },
+   {
+    "label": "B",
+    "text": "重度商业捕捞后，丙岛鱼群世代之间的繁殖间隔缩短"
+   },
+   {
+    "label": "C",
+    "text": "垂钓使乙岛鱼群变性年龄提前，体现了生物对环境压力的适应"
+   },
+   {
+    "label": "D",
+    "text": "长期垂钓使乙岛鱼群年龄结构由增长型转变为衰退型"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_ztn0h6iaXxWImEO_aZMSiQ#2026四川·种群的年龄结构与性别比例]"
+ },
+ {
+  "root_id": "mkjr_yC2BKsZpqX7GINSsi0ckfg",
+  "chapter": "选必二 第1章 种群及其动态",
+  "points": [
+   "影响种群数量变化的因素"
+  ],
+  "province": "安徽",
+  "year": "2026",
+  "type": "单选",
+  "answer": "D",
+  "stem": "气候变化影响生物的生存和生物圈的稳态。为了分析气候变化对种群数量的影响，研究人员调查了某地区鹩莺30年的种群数量变化，结果如图。下列叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "种群数量总体呈下降趋势，气候变化对雌鸟的影响较大"
+   },
+   {
+    "label": "B",
+    "text": "鹩莺种群数量变化是由性别比例变化直接导致的"
+   },
+   {
+    "label": "C",
+    "text": "图中曲线可以精准预测未来鹩莺种群数量的变化趋势"
+   },
+   {
+    "label": "D",
+    "text": "气候变化可能影响鹩莺种群的迁入率、迁出率、出生率和死亡率"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_yC2BKsZpqX7GINSsi0ckfg#2026安徽·影响种群数量变化的因素]"
+ },
+ {
+  "root_id": "mkjr_eGWuC7AzFolPeIx.PkGYeA",
+  "chapter": "选必二 第1章 种群及其动态",
+  "points": [
+   "影响种群数量变化的因素",
+   "种群的出生率和死亡率"
+  ],
+  "province": "山东",
+  "year": "2026",
+  "type": "多选",
+  "answer": "AB",
+  "stem": "研究人员每年在相同时间、地点利用同样的方法捕获某封闭草场中的某种食草动物，并估算了该动物成体和幼体的存活率，相关数据如图所示，曲线上的数字为捕获到的成体或幼体的个体数。调查期间该地气候稳定。下列说法错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "第1~2年幼体存活率升高，是由于种群密度下降所致"
+   },
+   {
+    "label": "B",
+    "text": "第2~3年幼体存活率降低，导致种群死亡率大于出生率"
+   },
+   {
+    "label": "C",
+    "text": "第3~4年幼体存活率降低，种群数量基本保持稳定"
+   },
+   {
+    "label": "D",
+    "text": "第5~6年成体和幼体存活率均降低，可能是由于其天敌的捕食导致"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_eGWuC7AzFolPeIx.PkGYeA#2026山东·影响种群数量变化的因素]"
+ },
+ {
+  "root_id": "mkjr_Kz82ac_9tEhV9UF5zpCbXw",
+  "chapter": "选必二 第1章 种群及其动态",
+  "points": [
+   "种群密度的调查方法"
+  ],
+  "province": "江西",
+  "year": "2026",
+  "type": "单选",
+  "answer": "A",
+  "stem": "相传明代诗人通过“天生一只又一只，三四五六七八只”巧数《百鸟归巢图》中的百鸟，现今科学家们在某自然保护区通过AI辅助的声纹监测法进行鸟种识别及其种群数量监测(鸟的声纹在个体和鸟种之间均存在差异)。结合上述材料，下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "诗中体现的数量调查法可准确计算某些种群的密度"
+   },
+   {
+    "label": "B",
+    "text": "科学家们采用的方法能高效估测某些种群的密度"
+   },
+   {
+    "label": "C",
+    "text": "调查期内该保护区不同声纹的鸟不能组成一个群落"
+   },
+   {
+    "label": "D",
+    "text": "不同声纹的鸟越多说明该保护区鸟的丰富度越高"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_Kz82ac_9tEhV9UF5zpCbXw#2026江西·种群密度的调查方法]"
+ },
+ {
+  "root_id": "mkjr_9lK6P0PYwu3ANFmy21i.TQ",
+  "chapter": "选必二 第1章 种群及其动态",
+  "points": [
+   "影响种群数量变化的因素"
+  ],
+  "province": "江西",
+  "year": "2026",
+  "type": "单选",
+  "answer": "A",
+  "stem": "为研究某植物S对大豆植食性害虫H及H的捕食性天敌的影响，研究人员调查了T1(单种大豆)和T2(混种大豆和植物S)模式下，大豆植株上H及H的天敌数量随时间变化情况(如图)。下列推测合理的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "S可“吸引”天敌来控制H的数量"
+   },
+   {
+    "label": "B",
+    "text": "H在该农田生态系统属于次级消费者"
+   },
+   {
+    "label": "C",
+    "text": "40～100天，T1模式下H的数量变化主要受食物限制"
+   },
+   {
+    "label": "D",
+    "text": "110～130天，T2模式下H的数量变化主要受天敌影响"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_9lK6P0PYwu3ANFmy21i.TQ#2026江西·影响种群数量变化的因素]"
+ },
+ {
+  "root_id": "mkjr_.mFDquf13iBZmO67.Bg8Ng",
+  "chapter": "选必二 第1章 种群及其动态",
+  "points": [
+   "种群密度的调查方法"
+  ],
+  "province": "湖南",
+  "year": "2026",
+  "type": "多选",
+  "answer": "ACD",
+  "stem": "国家二级保护物种中华虎凤蝶成虫刚出蛹时，翅膀未展开，不能飞行，其主要生境之一是以草本植物细辛（可药用）和芒草为优势种群的高山灌草丛。研究人员建设围栏保护后，中华虎凤蝶、细辛、芒草的数量变化如图所示。下列叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "可采用样方法估算中华虎凤蝶虫卵、蛹及刚出蛹羽化的成虫的密度"
+   },
+   {
+    "label": "B",
+    "text": "与调查细辛和芒草相比，调查该地某灌木的种群密度需缩小样方面积"
+   },
+   {
+    "label": "C",
+    "text": "围栏内外同一物种数量变化趋势不同，体现了人类活动对生态系统的影响"
+   },
+   {
+    "label": "D",
+    "text": "若监测到该地细辛和芒草数量明显降低时，应采取及时补种等保护措施"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_.mFDquf13iBZmO67.Bg8Ng#2026湖南·种群密度的调查方法]"
+ },
+ {
+  "root_id": "mkjr_CqEetDiVcH29rE4855NU3A",
+  "chapter": "选必二 第1章 种群及其动态",
+  "points": [
+   "种群密度的调查方法"
+  ],
+  "province": "安徽",
+  "year": "2025",
+  "type": "单选",
+  "answer": "D",
+  "stem": "种群数量调查的具体方法因生物种类而异。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "采用标记重捕法时，重捕前要间隔适宜时长以确保标记个体在调查区域中均匀分布"
+   },
+   {
+    "label": "B",
+    "text": "利用红外触发相机的自动拍摄技术，主要是对恒温动物进行野外种群数量调查研究"
+   },
+   {
+    "label": "C",
+    "text": "对鲸进行种群数量监测时，可利用声音的稳定、非损伤、低干扰特征进行个体识别"
+   },
+   {
+    "label": "D",
+    "text": "调查某土壤小动物种群数量时，打开诱虫器顶部的电灯以驱使土壤小动物向下移动"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_CqEetDiVcH29rE4855NU3A#2025安徽·种群密度的调查方法]"
+ },
+ {
+  "root_id": "mkjr_9KEV9StuLEF2yGN61hmRjQ",
+  "chapter": "选必二 第1章 种群及其动态",
+  "points": [
+   "种群数量的增长曲线",
+   "环境容纳量"
+  ],
+  "province": "云南",
+  "year": "2025",
+  "type": "单选",
+  "answer": "B",
+  "stem": "在国家和地方政府的大力保护下，中国境内亚洲象数量明显增加。2002-2023年西双版纳野象谷亚洲象种群数量调查结果如图。 [图] 下列说法错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "可使用红外触发相机调查亚洲象种群数量"
+   },
+   {
+    "label": "B",
+    "text": "2016-2017年，该种群新出生3头亚洲象"
+   },
+   {
+    "label": "C",
+    "text": "2021-2022年，亚洲象种群增长率为3%"
+   },
+   {
+    "label": "D",
+    "text": "亚洲象种群数量增长至K值后仍然会波动"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_9KEV9StuLEF2yGN61hmRjQ#2025云南·种群数量的增长曲线]"
+ },
+ {
+  "root_id": "mkjr_L1qM5..ikGcDDg5ikWTowg",
+  "chapter": "选必二 第1章 种群及其动态",
+  "points": [
+   "种群的出生率和死亡率",
+   "种群的年龄结构与性别比例"
+  ],
+  "province": "天津",
+  "year": "2023",
+  "type": "单选",
+  "answer": "D",
+  "stem": "人口老龄化将对种群密度产生影响，下列数量特征与此无关的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "出生率"
+   },
+   {
+    "label": "B",
+    "text": "死亡率"
+   },
+   {
+    "label": "C",
+    "text": "年龄结构"
+   },
+   {
+    "label": "D",
+    "text": "性别比例"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_L1qM5..ikGcDDg5ikWTowg#2023天津·种群的出生率和死亡率]"
+ },
+ {
+  "root_id": "mkjr_1g9P5aW6FH5M60G_.euSvg",
+  "chapter": "选必二 第1章 种群及其动态",
+  "points": [
+   "种群的出生率和死亡率"
+  ],
+  "province": "山东",
+  "year": "2023",
+  "type": "单选",
+  "answer": "D",
+  "stem": "对某地灰松鼠群体中某年出生的所有个体进行逐年观察，并统计了这些灰松鼠的存活情况，结果如图。下列说法正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "所观察的这些灰松鼠构成一个种群"
+   },
+   {
+    "label": "B",
+    "text": "准确统计该年出生的所有灰松鼠数量需用标记重捕法"
+   },
+   {
+    "label": "C",
+    "text": "据图可推测出该地的灰松鼠种内竞争逐年减弱"
+   },
+   {
+    "label": "D",
+    "text": "对灰松鼠进行保护时应更加关注其幼体"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_1g9P5aW6FH5M60G_.euSvg#2023山东·种群的出生率和死亡率]"
+ },
+ {
+  "root_id": "mkjr_6ycH4TAXuMMHvUkvkL3lWA",
+  "chapter": "选必二 第1章 种群及其动态",
+  "points": [
+   "种群数量的增长曲线"
+  ],
+  "province": "山东",
+  "year": "2023",
+  "type": "多选",
+  "answer": "AC",
+  "stem": "某种动物的种群具有阿利效应，该动物的种群初始密度与种群增长速率之间的对应关系如图所示。其中种群增长速率表示单位时间增加的个体数。下列分析正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "初始密度介于0~a时，种群数量最终会降为0"
+   },
+   {
+    "label": "B",
+    "text": "初始密度介于a~c时，种群出生率大于死亡率"
+   },
+   {
+    "label": "C",
+    "text": "将种群保持在初始密度c所对应的种群数量，有利于持续获得较大的捕获量"
+   },
+   {
+    "label": "D",
+    "text": "若自然状态下该动物种群雌雄数量相等，人为提高雄性占比会使b点左移"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_6ycH4TAXuMMHvUkvkL3lWA#2023山东·种群数量的增长曲线]"
+ },
+ {
+  "root_id": "mkjr_qSTqetCtyR.lmXITNLxdmw",
+  "chapter": "选必二 第1章 种群及其动态",
+  "points": [
+   "种群的出生率和死亡率",
+   "影响种群数量变化的因素"
+  ],
+  "province": "广东",
+  "year": "2023",
+  "type": "单选",
+  "answer": "C",
+  "stem": "某地区蝗虫在秋季产卵后死亡，以卵越冬。某年秋季降温提前，大量蝗虫在产卵前死亡，次年该地区蝗虫的种群密度明显下降。对蝗虫种群密度下降的合理解释是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "密度制约因素导致出生率下降"
+   },
+   {
+    "label": "B",
+    "text": "密度制约因素导致死亡率上升"
+   },
+   {
+    "label": "C",
+    "text": "非密度制约因素导致出生率下降"
+   },
+   {
+    "label": "D",
+    "text": "非密度制约因素导致死亡率上升"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_qSTqetCtyR.lmXITNLxdmw#2023广东·种群的出生率和死亡率]"
+ },
+ {
+  "root_id": "mkjr_M9mcD9ZcPMSmotc8NIE6XA",
+  "chapter": "选必二 第1章 种群及其动态",
+  "points": [
+   "种群密度的调查方法",
+   "种群的年龄结构与性别比例"
+  ],
+  "province": "江苏",
+  "year": "2023",
+  "type": "多选",
+  "answer": "ACD",
+  "stem": "科研团队在某林地（面积：1km2）选取5个样方（样方面积：20m×20m）进行植物多样性调查，下表为3种乔木的部分调查结果。下列相关叙述正确的有（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "估算该林地麻栎种群的个体数量是50000株"
+   },
+   {
+    "label": "B",
+    "text": "林木的种群密度越大，林木的总生物量越高"
+   },
+   {
+    "label": "C",
+    "text": "该林地马尾松、麻栎种群的年龄结构分别为衰退型、增长型，群落分层现象明显"
+   },
+   {
+    "label": "D",
+    "text": "该林地处于森林演替中，采伐部分马尾松能加速演替进程"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_M9mcD9ZcPMSmotc8NIE6XA#2023江苏·种群密度的调查方法]"
+ },
+ {
+  "root_id": "mkjr_wvj9D1_YuMZZxvytwfWmeQ",
+  "chapter": "选必二 第1章 种群及其动态",
+  "points": [
+   "种群数量的增长曲线"
+  ],
+  "province": "全国甲",
+  "year": "2022",
+  "type": "单选",
+  "answer": "D",
+  "stem": "在鱼池中投放了一批某种鱼苗，一段时间内该鱼的种群数量、个体重量和种群总重量随时间的变化趋势如图所示。若在此期间鱼没有进行繁殖，则图中表示种群数量、个体重量、种群总重量的曲线分别是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "甲、丙、乙"
+   },
+   {
+    "label": "B",
+    "text": "乙、甲、丙"
+   },
+   {
+    "label": "C",
+    "text": "丙、甲、乙"
+   },
+   {
+    "label": "D",
+    "text": "丙、乙、甲"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_wvj9D1_YuMZZxvytwfWmeQ#2022全国甲·种群数量的增长曲线]"
+ },
+ {
+  "root_id": "mkjr_1DSinkHZww1Z6r9hLcx06Q",
+  "chapter": "选必二 第1章 种群及其动态",
+  "points": [
+   "种群密度的调查方法"
+  ],
+  "province": "山东",
+  "year": "2022",
+  "type": "单选",
+  "answer": "A",
+  "stem": "根据所捕获动物占该种群总数的比例可估算种群数量。若在某封闭鱼塘中捕获了1000条鱼售卖，第2天用相同方法捕获了950条鱼。假设鱼始终保持均匀分布，则该鱼塘中鱼的初始数量约为（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "2×104条"
+   },
+   {
+    "label": "B",
+    "text": "4×104条"
+   },
+   {
+    "label": "C",
+    "text": "6×104条"
+   },
+   {
+    "label": "D",
+    "text": "8×104条"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_1DSinkHZww1Z6r9hLcx06Q#2022山东·种群密度的调查方法]"
+ },
+ {
+  "root_id": "mkjr_68PyA3yNmlHe66Ad72u.YA",
+  "chapter": "选必二 第1章 种群及其动态",
+  "points": [
+   "种群数量的增长曲线",
+   "环境容纳量"
+  ],
+  "province": "山东",
+  "year": "2022",
+  "type": "多选",
+  "answer": "BC",
+  "stem": "一个繁殖周期后的种群数量可表示为该种群的补充量。某实验水域中定期投入适量的饲料，其他因素稳定。图中曲线Ⅰ表示该实验水域中某种水生动物的亲体数量与补充量的关系，曲线Ⅱ表示亲体数量与补充量相等。下列说法正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "亲体数量约为1000个时，可获得最大持续捕捞量"
+   },
+   {
+    "label": "B",
+    "text": "亲体数量约为500个时，单位时间内增加的数量最多"
+   },
+   {
+    "label": "C",
+    "text": "亲体数量大于1000个时，补充量与亲体数量相等，种群达到稳定状态"
+   },
+   {
+    "label": "D",
+    "text": "饲料是影响该种群数量变化的非密度制约因素"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_68PyA3yNmlHe66Ad72u.YA#2022山东·种群数量的增长曲线]"
+ },
+ {
+  "root_id": "mkjr_Ls0HnyDhSOOoeBQ3_S36Vg",
+  "chapter": "选必二 第1章 种群及其动态",
+  "points": [
+   "影响种群数量变化的因素",
+   "环境容纳量"
+  ],
+  "province": "未知",
+  "year": "2026",
+  "type": "单选",
+  "answer": "D",
+  "stem": "我国通过实施朱鹮再引入计划，使其数量从1981年发现时的7只增至目前的万余只。这成为世界濒危物种保护的典范。下图是将人工繁育朱鹮个体再引入某历史分布区10年后的统计数据。下列叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "根据图中数据预测该种群的种群密度会增加"
+   },
+   {
+    "label": "B",
+    "text": "食物和天敌是影响该种群数量增长的密度制约因素"
+   },
+   {
+    "label": "C",
+    "text": "若继续实施再引入计划，应适当增加雌性占比以提高出生率"
+   },
+   {
+    "label": "D",
+    "text": "朱鹮再引入属于就地保护，释放个体数应低于释放地的环境容纳量"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_Ls0HnyDhSOOoeBQ3_S36Vg#2026未知·影响种群数量变化的因素]"
+ },
+ {
+  "root_id": "mkjr_WL6Ll__4pl4Kt.kEiJDXQQ",
+  "chapter": "选必二 第1章 种群及其动态",
+  "points": [
+   "种群密度的调查方法"
+  ],
+  "province": "黑吉辽蒙",
+  "year": "2026",
+  "type": "单选",
+  "answer": "D",
+  "stem": "对作物植株上某种蚜虫的种群密度进行估算，下列方法最有效的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "标记重捕法"
+   },
+   {
+    "label": "B",
+    "text": "目测估计法"
+   },
+   {
+    "label": "C",
+    "text": "黑光灯诱捕法"
+   },
+   {
+    "label": "D",
+    "text": "样方法"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_WL6Ll__4pl4Kt.kEiJDXQQ#2026黑吉辽蒙·种群密度的调查方法]"
+ },
+ {
+  "root_id": "mkjr_dNHRxXGXS3JXO8bjG.t6gg",
+  "chapter": "选必二 第1章 种群及其动态",
+  "points": [
+   "环境容纳量",
+   "影响种群数量变化的因素"
+  ],
+  "province": "黑吉辽蒙",
+  "year": "2026",
+  "type": "多选",
+  "answer": "BCD",
+  "stem": "环境中缺乏CO2时，三角褐指藻可以利用与其共生的细菌代谢产生的CO2进行光合作用，维持生长。下图为藻、菌的培养结果，培养条件为有光照、无CO2、葡萄糖为唯一碳源。下列叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "共培养体系中，三角褐指藻数量的增加会引起细菌数量下降"
+   },
+   {
+    "label": "B",
+    "text": "共培养体系中，随培养时间推移，藻、菌各自的种内竞争加剧"
+   },
+   {
+    "label": "C",
+    "text": "单培养时，CO2是限制三角褐指藻种群数量增长的非生物因素"
+   },
+   {
+    "label": "D",
+    "text": "与单培养相比，共培养时三角褐指藻种群的环境容纳量更大"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_dNHRxXGXS3JXO8bjG.t6gg#2026黑吉辽蒙·环境容纳量]"
+ },
+ {
+  "root_id": "mkjr_7RQc71HRRdZGgbT2Pf24Vw",
+  "chapter": "选必二 第1章 种群及其动态",
+  "points": [
+   "环境容纳量"
+  ],
+  "province": "山东",
+  "year": "2025",
+  "type": "多选",
+  "answer": "ACD",
+  "stem": "种群延续所需要的最小种群密度为临界密度，只有大于临界密度，种群数量才能增加，最后会达到并维持在一个相对稳定的数量，即环境容纳量（K值）。不同环境条件下，同种动物种群的K值不同。图中曲线上的点表示在不同环境条件下某动物种群的K值和达到K值时的种群密度，其中m为该动物种群的临界密度，K0以下的环境表示该动物的灭绝环境。a、b、c、d四个点表示不同环境条件下该动物的4个种群的K值及当前的种群密度，且4个种群所在区域面积相等，各种群所处环境稳定。不考虑迁入迁出，下列说法错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "可通过提高K值对a点种群进行有效保护"
+   },
+   {
+    "label": "B",
+    "text": "b点种群发展到稳定期间，出生率大于死亡率"
+   },
+   {
+    "label": "C",
+    "text": "c点种群发展到稳定期间，种内竞争逐渐加剧"
+   },
+   {
+    "label": "D",
+    "text": "通过一次投放适量该动物可使d点种群得以延续"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_7RQc71HRRdZGgbT2Pf24Vw#2025山东·环境容纳量]"
+ },
+ {
+  "root_id": "mkjr_A2gseXsztWvAsceN2t0kXw",
+  "chapter": "选必二 第1章 种群及其动态",
+  "points": [
+   "种群密度的调查方法"
+  ],
+  "province": "广西",
+  "year": "2025",
+  "type": "单选",
+  "answer": "A",
+  "stem": "线柱兰是华南地区草坪中常见的兰科植物，花朵小巧精美。兴趣小组分别采用逐个计数法和样方法，对校园草坪中的线柱兰种群数量进行调查。下列说法正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "样方数量会影响样方法的调查结果"
+   },
+   {
+    "label": "B",
+    "text": "这两种调查方法得到的结果通常相等"
+   },
+   {
+    "label": "C",
+    "text": "运用样方法调查时，样方内均需有线柱兰"
+   },
+   {
+    "label": "D",
+    "text": "若线柱兰个体数量较少，可缩小样方面积"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_A2gseXsztWvAsceN2t0kXw#2025广西·种群密度的调查方法]"
+ },
+ {
+  "root_id": "mkjr_qPHv8NGfjeloiJrNdYU8gw",
+  "chapter": "选必二 第1章 种群及其动态",
+  "points": [
+   "影响种群数量变化的因素",
+   "种群数量的波动"
+  ],
+  "province": "广西",
+  "year": "2025",
+  "type": "单选",
+  "answer": "C",
+  "stem": "褐飞虱是一种迁飞性害虫，每年春季自南向北逐步迁入水稻种植区，期间繁殖数代。某地采用灯诱监测褐飞虱成虫数量的动态变化，同时通过田间调查测定水稻单丛虫量（含所有龄级个体），结果见图。下列说法错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "分蘖期后，褐飞虱开始迁入"
+   },
+   {
+    "label": "B",
+    "text": "抽穗期有大量褐飞虱迁入"
+   },
+   {
+    "label": "C",
+    "text": "抽穗期末期灯诱虫量下降是因为大量个体死亡"
+   },
+   {
+    "label": "D",
+    "text": "黄熟期灯诱虫量上升是因为有大量褐飞虱迁出"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_qPHv8NGfjeloiJrNdYU8gw#2025广西·影响种群数量变化的因素]"
+ },
+ {
+  "root_id": "mkjr_J9mRkoowMb1pAIjikeHZuA",
+  "chapter": "选必二 第1章 种群及其动态",
+  "points": [
+   "种群的年龄结构与性别比例"
+  ],
+  "province": "江苏",
+  "year": "2025",
+  "type": "多选",
+  "answer": "ACD",
+  "stem": "某岛屿上分布一种特有的爬行动物，以多种候鸟为食，候鸟主要栖息在灌丛和稀树草地。图示该爬行动物在不同生境下的年龄组成，下列相关叙述正确的有（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "该爬行动物种群的年龄结构呈稳定型"
+   },
+   {
+    "label": "B",
+    "text": "岛屿上植被和该爬行动物的分布均具有明显的垂直结构"
+   },
+   {
+    "label": "C",
+    "text": "岛屿生态系统的部分能量随候鸟的迁徙等途径流出"
+   },
+   {
+    "label": "D",
+    "text": "栖息在不同生境中的候鸟存在生态位分化"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_J9mRkoowMb1pAIjikeHZuA#2025江苏·种群的年龄结构与性别比例]"
+ },
+ {
+  "root_id": "mkjr_ZTFkkBsJX9fXZk_FmxBKxg",
+  "chapter": "选必二 第1章 种群及其动态",
+  "points": [
+   "种群密度的调查方法"
+  ],
+  "province": "河南",
+  "year": "2025",
+  "type": "单选",
+  "answer": "A",
+  "stem": "样方法是种群密度调查的常用方法，下列类群中最适用该方法调查种群密度的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "跳蝻、蕨类植物、挺水植物"
+   },
+   {
+    "label": "B",
+    "text": "灌木、鱼类、浮游植物"
+   },
+   {
+    "label": "C",
+    "text": "蚜虫、龟鳖类、土壤小动物"
+   },
+   {
+    "label": "D",
+    "text": "鸟类、酵母菌、草本植物"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_ZTFkkBsJX9fXZk_FmxBKxg#2025河南·种群密度的调查方法]"
+ },
+ {
+  "root_id": "mkjr_N3FB9XukJl.MBin_AzXY7g",
+  "chapter": "选必二 第1章 种群及其动态",
+  "points": [
+   "种群密度的调查方法",
+   "种群的年龄结构与性别比例"
+  ],
+  "province": "海南",
+  "year": "2025",
+  "type": "单选",
+  "answer": "D",
+  "stem": "海南热带雨林国家公园内分布着大量的野茶。某团队采用样方法（20m×20m）调查该国家公园4个野茶种群，结果见表。下列有关叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "该国家公园野茶种群年龄结构整体呈增长型"
+   },
+   {
+    "label": "B",
+    "text": "4个分布区的种群密度呈现黎母山>鹦哥岭>霸王岭>吊罗山"
+   },
+   {
+    "label": "C",
+    "text": "据表推测，短期内吊罗山种群的增长潜力最低"
+   },
+   {
+    "label": "D",
+    "text": "据表分析，最有利于维持出生率的是霸王岭种群"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_N3FB9XukJl.MBin_AzXY7g#2025海南·种群密度的调查方法]"
+ },
+ {
+  "root_id": "mkjr_MWwv0oF3IzsiEBhBdMpdYQ",
+  "chapter": "选必二 第1章 种群及其动态",
+  "points": [
+   "影响种群数量变化的因素",
+   "种群数量的波动"
+  ],
+  "province": "湖北",
+  "year": "2025",
+  "type": "单选",
+  "answer": "A",
+  "stem": "花鼠取食偏好红松球果，且具有分散贮食和遗忘贮藏点的特性。研究人员在2019~2023年间，对某地红松林中花鼠种群数量和红松结实量开展调查，发现2022年红松结实量最高，与其余四年的结实量存在显著差异；其余四年之间的结实量没有显著差异。花鼠种群5年的调查结果如下表。根据上述材料，下列推测合理的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "花鼠能促进红松种子的传播"
+   },
+   {
+    "label": "B",
+    "text": "红松结实量受到花鼠种群数量的调控"
+   },
+   {
+    "label": "C",
+    "text": "花鼠的种群数量波动与其性比之间没有关联"
+   },
+   {
+    "label": "D",
+    "text": "从年龄结构分析，上述花鼠种群属于衰退型种群"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_MWwv0oF3IzsiEBhBdMpdYQ#2025湖北·影响种群数量变化的因素]"
+ },
+ {
+  "root_id": "mkjr_OsSAVVb5kLEwezhfiGLIag",
+  "chapter": "选必二 第1章 种群及其动态",
+  "points": [
+   "种群密度的调查方法",
+   "影响种群数量变化的因素"
+  ],
+  "province": "湖南",
+  "year": "2025",
+  "type": "单选",
+  "answer": "B",
+  "stem": "为调查某自然保护区动物资源现状，研究人员利用红外触发相机记录到多种动物，其中豹猫、猪獾在海拔分布上重叠度较高。下列叙述错误是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "建立自然保护区可对豹猫进行最有效保护"
+   },
+   {
+    "label": "B",
+    "text": "该保护区的豹猫和猪獾处于相同的生态位"
+   },
+   {
+    "label": "C",
+    "text": "红外触发相机能用于调查豹猫的种群数量"
+   },
+   {
+    "label": "D",
+    "text": "食物是影响豹猫种群数量变化的密度制约因素"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_OsSAVVb5kLEwezhfiGLIag#2025湖南·种群密度的调查方法]"
+ },
+ {
+  "root_id": "mkjr__V5eFE4.V91srTxztp7G3A",
+  "chapter": "选必二 第1章 种群及其动态",
+  "points": [
+   "影响种群数量变化的因素"
+  ],
+  "province": "甘肃",
+  "year": "2025",
+  "type": "单选",
+  "answer": "B",
+  "stem": "种群数量受出生率、死亡率、迁入率和迁出率的影响，任何能够引起这些特征变化的生物和非生物因素，如光照、水分、温度、食物、年龄结构和性别比例等，都会影响种群的数量。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "自然种群中的个体可以迁入和迁出，种群数量的变化不受种群密度的制约"
+   },
+   {
+    "label": "B",
+    "text": "光照、水分、温度和食物等因子的变化都能够引起种群环境容纳量的变化"
+   },
+   {
+    "label": "C",
+    "text": "幼年、成年和老年个体数量大致相等的种群，其数量可以保持稳定性增长"
+   },
+   {
+    "label": "D",
+    "text": "种群中不同年龄个体的数量和雌雄比例都能影响种群的出生率和死亡率"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr__V5eFE4.V91srTxztp7G3A#2025甘肃·影响种群数量变化的因素]"
+ },
+ {
+  "root_id": "mkjr_6q_zAW_7_K_X74W7b7w2TQ",
+  "chapter": "选必二 第1章 种群及其动态",
+  "points": [
+   "影响种群数量变化的因素"
+  ],
+  "province": "山东",
+  "year": "2024",
+  "type": "单选",
+  "answer": "C",
+  "stem": "棉蚜是个体微小、肉眼可见的害虫。与不抗棉蚜棉花品种相比，抗棉蚜棉花品种体内某种次生代谢物的含量高，该次生代谢物对棉蚜有一定的毒害作用。下列说法错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "统计棉田不同害虫物种的相对数量时可用目测估计法"
+   },
+   {
+    "label": "B",
+    "text": "棉蚜天敌对棉蚜种群的作用强度与棉蚜种群的密度有关"
+   },
+   {
+    "label": "C",
+    "text": "提高棉花体内该次生代谢物的含量用于防治棉蚜属于化学防治"
+   },
+   {
+    "label": "D",
+    "text": "若用该次生代谢物防治棉蚜，需评估其对棉蚜天敌的影响"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_6q_zAW_7_K_X74W7b7w2TQ#2024山东·影响种群数量变化的因素]"
+ },
+ {
+  "root_id": "mkjr_HlLJRwrrKeU6TKSJ5PmMWQ",
+  "chapter": "选必二 第1章 种群及其动态",
+  "points": [
+   "环境容纳量"
+  ],
+  "province": "辽宁",
+  "year": "2025",
+  "type": "多选",
+  "answer": "CD",
+  "stem": "某山体公园自然条件下猕猴种群的环境容纳量约为840只。1986年后，游客的投喂和以保护为目的的固定投食，致使猕猴种群数量快速增长，引发了人猴冲突。为减少冲突事件的发生，研究人员做了相关调查，结果如下图。下列叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "调查期间猕猴种群的λ>1，若现有条件不变，种群数量会持续增长"
+   },
+   {
+    "label": "B",
+    "text": "2013年人猴冲突事件减少，是因为猕猴种群数量接近自然条件下的环境容纳量"
+   },
+   {
+    "label": "C",
+    "text": "2016年后，猕猴种群数量超过自然条件下环境容纳量的主要原因是人为投食"
+   },
+   {
+    "label": "D",
+    "text": "为保护猕猴和减少人猴冲突，应适时迁出部分猕猴族群达到人与动物和谐相处"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_HlLJRwrrKeU6TKSJ5PmMWQ#2025辽宁·环境容纳量]"
+ },
+ {
+  "root_id": "mkjr_Y_Igcnd2xFbesM3.C_vw8w",
+  "chapter": "选必二 第1章 种群及其动态",
+  "points": [
+   "环境容纳量",
+   "种群数量的增长曲线"
+  ],
+  "province": "贵州",
+  "year": "2025",
+  "type": "单选",
+  "answer": "B",
+  "stem": "红酸汤是贵州传统特色发酵食品。研究人员利用乳杆菌、双歧杆菌和假丝酵母菌共同接种发酵，以优化生产工艺。下图为发酵120h内三种微生物种群数量变化情况。下列叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "发酵48h时，双歧杆菌和乳杆菌的环境容纳量相同"
+   },
+   {
+    "label": "B",
+    "text": "发酵48h后，乳杆菌的竞争力强于双歧杆菌和假丝酵母菌"
+   },
+   {
+    "label": "C",
+    "text": "发酵48h时，假丝酵母菌种群数量的增长速率达到最大"
+   },
+   {
+    "label": "D",
+    "text": "发酵48h后，pH下降不影响乳杆菌种群数量的增加"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_Y_Igcnd2xFbesM3.C_vw8w#2025贵州·环境容纳量]"
+ },
+ {
+  "root_id": "mkjr_Qv_yixDOpv4tu5VBXGX5aA",
+  "chapter": "选必二 第1章 种群及其动态",
+  "points": [
+   "种群的出生率和死亡率",
+   "影响种群数量变化的因素"
+  ],
+  "province": "浙江",
+  "year": "2025",
+  "type": "单选",
+  "answer": "D",
+  "stem": "为探究种群数量的影响因素，某同学在不同条件下培养某种草履虫，部分结果如图所示 [图] 下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "该草履虫种群的年龄结构在①处为增长型，在②和③处为稳定型"
+   },
+   {
+    "label": "B",
+    "text": "与②—③时段不同，该草履虫种群在①—②时段出生率始终小于死亡率"
+   },
+   {
+    "label": "C",
+    "text": "根据甲、丁两组结果，可知该草履虫无法适应1.5g/L NaCl的培养环境"
+   },
+   {
+    "label": "D",
+    "text": "仅根据乙、丙两组结果，不能得出26℃比20℃更利于该草履虫繁殖的结论"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_Qv_yixDOpv4tu5VBXGX5aA#2025浙江·种群的出生率和死亡率]"
+ },
+ {
+  "root_id": "mkjr_s1qEo.C9SPTZssoNstp9ag",
+  "chapter": "选必二 第1章 种群及其动态",
+  "points": [
+   "种群密度的调查方法"
+  ],
+  "province": "广西",
+  "year": "2024",
+  "type": "单选",
+  "answer": "A",
+  "stem": "白头叶猴为广西特有的濒危保护动物。为了调查其种群数量，可采用“粪便DNA分析法”，主要步骤有：采集白头叶猴粪便，分析其中白头叶猴的微卫星DNA（能根据其差别来识别不同个体）等。关于“粪便DNA分析法”的叙述，错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "属于样方法，需随机划定样方采集粪便"
+   },
+   {
+    "label": "B",
+    "text": "无需抓捕，避免对白头叶猴个体的伤害"
+   },
+   {
+    "label": "C",
+    "text": "调查得到的种群数量，常小于真实数量"
+   },
+   {
+    "label": "D",
+    "text": "宜采集新鲜粪便，以免其中DNA降解"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_s1qEo.C9SPTZssoNstp9ag#2024广西·种群密度的调查方法]"
+ },
+ {
+  "root_id": "mkjr_Wf9xKTWgCaYYFsqCT2BqCw",
+  "chapter": "选必二 第1章 种群及其动态",
+  "points": [
+   "影响种群数量变化的因素"
+  ],
+  "province": "广西",
+  "year": "2024",
+  "type": "单选",
+  "answer": "A",
+  "stem": "为了研究游客投喂对某森林公园内野生猕猴种群数量的影响，研究人员进行了跟踪调查，结果见图。下列关于游客投喂对猴群的影响，叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "使猴群的种群增长率一直增加"
+   },
+   {
+    "label": "B",
+    "text": "降低了园区内猴群的环境阻力"
+   },
+   {
+    "label": "C",
+    "text": "使猴群数量增加，可能导致外溢"
+   },
+   {
+    "label": "D",
+    "text": "降低种群密度对猴群数量的制约作用"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_Wf9xKTWgCaYYFsqCT2BqCw#2024广西·影响种群数量变化的因素]"
+ },
+ {
+  "root_id": "mkjr_.TqrrmWgnCKyCZAFkX_kpQ",
+  "chapter": "选必二 第1章 种群及其动态",
+  "points": [
+   "种群的年龄结构与性别比例"
+  ],
+  "province": "浙江",
+  "year": "2023",
+  "type": "单选",
+  "answer": "D",
+  "stem": "在我国江南的一片水稻田中生活着某种有害昆虫。为了解虫情，先后两次（间隔3天）对该种群展开了调查，前后两次调查得到的数据统计结果如图所示。 [图] 在两次调查间隔期内，该昆虫种群最可能遭遇到的事件为（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "受寒潮侵袭"
+   },
+   {
+    "label": "B",
+    "text": "遭杀虫剂消杀"
+   },
+   {
+    "label": "C",
+    "text": "被天敌捕杀"
+   },
+   {
+    "label": "D",
+    "text": "被性外激素诱杀"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_.TqrrmWgnCKyCZAFkX_kpQ#2023浙江·种群的年龄结构与性别比例]"
+ },
+ {
+  "root_id": "mkjr_xepvivQ.LhrpsTQvWqMChw",
+  "chapter": "选必二 第1章 种群及其动态",
+  "points": [
+   "影响种群数量变化的因素"
+  ],
+  "province": "浙江",
+  "year": "2023",
+  "type": "单选",
+  "answer": "A",
+  "stem": "东亚飞蝗是我国历史上发生大蝗灾的主要元凶，在土壤含水率<15%的情况下，85%以上的受精卵可以孵化，一旦食物（植物幼嫩的茎、叶）等条件得到满足，很容易发生大爆发。下列因素中，对东亚飞蝗的繁衍、扩散起阻碍作用的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "充沛的降水"
+   },
+   {
+    "label": "B",
+    "text": "肥沃的土壤"
+   },
+   {
+    "label": "C",
+    "text": "连片的麦田"
+   },
+   {
+    "label": "D",
+    "text": "仅取食种子的鸟类"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_xepvivQ.LhrpsTQvWqMChw#2023浙江·影响种群数量变化的因素]"
+ },
+ {
+  "root_id": "mkjr_AKqpDzgMGCDVDN72MsMqcg",
+  "chapter": "选必二 第1章 种群及其动态",
+  "points": [
+   "种群的年龄结构与性别比例",
+   "种群数量的增长曲线"
+  ],
+  "province": "河北",
+  "year": "2022",
+  "type": "单选",
+  "answer": "B",
+  "stem": "20世纪70年代褐家鼠由外地进入新疆，对当地生态系统造成危害。研究发现，新疆某地褐家鼠种群的周限增长率为1.247（t＋1年与t年种群数量的比值），种群年龄组成如下图。下列叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "该种群老年个体占比较低，属于衰退型种群"
+   },
+   {
+    "label": "B",
+    "text": "依据其年龄组成和周限增长率推测，该种群很难被去除"
+   },
+   {
+    "label": "C",
+    "text": "该种群扩大过程中，当地生态系统物种丰富度提高，食物网更复杂"
+   },
+   {
+    "label": "D",
+    "text": "作为近缘物种，褐家鼠与当地的鼠类具有相同的种群增长能力"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_AKqpDzgMGCDVDN72MsMqcg#2022河北·种群的年龄结构与性别比例]"
+ },
+ {
+  "root_id": "mkjr_ELLX_eFCF4AsoxwzBNvi.A",
+  "chapter": "选必二 第1章 种群及其动态",
+  "points": [
+   "种群数量的波动"
+  ],
+  "province": "浙江",
+  "year": "2022",
+  "type": "单选",
+  "answer": "B",
+  "stem": "沙蝗的活动、迁徙有逐水而居”的倾向。某年，沙蝗从非洲经印度和巴基斯坦等国家向中亚迁徙，直到阿富汗以及我国西北边境，扩散和迁徙“戛然而止”。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "沙蝗停止扩散的主要原因是种内竞争加剧"
+   },
+   {
+    "label": "B",
+    "text": "沙蝗种群的数量波动表现为非周期性变化"
+   },
+   {
+    "label": "C",
+    "text": "天敌对沙蝗的制约作用改变了沙蝗的生殖方式"
+   },
+   {
+    "label": "D",
+    "text": "若沙蝗进入我国西北干旱地区将呈现“J”型增长"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_ELLX_eFCF4AsoxwzBNvi.A#2022浙江·种群数量的波动]"
+ },
+ {
+  "root_id": "mkjr_pPgmEfVpSfuJC93lNOf2Lw",
+  "chapter": "选必二 第1章 种群及其动态",
+  "points": [
+   "种群的年龄结构与性别比例"
+  ],
+  "province": "浙江",
+  "year": "2022",
+  "type": "单选",
+  "answer": "B",
+  "stem": "经调查统计，某物种群体的年龄结构如图所示 [图] 下列分析中合理的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "因年龄结构异常不能构成种群"
+   },
+   {
+    "label": "B",
+    "text": "可能是处于增长状态的某昆虫种群"
+   },
+   {
+    "label": "C",
+    "text": "可能是处于增长状态的某果树种群"
+   },
+   {
+    "label": "D",
+    "text": "可能是受到性引诱剂诱杀后的种群"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_pPgmEfVpSfuJC93lNOf2Lw#2022浙江·种群的年龄结构与性别比例]"
+ },
+ {
+  "root_id": "mkjr_Ylp6YG7GmdNufNOaQD6ibw",
+  "chapter": "选必二 第1章 种群及其动态",
+  "points": [
+   "种群密度的调查方法"
+  ],
+  "province": "课标",
+  "year": "2023",
+  "type": "单选",
+  "answer": "D",
+  "stem": "为了研究和保护我国东北地区某自然保护区内的野生哺乳动物资源，研究人员采用红外触发相机自动拍摄技术获得了该保护区内某些野生哺乳动物资源的相应数据，为生态学研究提供了相关依据。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "通过对数据的分析和处理，可以了解保护区内大型野生哺乳动物的物种丰富度"
+   },
+   {
+    "label": "B",
+    "text": "与标记重捕法相比，采用该技术进行调查对野生哺乳动物的生活干扰相对较小"
+   },
+   {
+    "label": "C",
+    "text": "采用红外触发相机拍摄技术可调查生活在该自然保护区内东北豹的种群密度"
+   },
+   {
+    "label": "D",
+    "text": "该技术能调查保护区内东北豹种群中成年个体数量，不能调查幼年个体数量"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_Ylp6YG7GmdNufNOaQD6ibw#2023课标·种群密度的调查方法]"
+ },
+ {
+  "root_id": "mkjr_Hj1fFXE6K5MC7N3ynZ5Beg",
+  "chapter": "选必二 第1章 种群及其动态",
+  "points": [
+   "影响种群数量变化的因素",
+   "环境容纳量"
+  ],
+  "province": "辽宁",
+  "year": "2023",
+  "type": "单选",
+  "answer": "A",
+  "stem": "在布氏田鼠种群数量爆发年份，种内竞争加剧，导致出生率下降、个体免疫力减弱，翌年种群数量大幅度减少；在种群数量低的年份，情况完全相反。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "布氏田鼠种群数量达到K/2时，种内竞争强度最小"
+   },
+   {
+    "label": "B",
+    "text": "布氏田鼠种群数量低的年份，环境容纳量可能不变"
+   },
+   {
+    "label": "C",
+    "text": "布氏田鼠种群数量爆发年份，天敌捕食成功的概率提高"
+   },
+   {
+    "label": "D",
+    "text": "布氏田鼠种群密度对种群数量变化起负反馈调节作用"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_Hj1fFXE6K5MC7N3ynZ5Beg#2023辽宁·影响种群数量变化的因素]"
+ },
+ {
+  "root_id": "mkjr_4jdyaIEmr5jIp9eLNFrCCw",
+  "chapter": "选必二 第1章 种群及其动态",
+  "points": [
+   "种群的年龄结构与性别比例"
+  ],
+  "province": "浙江",
+  "year": "2024",
+  "type": "单选",
+  "answer": "B",
+  "stem": "黄鳝从胚胎期到产卵期都是雌性，产卵过后变为雄性。研究人员对洞庭湖周边某水域捕获1178尾野生黄鳝进行年龄及性别的鉴定，结果如下表。 [图] 下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "该黄鳝种群的年龄结构为衰退型"
+   },
+   {
+    "label": "B",
+    "text": "种群中雄黄鳝的平均年龄大于雌性"
+   },
+   {
+    "label": "C",
+    "text": "随年龄增长雄黄鳝数量逐渐增加"
+   },
+   {
+    "label": "D",
+    "text": "该黄鳝种群的雌雄比例约为1∶1"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_4jdyaIEmr5jIp9eLNFrCCw#2024浙江·种群的年龄结构与性别比例]"
+ },
+ {
+  "root_id": "mkjr_UFDGg7cDuIiQiYvSwX_V9w",
+  "chapter": "选必二 第1章 种群及其动态",
+  "points": [
+   "环境容纳量"
+  ],
+  "province": "福建",
+  "year": "2024",
+  "type": "单选",
+  "answer": "D",
+  "stem": "朱鹮是国家一级保护鸟类。我国在朱鹮保护方面取得了重大成就，其数量从1981年的7只增加到现在的11000多只。下列保护措施中，不能提高朱鹮环境容纳量的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "多种植朱鹮的筑巢树木"
+   },
+   {
+    "label": "B",
+    "text": "增加朱鹮觅食的湿地面积"
+   },
+   {
+    "label": "C",
+    "text": "扩大朱鹮自然保护区的范围"
+   },
+   {
+    "label": "D",
+    "text": "加强对受伤朱鹮个体的救护"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_UFDGg7cDuIiQiYvSwX_V9w#2024福建·环境容纳量]"
+ },
+ {
+  "root_id": "mkjr_9T2gqp3oB8DHz1YxGTpfPQ",
+  "chapter": "选必二 第1章 种群及其动态",
+  "points": [
+   "种群数量的增长曲线",
+   "环境容纳量"
+  ],
+  "province": "课标",
+  "year": "2024",
+  "type": "单选",
+  "answer": "C",
+  "stem": "用一定量的液体培养基培养某种细菌，活细菌数随时间的变化趋势如图所示，其中Ⅰ～Ⅳ表示细菌种群增长的4个时期。下列叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "培养基中的细菌不能通过有丝分裂进行增殖"
+   },
+   {
+    "label": "B",
+    "text": "Ⅱ期细菌数量增长快，存在“J”形增长阶段"
+   },
+   {
+    "label": "C",
+    "text": "Ⅲ期细菌没有增殖和死亡，总数保持相对稳定"
+   },
+   {
+    "label": "D",
+    "text": "Ⅳ期细菌数量下降的主要原因有营养物质匮乏"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_9T2gqp3oB8DHz1YxGTpfPQ#2024课标·种群数量的增长曲线]"
+ }
+]

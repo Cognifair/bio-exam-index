@@ -1,0 +1,761 @@
+[
+ {
+  "root_id": "mkjr_GKbwvCAcIfi.UCizifRWUQ",
+  "chapter": "必修二 第1章 遗传因子的发现",
+  "points": [
+   "异常分离比问题"
+  ],
+  "province": "云南",
+  "year": "2026",
+  "type": "单选",
+  "answer": "C",
+  "stem": "红花是药食两用的经济作物，其分枝类型由A/a、B/b两对等位基因控制，用分散型和紧密型两株纯合植株杂交，F1全为分散型；F1自交，F2中分散型∶紧密型=13∶3。下列说法错误的是（　　）",
+  "options": [
+   {
+    "label": "A",
+    "text": "A/a与B/b的遗传遵循自由组合定律"
+   },
+   {
+    "label": "B",
+    "text": "紧密型亲本的基因型为AAbb（或aaBB）"
+   },
+   {
+    "label": "C",
+    "text": "F2分散型植株中纯合子占2/13"
+   },
+   {
+    "label": "D",
+    "text": "F2紧密型植株自由交配，子代中分散型占1/9"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_GKbwvCAcIfi.UCizifRWUQ#2026云南·异常分离比问题]"
+ },
+ {
+  "root_id": "mkjr_w1MTzFfrsph.6BADXW56nQ",
+  "chapter": "必修二 第1章 遗传因子的发现",
+  "points": [
+   "复等位基因"
+  ],
+  "province": "四川",
+  "year": "2026",
+  "type": "单选",
+  "answer": "D",
+  "stem": "控制猫毛色的w基因中插入不同长度DNA片段形成两个新的等位基因，导致猫出现三种毛色。用不同毛色的猫进行杂交实验，提取Ⅱ1∼Ⅱ4的DNA，分别对插入片段进行扩增和电泳，相关信息如图。下列推断正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "w基因位于X染色体上"
+   },
+   {
+    "label": "B",
+    "text": "w1基因对w2基因为隐性"
+   },
+   {
+    "label": "C",
+    "text": "Ⅱ2与Ⅰ2基因型相同的概率为1/2"
+   },
+   {
+    "label": "D",
+    "text": "若Ⅱ2与Ⅱ3交配，生出棕色猫的概率为1/4"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_w1MTzFfrsph.6BADXW56nQ#2026四川·复等位基因]"
+ },
+ {
+  "root_id": "mkjr_fdgRjsKXEBDKmGGRmJBYRg",
+  "chapter": "必修二 第1章 遗传因子的发现",
+  "points": [
+   "自由组合定律"
+  ],
+  "province": "湖北",
+  "year": "2026",
+  "type": "单选",
+  "answer": "C",
+  "stem": "豌豆种子的黄色和绿色分别受基因Y、y控制，种子的圆粒和皱粒分别受基因R、r控制。另有一对相对性状受基因A、a控制，该基因不影响黄色、绿色和圆粒、皱粒表型。现有纯合亲本AAYYRR和aayyrr杂交，所得植株自交，得种子。种子按A（a）基因型分类，结果如下表。 [图] 下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "种子圆粒与皱粒表型比为18:7"
+   },
+   {
+    "label": "B",
+    "text": "种子中基因型是aa的黄色种子占比为1/8"
+   },
+   {
+    "label": "C",
+    "text": "A（a）基因与Y（y）基因不在同一条染色体上"
+   },
+   {
+    "label": "D",
+    "text": "A（a）基因与R（r）基因的遗传符合孟德尔自由组合定律"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_fdgRjsKXEBDKmGGRmJBYRg#2026湖北·自由组合定律]"
+ },
+ {
+  "root_id": "mkjr_Jk6GpNxi5CbDN_xMO0dTXw",
+  "chapter": "必修二 第1章 遗传因子的发现",
+  "points": [
+   "异常分离比问题"
+  ],
+  "province": "安徽",
+  "year": "2025",
+  "type": "单选",
+  "answer": "D",
+  "stem": "一对体色均为灰色的昆虫亲本杂交，子代存活的个体中，灰色雄性:灰色雌性:黑色雄性:黑色雌性=6:3:2:1。假定此杂交结果涉及两对等位基因的遗传，在不考虑相关基因位于性染色体同源区段的情况下，同学们提出了4种解释，其中合理的是（ ） ①体色受常染色体上一对等位基因控制，位于X染色体上的基因有隐性纯合致死效应②体色受常染色体上一对等位基因控制，位于Z染色体上的基因有隐性纯合致死效应③体色受两对等位基因共同控制，其中位于X染色体上的基因还有隐性纯合致死效应④体色受两对等位基因共同控制，其中位于Z染色体上的基因还有隐性纯合致死效应",
+  "options": [
+   {
+    "label": "A",
+    "text": "①③"
+   },
+   {
+    "label": "B",
+    "text": "①④"
+   },
+   {
+    "label": "C",
+    "text": "②③"
+   },
+   {
+    "label": "D",
+    "text": "②④"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_Jk6GpNxi5CbDN_xMO0dTXw#2025安徽·异常分离比问题]"
+ },
+ {
+  "root_id": "mkjr_lRpjplIvL7fGgCM2JC4IYA",
+  "chapter": "必修二 第1章 遗传因子的发现",
+  "points": [
+   "异常分离比问题"
+  ],
+  "province": "全国乙",
+  "year": "2023",
+  "type": "单选",
+  "answer": "D",
+  "stem": "某种植物的宽叶/窄叶由等位基因A/a控制，A基因控制宽叶性状：高茎/矮茎由等位基因B/b控制，B基因控制高茎性状。这2对等位基因独立遗传。为研究该种植物的基因致死情况，某研究小组进行了两个实验，实验①：宽叶矮茎植株自交，子代中宽叶矮茎∶窄叶矮茎＝2∶1；实验②：窄叶高茎植株自交，子代中窄叶高茎∶窄叶矮茎＝2∶1。下列分析及推理中错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "从实验①可判断A基因纯合致死，从实验②可判断B基因纯合致死"
+   },
+   {
+    "label": "B",
+    "text": "实验①中亲本的基因型为Aabb，子代中宽叶矮茎的基因型也为Aabb"
+   },
+   {
+    "label": "C",
+    "text": "若发现该种植物中的某个植株表现为宽叶高茎，则其基因型为AaBb"
+   },
+   {
+    "label": "D",
+    "text": "将宽叶高茎植株进行自交，所获得子代植株中纯合子所占比例为1/4"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_lRpjplIvL7fGgCM2JC4IYA#2023全国乙·异常分离比问题]"
+ },
+ {
+  "root_id": "mkjr_9ODFlVGOisKebOdPITkHhg",
+  "chapter": "必修二 第1章 遗传因子的发现",
+  "points": [
+   "异常分离比问题"
+  ],
+  "province": "全国甲",
+  "year": "2022",
+  "type": "单选",
+  "answer": "B",
+  "stem": "某种自花传粉植物的等位基因A/a和B/b位于非同源染色体上。A/a控制花粉育性，含A的花粉可育；含a的花粉50%可育、50%不育。B/b控制花色，红花对白花为显性。若基因型为AaBb的亲本进行自交，则下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "子一代中红花植株数是白花植株数的3倍"
+   },
+   {
+    "label": "B",
+    "text": "子一代中基因型为aabb的个体所占比例是1/12"
+   },
+   {
+    "label": "C",
+    "text": "亲本产生的可育雄配子数是不育雄配子数的3倍"
+   },
+   {
+    "label": "D",
+    "text": "亲本产生的含B的可育雄配子数与含b的可育雄配子数相等"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_9ODFlVGOisKebOdPITkHhg#2022全国甲·异常分离比问题]"
+ },
+ {
+  "root_id": "mkjr_GhrvtL0YtC8xDK3Htp6zQQ",
+  "chapter": "必修二 第1章 遗传因子的发现",
+  "points": [
+   "分离定律"
+  ],
+  "province": "天津",
+  "year": "2022",
+  "type": "单选",
+  "answer": "B",
+  "stem": "染色体架起了基因和性状之间的桥梁。有关叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "性状都是由染色体上的基因控制的"
+   },
+   {
+    "label": "B",
+    "text": "相对性状分离是由同源染色体上的等位基因分离导致的"
+   },
+   {
+    "label": "C",
+    "text": "不同性状自由组合是由同源染色体上的非等位基因自由组合导致的"
+   },
+   {
+    "label": "D",
+    "text": "可遗传的性状改变都是由染色体上的基因突变导致的"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_GhrvtL0YtC8xDK3Htp6zQQ#2022天津·分离定律]"
+ },
+ {
+  "root_id": "mkjr_5qgntYWjMC3OZ9myAiMw0Q",
+  "chapter": "必修二 第1章 遗传因子的发现",
+  "points": [
+   "自由组合定律"
+  ],
+  "province": "山东",
+  "year": "2022",
+  "type": "多选",
+  "answer": "BC",
+  "stem": "某两性花二倍体植物的花色由3对等位基因控制，其中基因A控制紫色，a无控制色素合成的功能。基因B控制红色，b控制蓝色。基因1不影响上述2对基因的功能，但i纯合的个体为白色花。所有基因型的植株都能正常生长和繁殖，基因型为A_B_I_和A_bbI_的个体分别表现紫红色花和靛蓝色花。现有该植物的3个不同纯种品系甲、乙、丙，它们的花色分别为靛蓝色、白色和红色。不考虑突变，根据表中杂交结果，下列推断正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "让只含隐性基因的植株与F2测交，可确定F2中各植株控制花色性状的基因型"
+   },
+   {
+    "label": "B",
+    "text": "让表中所有F2的紫红色植株都自交一代，白花植株在全体子代中的比例为1/6"
+   },
+   {
+    "label": "C",
+    "text": "若某植株自交子代中白花植株占比为1/4，则该植株可能的基因型最多有9种"
+   },
+   {
+    "label": "D",
+    "text": "若甲与丙杂交所得F1自交，则F2表型比例为9紫红色∶3靛蓝色∶3红色∶1蓝色"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_5qgntYWjMC3OZ9myAiMw0Q#2022山东·自由组合定律]"
+ },
+ {
+  "root_id": "mkjr_1HawAF0nQEzkMEELfdfcNQ",
+  "chapter": "必修二 第1章 遗传因子的发现",
+  "points": [
+   "复等位基因"
+  ],
+  "province": "贵州",
+  "year": "2026",
+  "type": "单选",
+  "answer": "D",
+  "stem": "人类经典半乳糖血症是由于GALT酶缺乏引发的综合性疾病。GALT酶的合成受复等位基因G、GD和g控制，其中g为致病基因，基因G、GD对g均为显性。如图是关于该病的某家族系谱图（不考虑染色体及其他变异）。下列叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "控制该病的致病基因位于X染色体上"
+   },
+   {
+    "label": "B",
+    "text": "个体Ⅱ-5和Ⅱ-6的基因型相同且都为Gg"
+   },
+   {
+    "label": "C",
+    "text": "复等位基因G、GD和g组成的基因型共有8种"
+   },
+   {
+    "label": "D",
+    "text": "个体Ⅱ-5和Ⅱ-6再生一个正常女孩的概率为3/8"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_1HawAF0nQEzkMEELfdfcNQ#2026贵州·复等位基因]"
+ },
+ {
+  "root_id": "mkjr_Yx2lXNb6ps9Ybnpdovh5fw",
+  "chapter": "必修二 第1章 遗传因子的发现",
+  "points": [
+   "自由组合定律"
+  ],
+  "province": "贵州",
+  "year": "2026",
+  "type": "单选",
+  "answer": "D",
+  "stem": "某种狗的毛色有黑色、棕色和黄色，受常染色体上一对等位基因A/a控制，基因型为aa的狗均为黄色；鼻子有黑色和棕色，受另一对等位基因B/b控制，B/b基因还会影响毛色的深度。研究小组进行杂交实验，结果如表。下列叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "该实验中父本基因型为aabb"
+   },
+   {
+    "label": "B",
+    "text": "F2黄毛狗中黑鼻个体占1/4"
+   },
+   {
+    "label": "C",
+    "text": "F2黑毛狗中有1/4个体基因型与F1相同"
+   },
+   {
+    "label": "D",
+    "text": "F2棕毛狗相互交配子代个体全为棕鼻"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_Yx2lXNb6ps9Ybnpdovh5fw#2026贵州·自由组合定律]"
+ },
+ {
+  "root_id": "mkjr_nlX7xXnNVQpesxbzPEA61Q",
+  "chapter": "必修二 第1章 遗传因子的发现",
+  "points": [
+   "自由组合定律"
+  ],
+  "province": "黑吉辽蒙",
+  "year": "2026",
+  "type": "多选",
+  "answer": "ACD",
+  "stem": "水仙花瓣与副冠（如下图）的颜色与类胡萝卜素的含量有关。上述性状由三对独立遗传的等位基因控制，A基因控制类胡萝卜素合成，B基因控制类胡萝卜素降解，D基因调控类胡萝卜素富集使副冠呈橙红色，a、b和d基因不具有对应功能。现有纯合水仙甲（花瓣白色、副冠黄色，花后期副冠会褪色）和纯合水仙乙（花瓣黄色、副冠橙红色，花后期副冠不褪色）。将甲和乙杂交后得到F1，再自交得到F2。下列叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "水仙甲花瓣和副冠颜色的差异是由基因B表达情况不同导致的"
+   },
+   {
+    "label": "B",
+    "text": "甲和乙的基因型分别为aaBBdd、AAbbDD"
+   },
+   {
+    "label": "C",
+    "text": "F1的表型为花瓣白色、副冠橙红色，花后期副冠褪色"
+   },
+   {
+    "label": "D",
+    "text": "F2中副冠橙红、不褪色植株的占比是3/16，该性状共有2种基因型"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_nlX7xXnNVQpesxbzPEA61Q#2026黑吉辽蒙·自由组合定律]"
+ },
+ {
+  "root_id": "mkjr_o0Emy..yQmUb5UFSoyQnxg",
+  "chapter": "必修二 第1章 遗传因子的发现",
+  "points": [
+   "基因型与表型的推断"
+  ],
+  "province": "山东",
+  "year": "2025",
+  "type": "单选",
+  "answer": "B",
+  "stem": "果蝇体节发育与分别位于2对常染色体上的等位基因M、m和N、n有关，M对m、N对n均为显性。其中1对为母体效应基因，只要母本该基因为隐性纯合，子代就体节缺失，与自身该对基因的基因型无关；另1对基因无母体效应，该基因的隐性纯合子体节缺失。下列基因型的个体均体节缺失，能判断哪对等位基因为母体效应基因的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "MmNn"
+   },
+   {
+    "label": "B",
+    "text": "MmNN"
+   },
+   {
+    "label": "C",
+    "text": "mmNN"
+   },
+   {
+    "label": "D",
+    "text": "Mmnn"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_o0Emy..yQmUb5UFSoyQnxg#2025山东·基因型与表型的推断]"
+ },
+ {
+  "root_id": "mkjr_SnsvMYUJ26xVo1RWe0G1jw",
+  "chapter": "必修二 第1章 遗传因子的发现",
+  "points": [
+   "异常分离比问题"
+  ],
+  "province": "河南",
+  "year": "2025",
+  "type": "单选",
+  "answer": "D",
+  "stem": "现有二倍体植株甲和乙，自交后代中某性状的正常株：突变株均为3：1.甲自交后代中的突变株与乙自交后代中的突变株杂交，F1全为正常株，F2中该性状的正常株：突变株=9：6（等位基因可依次使用A/a、B/b……）。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "甲的基因型是AaBB或AABb"
+   },
+   {
+    "label": "B",
+    "text": "F2出现异常分离比是因为出现了隐性纯合致死"
+   },
+   {
+    "label": "C",
+    "text": "F2植株中性状能稳定遗传的占7/15"
+   },
+   {
+    "label": "D",
+    "text": "F2中交配能产生AABB基因型的亲本组合有6种"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_SnsvMYUJ26xVo1RWe0G1jw#2025河南·异常分离比问题]"
+ },
+ {
+  "root_id": "mkjr_zZ52vo.4EHChZiKs58fePw",
+  "chapter": "必修二 第1章 遗传因子的发现",
+  "points": [
+   "孟德尔实验的科学方法"
+  ],
+  "province": "湖北",
+  "year": "2025",
+  "type": "单选",
+  "answer": "C",
+  "stem": "某学生重复孟德尔豌豆杂交实验，取一粒黄色圆粒F₁种子（YyRr），培养成植株，成熟后随机取4个豆荚，所得32粒豌豆种子表型计数结果如表所示。下列叙述最合理的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "32粒种子中有18粒黄色圆粒种子，2粒绿色皱粒种子"
+   },
+   {
+    "label": "B",
+    "text": "实验结果说明含R基因配子的活力低于含r基因的配子"
+   },
+   {
+    "label": "C",
+    "text": "不同批次随机摘取4个豆荚，所得种子的表型比会有差别"
+   },
+   {
+    "label": "D",
+    "text": "该实验豌豆种子的圆粒与皱粒表型比支持孟德尔分离定律"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_zZ52vo.4EHChZiKs58fePw#2025湖北·孟德尔实验的科学方法]"
+ },
+ {
+  "root_id": "mkjr_08UQPM_kpen6h.FB7850pw",
+  "chapter": "必修二 第1章 遗传因子的发现",
+  "points": [
+   "基因型与表型的推断"
+  ],
+  "province": "甘肃",
+  "year": "2025",
+  "type": "单选",
+  "answer": "A",
+  "stem": "某种牛常染色体上的一对等位基因H（无角）对h（有角）完全显性。体表斑块颜色由另一对独立的常染色体基因（M褐色/m红色）控制，杂合态时公牛呈现褐斑，母牛呈现红斑。在下图的杂交实验中，亲本公牛的基因型是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "HhMm"
+   },
+   {
+    "label": "B",
+    "text": "HHMm"
+   },
+   {
+    "label": "C",
+    "text": "HhMM"
+   },
+   {
+    "label": "D",
+    "text": "HHMM"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_08UQPM_kpen6h.FB7850pw#2025甘肃·基因型与表型的推断]"
+ },
+ {
+  "root_id": "mkjr_M8JC1j8XfT_RKC4_RZOMBw",
+  "chapter": "必修二 第1章 遗传因子的发现",
+  "points": [
+   "分离定律"
+  ],
+  "province": "安徽",
+  "year": "2024",
+  "type": "单选",
+  "answer": "A",
+  "stem": "某种昆虫的颜色由常染色体上的一对等位基因控制，雌虫有黄色和白色两种表型，雄虫只有黄色，控制白色的基因在雄虫中不表达，各类型个体的生存和繁殖力相同。随机选取一只白色雌虫与一只黄色雄虫交配，F1雌性全为白色，雄性全为黄色。继续让F1自由交配，理论上F2雌性中白色个体的比例不可能是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "1/2"
+   },
+   {
+    "label": "B",
+    "text": "3/4"
+   },
+   {
+    "label": "C",
+    "text": "15/16"
+   },
+   {
+    "label": "D",
+    "text": "1"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_M8JC1j8XfT_RKC4_RZOMBw#2024安徽·分离定律]"
+ },
+ {
+  "root_id": "mkjr_SGfkeNo.2OlZ5K0GrW0qgA",
+  "chapter": "必修二 第1章 遗传因子的发现",
+  "points": [
+   "自由组合定律"
+  ],
+  "province": "重庆",
+  "year": "2025",
+  "type": "单选",
+  "answer": "C",
+  "stem": "水稻雄性不育、可育由等位基因T、t控制，不育性状受温度的影响（见下表）；米质优、劣由等位基因Y、y控制。不育株S1米质劣但抗病，不育株S2米质优但易感病。为了选育综合性状好的不育系，用S1和S2杂交获得F1，F1均为不育且米质优。选F1两单株杂交获得的F2中出现稳定可育株，PCR检测部分世代中相关基因，电泳结果如图所示，下列说法正确的是（ ） [图] [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "S1是基因型为TTYY的纯合子"
+   },
+   {
+    "label": "B",
+    "text": "选择F1任意两单株进行杂交均会出现如图F2的育性分离"
+   },
+   {
+    "label": "C",
+    "text": "F2在高温条件下表现不育且米质优的纯合植株占比1/16"
+   },
+   {
+    "label": "D",
+    "text": "在S1和S2杂交得到F1时，亲本植株需在同一温度条件下种植"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_SGfkeNo.2OlZ5K0GrW0qgA#2025重庆·自由组合定律]"
+ },
+ {
+  "root_id": "mkjr_PvTxxUtOPCmB_K6VDtbNRg",
+  "chapter": "必修二 第1章 遗传因子的发现",
+  "points": [
+   "异常分离比问题"
+  ],
+  "province": "海南",
+  "year": "2022",
+  "type": "单选",
+  "answer": "D",
+  "stem": "匍匐鸡是一种矮型鸡，匍匐性状基因（A）对野生性状基因（a）为显性，这对基因位于常染色体上，且A基因纯合时会导致胚胎死亡。某鸡群中野生型个体占20％，匍匐型个体占80％，随机交配得到F1，F1雌、雄个体随机交配得到F2。下列有关叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "F1中匍匐型个体的比例为12/25"
+   },
+   {
+    "label": "B",
+    "text": "与F1相比，F2中A基因频率较高"
+   },
+   {
+    "label": "C",
+    "text": "F2中野生型个体的比例为25/49"
+   },
+   {
+    "label": "D",
+    "text": "F2中A基因频率为2/9"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_PvTxxUtOPCmB_K6VDtbNRg#2022海南·异常分离比问题]"
+ },
+ {
+  "root_id": "mkjr_YnjQ7i76LLjnrKyU2i28Wg",
+  "chapter": "必修二 第1章 遗传因子的发现",
+  "points": [
+   "自由组合定律"
+  ],
+  "province": "河北",
+  "year": "2022",
+  "type": "单选",
+  "answer": "D",
+  "stem": "研究者在培养野生型红眼果蝇时，发现一只眼色突变为奶油色的雄蝇。为研究该眼色遗传规律，将红眼雌蝇和奶油眼雄蝇杂交，结果如下图。下列叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "奶油眼色至少受两对独立遗传的基因控制"
+   },
+   {
+    "label": "B",
+    "text": "F2红眼雌蝇的基因型共有6种"
+   },
+   {
+    "label": "C",
+    "text": "F1红眼雌蝇和F2伊红眼雄蝇杂交，得到伊红眼雌蝇的概率为5/24"
+   },
+   {
+    "label": "D",
+    "text": "F2雌蝇分别与F2的三种眼色雄蝇杂交，均能得到奶油眼雌蝇"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_YnjQ7i76LLjnrKyU2i28Wg#2022河北·自由组合定律]"
+ },
+ {
+  "root_id": "mkjr_rrrzChfho7mHVGfSEG_o.Q",
+  "chapter": "必修二 第1章 遗传因子的发现",
+  "points": [
+   "孟德尔实验的科学方法"
+  ],
+  "province": "浙江",
+  "year": "2022",
+  "type": "单选",
+  "answer": "D",
+  "stem": "孟德尔杂交试验成功的重要因素之一是选择了严格自花授粉的豌豆作为材料。自然条件下豌豆大多数是纯合子，主要原因是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "杂合子豌豆的繁殖能力低"
+   },
+   {
+    "label": "B",
+    "text": "豌豆的基因突变具有可逆性"
+   },
+   {
+    "label": "C",
+    "text": "豌豆的性状大多数是隐性性状"
+   },
+   {
+    "label": "D",
+    "text": "豌豆连续自交，杂合子比例逐渐减小"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_rrrzChfho7mHVGfSEG_o.Q#2022浙江·孟德尔实验的科学方法]"
+ },
+ {
+  "root_id": "mkjr_QgV25msKMA0CFjoOnjASIQ",
+  "chapter": "必修二 第1章 遗传因子的发现",
+  "points": [
+   "性状分离比的模拟"
+  ],
+  "province": "湖北",
+  "year": "2024",
+  "type": "单选",
+  "answer": "A",
+  "stem": "模拟实验是根据相似性原理，用模型来替代研究对象的实验。比如“性状分离比的模拟实验”（实验一）中用小桶甲和乙分别代表植物的雌雄生殖器官，用不同颜色的彩球代表D、d雌雄配子；“建立减数分裂中染色体变化的模型”模拟实验（实验二）中可用橡皮泥制作染色体模型，细绳代表纺锤丝；DNA分子的重组模拟实验（实验三）中可利用剪刀、订书钉和写有DNA序列的纸条等模拟DNA分子重组的过程。下列实验中模拟正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "实验一中可用绿豆和黄豆代替不同颜色的彩球分别模拟D和d配子"
+   },
+   {
+    "label": "B",
+    "text": "实验二中牵拉细绳使橡皮泥分开，可模拟纺锤丝牵引使着丝粒分裂"
+   },
+   {
+    "label": "C",
+    "text": "实验三中用订书钉将两个纸条片段连接，可模拟核苷酸之间形成磷酸二酯键"
+   },
+   {
+    "label": "D",
+    "text": "向实验一桶内添加代表另一对等位基因的彩球可模拟两对等位基因的自由组合"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_QgV25msKMA0CFjoOnjASIQ#2024湖北·性状分离比的模拟]"
+ },
+ {
+  "root_id": "mkjr_9Vn5q.d4_8LeICy3mLHKEw",
+  "chapter": "必修二 第1章 遗传因子的发现",
+  "points": [
+   "分离定律"
+  ],
+  "province": "湖北",
+  "year": "2024",
+  "type": "单选",
+  "answer": "D",
+  "stem": "不同品种烟草在受到烟草花叶病毒（TMV）侵染后症状不同。研究者发现品种甲受TMV侵染后表现为无症状（非敏感型），而品种乙则表现为感病（敏感型）。甲与乙杂交，F1均为敏感型；F1与甲回交所得的子代中，敏感型与非敏感型植株之比为3∶1。对决定该性状的N基因测序发现，甲的N基因相较于乙的缺失了2个碱基对。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "该相对性状由一对等位基因控制"
+   },
+   {
+    "label": "B",
+    "text": "F1自交所得的F2中敏感型和非敏感型的植株之比为13∶3"
+   },
+   {
+    "label": "C",
+    "text": "发生在N基因上的2个碱基对的缺失不影响该基因表达产物的功能"
+   },
+   {
+    "label": "D",
+    "text": "用DNA酶处理该病毒的遗传物质，然后导入到正常乙植株中，该植株表现为感病"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_9Vn5q.d4_8LeICy3mLHKEw#2024湖北·分离定律]"
+ },
+ {
+  "root_id": "mkjr_iZlmKnjjQSXgw.Y4zx9Zug",
+  "chapter": "必修二 第1章 遗传因子的发现",
+  "points": [
+   "自由组合定律"
+  ],
+  "province": "福建",
+  "year": "2024",
+  "type": "单选",
+  "answer": "C",
+  "stem": "人体Ⅰ型胶原蛋白是骨骼和结缔组织的主要结构蛋白，由两条α1链和一条α2链组成，α1链由17号染色体上的COL1A1编码，α2链由7号染色体上的COL1A2编码。某夫妻因部分Ⅰ型胶原蛋白结构异常导致疾病发生，检测发现丈夫存在1个突变的COL1A1，妻子存在1个突变的COL1A2。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "人体中的COL1A1和COL1A2为非等位基因"
+   },
+   {
+    "label": "B",
+    "text": "该夫妻所患疾病都属于常染色体显性遗传病"
+   },
+   {
+    "label": "C",
+    "text": "丈夫体内Ⅰ型胶原蛋白结构异常的概率是1/2"
+   },
+   {
+    "label": "D",
+    "text": "该夫妻生下正常女孩的概率是1/8"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_iZlmKnjjQSXgw.Y4zx9Zug#2024福建·自由组合定律]"
+ }
+]

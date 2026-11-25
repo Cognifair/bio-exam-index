@@ -1,0 +1,1393 @@
+[
+ {
+  "root_id": "mkjr_HjZja3e404HI9_6eK.Trbg",
+  "chapter": "选必二 第4章 人与环境",
+  "points": [
+   "生物多样性及其价值",
+   "生态工程的实例"
+  ],
+  "province": "云南",
+  "year": "2026",
+  "type": "单选",
+  "answer": "D",
+  "stem": "全球珊瑚礁生态系统退化严重，其中多种鱼的种群数量低于环境容纳量的一半。下列说法错误的是（　　）",
+  "options": [
+   {
+    "label": "A",
+    "text": "渔业捕捞体现了生物多样性的直接价值"
+   },
+   {
+    "label": "B",
+    "text": "人工恢复珊瑚礁生态系统应遵循生态工程的整体原理"
+   },
+   {
+    "label": "C",
+    "text": "人工恢复可以辅助珊瑚礁生态系统提升稳定性"
+   },
+   {
+    "label": "D",
+    "text": "生态系统恢复过程中鱼的环境容纳量将维持稳定"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_HjZja3e404HI9_6eK.Trbg#2026云南·生物多样性及其价值]"
+ },
+ {
+  "root_id": "mkjr_.T55B45icBJsptGhouRywg",
+  "chapter": "选必二 第4章 人与环境",
+  "points": [
+   "生物多样性的保护"
+  ],
+  "province": "四川",
+  "year": "2026",
+  "type": "单选",
+  "answer": "B",
+  "stem": "长江十年禁渔实施以来，长江鱼类资源和生物多样性恢复持续向好，顶级捕食者长江江豚种群数量增长已超30%。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "长江生物多样性恢复说明人类活动可改变群落演替的方向"
+   },
+   {
+    "label": "B",
+    "text": "长江江豚种群数量增加说明能量传递至最高营养级的效率增加"
+   },
+   {
+    "label": "C",
+    "text": "禁渔措施减小了环境阻力，提升了长江江豚的环境容纳量"
+   },
+   {
+    "label": "D",
+    "text": "长江江豚种群数量增加体现了禁渔这一就地保护措施的有效性"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_.T55B45icBJsptGhouRywg#2026四川·生物多样性的保护]"
+ },
+ {
+  "root_id": "mkjr_LF1kgWyGrea9hnEUMvPKpQ",
+  "chapter": "选必二 第4章 人与环境",
+  "points": [
+   "生态足迹"
+  ],
+  "province": "山东",
+  "year": "2026",
+  "type": "单选",
+  "answer": "A",
+  "stem": "生态足迹可用于评价人类对生态和环境的影响。下列说法错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "吸收人类代谢产生的二氧化碳所需的森林面积属于碳足迹"
+   },
+   {
+    "label": "B",
+    "text": "生态足迹的值越大，代表人类所需要的资源越多"
+   },
+   {
+    "label": "C",
+    "text": "增加食物中的低营养级生物所占比例，有助于降低生态足迹"
+   },
+   {
+    "label": "D",
+    "text": "利用生态工程的循环原理减少废弃物产生，有助于降低生态足迹"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_LF1kgWyGrea9hnEUMvPKpQ#2026山东·生态足迹]"
+ },
+ {
+  "root_id": "mkjr_rCPuHl_RmbvrQ8jiZjtK7Q",
+  "chapter": "选必二 第4章 人与环境",
+  "points": [
+   "生态足迹"
+  ],
+  "province": "广东",
+  "year": "2026",
+  "type": "单选",
+  "answer": "D",
+  "stem": "我国大力推进生态文明建设，促进人与自然和谐共生。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "生态环境法典的颁布，有利于对生态环境的系统性保护"
+   },
+   {
+    "label": "B",
+    "text": "国家公园和国家植物园的建立，可有效保护生物多样性"
+   },
+   {
+    "label": "C",
+    "text": "退耕还林工程的实施，有利于区域可持续发展"
+   },
+   {
+    "label": "D",
+    "text": "绿色生活方式的倡导和践行，增大了生态足迹"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_rCPuHl_RmbvrQ8jiZjtK7Q#2026广东·生态足迹]"
+ },
+ {
+  "root_id": "mkjr_FLPoikrvNCqzx1xgD0FFXQ",
+  "chapter": "选必二 第4章 人与环境",
+  "points": [
+   "生态足迹"
+  ],
+  "province": "河北",
+  "year": "2026",
+  "type": "单选",
+  "answer": "C",
+  "stem": "当全球生态足迹总量大于生态承载力（地球提供资源的能力）总量时，地球会进入生态超载状态。下列举措不能减缓生态超载的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "开展植树造林，增加植物固碳"
+   },
+   {
+    "label": "B",
+    "text": "倡导绿色出行，降低能源消耗"
+   },
+   {
+    "label": "C",
+    "text": "扩大采矿规模，提升资源供给"
+   },
+   {
+    "label": "D",
+    "text": "推行生物防治，减少农药使用"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_FLPoikrvNCqzx1xgD0FFXQ#2026河北·生态足迹]"
+ },
+ {
+  "root_id": "mkjr_8T1M7ALkGKTzVjINidSESQ",
+  "chapter": "选必二 第4章 人与环境",
+  "points": [
+   "生物多样性的保护"
+  ],
+  "province": "河南",
+  "year": "2026",
+  "type": "单选",
+  "answer": "A",
+  "stem": "黄河中下游某湿地自然保护区建立若干年后，生态环境得到显著改善，生物种类增多，越冬大天鹅数量从几百只增至一万余只。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "大天鹅迁徙表明群落的物种组成和空间结构会发生季节性改变"
+   },
+   {
+    "label": "B",
+    "text": "保护区内大天鹅种群数量的增长不受资源、空间等方面的限制"
+   },
+   {
+    "label": "C",
+    "text": "该保护措施属于易地保护，可通过人工繁育增加大天鹅种群数量"
+   },
+   {
+    "label": "D",
+    "text": "湿地生态系统的抵抗力稳定性取决于大天鹅这一优势物种的数量"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_8T1M7ALkGKTzVjINidSESQ#2026河南·生物多样性的保护]"
+ },
+ {
+  "root_id": "mkjr_mUzGSsj2k_4eHs_z2mZNbA",
+  "chapter": "选必二 第4章 人与环境",
+  "points": [
+   "生态工程的实例"
+  ],
+  "province": "湖北",
+  "year": "2026",
+  "type": "单选",
+  "answer": "A",
+  "stem": "“十五五”规划提出要加快形成绿色生产生活方式，加强资源节约集约利用，开展绿色低碳全民行动。以下做法与上述要求不相符的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "露天焚烧生活垃圾"
+   },
+   {
+    "label": "B",
+    "text": "利用人畜粪便发酵生产沼气"
+   },
+   {
+    "label": "C",
+    "text": "采用生物防治技术控制害虫危害"
+   },
+   {
+    "label": "D",
+    "text": "倡导“陆基种桑、桑叶饲蚕、蚕沙喂鱼、塘泥培桑”的农业生产模式"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_mUzGSsj2k_4eHs_z2mZNbA#2026湖北·生态工程的实例]"
+ },
+ {
+  "root_id": "mkjr_3aO._S9oVNlAAtOT39AFAQ",
+  "chapter": "选必二 第4章 人与环境",
+  "points": [
+   "生物多样性及其价值"
+  ],
+  "province": "北京",
+  "year": "2025",
+  "type": "单选",
+  "answer": "B",
+  "stem": "近年来，北京建设了许多大型湿地公园，对于生态环境的改善产生了积极作用。以下关于湿地公园生态功能的叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "调蓄洪水，减缓水旱灾害"
+   },
+   {
+    "label": "B",
+    "text": "改变温带季风气候"
+   },
+   {
+    "label": "C",
+    "text": "自然净化污水"
+   },
+   {
+    "label": "D",
+    "text": "为野生动物提供栖息地"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_3aO._S9oVNlAAtOT39AFAQ#2025北京·生物多样性及其价值]"
+ },
+ {
+  "root_id": "mkjr_TDtQ.vgJh74WOFxl3Q7U6g",
+  "chapter": "选必二 第4章 人与环境",
+  "points": [
+   "生物多样性的保护"
+  ],
+  "province": "四川",
+  "year": "2025",
+  "type": "单选",
+  "answer": "A",
+  "stem": "我国大熊猫保护工作已取得显著成效，但仍面临部分种群遗传多样性较低的问题。下列措施中不属于保护大熊猫遗传多样性的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "选繁殖能力强的个体进行人工繁育"
+   },
+   {
+    "label": "B",
+    "text": "建立基因库保存不同种群的遗传材料"
+   },
+   {
+    "label": "C",
+    "text": "建立生态走廊促进种群间基因交流"
+   },
+   {
+    "label": "D",
+    "text": "在隔离的小种群中引入野化放归个体"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_TDtQ.vgJh74WOFxl3Q7U6g#2025四川·生物多样性的保护]"
+ },
+ {
+  "root_id": "mkjr_pmlGJeKRZGMJfcopudMKww",
+  "chapter": "选必二 第4章 人与环境",
+  "points": [
+   "全球性生态环境问题"
+  ],
+  "province": "云南",
+  "year": "2025",
+  "type": "单选",
+  "answer": "D",
+  "stem": "增加碳汇的目的是减少大气中CO2含量。下列措施中无法实现减少碳排或增加碳汇的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "保护湿地"
+   },
+   {
+    "label": "B",
+    "text": "植树造林"
+   },
+   {
+    "label": "C",
+    "text": "秸秆还田"
+   },
+   {
+    "label": "D",
+    "text": "动物饲养"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_pmlGJeKRZGMJfcopudMKww#2025云南·全球性生态环境问题]"
+ },
+ {
+  "root_id": "mkjr_AimgdS7pvobuDIYnGHfKCw",
+  "chapter": "选必二 第4章 人与环境",
+  "points": [
+   "生物多样性的保护"
+  ],
+  "province": "北京",
+  "year": "2024",
+  "type": "单选",
+  "answer": "B",
+  "stem": "朱鹮曾广泛分布于东亚，一度濒临灭绝。我国朱鹮的数量从1981年在陕西发现时的7只增加到如今的万只以上，其中北京动物园38岁的朱鹮“平平”及其27个子女对此有很大贡献。相关叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "北京动物园所有朱鹮构成的集合是一个种群"
+   },
+   {
+    "label": "B",
+    "text": "朱鹮数量已达到原栖息地的环境容纳量"
+   },
+   {
+    "label": "C",
+    "text": "“平平”及其后代的成功繁育属于易地保护"
+   },
+   {
+    "label": "D",
+    "text": "对朱鹮的保护有利于提高生物多样性"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_AimgdS7pvobuDIYnGHfKCw#2024北京·生物多样性的保护]"
+ },
+ {
+  "root_id": "mkjr_11gGPTqn3CvHhwFJW6fyFw",
+  "chapter": "选必二 第4章 人与环境",
+  "points": [
+   "生态工程的实例",
+   "生物多样性及其价值"
+  ],
+  "province": "江苏",
+  "year": "2023",
+  "type": "单选",
+  "answer": "C",
+  "stem": "我国天然林保护工程等国家重点生态工程不仅在生态恢复、生物多样性保护等方面发挥着重要作用，还显著增加了生态系统的固碳能力。下列相关叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "天然林的抵抗力稳定性强，全球气候变化对其影响不大"
+   },
+   {
+    "label": "B",
+    "text": "减少化石燃料的大量使用可消除温室效应的形成"
+   },
+   {
+    "label": "C",
+    "text": "碳循环中无机碳通过光合作用和化能合成作用进入生物群落"
+   },
+   {
+    "label": "D",
+    "text": "天然林保护是实现碳中和的重要措施，主要体现了生物多样性的直接价值"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_11gGPTqn3CvHhwFJW6fyFw#2023江苏·生态工程的实例]"
+ },
+ {
+  "root_id": "mkjr_eIWrY66tX6Wvg36GLfTz0Q",
+  "chapter": "选必二 第4章 人与环境",
+  "points": [
+   "生态工程的基本原理"
+  ],
+  "province": "贵州",
+  "year": "2026",
+  "type": "单选",
+  "answer": "B",
+  "stem": "某市利用无人机对城区进行三维扫描估算城市绿量（地面上植物绿色部分的总和），为城市绿地空间规划提供参考。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "城市绿量的增加表征生产者固定的太阳能总量增加"
+   },
+   {
+    "label": "B",
+    "text": "城市绿量主要反映了植被的规模、生物量和物种丰富度"
+   },
+   {
+    "label": "C",
+    "text": "城市绿量的优化有助于缓解城区高温化现象，体现人与自然和谐共生"
+   },
+   {
+    "label": "D",
+    "text": "城市绿地空间规划要遵循整体、协调、循环、自生等生态学基本原理"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_eIWrY66tX6Wvg36GLfTz0Q#2026贵州·生态工程的基本原理]"
+ },
+ {
+  "root_id": "mkjr_tkkPMxqngAxLpz9JUO4X6A",
+  "chapter": "选必二 第4章 人与环境",
+  "points": [
+   "生态工程的实例"
+  ],
+  "province": "江苏",
+  "year": "2025",
+  "type": "单选",
+  "answer": "D",
+  "stem": "江苏某地运用生态修复工程技术，将废弃矿区建设成为中国最美的乡村湿地之一。下列相关叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "先从非生物因素入手，改善地貌条件、治理水体污染、修建引水工程"
+   },
+   {
+    "label": "B",
+    "text": "构建适合本地、结构良好的植被体系，提高生产者的生物量"
+   },
+   {
+    "label": "C",
+    "text": "生态修复工程调整了生态系统的营养结构"
+   },
+   {
+    "label": "D",
+    "text": "建设合理景观，综合提高其经济、生态等生物多样性的直接价值"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_tkkPMxqngAxLpz9JUO4X6A#2025江苏·生态工程的实例]"
+ },
+ {
+  "root_id": "mkjr_PtwBg3GpT5397g.cXqBEaw",
+  "chapter": "选必二 第4章 人与环境",
+  "points": [
+   "生态工程的实例"
+  ],
+  "province": "江西",
+  "year": "2025",
+  "type": "单选",
+  "answer": "A",
+  "stem": "生物治沙在我国的防沙治沙工程中发挥了重要作用，沙区普遍依照“以水定绿”的策略，在绿洲外围沙漠边缘育草覆绿，绿洲前沿地带种植胡杨、梭梭等乔灌木结合的防沙林带，绿洲内部地带建设农田防护林网。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "草和乔灌木的分区搭配体现了群落的垂直结构"
+   },
+   {
+    "label": "B",
+    "text": "生物治沙增加了沙漠生态系统食物网的复杂性"
+   },
+   {
+    "label": "C",
+    "text": "生物治沙提高了沙漠生态系统的抵抗力稳定性"
+   },
+   {
+    "label": "D",
+    "text": "“以水定绿”的策略体现了生态工程的协调原理"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_PtwBg3GpT5397g.cXqBEaw#2025江西·生态工程的实例]"
+ },
+ {
+  "root_id": "mkjr_kQcjFpLzOQsckAmkSoXIpQ",
+  "chapter": "选必二 第4章 人与环境",
+  "points": [
+   "生态工程的实例"
+  ],
+  "province": "河北",
+  "year": "2025",
+  "type": "单选",
+  "answer": "A",
+  "stem": "被誉为“太行新愚公”的李保国在太行山区摸索出了一种成功的生态经济沟建设模式——山顶种植水土保持林、山腰种植干果林和山脚种植水果林，切实践行了“绿水青山就是金山银山”的理念。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "山顶、山腰和山脚不同林种的布局体现了群落的垂直结构"
+   },
+   {
+    "label": "B",
+    "text": "生态经济沟的建设提高了当地的生态效益和经济效益"
+   },
+   {
+    "label": "C",
+    "text": "该模式体现了生物与环境的协调与适应"
+   },
+   {
+    "label": "D",
+    "text": "生态经济沟的建设促进了人与自然的和谐发展"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_kQcjFpLzOQsckAmkSoXIpQ#2025河北·生态工程的实例]"
+ },
+ {
+  "root_id": "mkjr_xhXS07YdnNR4TY_802d7Zg",
+  "chapter": "选必二 第4章 人与环境",
+  "points": [
+   "生物多样性的保护"
+  ],
+  "province": "湖北",
+  "year": "2025",
+  "type": "单选",
+  "answer": "A",
+  "stem": "2023年7月，习近平总书记在全国生态环境保护大会上发表的重要讲话中强调：着力提升生态系统多样性、稳定性、持续性，要站在维护国家生态安全、中华民族永续发展和对人类文明负责的高度，加强生态保护和修复，为子孙后代留下山清水秀的生态空间。下列措施不符合以上精神的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "通过大规模围湖造田扩大耕地面积，提高粮食产量"
+   },
+   {
+    "label": "B",
+    "text": "对有代表性的自然生态系统和珍稀物种栖息地进行保护"
+   },
+   {
+    "label": "C",
+    "text": "对过度利用的森林与草原进行封育，待恢复到较好状态时再适度利用"
+   },
+   {
+    "label": "D",
+    "text": "开展大规模国土绿化行动，推进“三北”防护林体系建设和京津风沙源治理"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_xhXS07YdnNR4TY_802d7Zg#2025湖北·生物多样性的保护]"
+ },
+ {
+  "root_id": "mkjr_uLz4zWRVSHu65sfi7rKhBQ",
+  "chapter": "选必二 第4章 人与环境",
+  "points": [
+   "生物多样性的保护"
+  ],
+  "province": "甘肃",
+  "year": "2025",
+  "type": "单选",
+  "answer": "B",
+  "stem": "风眼蓝原产于美洲，最初作为观赏花卉引入我国。数十年后，风眼蓝逃逸到野外，在湖泊、河流蔓延，造成河道堵塞、水生生物死亡，变成外来入侵种。关于此现象，下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "外来物种可影响生态系统，但不一定都成为外来入侵种"
+   },
+   {
+    "label": "B",
+    "text": "凤眼蓝生物量的快速增长，有利于水生生态系统的稳定"
+   },
+   {
+    "label": "C",
+    "text": "凤眼蓝扩散到湖泊、河流，改变了水生生态系统的结构"
+   },
+   {
+    "label": "D",
+    "text": "凤眼蓝蔓延侵害土著生物，影响群落内物种的相互关系"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_uLz4zWRVSHu65sfi7rKhBQ#2025甘肃·生物多样性的保护]"
+ },
+ {
+  "root_id": "mkjr_onlSKh8riCqP7_e8AAW30g",
+  "chapter": "选必二 第4章 人与环境",
+  "points": [
+   "生物多样性及其价值"
+  ],
+  "province": "辽宁",
+  "year": "2024",
+  "type": "单选",
+  "answer": "B",
+  "stem": "作图可先使用铅笔画出，确定后必须用黑色字迹的签字笔描黑。 5．保持卡面清洁，不要折叠，不要弄破、弄皱，不准使用涂改液、修正带、刮纸刀。 一、选择题：本题共15小题，每小题2分，共30分。在每小题给出的四个选项中，只有一项符合题目要求。 1. 钙调蛋白是广泛存在于真核细胞的Ca2+感受器。小鼠钙调蛋白两端有近似对称的球形结构，每个球形结构可结合2个Ca2+。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "钙调蛋白的合成场所是核糖体"
+   },
+   {
+    "label": "B",
+    "text": "Ca2+是钙调蛋白的基本组成单位"
+   },
+   {
+    "label": "C",
+    "text": "钙调蛋白球形结构的形成与氢键有关"
+   },
+   {
+    "label": "D",
+    "text": "钙调蛋白结合Ca2+后，空间结构可能发生变化"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_onlSKh8riCqP7_e8AAW30g#2024辽宁·生物多样性及其价值]"
+ },
+ {
+  "root_id": "mkjr_GEUOyBV2eBwZpR8Zw5sdhg",
+  "chapter": "选必二 第4章 人与环境",
+  "points": [
+   "生态工程的实例",
+   "生态工程的基本原理"
+  ],
+  "province": "辽宁",
+  "year": "2024",
+  "type": "单选",
+  "answer": "B",
+  "stem": "弗兰克氏菌能够与沙棘等非豆科木本植物形成根瘤，进行高效的共生固氮，促进植物根系生长，增强其对旱、寒等逆境的适应性。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "沙棘可作为西北干旱地区的修复树种"
+   },
+   {
+    "label": "B",
+    "text": "在矿区废弃地选择种植沙棘，未遵循生态工程的协调原理"
+   },
+   {
+    "label": "C",
+    "text": "二者共生改良土壤条件，可为其他树种的生长创造良好环境"
+   },
+   {
+    "label": "D",
+    "text": "研究弗兰克氏菌的遗传多样性有利于沙棘在生态修复中的应用"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_GEUOyBV2eBwZpR8Zw5sdhg#2024辽宁·生态工程的实例]"
+ },
+ {
+  "root_id": "mkjr_kSAw3BqJK8zfGi2IIXwZXQ",
+  "chapter": "选必二 第4章 人与环境",
+  "points": [
+   "全球性生态环境问题"
+  ],
+  "province": "广东",
+  "year": "2024",
+  "type": "单选",
+  "answer": "A",
+  "stem": "“碳汇渔业”，又称“不投饵渔业”，是指充分发挥生物碳汇功能，通过收获水产品直接或间接减少CO2的渔业生产活动，是我国实现“双碳”目标、践行“大食物观”的举措之一。下列生产活动属于“碳汇渔业”的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "开发海洋牧场，发展深海渔业"
+   },
+   {
+    "label": "B",
+    "text": "建设大坝鱼道，保障鱼类洄游"
+   },
+   {
+    "label": "C",
+    "text": "控制无序捕捞，实施长江禁渔"
+   },
+   {
+    "label": "D",
+    "text": "增加饵料投放，提高渔业产量"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_kSAw3BqJK8zfGi2IIXwZXQ#2024广东·全球性生态环境问题]"
+ },
+ {
+  "root_id": "mkjr_kuTPgJdMG5LqV_M4FxUvmw",
+  "chapter": "选必二 第4章 人与环境",
+  "points": [
+   "全球性生态环境问题"
+  ],
+  "province": "浙江",
+  "year": "2023",
+  "type": "单选",
+  "answer": "A",
+  "stem": "近百年来，随着大气CO2浓度不断增加，全球变暖加剧。为减缓全球变暖，我国政府提出了“碳达峰”和“碳中和”的CO2排放目标，彰显了大国责任。下列措施不利于达成此目标的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "大量燃烧化石燃料"
+   },
+   {
+    "label": "B",
+    "text": "积极推进植树造林"
+   },
+   {
+    "label": "C",
+    "text": "大力发展风能发电"
+   },
+   {
+    "label": "D",
+    "text": "广泛应用节能技术"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_kuTPgJdMG5LqV_M4FxUvmw#2023浙江·全球性生态环境问题]"
+ },
+ {
+  "root_id": "mkjr_cYE4YTRYpd9JKRuhzgpr4Q",
+  "chapter": "选必二 第4章 人与环境",
+  "points": [
+   "生态工程的实例",
+   "生态工程的基本原理"
+  ],
+  "province": "辽宁",
+  "year": "2025",
+  "type": "单选",
+  "answer": "D",
+  "stem": "为修复矿藏开采对土壤、植被等造成的毁坏，采用生态工程技术对矿区开展生态修复。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "修复首先要对土壤进行改良，为植物生长提供条件"
+   },
+   {
+    "label": "B",
+    "text": "修复应遵循生态工程的协调原理，因地制宜配置物种"
+   },
+   {
+    "label": "C",
+    "text": "修复后，植物多样性提升，丰富了动物栖息环境，促进了群落演替"
+   },
+   {
+    "label": "D",
+    "text": "修复后，生物群落能实现自我更新和维持，体现了生态工程整体原理"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_cYE4YTRYpd9JKRuhzgpr4Q#2025辽宁·生态工程的实例]"
+ },
+ {
+  "root_id": "mkjr_psJBwRLyyubXkSJDtNYPXw",
+  "chapter": "选必二 第4章 人与环境",
+  "points": [
+   "生物多样性及其价值"
+  ],
+  "province": "福建",
+  "year": "2025",
+  "type": "单选",
+  "answer": "D",
+  "stem": "登革热等蚊媒病毒传染病威胁人类健康。蚊子叮咬蚊媒病毒感染者后，病毒会转移至蚊唾液腺，当蚊子再次叮咬时会发生传染。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "蚊子和人都是登革热病毒的宿主"
+   },
+   {
+    "label": "B",
+    "text": "利用不育雄蚊防治蚊虫属于生物防治"
+   },
+   {
+    "label": "C",
+    "text": "喷施不易分解的灭蚊杀虫剂易引起生物富集"
+   },
+   {
+    "label": "D",
+    "text": "为预防登革热灭绝蚊子不影响生物多样性价值"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_psJBwRLyyubXkSJDtNYPXw#2025福建·生物多样性及其价值]"
+ },
+ {
+  "root_id": "mkjr_W_fakvD4gTXUw3AuHjB6Rw",
+  "chapter": "选必二 第4章 人与环境",
+  "points": [
+   "生态工程的实例"
+  ],
+  "province": "福建",
+  "year": "2025",
+  "type": "单选",
+  "answer": "B",
+  "stem": "为探究种养关系，科研人员构建了“稻田-鱼塘循环水养殖系统”，如图所示，鱼塘养殖水被泵入水塔后，流经稻田、集水池和生态沟，再回流到鱼塘。稻田进入水和流出水中可溶性氧气浓度（DO）、总氮浓度（TN）和总磷浓度（TP）的检测结果如下表。 [图] [图] 关于该系统，下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "同时提高了鱼塘的氧含量和稻田肥力"
+   },
+   {
+    "label": "B",
+    "text": "同时增大了水稻和鱼塘的能量输入"
+   },
+   {
+    "label": "C",
+    "text": "能够降低稻田的施肥量并改善环境"
+   },
+   {
+    "label": "D",
+    "text": "可减少鱼塘污染物，体现了循环原理"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_W_fakvD4gTXUw3AuHjB6Rw#2025福建·生态工程的实例]"
+ },
+ {
+  "root_id": "mkjr_Uq3BlivqpXalm6BSDYclvA",
+  "chapter": "选必二 第4章 人与环境",
+  "points": [
+   "生物多样性的保护"
+  ],
+  "province": "浙江",
+  "year": "2025",
+  "type": "单选",
+  "answer": "A",
+  "stem": "湿地被誉为“地球之肾”，下列关于湿地生态保护的叙述，错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "完全依赖自然演替"
+   },
+   {
+    "label": "B",
+    "text": "严格管控污水排放"
+   },
+   {
+    "label": "C",
+    "text": "设立生态保护区域"
+   },
+   {
+    "label": "D",
+    "text": "科学地引入物种"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_Uq3BlivqpXalm6BSDYclvA#2025浙江·生物多样性的保护]"
+ },
+ {
+  "root_id": "mkjr_Mie8MhSzyWhWwVjXZPgiWg",
+  "chapter": "选必二 第4章 人与环境",
+  "points": [
+   "全球性生态环境问题"
+  ],
+  "province": "浙江",
+  "year": "2023",
+  "type": "单选",
+  "answer": "A",
+  "stem": "自从践行生态文明建设以来，“酸雨”在我国发生的频率及强度都有明显下降。下列措施中，对减少“酸雨”发生效果最明显的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "大力推广风能、光能等绿色能源替代化石燃料"
+   },
+   {
+    "label": "B",
+    "text": "通过技术升级使化石燃料的燃烧率提高"
+   },
+   {
+    "label": "C",
+    "text": "将化石燃料燃烧产生的废气集中排放"
+   },
+   {
+    "label": "D",
+    "text": "将用煤量大的企业搬离城市中心"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_Mie8MhSzyWhWwVjXZPgiWg#2023浙江·全球性生态环境问题]"
+ },
+ {
+  "root_id": "mkjr_GuXk2_R9e5Oqr1J4Lnxc.A",
+  "chapter": "选必二 第4章 人与环境",
+  "points": [
+   "生态工程的实例"
+  ],
+  "province": "江苏",
+  "year": "2022",
+  "type": "单选",
+  "answer": "A",
+  "stem": "采用原位治理技术治理污染水体，相关叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "应用无土栽培技术，种植的生态浮床植物可吸收水体营养和富集重金属"
+   },
+   {
+    "label": "B",
+    "text": "为了增加溶解氧，可以采取曝气、投放高效功能性菌剂及其促生剂等措施"
+   },
+   {
+    "label": "C",
+    "text": "重建食物链时放养蚌、螺等底栖动物作为初级消费者，摄食浮游动、植物"
+   },
+   {
+    "label": "D",
+    "text": "人为操纵生态系统营养结构有利于调整能量流动方向和提高能量传递效率"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_GuXk2_R9e5Oqr1J4Lnxc.A#2022江苏·生态工程的实例]"
+ },
+ {
+  "root_id": "mkjr_UkIfNEubdX9deUR8IcaBAQ",
+  "chapter": "选必二 第4章 人与环境",
+  "points": [
+   "生物多样性的保护"
+  ],
+  "province": "湖北",
+  "year": "2022",
+  "type": "单选",
+  "answer": "B",
+  "stem": "生态环境破坏、过度捕捞等导致长江中下游生态退化，渔业资源锐减，长江江豚、中华鲟等长江特有珍稀动物濒临灭绝。为了挽救长江生态环境，国家制定了“长江10年禁渔”等保护政策，对长江生态环境及生物多样性进行保护和修复。下列有关叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "长江鱼类资源稳定恢复的关键在于长期禁渔"
+   },
+   {
+    "label": "B",
+    "text": "定期投放本土鱼类鱼苗是促进长江鱼类资源快速恢复的手段之一"
+   },
+   {
+    "label": "C",
+    "text": "长江保护应在优先保护地方经济发展的基础上，进行生态修复和生物多样性保护"
+   },
+   {
+    "label": "D",
+    "text": "挽救长江江豚等珍稀濒危动物长期有效的措施是建立人工养殖场，进行易地保护和保种"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_UkIfNEubdX9deUR8IcaBAQ#2022湖北·生物多样性的保护]"
+ },
+ {
+  "root_id": "mkjr_FAbBg6QJ2rs9VvmboN4WMw",
+  "chapter": "选必二 第4章 人与环境",
+  "points": [
+   "生态工程的实例"
+  ],
+  "province": "浙江",
+  "year": "2022",
+  "type": "单选",
+  "answer": "A",
+  "stem": "垃圾分类是废弃物综合利用的基础，下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "有害垃圾填埋处理可消除环境污染"
+   },
+   {
+    "label": "B",
+    "text": "厨余垃圾加工后可作为鱼类养殖的饵料"
+   },
+   {
+    "label": "C",
+    "text": "生活垃圾发酵能产生清洁可再生能源"
+   },
+   {
+    "label": "D",
+    "text": "禽畜粪便作为花卉肥料有利于物质的良性循环"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_FAbBg6QJ2rs9VvmboN4WMw#2022浙江·生态工程的实例]"
+ },
+ {
+  "root_id": "mkjr_fTwmh2Gk67CCvOvQTbEbCQ",
+  "chapter": "选必二 第4章 人与环境",
+  "points": [
+   "生物多样性的保护"
+  ],
+  "province": "浙江",
+  "year": "2022",
+  "type": "单选",
+  "answer": "D",
+  "stem": "为保护生物多样性，拯救长江水域的江豚等濒危物种、我国自2021年1月1日零时起实施长江十年禁渔计划。下列措施与该计划的目标不符的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "管控船舶进出禁渔区域，以减少对水生生物的干扰"
+   },
+   {
+    "label": "B",
+    "text": "对禁渔区域定期开展抽样调查，以评估物种资源现状"
+   },
+   {
+    "label": "C",
+    "text": "建立江豚的基因库，以保护江豚遗传多样性"
+   },
+   {
+    "label": "D",
+    "text": "清理淤泥、疏浚河道，以拓展水生动物的生存空间"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_fTwmh2Gk67CCvOvQTbEbCQ#2022浙江·生物多样性的保护]"
+ },
+ {
+  "root_id": "mkjr_NkaMhsku.FOfCyPhQ6T6Cg",
+  "chapter": "选必二 第4章 人与环境",
+  "points": [
+   "生物多样性及其价值"
+  ],
+  "province": "湖北",
+  "year": "2023",
+  "type": "单选",
+  "answer": "A",
+  "stem": "栽培稻甲产量高、品质好，但每年只能收获一次。野生稻乙种植一次可连续收获多年，但产量低。中国科学家利用栽培稻甲和野生稻乙杂交，培育出兼具两者优点的品系丙，为全球作物育种提供了中国智慧。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "该成果体现了生物多样性的间接价值"
+   },
+   {
+    "label": "B",
+    "text": "利用体细胞杂交技术也可培育出品系丙"
+   },
+   {
+    "label": "C",
+    "text": "该育种技术为全球农业发展提供了新思路"
+   },
+   {
+    "label": "D",
+    "text": "品系丙的成功培育提示我们要注重野生种质资源的保护"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_NkaMhsku.FOfCyPhQ6T6Cg#2023湖北·生物多样性及其价值]"
+ },
+ {
+  "root_id": "mkjr_lgiQrxWlreGILskAlNRZPw",
+  "chapter": "选必二 第4章 人与环境",
+  "points": [
+   "生态工程的基本原理"
+  ],
+  "province": "湖南",
+  "year": "2023",
+  "type": "单选",
+  "answer": "D",
+  "stem": "党的二十大报告指出：我们要推进美丽中国建设，坚持山水林田湖草沙一体化保护和系统治理，统筹产业结构调整、污染治理、生态保护，应对气侯变化，协同推进降碳、减污、扩绿、增长，推进生态优先、节约集约、绿色低碳发展。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "一体化保护有利于提高生态系统的抵抗力稳定性"
+   },
+   {
+    "label": "B",
+    "text": "一体化保护体现了生态系统的整体性和系统性"
+   },
+   {
+    "label": "C",
+    "text": "一体化保护和系统治理有助于协调生态足迹与生态承载力的关系"
+   },
+   {
+    "label": "D",
+    "text": "运用自生原理可以从根本上达到一体化保护和系统治理"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_lgiQrxWlreGILskAlNRZPw#2023湖南·生态工程的基本原理]"
+ },
+ {
+  "root_id": "mkjr_gZtvK5hw7yuJ6SahX9E0Ug",
+  "chapter": "选必二 第4章 人与环境",
+  "points": [
+   "生态工程的基本原理"
+  ],
+  "province": "辽宁",
+  "year": "2023",
+  "type": "单选",
+  "answer": "A",
+  "stem": "人工防护林具有防风、固沙及保护农田等作用，对维护区域生态系统稳定具有重要意义。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "防护林通过自组织、自我调节可实现自身结构与功能的协调"
+   },
+   {
+    "label": "B",
+    "text": "防护林建设应选择本地种，遵循了生态工程的循环原理"
+   },
+   {
+    "label": "C",
+    "text": "防护林建成后，若失去人类的维护将会发生初生演替"
+   },
+   {
+    "label": "D",
+    "text": "防护林的防风、固沙及保护农田的作用体现了生物多样性的直接价值"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_gZtvK5hw7yuJ6SahX9E0Ug#2023辽宁·生态工程的基本原理]"
+ },
+ {
+  "root_id": "mkjr_8KaNLL5hy4G7ntmLGJ1GkQ",
+  "chapter": "选必二 第4章 人与环境",
+  "points": [
+   "生态工程的实例"
+  ],
+  "province": "河北",
+  "year": "2024",
+  "type": "多选",
+  "answer": "ACD",
+  "stem": "通过系统性生态治理，如清淤补水、种植水生植物和投放有益微生物等措施，白洋淀湿地生态环境明显改善。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "清除淀区淤泥减少了系统中氮和磷的含量，可使水华发生概率降低"
+   },
+   {
+    "label": "B",
+    "text": "对白洋淀补水后，可大力引入外来物种以提高生物多样性"
+   },
+   {
+    "label": "C",
+    "text": "种植水生植物使淀区食物网复杂化后，生态系统抵抗力稳定性增强"
+   },
+   {
+    "label": "D",
+    "text": "水中投放能降解有机污染物的有益微生物可促进物质循环"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_8KaNLL5hy4G7ntmLGJ1GkQ#2024河北·生态工程的实例]"
+ },
+ {
+  "root_id": "mkjr_CDMbXu_g2_Q40oIWVZ2kTg",
+  "chapter": "选必二 第4章 人与环境",
+  "points": [
+   "生物多样性的保护"
+  ],
+  "province": "浙江",
+  "year": "2024",
+  "type": "单选",
+  "answer": "A",
+  "stem": "生物多样性是人类赖以生存和发展的基础。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "在城市动物园饲养濒危动物属于生物多样性的就地保护"
+   },
+   {
+    "label": "B",
+    "text": "在培育转基因生物时需考虑对生物多样性的影响"
+   },
+   {
+    "label": "C",
+    "text": "酸雨、全球变暖等生态环境问题会威胁生物多样性"
+   },
+   {
+    "label": "D",
+    "text": "通过立法、宣传教育，让人们树立起保护生物多样性的意识"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_CDMbXu_g2_Q40oIWVZ2kTg#2024浙江·生物多样性的保护]"
+ },
+ {
+  "root_id": "mkjr_tEsUOY2QO7kdglauxiigpA",
+  "chapter": "选必二 第4章 人与环境",
+  "points": [
+   "生态工程的实例"
+  ],
+  "province": "海南",
+  "year": "2024",
+  "type": "单选",
+  "answer": "A",
+  "stem": "发展生态农业有助于乡村振兴。某乡村因地制宜实施了“春夏种稻、冬闲种薯、薯糠喂牛、粪尿肥田”的生态农业模式，提高了当地的经济收入，减少了环境污染。下列有关该生态农业模式的叙述，错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "该模式的农田生态系统能自我优化、自我调节、自我更新"
+   },
+   {
+    "label": "B",
+    "text": "可保持土壤肥力，改善土壤结构"
+   },
+   {
+    "label": "C",
+    "text": "可减少化肥使用和水体富营养化"
+   },
+   {
+    "label": "D",
+    "text": "既遵循了自然规律，又考虑了经济和社会因素"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_tEsUOY2QO7kdglauxiigpA#2024海南·生态工程的实例]"
+ },
+ {
+  "root_id": "mkjr_x__AY14XruWF7QY8rXcdIg",
+  "chapter": "选必二 第4章 人与环境",
+  "points": [
+   "生物多样性的保护"
+  ],
+  "province": "湖北",
+  "year": "2024",
+  "type": "单选",
+  "answer": "B",
+  "stem": "2021年3月，习近平总书记在考察武夷山国家公园时指出，建立以国家公园为主体的自然保护地体系，目的就是按照山水林田湖草是一个生命共同体的理念，保持自然生态系统的原真性和完整性，保护生物多样性。根据以上精神，结合生物学知识，下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "在国家公园中引入外来物种，有可能导致生物多样性下降"
+   },
+   {
+    "label": "B",
+    "text": "建立动物园和植物园，能够更好地对濒危动植物进行就地保护"
+   },
+   {
+    "label": "C",
+    "text": "规范人类活动、修复受损生境，有利于自然生态系统的发育和稳定"
+   },
+   {
+    "label": "D",
+    "text": "在破碎化生境之间建立生态廊道，是恢复自然生态系统完整性的重要措施"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_x__AY14XruWF7QY8rXcdIg#2024湖北·生物多样性的保护]"
+ },
+ {
+  "root_id": "mkjr_Xz3Rgs.F5_IhOeQqx.j_DQ",
+  "chapter": "选必二 第4章 人与环境",
+  "points": [
+   "生态足迹"
+  ],
+  "province": "湖北",
+  "year": "2024",
+  "type": "单选",
+  "answer": "B",
+  "stem": "据报道，2015年到2019年长江经济带人均生态足迹由0.3212hm2下降至0.2958hm2，5年的下降率为7.91%。人均生态承载力从0.4607hm2下降到0.4498hm2，5年的下降率为2.37%。结合上述数据，下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "长江经济带这5年处于生态盈余的状态"
+   },
+   {
+    "label": "B",
+    "text": "长江经济带这5年的环境容纳量维持不变"
+   },
+   {
+    "label": "C",
+    "text": "长江经济带居民绿色环保的生活方式有利于生态足迹的降低"
+   },
+   {
+    "label": "D",
+    "text": "农业科技化和耕地质量的提升可提高长江经济带的生态承载力"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_Xz3Rgs.F5_IhOeQqx.j_DQ#2024湖北·生态足迹]"
+ },
+ {
+  "root_id": "mkjr_.re8bg.SGB2bqxgulT2NZg",
+  "chapter": "选必二 第4章 人与环境",
+  "points": [
+   "生态工程的实例"
+  ],
+  "province": "湖南",
+  "year": "2024",
+  "type": "单选",
+  "answer": "D",
+  "stem": "湿地是一种独特的生态系统，是绿水青山的重要组成部分。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "在城市地区建设人工湿地可改善生态环境"
+   },
+   {
+    "label": "B",
+    "text": "移除湖泊中富营养化沉积物有利于生态系统的恢复"
+   },
+   {
+    "label": "C",
+    "text": "移栽适应当地环境的植物遵循了生态工程的协调原理"
+   },
+   {
+    "label": "D",
+    "text": "气温和害虫对湿地某植物种群的作用强度与该种群的密度有关"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_.re8bg.SGB2bqxgulT2NZg#2024湖南·生态工程的实例]"
+ },
+ {
+  "root_id": "mkjr_px7TxJ_1dthjdIpGeMc7lA",
+  "chapter": "选必二 第4章 人与环境",
+  "points": [
+   "全球性生态环境问题",
+   "生态工程的实例"
+  ],
+  "province": "甘肃",
+  "year": "2024",
+  "type": "单选",
+  "answer": "B",
+  "stem": "土壤镉污染影响粮食生产和食品安全，是人类面临的重要环境问题。种植富集镉的植物可以修复镉污染的土壤。为了筛选这些植物，某科研小组研究了土壤中添加不同浓度镉后植物A和B的生长情况，以不添加镉为对照（镉含量0.82mg·kg-1）。一段时间后，测量植物的地上、地下生物量和植物体镉含量，结果如下表。下列叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "在不同浓度的镉处理下，植物A和B都发生了镉的富集"
+   },
+   {
+    "label": "B",
+    "text": "与植物A相比，植物B更适合作为土壤镉污染修复植物"
+   },
+   {
+    "label": "C",
+    "text": "在被镉污染的土壤中，镉对植物B生长的影响更大"
+   },
+   {
+    "label": "D",
+    "text": "若以两种植物作动物饲料，植物A的安全风险更大"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_px7TxJ_1dthjdIpGeMc7lA#2024甘肃·全球性生态环境问题]"
+ },
+ {
+  "root_id": "mkjr_jXd_wqaYptA8Obw8Cttc3Q",
+  "chapter": "选必二 第4章 人与环境",
+  "points": [
+   "生态工程的实例"
+  ],
+  "province": "甘肃",
+  "year": "2024",
+  "type": "单选",
+  "answer": "C",
+  "stem": "沙漠化防治一直是困扰人类的难题。为了固定流沙、保障包兰铁路的运行，我国人民探索出将麦草插入沙丘防止沙流动的“草方格”固沙技术。流沙固定后，“草方格”内原有沙生植物种子萌发、生长，群落逐渐形成，沙漠化得到治理。在“草方格”内种植沙生植物，可加速治沙进程。甘肃古浪八步沙林场等地利用该技术，成功阻挡了沙漠的侵袭，生态效益显著，成为沙漠化治理的典范。关于“草方格”技术，下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "采用“草方格”技术进行流沙固定、植被恢复遵循了生态工程的自生原理"
+   },
+   {
+    "label": "B",
+    "text": "在“草方格”内种植沙拐枣、梭梭等沙生植物遵循了生态工程的协调原理"
+   },
+   {
+    "label": "C",
+    "text": "在未经人工种植的“草方格”内，植物定植、群落形成过程属于初生演替"
+   },
+   {
+    "label": "D",
+    "text": "实施“草方格”生态工程促进了生态系统防风固沙、水土保持功能的实现"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_jXd_wqaYptA8Obw8Cttc3Q#2024甘肃·生态工程的实例]"
+ }
+]

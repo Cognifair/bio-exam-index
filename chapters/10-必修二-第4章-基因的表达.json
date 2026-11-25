@@ -1,0 +1,1487 @@
+[
+ {
+  "root_id": "mkjr_le4GNXxtnC198v8g5dHR_w",
+  "chapter": "必修二 第4章 基因的表达",
+  "points": [
+   "遗传信息的翻译"
+  ],
+  "province": "山东",
+  "year": "2026",
+  "type": "单选",
+  "answer": "A",
+  "stem": "果蝇的等位基因A、a的部分序列相关信息如表所示。基因a与A的单链序列相比，只有表中带下划线的碱基不同，但二者编码多肽链的氨基酸数目相同。已知AUG为起始密码子，UAA、UAG、UGA为终止密码子。据表推断，基因a中N代表的碱基为（ ） [图] [图] 注：“”表示对应位置的氨基酸",
+  "options": [
+   {
+    "label": "A",
+    "text": "腺嘌呤"
+   },
+   {
+    "label": "B",
+    "text": "胞嘧啶"
+   },
+   {
+    "label": "C",
+    "text": "腺嘌呤或胸腺嘧啶"
+   },
+   {
+    "label": "D",
+    "text": "胞嘧啶或胸腺嘧啶"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_le4GNXxtnC198v8g5dHR_w#2026山东·遗传信息的翻译]"
+ },
+ {
+  "root_id": "mkjr_VYYTnB0kKLoOB1KFjf057g",
+  "chapter": "必修二 第4章 基因的表达",
+  "points": [
+   "遗传信息的翻译"
+  ],
+  "province": "江西",
+  "year": "2026",
+  "type": "单选",
+  "answer": "D",
+  "stem": "某病毒RNA(可作为翻译模板)在翻译延伸阶段出现“程序性-1核糖体移码”现象(以下简称“移码”)。因RNA自身形成的特殊结构，核糖体会以一定的频率在特定位点向RNA的5’端移动一个碱基。下列推测合理的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "“移码”中核糖体移动的原因是基因发生了突变"
+   },
+   {
+    "label": "B",
+    "text": "“移码”的发生使RNA的长度增加了1个核苷酸"
+   },
+   {
+    "label": "C",
+    "text": "“移码”产生的多肽链比未“移码”编码的更长"
+   },
+   {
+    "label": "D",
+    "text": "有无“移码”产生的两种多肽链N端氨基酸残基相同"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_VYYTnB0kKLoOB1KFjf057g#2026江西·遗传信息的翻译]"
+ },
+ {
+  "root_id": "mkjr_XGQrWSeBejK5XO4fgm1FWQ",
+  "chapter": "必修二 第4章 基因的表达",
+  "points": [
+   "中心法则"
+  ],
+  "province": "河北",
+  "year": "2026",
+  "type": "单选",
+  "answer": "B",
+  "stem": "某RNA病毒为侵染动物细胞的逆转录病毒，其衣壳外有来自宿主细胞膜的脂质包膜。下列分析错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "该病毒逆转录时，沿RNA模板链的3'→5' 方向合成DNA链"
+   },
+   {
+    "label": "B",
+    "text": "逆转录形成的RNA/DNA双链中碱基数量符合U+C=A+G"
+   },
+   {
+    "label": "C",
+    "text": "该病毒衣壳蛋白的合成需借助宿主细胞的tRNA"
+   },
+   {
+    "label": "D",
+    "text": "该病毒的脂质包膜中含有胆固醇"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_XGQrWSeBejK5XO4fgm1FWQ#2026河北·中心法则]"
+ },
+ {
+  "root_id": "mkjr_9QbroHTIIFYMtWU8D3m8XA",
+  "chapter": "必修二 第4章 基因的表达",
+  "points": [
+   "基因表达调控"
+  ],
+  "province": "湖北",
+  "year": "2026",
+  "type": "单选",
+  "answer": "B",
+  "stem": "番茄果实成熟受多种激素和转录因子调控。研究发现，转录因子MYB73可与组蛋白去乙酰化酶HDAC3结合，抑制乙烯合成酶基因ACO1的表达。生长素响应因子ARF2A能结合MYB73基因启动子并抑制其转录。若敲除ARF2A基因，下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "MYB73表达下降，ACO1表达上升，果实成熟提前"
+   },
+   {
+    "label": "B",
+    "text": "MYB73表达上升，ACO1表达下降，果实成熟延迟"
+   },
+   {
+    "label": "C",
+    "text": "MYB73表达上升，ACO1表达上升，果实成熟提前"
+   },
+   {
+    "label": "D",
+    "text": "MYB73表达下降，ACO1表达下降，果实成熟延迟"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_9QbroHTIIFYMtWU8D3m8XA#2026湖北·基因表达调控]"
+ },
+ {
+  "root_id": "mkjr_x5QJLy3wqOuVrKvQcG54aQ",
+  "chapter": "必修二 第4章 基因的表达",
+  "points": [
+   "遗传信息的转录"
+  ],
+  "province": "湖南",
+  "year": "2026",
+  "type": "单选",
+  "answer": "B",
+  "stem": "某基因的转录模板链部分序列为。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "若基因碱基序列发生改变，则生物体的性状发生改变"
+   },
+   {
+    "label": "B",
+    "text": "转录产物部分序列为"
+   },
+   {
+    "label": "C",
+    "text": "DNA的甲基化修饰不能遗传给后代"
+   },
+   {
+    "label": "D",
+    "text": "该基因复制与转录都需要4种游离的脱氧核苷酸"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_x5QJLy3wqOuVrKvQcG54aQ#2026湖南·遗传信息的转录]"
+ },
+ {
+  "root_id": "mkjr_SC1crvGGWDKMm5F3J610_Q",
+  "chapter": "必修二 第4章 基因的表达",
+  "points": [
+   "RNA的结构与功能"
+  ],
+  "province": "四川",
+  "year": "2025",
+  "type": "单选",
+  "answer": "A",
+  "stem": "为杀死蜜蜂寄生虫瓦螨，研究人员对蜜蜂肠道中的S菌进行改造，使其能释放特定的双链RNA（dsRNA）。进入瓦螨体内的dsRNA被加工成siRNA后，能与瓦螨目标基因的mRNA特异性结合使其降解，导致瓦螨死亡。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "siRNA的嘌呤与嘧啶之比和dsRNA相同"
+   },
+   {
+    "label": "B",
+    "text": "dsRNA加工成siRNA会发生氢键的断裂"
+   },
+   {
+    "label": "C",
+    "text": "瓦螨死亡的原因是目标基因的转录被抑制"
+   },
+   {
+    "label": "D",
+    "text": "用改造后的S菌来杀死瓦螨属于化学防治"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_SC1crvGGWDKMm5F3J610_Q#2025四川·RNA的结构与功能]"
+ },
+ {
+  "root_id": "mkjr_dug4nJezMIIMgb4HrtCJWg",
+  "chapter": "必修二 第4章 基因的表达",
+  "points": [
+   "遗传信息的翻译"
+  ],
+  "province": "全国乙",
+  "year": "2023",
+  "type": "单选",
+  "answer": "A",
+  "stem": "已知某种氨基酸（简称甲）是一种特殊氨基酸，迄今只在某些古菌（古细菌）中发现含有该氨基酸的蛋白质。研究发现这种情况出现的原因是，这些古菌含有特异的能够转运甲的tRNA（表示为tRNA甲）和酶E，酶E催化甲与tRNA甲结合生成携带了甲的tRNA甲（表示为甲－tRNA甲），进而将甲带入核糖体参与肽链合成。已知tRNA甲可以识别大肠杆菌mRNA中特定的密码子，从而在其核糖体上参与肽链的合成。若要在大肠杆菌中合成含有甲的肽链，则下列物质或细胞器中必须转入大肠杆菌细胞内的是（ ） ①ATP ②甲 ③RNA聚合酶 ④古菌的核糖体 ⑤酶E的基因 ⑥tRNA甲的基因",
+  "options": [
+   {
+    "label": "A",
+    "text": "②⑤⑥"
+   },
+   {
+    "label": "B",
+    "text": "①②⑤"
+   },
+   {
+    "label": "C",
+    "text": "③④⑥"
+   },
+   {
+    "label": "D",
+    "text": "②④⑤"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_dug4nJezMIIMgb4HrtCJWg#2023全国乙·遗传信息的翻译]"
+ },
+ {
+  "root_id": "mkjr_s2TVXHnw5hRFWe0CbF9uaA",
+  "chapter": "必修二 第4章 基因的表达",
+  "points": [
+   "遗传信息的翻译"
+  ],
+  "province": "山东",
+  "year": "2023",
+  "type": "单选",
+  "answer": "B",
+  "stem": "细胞中的核糖体由大、小2个亚基组成。在真核细胞的核仁中，由核rDNA转录形成的rRNA与相关蛋白组装成核糖体亚基。下列说法正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "原核细胞无核仁，不能合成rRNA"
+   },
+   {
+    "label": "B",
+    "text": "真核细胞的核糖体蛋白在核糖体上合成"
+   },
+   {
+    "label": "C",
+    "text": "rRNA上3个相邻的碱基构成一个密码子"
+   },
+   {
+    "label": "D",
+    "text": "细胞在有丝分裂各时期都进行核DNA的转录"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_s2TVXHnw5hRFWe0CbF9uaA#2023山东·遗传信息的翻译]"
+ },
+ {
+  "root_id": "mkjr_Yrl3bucgx3WvlUZzLmSElg",
+  "chapter": "必修二 第4章 基因的表达",
+  "points": [
+   "遗传信息的翻译"
+  ],
+  "province": "江苏",
+  "year": "2023",
+  "type": "单选",
+  "answer": "D",
+  "stem": "翻译过程如图所示，其中反密码子第1位碱基常为次黄嘌呤（I），与密码子第3位碱基A、U、C皆可配对。下列相关叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "tRNA分子内部不发生碱基互补配对"
+   },
+   {
+    "label": "B",
+    "text": "反密码子为5'-CAU-3'的tRNA可转运多种氨基酸"
+   },
+   {
+    "label": "C",
+    "text": "mRNA的每个密码子都能结合相应的tRNA"
+   },
+   {
+    "label": "D",
+    "text": "碱基I与密码子中碱基配对的特点，有利于保持物种遗传的稳定性"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_Yrl3bucgx3WvlUZzLmSElg#2023江苏·遗传信息的翻译]"
+ },
+ {
+  "root_id": "mkjr_5ubgOlXuVpD1IWrsiRAS_A",
+  "chapter": "必修二 第4章 基因的表达",
+  "points": [
+   "表观遗传"
+  ],
+  "province": "天津",
+  "year": "2022",
+  "type": "单选",
+  "answer": "A",
+  "stem": "小鼠Avy基因控制黄色体毛，该基因上游不同程度的甲基化修饰会导致其表达受不同程度抑制，使小鼠毛色发生可遗传的改变。有关叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "Avy基因的碱基序列保持不变"
+   },
+   {
+    "label": "B",
+    "text": "甲基化促进Avy基因的转录"
+   },
+   {
+    "label": "C",
+    "text": "甲基化导致Avy基因编码的蛋白质结构改变"
+   },
+   {
+    "label": "D",
+    "text": "甲基化修饰不可遗传"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_5ubgOlXuVpD1IWrsiRAS_A#2022天津·表观遗传]"
+ },
+ {
+  "root_id": "mkjr_loUXff1.IdbU1XHx9ito3A",
+  "chapter": "必修二 第4章 基因的表达",
+  "points": [
+   "遗传信息的翻译"
+  ],
+  "province": "贵州",
+  "year": "2026",
+  "type": "单选",
+  "answer": "D",
+  "stem": "1957年，科学家发现一种RNA可以结合氨基酸形成偶联物（如图），将放射性同位素标记的偶联物与微粒体（附着有核糖体的内质网）在体外混合，测定RNA和微粒体的放射性强度随时间的变化，确定了此RNA的功能，并命名为tRNA．下列叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "图中a连接在b的端形成偶联物"
+   },
+   {
+    "label": "B",
+    "text": "微粒体上有指导肽链合成的模板RNA"
+   },
+   {
+    "label": "C",
+    "text": "应对偶联物中的a进行放射性同位素标记"
+   },
+   {
+    "label": "D",
+    "text": "实验结果应为微粒体的放射性强度逐渐减小"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_loUXff1.IdbU1XHx9ito3A#2026贵州·遗传信息的翻译]"
+ },
+ {
+  "root_id": "mkjr_h11KuO35PRGGIiWYmkCCFg",
+  "chapter": "必修二 第4章 基因的表达",
+  "points": [
+   "表观遗传"
+  ],
+  "province": "未知",
+  "year": "2026",
+  "type": "单选",
+  "answer": "B",
+  "stem": "心脏少见癌发生，移植到小鼠心脏的肺癌细胞增殖也受到抑制，原因是心脏搏动形成的力学负荷会通过心肌细胞和肺癌细胞的核膜蛋白N2传递至核内，引起组蛋白去甲基化酶基因表达上调，染色质去螺旋，最终抑制细胞增殖。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "力学负荷不改变DNA碱基序列但影响基因表达"
+   },
+   {
+    "label": "B",
+    "text": "若降低心肌细胞N2表达，转移至心脏的肺癌细胞增殖加快"
+   },
+   {
+    "label": "C",
+    "text": "用无搏动心肌组织证明力学负荷作用利用了“减法原理”"
+   },
+   {
+    "label": "D",
+    "text": "研究结果提示力学刺激有望成为治疗肺癌的物理手段"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_h11KuO35PRGGIiWYmkCCFg#2026未知·表观遗传]"
+ },
+ {
+  "root_id": "mkjr_eXaIh3Ow4e3dOIfcnxCnEQ",
+  "chapter": "必修二 第4章 基因的表达",
+  "points": [
+   "中心法则"
+  ],
+  "province": "山东",
+  "year": "2025",
+  "type": "单选",
+  "answer": "C",
+  "stem": "关于豌豆胞核中淀粉酶基因遗传信息传递的复制、转录和翻译三个过程，下列说法错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "三个过程均存在碱基互补配对现象"
+   },
+   {
+    "label": "B",
+    "text": "三个过程中只有复制和转录发生在细胞核内"
+   },
+   {
+    "label": "C",
+    "text": "根据三个过程的产物序列均可确定其模板序列"
+   },
+   {
+    "label": "D",
+    "text": "RNA聚合酶与核糖体沿模板链的移动方向不同"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_eXaIh3Ow4e3dOIfcnxCnEQ#2025山东·中心法则]"
+ },
+ {
+  "root_id": "mkjr_OsvKAk9hDaPs_2fIWeLhFQ",
+  "chapter": "必修二 第4章 基因的表达",
+  "points": [
+   "表观遗传"
+  ],
+  "province": "广西",
+  "year": "2025",
+  "type": "单选",
+  "answer": "C",
+  "stem": "科研人员对肥胖组与正常组小鼠的精子进行相关检测，结果见表。下列说法错误的是（ ） 表 [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "肥胖导致精子活动率下降，进而使生育潜能降低"
+   },
+   {
+    "label": "B",
+    "text": "肥胖可能影响性激素的产生，进而影响精子的正常发育"
+   },
+   {
+    "label": "C",
+    "text": "精子中组蛋白乙酰化水平的高低，不会影响基因的表达水平"
+   },
+   {
+    "label": "D",
+    "text": "低水平的组蛋白乙酰化表观修饰可传递给子代，并使其容易肥胖"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_OsvKAk9hDaPs_2fIWeLhFQ#2025广西·表观遗传]"
+ },
+ {
+  "root_id": "mkjr_T44zwpdb4bcNUWCeQvwyFQ",
+  "chapter": "必修二 第4章 基因的表达",
+  "points": [
+   "基因对性状的控制"
+  ],
+  "province": "广西",
+  "year": "2025",
+  "type": "单选",
+  "answer": "D",
+  "stem": "某种二倍体鱼（XY型）会发生性逆转现象，研究人员运用基因编辑技术对雌鱼的雌激素合成主要基因进行敲除实验，并得到雌鱼性逆转的有关结果，见表。下列有关分析正确的是（ ） 表 [图] 注：“+”表示不敲除基因；“-”表示敲除基因；“*****”表示野生型雌鱼正常的雌激素水平。",
+  "options": [
+   {
+    "label": "A",
+    "text": "c、f基因都能直接控制合成少量且相等的雌激素"
+   },
+   {
+    "label": "B",
+    "text": "s、f基因的表达产物，共同促进c基因控制雌激素合成"
+   },
+   {
+    "label": "C",
+    "text": "饲喂外源雌激素，不能阻止甲、丙、丁三组雌鱼性逆转"
+   },
+   {
+    "label": "D",
+    "text": "乙、戊组鱼分别与己组鱼交配，后代性染色体组成不全是XX"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_T44zwpdb4bcNUWCeQvwyFQ#2025广西·基因对性状的控制]"
+ },
+ {
+  "root_id": "mkjr_vpH8zEPadgwnZ0_pcVQ3Qg",
+  "chapter": "必修二 第4章 基因的表达",
+  "points": [
+   "表观遗传"
+  ],
+  "province": "江苏",
+  "year": "2025",
+  "type": "单选",
+  "answer": "D",
+  "stem": "甲基化读取蛋白Y识别甲基化修饰的mRNA，引起基因表达效应改变，如图所示。下列相关叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "甲基化通过抑制转录过程调控基因表达"
+   },
+   {
+    "label": "B",
+    "text": "图中甲基化的碱基位于脱氧核糖核苷酸链上"
+   },
+   {
+    "label": "C",
+    "text": "蛋白Y可结合甲基化的mRNA并抑制表达"
+   },
+   {
+    "label": "D",
+    "text": "若图中DNA的碱基甲基化也可引起表观遗传效应"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_vpH8zEPadgwnZ0_pcVQ3Qg#2025江苏·表观遗传]"
+ },
+ {
+  "root_id": "mkjr_xxev6oPzGbKGchqajYqymg",
+  "chapter": "必修二 第4章 基因的表达",
+  "points": [
+   "遗传信息的转录"
+  ],
+  "province": "河北",
+  "year": "2025",
+  "type": "单选",
+  "answer": "C",
+  "stem": "M和N是同一染色体上两个基因的部分序列，其转录方向如图所示。表中对M和N转录产物的碱基序列分析正确的是（ ） [图] [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "①③"
+   },
+   {
+    "label": "B",
+    "text": "①④"
+   },
+   {
+    "label": "C",
+    "text": "②③"
+   },
+   {
+    "label": "D",
+    "text": "②④"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_xxev6oPzGbKGchqajYqymg#2025河北·遗传信息的转录]"
+ },
+ {
+  "root_id": "mkjr_Qx3Zvl4AfyG5.kfeDAGSOg",
+  "chapter": "必修二 第4章 基因的表达",
+  "points": [
+   "表观遗传"
+  ],
+  "province": "河南",
+  "year": "2025",
+  "type": "单选",
+  "answer": "C",
+  "stem": "构成染色体的组蛋白可发生乙酰化。由组蛋白基因表达到产生乙酰化的组蛋白，需经历转录、转录后加工、翻译、翻译后加工与修饰等过程。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "组蛋白乙酰化不改变自身的氨基酸序列但可影响个体表型"
+   },
+   {
+    "label": "B",
+    "text": "具有生物活性的tRNA的形成涉及转录和转录后加工过程"
+   },
+   {
+    "label": "C",
+    "text": "编码组蛋白的mRNA上结合的核糖体数量不同，可影响翻译的准确度和效率"
+   },
+   {
+    "label": "D",
+    "text": "组蛋白乙酰化发生在翻译后，是基因表达调控的结果，也会影响基因的表达"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_Qx3Zvl4AfyG5.kfeDAGSOg#2025河南·表观遗传]"
+ },
+ {
+  "root_id": "mkjr_LUHoqdadxKZFs1iNgLJhng",
+  "chapter": "必修二 第4章 基因的表达",
+  "points": [
+   "基因对性状的控制"
+  ],
+  "province": "海南",
+  "year": "2025",
+  "type": "单选",
+  "answer": "A",
+  "stem": "孟德尔发现豌豆果荚的颜色和形状是两对独立遗传性状，某团队解析这两对性状显隐性分子机制时，发现绿荚（G）与黄荚（g）基因序列完全相同，但基因g的上游缺失一段DNA，导致其转录产物结构异常；果荚饱满（R）和皱缩（r）的基因序列存在一个碱基对的不同，使基因r翻译提前终止。下列有关叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "豌豆中基因G和g序列完全相同，两者指导合成的蛋白质结构和功能也相同"
+   },
+   {
+    "label": "B",
+    "text": "豌豆基因组特定序列的变化导致基因g转录产物结构异常，出现黄荚性状"
+   },
+   {
+    "label": "C",
+    "text": "与基因R相比，基因r表达的肽链缩短，可导致果荚皱缩"
+   },
+   {
+    "label": "D",
+    "text": "G和g、R和r这两对等位基因的遗传遵循自由组合定律"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_LUHoqdadxKZFs1iNgLJhng#2025海南·基因对性状的控制]"
+ },
+ {
+  "root_id": "mkjr_z8o7eYXI4yKtRBEFZzQ.WQ",
+  "chapter": "必修二 第4章 基因的表达",
+  "points": [
+   "基因表达调控"
+  ],
+  "province": "湖南",
+  "year": "2025",
+  "type": "单选",
+  "answer": "C",
+  "stem": "基因W编码的蛋白W能直接抑制核基因P和M转录起始。P和M可分别提高水稻抗虫性和产量。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "蛋白W在细胞核中发挥调控功能"
+   },
+   {
+    "label": "B",
+    "text": "敲除基因W有助于提高水稻抗虫性和产量"
+   },
+   {
+    "label": "C",
+    "text": "在基因P缺失突变体水稻中，增加基因W的表达量能提高其抗虫性"
+   },
+   {
+    "label": "D",
+    "text": "蛋白W可能通过抑制RNA聚合酶识别基因P和M的启动子而发挥作用"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_z8o7eYXI4yKtRBEFZzQ.WQ#2025湖南·基因表达调控]"
+ },
+ {
+  "root_id": "mkjr_1vbo5.IevGyfhZW0dEi9HQ",
+  "chapter": "必修二 第4章 基因的表达",
+  "points": [
+   "中心法则"
+  ],
+  "province": "湖南",
+  "year": "2025",
+  "type": "单选",
+  "answer": "C",
+  "stem": "被噬菌体侵染时，某细菌以一特定RNA片段为重复单元，逆转录成串联重复DNA，再指导合成含多个串联重复肽段的蛋白Neo，如图所示。该蛋白能抑制细菌生长，从而阻止噬菌体利用细胞资源。下列叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "噬菌体侵染细菌时，会将核酸注入细菌内"
+   },
+   {
+    "label": "B",
+    "text": "蛋白Neo在细菌的核糖体中合成"
+   },
+   {
+    "label": "C",
+    "text": "串联重复的双链DNA的两条链均可作为模板指导蛋白Neo合成"
+   },
+   {
+    "label": "D",
+    "text": "串联重复DNA中单个重复单元转录产生的mRNA无终止密码子"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_1vbo5.IevGyfhZW0dEi9HQ#2025湖南·中心法则]"
+ },
+ {
+  "root_id": "mkjr_Q1IP4GmEYC_aAX4n7l4aAg",
+  "chapter": "必修二 第4章 基因的表达",
+  "points": [
+   "表观遗传"
+  ],
+  "province": "辽宁",
+  "year": "2024",
+  "type": "单选",
+  "answer": "C",
+  "stem": "下图表示DNA半保留复制和甲基化修饰过程。研究发现，50岁同卵双胞胎间基因组DNA甲基化的差异普遍比3岁同卵双胞胎间的差异大。下列叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "酶E的作用是催化DNA复制"
+   },
+   {
+    "label": "B",
+    "text": "甲基是DNA半保留复制的原料之一"
+   },
+   {
+    "label": "C",
+    "text": "环境可能是引起DNA甲基化差异的重要因素"
+   },
+   {
+    "label": "D",
+    "text": "DNA甲基化不改变碱基序列和生物个体表型"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_Q1IP4GmEYC_aAX4n7l4aAg#2024辽宁·表观遗传]"
+ },
+ {
+  "root_id": "mkjr_a5kWywsnafBmW3Ki1SJ_3Q",
+  "chapter": "必修二 第4章 基因的表达",
+  "points": [
+   "基因对性状的控制"
+  ],
+  "province": "天津",
+  "year": "2024",
+  "type": "单选",
+  "answer": "C",
+  "stem": "环境因素可通过下图所示途径影响生物性状。有关叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "①可引起DNA的碱基序列改变"
+   },
+   {
+    "label": "B",
+    "text": "②可调节③水平的高低"
+   },
+   {
+    "label": "C",
+    "text": "②引起的变异不能为生物进化提供原材料"
+   },
+   {
+    "label": "D",
+    "text": "④可引起蛋白质结构或功能的改变"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_a5kWywsnafBmW3Ki1SJ_3Q#2024天津·基因对性状的控制]"
+ },
+ {
+  "root_id": "mkjr_0nA3RLhOwMPlML.GbH4otg",
+  "chapter": "必修二 第4章 基因的表达",
+  "points": [
+   "表观遗传"
+  ],
+  "province": "广东",
+  "year": "2024",
+  "type": "单选",
+  "answer": "D",
+  "stem": "研究发现，短暂地抑制果蝇幼虫中PcG 蛋白（具有组蛋白修饰功能）的合成，会启动原癌基因zfhl的表达，导致肿瘤形成。驱动此肿瘤形成的原因属于（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "基因突变"
+   },
+   {
+    "label": "B",
+    "text": "染色体变异"
+   },
+   {
+    "label": "C",
+    "text": "基因重组"
+   },
+   {
+    "label": "D",
+    "text": "表观遗传"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_0nA3RLhOwMPlML.GbH4otg#2024广东·表观遗传]"
+ },
+ {
+  "root_id": "mkjr_jyjUO5Up0K5ZM4jmx3OVxg",
+  "chapter": "必修二 第4章 基因的表达",
+  "points": [
+   "遗传信息的翻译"
+  ],
+  "province": "辽宁",
+  "year": "2025",
+  "type": "单选",
+  "answer": "D",
+  "stem": "下列关于基因表达及其调控的叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "转录和翻译过程中，碱基互补配对的方式不同"
+   },
+   {
+    "label": "B",
+    "text": "转录时通过RNA聚合酶打开DNA双链"
+   },
+   {
+    "label": "C",
+    "text": "某些DNA甲基化可通过抑制基因转录影响生物表型"
+   },
+   {
+    "label": "D",
+    "text": "核糖体与mRNA的结合部位形成1个tRNA结合位点"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_jyjUO5Up0K5ZM4jmx3OVxg#2025辽宁·遗传信息的翻译]"
+ },
+ {
+  "root_id": "mkjr_F.SgoAZxidd206ZnKheIxA",
+  "chapter": "必修二 第4章 基因的表达",
+  "points": [
+   "基因对性状的控制"
+  ],
+  "province": "山西",
+  "year": "2025",
+  "type": "单选",
+  "answer": "A",
+  "stem": "金刚鹦鹉的羽毛色彩缤纷。研究发现乙醛脱氢酶能催化鹦鹉黄素的醛基转化为羧基，造成羽色由红到黄的渐变。同一只鹦鹉不同部位的羽色有红黄差异，该现象最不可能源于（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "乙醛脱氢酶基因序列的差异"
+   },
+   {
+    "label": "B",
+    "text": "编码乙醛脱氢酶mRNA量的差异"
+   },
+   {
+    "label": "C",
+    "text": "乙醛脱氢酶活性的差异"
+   },
+   {
+    "label": "D",
+    "text": "鹦鹉黄素醛基转化为羧基数的差异"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_F.SgoAZxidd206ZnKheIxA#2025山西·基因对性状的控制]"
+ },
+ {
+  "root_id": "mkjr_z8jFUy7LwQWoWHg2lJBSDA",
+  "chapter": "必修二 第4章 基因的表达",
+  "points": [
+   "表观遗传"
+  ],
+  "province": "山西",
+  "year": "2025",
+  "type": "单选",
+  "answer": "B",
+  "stem": "某常染色体遗传病致病基因为H，在一些个体中可因甲基化而失活（不表达），又会因去甲基化而恢复表达。由于遗传背景的差异，H基因在精子中为甲基化状态，在卵细胞中为去甲基化状态，且都在受精后被子代保留。该病的某系谱图如下，Ⅲ1的基因型为Hh，不考虑其他表观遗传效应和变异的影响，下列分析错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "I1和I2均含有甲基化的H基因"
+   },
+   {
+    "label": "B",
+    "text": "Ⅱ1为杂合子的概率2/3"
+   },
+   {
+    "label": "C",
+    "text": "Ⅱ2和Ⅱ3再生育子女的患病概率是1/2"
+   },
+   {
+    "label": "D",
+    "text": "Ⅲ1的h基因只能来自父亲"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_z8jFUy7LwQWoWHg2lJBSDA#2025山西·表观遗传]"
+ },
+ {
+  "root_id": "mkjr_mwpxwyPuhFneHHiC5vCNAw",
+  "chapter": "必修二 第4章 基因的表达",
+  "points": [
+   "RNA的结构与功能"
+  ],
+  "province": "贵州",
+  "year": "2025",
+  "type": "单选",
+  "answer": "B",
+  "stem": "下图为核酸的部分结构及遗传信息传递过程的示意图。下列叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "图中箭头所指碳原子上连接的基团是-OH"
+   },
+   {
+    "label": "B",
+    "text": "甲链中相邻两个五碳糖通过磷酸二酯键连接"
+   },
+   {
+    "label": "C",
+    "text": "若图中序列编码一个氨基酸，则其密码子为UAC"
+   },
+   {
+    "label": "D",
+    "text": "遗传信息可从甲链流向乙链，但不能从乙链流向甲链"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_mwpxwyPuhFneHHiC5vCNAw#2025贵州·RNA的结构与功能]"
+ },
+ {
+  "root_id": "mkjr_fKEcYx7cUXCyf3uMnL9KGA",
+  "chapter": "必修二 第4章 基因的表达",
+  "points": [
+   "表观遗传"
+  ],
+  "province": "广西",
+  "year": "2024",
+  "type": "单选",
+  "answer": "B",
+  "stem": "科学家通过小鼠低蛋白饮食与正常饮食的对比实验，发现亲代的低蛋白饮食可影响自身基因表达（其机理如图），且这种影响可遗传给子代。据图分析，下列说法正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "自身基因表达和表型发生变化的现象，称为表观遗传"
+   },
+   {
+    "label": "B",
+    "text": "组蛋白甲基化水平增加，将导致相关基因表达水平降低"
+   },
+   {
+    "label": "C",
+    "text": "ATF7的磷酸化，将导致组蛋白表观遗传修饰水平提高"
+   },
+   {
+    "label": "D",
+    "text": "亲代的低蛋白饮食，会改变子代小鼠的DNA碱基序列"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_fKEcYx7cUXCyf3uMnL9KGA#2024广西·表观遗传]"
+ },
+ {
+  "root_id": "mkjr_ErOHvHT9RTYtPV.wKjBtaQ",
+  "chapter": "必修二 第4章 基因的表达",
+  "points": [
+   "表观遗传"
+  ],
+  "province": "江苏",
+  "year": "2024",
+  "type": "单选",
+  "answer": "D",
+  "stem": "图示果蝇细胞中基因沉默蛋白（PcG）的缺失，引起染色质结构变化，导致细胞增殖失控形成肿瘤。下列相关叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "PcG使组蛋白甲基化和染色质凝集，抑制了基因表达"
+   },
+   {
+    "label": "B",
+    "text": "细胞增殖失控可由基因突变引起，也可由染色质结构变化引起"
+   },
+   {
+    "label": "C",
+    "text": "DNA和组蛋白的甲基化修饰都能影响细胞中基因的转录"
+   },
+   {
+    "label": "D",
+    "text": "图示染色质结构变化也是原核细胞表观遗传调控的一种机制"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_ErOHvHT9RTYtPV.wKjBtaQ#2024江苏·表观遗传]"
+ },
+ {
+  "root_id": "mkjr_wTCJtkGXKG6_1i71.s6PVg",
+  "chapter": "必修二 第4章 基因的表达",
+  "points": [
+   "表观遗传"
+  ],
+  "province": "浙江",
+  "year": "2023",
+  "type": "单选",
+  "answer": "D",
+  "stem": "该植物经5－azaC去甲基化处理后，下列各项中会发生显著改变的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "基因的碱基数量"
+   },
+   {
+    "label": "B",
+    "text": "基因的碱基排列顺序"
+   },
+   {
+    "label": "C",
+    "text": "基因的复制"
+   },
+   {
+    "label": "D",
+    "text": "基因的转录"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_wTCJtkGXKG6_1i71.s6PVg#2023浙江·表观遗传]"
+ },
+ {
+  "root_id": "mkjr_qHn8KGo1ZBiMKGf787AKdA",
+  "chapter": "必修二 第4章 基因的表达",
+  "points": [
+   "中心法则"
+  ],
+  "province": "浙江",
+  "year": "2023",
+  "type": "单选",
+  "answer": "D",
+  "stem": "叠氮脱氧胸苷（AZT）可与逆转录酶结合并抑制其功能。下列过程可直接被AZT阻断的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "复制"
+   },
+   {
+    "label": "B",
+    "text": "转录"
+   },
+   {
+    "label": "C",
+    "text": "翻译"
+   },
+   {
+    "label": "D",
+    "text": "逆转录"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_qHn8KGo1ZBiMKGf787AKdA#2023浙江·中心法则]"
+ },
+ {
+  "root_id": "mkjr_2vFIer1CNkoHf3tJH9YK4w",
+  "chapter": "必修二 第4章 基因的表达",
+  "points": [
+   "中心法则"
+  ],
+  "province": "湖北",
+  "year": "2022",
+  "type": "单选",
+  "answer": "D",
+  "stem": "新冠病毒是一种RNA病毒，其基因组含有约3万个核苷酸。该病毒可通过表面S蛋白与人细胞表面的ACE2蛋白结合而进入细胞。在细胞中该病毒的RNA可作为mRNA，指导合成病毒复制所需的RNA聚合酶，该聚合酶催化RNA合成时碱基出错频率为10-5．下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "新冠病毒只有在选择压力的作用下才发生基因突变"
+   },
+   {
+    "label": "B",
+    "text": "ACE2蛋白的出现是人类抵抗新冠病毒入侵的进化结果"
+   },
+   {
+    "label": "C",
+    "text": "注射新冠病毒疫苗后，人体可产生识别ACE2蛋白的抗体"
+   },
+   {
+    "label": "D",
+    "text": "新冠病毒RNA聚合酶可作为研制治疗新冠肺炎药物的有效靶标"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_2vFIer1CNkoHf3tJH9YK4w#2022湖北·中心法则]"
+ },
+ {
+  "root_id": "mkjr_hZNccBLuoBj1LNw7SUyx7A",
+  "chapter": "必修二 第4章 基因的表达",
+  "points": [
+   "中心法则"
+  ],
+  "province": "湖南",
+  "year": "2022",
+  "type": "单选",
+  "answer": "C",
+  "stem": "T2噬菌体侵染大肠杆菌的过程中，下列哪一项不会发生（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "新的噬菌体DNA合成"
+   },
+   {
+    "label": "B",
+    "text": "新的噬菌体蛋白质外壳合成"
+   },
+   {
+    "label": "C",
+    "text": "噬菌体在自身RNA聚合酶作用下转录出RNA"
+   },
+   {
+    "label": "D",
+    "text": "合成的噬菌体RNA与大肠杆菌的核糖体结合"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_hZNccBLuoBj1LNw7SUyx7A#2022湖南·中心法则]"
+ },
+ {
+  "root_id": "mkjr_aFvKaDUjvNgUtpersVGpYw",
+  "chapter": "必修二 第4章 基因的表达",
+  "points": [
+   "遗传信息的翻译"
+  ],
+  "province": "湖南",
+  "year": "2022",
+  "type": "单选",
+  "answer": "D",
+  "stem": "大肠杆菌核糖体蛋白与rRNA分子亲和力较强，二者组装成核糖体。当细胞中缺乏足够的rRNA分子时，核糖体蛋白可通过结合到自身mRNA分子上的核糖体结合位点而产生翻译抑制。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "一个核糖体蛋白的mRNA分子上可相继结合多个核糖体，同时合成多条肽链"
+   },
+   {
+    "label": "B",
+    "text": "细胞中有足够的rRNA分子时，核糖体蛋白通常不会结合自身mRNA分子"
+   },
+   {
+    "label": "C",
+    "text": "核糖体蛋白对自身mRNA翻译的抑制维持了RNA和核糖体蛋白数量上的平衡"
+   },
+   {
+    "label": "D",
+    "text": "编码该核糖体蛋白的基因转录完成后，mRNA才能与核糖体结合进行翻译"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_aFvKaDUjvNgUtpersVGpYw#2022湖南·遗传信息的翻译]"
+ },
+ {
+  "root_id": "mkjr_m4o2TRvA1esW8xpckB48hA",
+  "chapter": "必修二 第4章 基因的表达",
+  "points": [
+   "表观遗传"
+  ],
+  "province": "辽宁",
+  "year": "2022",
+  "type": "多选",
+  "answer": "ABD",
+  "stem": "视网膜病变是糖尿病常见并发症之一。高血糖环境中，在DNA甲基转移酶催化下，部分胞嘧啶加上活化的甲基被修饰为5'-甲基胞嘧啶，使视网膜细胞线粒体DNA碱基甲基化水平升高，可引起视网膜细胞线粒体损伤和功能异常。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "线粒体DNA甲基化水平升高，可抑制相关基因的表达"
+   },
+   {
+    "label": "B",
+    "text": "高血糖环境中，线粒体DNA在复制时也遵循碱基互补配对原则"
+   },
+   {
+    "label": "C",
+    "text": "高血糖环境引起的甲基化修饰改变了患者线粒体DNA碱基序列"
+   },
+   {
+    "label": "D",
+    "text": "糖尿病患者线粒体DNA高甲基化水平可遗传"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_m4o2TRvA1esW8xpckB48hA#2022辽宁·表观遗传]"
+ },
+ {
+  "root_id": "mkjr_uUD3D_m29QNLy11MFIhb.Q",
+  "chapter": "必修二 第4章 基因的表达",
+  "points": [
+   "基因对性状的控制"
+  ],
+  "province": "湖南",
+  "year": "2023",
+  "type": "单选",
+  "answer": "D",
+  "stem": "酗酒危害人类健康。乙醇在人体内先转化为乙醛，在乙醛脱氢酶2（ALDH2）作用下再转化为乙酸，最终转化成CO2和水。头孢类药物能抑制ALDH2的活性。ALDH2基因某突变导致ALDH2活性下降或丧失。在高加索人群中该突变的基因频率不足5%，而东亚人群中高达30%。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "相对于高加索人群，东亚人群饮酒后面临的风险更高"
+   },
+   {
+    "label": "B",
+    "text": "患者在服用头孢类药物期间应避免摄入含酒精的药物或食物"
+   },
+   {
+    "label": "C",
+    "text": "ALDH2基因突变人群对酒精耐受性下降，表明基因通过蛋白质控制生物性状"
+   },
+   {
+    "label": "D",
+    "text": "饮酒前口服ALDH2酶制剂可催化乙醛转化成乙酸，从而预防酒精中毒"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_uUD3D_m29QNLy11MFIhb.Q#2023湖南·基因对性状的控制]"
+ },
+ {
+  "root_id": "mkjr_VNoezInvecEHSXG2KkTdEA",
+  "chapter": "必修二 第4章 基因的表达",
+  "points": [
+   "基因表达调控"
+  ],
+  "province": "湖南",
+  "year": "2023",
+  "type": "单选",
+  "answer": "C",
+  "stem": "细菌glg基因编码的UDPG焦磷酸化酶在糖原合成中起关键作用。细菌糖原合成的平衡受到CsrAB系统的调节。CsrA蛋白可以结合glg mRNA分子，也可结合非编码RNA分子CsrB,如图所示。下列叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "细菌glg基因转录时，RNA聚合酶识别和结合glg基因的启动子并驱动转录"
+   },
+   {
+    "label": "B",
+    "text": "细菌合成UDPG焦磷酸化酶的肽链时，核糖体沿glg mRNA从5'端向3'端移动"
+   },
+   {
+    "label": "C",
+    "text": "抑制CsrB基因的转录能促进细菌糖原合成"
+   },
+   {
+    "label": "D",
+    "text": "CsrA蛋白都结合到CsrB上，有利于细菌糖原合成"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_VNoezInvecEHSXG2KkTdEA#2023湖南·基因表达调控]"
+ },
+ {
+  "root_id": "mkjr_KIbfiNS.bPSHXhNLWHX7Dg",
+  "chapter": "必修二 第4章 基因的表达",
+  "points": [
+   "遗传信息的翻译"
+  ],
+  "province": "辽宁",
+  "year": "2023",
+  "type": "单选",
+  "answer": "B",
+  "stem": "CD163蛋白是PRRSV病毒感染家畜的受体。为实时监控CD163蛋白的表达和转运过程，将红色荧光蛋白RFP基因与CD163基因拼接在一起（如下图），使其表达成一条多肽。该拼接过程的关键步骤是除去（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "CD163基因中编码起始密码子的序列"
+   },
+   {
+    "label": "B",
+    "text": "CD163基因中编码终止密码子的序列"
+   },
+   {
+    "label": "C",
+    "text": "RFP基因中编码起始密码子的序列"
+   },
+   {
+    "label": "D",
+    "text": "RFP基因中编码终止密码子的序列"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_KIbfiNS.bPSHXhNLWHX7Dg#2023辽宁·遗传信息的翻译]"
+ },
+ {
+  "root_id": "mkjr_QZMPIWBok4tCHQNwA7fU.g",
+  "chapter": "必修二 第4章 基因的表达",
+  "points": [
+   "遗传信息的转录"
+  ],
+  "province": "辽宁",
+  "year": "2023",
+  "type": "单选",
+  "answer": "A",
+  "stem": "DNA在细胞生命过程中会发生多种类型的损伤。如损伤较小，RNA聚合酶经过损伤位点时，腺嘌呤核糖核苷酸会不依赖于模板掺入mRNA（如图1）；如损伤较大，修复因子Mfd识别、结合滞留的RNA聚合酶，“招募”多种修复因子、DNA聚合酶等进行修复（如图2）。下列叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "图1所示的DNA经复制后有半数子代DNA含该损伤导致的突变基因"
+   },
+   {
+    "label": "B",
+    "text": "图1所示转录产生的mRNA指导合成的蛋白质氨基酸序列可能不变"
+   },
+   {
+    "label": "C",
+    "text": "图2所示的转录过程是沿着模板链的5'端到3'端进行的"
+   },
+   {
+    "label": "D",
+    "text": "图2所示的DNA聚合酶催化DNA损伤链的修复，方向是从n到m"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_QZMPIWBok4tCHQNwA7fU.g#2023辽宁·遗传信息的转录]"
+ },
+ {
+  "root_id": "mkjr_80jFNK5lhlvXg3ZN958vLw",
+  "chapter": "必修二 第4章 基因的表达",
+  "points": [
+   "表观遗传"
+  ],
+  "province": "重庆",
+  "year": "2023",
+  "type": "单选",
+  "answer": "A",
+  "stem": "某小组以拟南芥原生质体为材料，研究了生长素（IAA）、组蛋白乙酰化及R基因对原生质体形成愈伤组织的影响。野生型（WT）和R基因突变型（rr）的原生质体分别经下表不同条件培养相同时间后，检测培养材料中R基因表达量，并统计愈伤组织形成率，结果如图所示。据此推断，下列叙述正确的是（ ） [图] [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "组蛋白乙酰化有利于WT原生质体形成愈伤组织"
+   },
+   {
+    "label": "B",
+    "text": "R基因通过促进IAA的合成提高愈伤组织形成率"
+   },
+   {
+    "label": "C",
+    "text": "组蛋白乙酰化通过改变DNA碱基序列影响R基因表达量"
+   },
+   {
+    "label": "D",
+    "text": "若用IAA合成抑制剂处理WT原生质体，愈伤组织形成率将升高"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_80jFNK5lhlvXg3ZN958vLw#2023重庆·表观遗传]"
+ },
+ {
+  "root_id": "mkjr_usoSVM72mzWJcvkU8PRQOA",
+  "chapter": "必修二 第4章 基因的表达",
+  "points": [
+   "表观遗传"
+  ],
+  "province": "海南",
+  "year": "2024",
+  "type": "单选",
+  "answer": "A",
+  "stem": "某种鸟的卵黄蛋白原基因的启动子部分区域存在甲基化修饰。成熟雌鸟产生的雌激素可将此甲基化去除，雄鸟因缺乏雌激素仍保持高度甲基化。下列有关叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "卵黄蛋白原基因在成熟雌鸟中可以表达，在雄鸟中表达受到抑制"
+   },
+   {
+    "label": "B",
+    "text": "卵黄蛋白原基因转录出的mRNA中，含有甲基化区域序列的互补序列"
+   },
+   {
+    "label": "C",
+    "text": "该种雌鸟和雄鸟交配产生的雌雄后代发育成熟后，体内均无卵黄蛋白原"
+   },
+   {
+    "label": "D",
+    "text": "卵黄蛋白原基因的乙酰化和甲基化均可产生表观遗传现象"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_usoSVM72mzWJcvkU8PRQOA#2024海南·表观遗传]"
+ },
+ {
+  "root_id": "mkjr_xOUB2ePiTtHAqiAzFywe0g",
+  "chapter": "必修二 第4章 基因的表达",
+  "points": [
+   "遗传信息的翻译"
+  ],
+  "province": "福建",
+  "year": "2024",
+  "type": "单选",
+  "answer": "A",
+  "stem": "人肠道细胞中载脂蛋白B基因转录后，其mRNA上特定位置的碱基C在相关酶的作用下转变为碱基U，造成该位置相应的密码子变为终止密码子UAA，该终止密码子对应的DNA模板链序列为（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "5'-TTG-3'"
+   },
+   {
+    "label": "B",
+    "text": "5'-ATT-3'"
+   },
+   {
+    "label": "C",
+    "text": "5'-GTT-3'"
+   },
+   {
+    "label": "D",
+    "text": "5'-TTA-3'"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_xOUB2ePiTtHAqiAzFywe0g#2024福建·遗传信息的翻译]"
+ },
+ {
+  "root_id": "mkjr_XhQR3NLGC68jbc9RI1ypyQ",
+  "chapter": "必修二 第4章 基因的表达",
+  "points": [
+   "表观遗传"
+  ],
+  "province": "贵州",
+  "year": "2024",
+  "type": "单选",
+  "answer": "D",
+  "stem": "大鼠脑垂体瘤细胞可分化成细胞Ⅰ和细胞Ⅱ两种类型，仅细胞Ⅰ能合成催乳素。细胞Ⅰ和细胞Ⅱ中催乳素合成基因的碱基序列相同，但细胞Ⅱ中该基因多个碱基被甲基化。细胞Ⅱ经氮胞苷处理后，再培养可合成催乳素。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "甲基化可以抑制催乳素合成基因的转录"
+   },
+   {
+    "label": "B",
+    "text": "氮胞苷可去除催乳素合成基因的甲基化"
+   },
+   {
+    "label": "C",
+    "text": "处理后细胞Ⅱ的子代细胞能合成催乳素"
+   },
+   {
+    "label": "D",
+    "text": "该基因甲基化不能用于细胞类型的区分"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_XhQR3NLGC68jbc9RI1ypyQ#2024贵州·表观遗传]"
+ },
+ {
+  "root_id": "mkjr_ybC05.3KbiFGyFNPDKCysg",
+  "chapter": "必修二 第4章 基因的表达",
+  "points": [
+   "遗传信息的翻译"
+  ],
+  "province": "贵州",
+  "year": "2024",
+  "type": "单选",
+  "answer": "C",
+  "stem": "如图是某基因编码区部分碱基序列，在体内其指导合成肽链的氨基酸序列为：甲硫氨酸-组氨酸-脯氨酸-赖氨酸……下列叙述正确的是（ ） [图] 注：AUG（起始密码子）：甲硫氨酸 CAU、CNC：组氨酸 CCU：脯氨酸 AAG：赖氨酸 UCC：丝氨酸 UAA（终止密码子）",
+  "options": [
+   {
+    "label": "A",
+    "text": "①链是转录的模板链，其左侧是5'端，右侧是3'端"
+   },
+   {
+    "label": "B",
+    "text": "若在①链5～6号碱基间插入一个碱基G，合成的肽链变长"
+   },
+   {
+    "label": "C",
+    "text": "若在①链1号碱基前插入一个碱基G，合成的肽链不变"
+   },
+   {
+    "label": "D",
+    "text": "碱基序列不同的mRNA翻译得到的肽链不可能相同"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_ybC05.3KbiFGyFNPDKCysg#2024贵州·遗传信息的翻译]"
+ }
+]

@@ -1,0 +1,897 @@
+[
+ {
+  "root_id": "mkjr_RC5x9LXjLpZU0YNGfznxww",
+  "chapter": "必修二 第3章 基因的本质",
+  "points": [
+   "DNA的复制"
+  ],
+  "province": "山东",
+  "year": "2026",
+  "type": "单选",
+  "answer": "B",
+  "stem": "以4种脱氧核苷酸（dATP、dCTP、dGTP和32P标记的dTTP）为原料，以一段单链DNA为模板进行PCR，获得大量双链DNA。酶W可切断DNA中5´碳与磷酸基团之间的化学键。用酶W对上述PCR产物充分酶切后获得3´-核苷酸，如图所示。所有带32P的3´-核苷酸中，碱基均为胞嘧啶。若用32P标记某种脱氧核苷酸，以相同单链DNA为模板进行PCR，产物经充分酶切后，带32P的3´-核苷酸的碱基均为腺嘌呤，则被标记的脱氧核苷酸为（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "dATP"
+   },
+   {
+    "label": "B",
+    "text": "dGTP"
+   },
+   {
+    "label": "C",
+    "text": "dCTP或dGTP"
+   },
+   {
+    "label": "D",
+    "text": "dATP或dCTP"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_RC5x9LXjLpZU0YNGfznxww#2026山东·DNA的复制]"
+ },
+ {
+  "root_id": "mkjr_uhQ4NNGKs_374L4MOcU6WA",
+  "chapter": "必修二 第3章 基因的本质",
+  "points": [
+   "DNA的结构"
+  ],
+  "province": "广东",
+  "year": "2026",
+  "type": "单选",
+  "answer": "A",
+  "stem": "紫外线辐射能使DNA分子形成异常化学键（如图）。该异常化学键发生在（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "碱基"
+   },
+   {
+    "label": "B",
+    "text": "磷酸"
+   },
+   {
+    "label": "C",
+    "text": "脱氧核糖"
+   },
+   {
+    "label": "D",
+    "text": "核糖"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_uhQ4NNGKs_374L4MOcU6WA#2026广东·DNA的结构]"
+ },
+ {
+  "root_id": "mkjr_V8_vvQwdicHcF0DOqDJKPw",
+  "chapter": "必修二 第3章 基因的本质",
+  "points": [
+   "肺炎链球菌转化实验"
+  ],
+  "province": "广东",
+  "year": "2026",
+  "type": "单选",
+  "answer": "C",
+  "stem": "艾弗里等人将DNA酶加入细胞提取物探究生物的遗传物质。下列科学史实验运用的自变量控制原理与该实验相同的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "将胰岛提取物注入被摘除胰腺的狗探究糖尿病的治疗"
+   },
+   {
+    "label": "B",
+    "text": "移植睾丸到被阉割的公鸡探究雄激素的分泌器官"
+   },
+   {
+    "label": "C",
+    "text": "用锡箔罩住金丝雀虉草胚芽鞘尖端探究植物向光性原因"
+   },
+   {
+    "label": "D",
+    "text": "向水稻幼苗喷施赤霉菌培养基滤液探究恶苗病成因"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_V8_vvQwdicHcF0DOqDJKPw#2026广东·肺炎链球菌转化实验]"
+ },
+ {
+  "root_id": "mkjr_I6QyyEqpcIHUcaZ42R2gxA",
+  "chapter": "必修二 第3章 基因的本质",
+  "points": [
+   "DNA的复制"
+  ],
+  "province": "河南",
+  "year": "2026",
+  "type": "单选",
+  "answer": "C",
+  "stem": "某细菌在高温环境下依然能够进行DNA的复制。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "该菌体内DNA复制时，不需要解旋酶的参与"
+   },
+   {
+    "label": "B",
+    "text": "该菌DNA复制时，母链从5'端到3'端被阅读"
+   },
+   {
+    "label": "C",
+    "text": "该菌DNA聚合酶在高温下仍能保持活性，催化子链的延伸"
+   },
+   {
+    "label": "D",
+    "text": "该菌DNA复制系统耐高温特性与氢键有关，与二硫键无关"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_I6QyyEqpcIHUcaZ42R2gxA#2026河南·DNA的复制]"
+ },
+ {
+  "root_id": "mkjr_Nd1tUoQq81mAQgut8v4ZJQ",
+  "chapter": "必修二 第3章 基因的本质",
+  "points": [
+   "DNA的复制"
+  ],
+  "province": "北京",
+  "year": "2025",
+  "type": "单选",
+  "answer": "B",
+  "stem": "1958年，Meselson和Stahl通过15N标记DNA的实验，证明了DNA的半保留复制。关于这一经典实验的叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "因为15N有放射性，所以能够区分DNA的母链和子链"
+   },
+   {
+    "label": "B",
+    "text": "得到的DNA带的位置有三个，证明了DNA的半保留复制"
+   },
+   {
+    "label": "C",
+    "text": "将DNA变成单链后再进行离心也能得到相同的实验结果"
+   },
+   {
+    "label": "D",
+    "text": "选择大肠杆菌作为实验材料是因为它有环状质粒DNA"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_Nd1tUoQq81mAQgut8v4ZJQ#2025北京·DNA的复制]"
+ },
+ {
+  "root_id": "mkjr_bbiX9juFneQNj..hhcxH.g",
+  "chapter": "必修二 第3章 基因的本质",
+  "points": [
+   "肺炎链球菌转化实验",
+   "DNA的结构"
+  ],
+  "province": "天津",
+  "year": "2023",
+  "type": "单选",
+  "answer": "B",
+  "stem": "下列生物实验探究中运用的原理，前后不一致的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "建立物理模型研究DNA结构－ 研究减数分裂染色体变化"
+   },
+   {
+    "label": "B",
+    "text": "运用同位素标记法研究卡尔文循环－ 研究酵母菌呼吸方式"
+   },
+   {
+    "label": "C",
+    "text": "运用减法原理研究遗传物质－ 研究抗生素对细菌选择作用"
+   },
+   {
+    "label": "D",
+    "text": "孟德尔用假说演绎法验证分离定律－ 摩尔根研究伴性遗传"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_bbiX9juFneQNj..hhcxH.g#2023天津·肺炎链球菌转化实验]"
+ },
+ {
+  "root_id": "mkjr_1UXSNiOAzb6_bkB4x1pkcA",
+  "chapter": "必修二 第3章 基因的本质",
+  "points": [
+   "DNA的复制"
+  ],
+  "province": "山东",
+  "year": "2023",
+  "type": "单选",
+  "answer": "D",
+  "stem": "将一个双链DNA分子的一端固定于载玻片上，置于含有荧光标记的脱氧核苷酸的体系中进行复制。甲、乙和丙分别为复制过程中3个时间点的图像，①和②表示新合成的单链，①的5'端指向解旋方向，丙为复制结束时的图像。该DNA复制过程中可观察到单链延伸暂停现象，但延伸进行时2条链延伸速率相等。已知复制过程中严格遵守碱基互补配对原则，下列说法错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "据图分析，①和②延伸时均存在暂停现象"
+   },
+   {
+    "label": "B",
+    "text": "甲时①中A、T之和与②中A、T之和可能相等"
+   },
+   {
+    "label": "C",
+    "text": "丙时①中A、T之和与②中A、T之和一定相等"
+   },
+   {
+    "label": "D",
+    "text": "②延伸方向为5'端至3'端，其模板链3'端指向解旋方向"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_1UXSNiOAzb6_bkB4x1pkcA#2023山东·DNA的复制]"
+ },
+ {
+  "root_id": "mkjr_V4ntfgsTXn_gG2fZ7ajk7w",
+  "chapter": "必修二 第3章 基因的本质",
+  "points": [
+   "DNA的复制"
+  ],
+  "province": "贵州",
+  "year": "2026",
+  "type": "单选",
+  "answer": "D",
+  "stem": "自然界中存在多种保障信息传递准确性的机制。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "蜜蜂通过摆尾舞和圆圈舞将蜜源信息传递给蜂群"
+   },
+   {
+    "label": "B",
+    "text": "DNA通过碱基互补配对将遗传信息传递给子代DNA"
+   },
+   {
+    "label": "C",
+    "text": "神经递质与受体特异性结合将信息传递给下一神经元"
+   },
+   {
+    "label": "D",
+    "text": "植物光敏色素接受光照将信息传递到基粒引起水的光解"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_V4ntfgsTXn_gG2fZ7ajk7w#2026贵州·DNA的复制]"
+ },
+ {
+  "root_id": "mkjr_7fv7BBDDiy8_Hdoo9xyyTQ",
+  "chapter": "必修二 第3章 基因的本质",
+  "points": [
+   "DNA的复制"
+  ],
+  "province": "广东",
+  "year": "2025",
+  "type": "单选",
+  "answer": "C",
+  "stem": "Solexa测序是一种将PCR与荧光检测相结合的高通量测序技术。为了确保该PCR过程中，DNA聚合酶催化一个脱氧核苷酸单位完成聚合反应后，DNA链不继续延伸，应保护底物中脱氧核糖结构上的（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "1'-碱基"
+   },
+   {
+    "label": "B",
+    "text": "2'-氢"
+   },
+   {
+    "label": "C",
+    "text": "3'-羟基"
+   },
+   {
+    "label": "D",
+    "text": "5'-磷酸基团"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_7fv7BBDDiy8_Hdoo9xyyTQ#2025广东·DNA的复制]"
+ },
+ {
+  "root_id": "mkjr_F3cric.SFDnZZZ.kGSGAkA",
+  "chapter": "必修二 第3章 基因的本质",
+  "points": [
+   "噬菌体侵染细菌实验"
+  ],
+  "province": "河南",
+  "year": "2025",
+  "type": "单选",
+  "answer": "B",
+  "stem": "在T2噬菌体侵染大肠杆菌的实验中，子代噬菌体中的元素全部来自其宿主细胞的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "C"
+   },
+   {
+    "label": "B",
+    "text": "S"
+   },
+   {
+    "label": "C",
+    "text": "P"
+   },
+   {
+    "label": "D",
+    "text": "N"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_F3cric.SFDnZZZ.kGSGAkA#2025河南·噬菌体侵染细菌实验]"
+ },
+ {
+  "root_id": "mkjr_4KIWaVorLYGPQolYn.xK_Q",
+  "chapter": "必修二 第3章 基因的本质",
+  "points": [
+   "噬菌体侵染细菌实验"
+  ],
+  "province": "海南",
+  "year": "2025",
+  "type": "单选",
+  "answer": "B",
+  "stem": "某小组模拟赫尔希和蔡斯的T2噬菌体侵染大肠杆菌实验时，应用假说-演绎法推测出①~⑥种假设，如图。下列有关叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "实验1中，若离心后上清液的放射性高，沉淀物的放射性极低，则说明仅假设②正确"
+   },
+   {
+    "label": "B",
+    "text": "实验2中，若离心后上清液的放射性极低，沉淀物的放射性高，则说明仅假设⑤正确"
+   },
+   {
+    "label": "C",
+    "text": "若实验1子代噬菌体无放射性、实验2子代的部分菌体有放射性，则说明噬菌体的遗传物质是DNA"
+   },
+   {
+    "label": "D",
+    "text": "若用35S和32P同时标记的噬菌体进行实验，则离心后上清液和沉淀物均有放射性"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_4KIWaVorLYGPQolYn.xK_Q#2025海南·噬菌体侵染细菌实验]"
+ },
+ {
+  "root_id": "mkjr_VejhBQ3m0WkikIkLotyW2w",
+  "chapter": "必修二 第3章 基因的本质",
+  "points": [
+   "DNA的结构"
+  ],
+  "province": "湖北",
+  "year": "2025",
+  "type": "单选",
+  "answer": "B",
+  "stem": "大数据时代，全球每天产生海量数据，预计2040年需一百万吨硅基芯片才能储存全球一年产生的数据。为解决这一难题，科学家尝试运用DNA来储存数据。我国科学家已经将汉代拓片、熊猫照片等文化数据写入DNA，实现数据长期保存。下列叙述中，DNA可以作为存储介质的优点不包括（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "DNA具有可复制性，有利于数据的传播"
+   },
+   {
+    "label": "B",
+    "text": "可通过DNA转录和翻译传递相应数据信息"
+   },
+   {
+    "label": "C",
+    "text": "DNA长链中碱基排列的多样化，为大量数据的存储提供可能"
+   },
+   {
+    "label": "D",
+    "text": "DNA作为存储介质体积小，为数据携带和保存节约了大量空间"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_VejhBQ3m0WkikIkLotyW2w#2025湖北·DNA的结构]"
+ },
+ {
+  "root_id": "mkjr_Qh746lKkjPNsOZ0VATvvSA",
+  "chapter": "必修二 第3章 基因的本质",
+  "points": [
+   "DNA的粗提取与鉴定"
+  ],
+  "province": "安徽",
+  "year": "2024",
+  "type": "单选",
+  "answer": "D",
+  "stem": "下列关于“DNA 粗提取与鉴定”实验的叙述，错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "实验中如果将研磨液更换为蒸馏水，DNA提取的效率会降低"
+   },
+   {
+    "label": "B",
+    "text": "利用DNA和蛋白质在酒精中的溶解度差异，可初步分离DNA"
+   },
+   {
+    "label": "C",
+    "text": "DNA在不同浓度NaC1溶液中溶解度不同，该原理可用于纯化DNA粗提物"
+   },
+   {
+    "label": "D",
+    "text": "将溶解的DNA粗提物与二苯胺试剂反应，可检测溶液中是否含有蛋白质杂质"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_Qh746lKkjPNsOZ0VATvvSA#2024安徽·DNA的粗提取与鉴定]"
+ },
+ {
+  "root_id": "mkjr_6koj5Gwu8ejEKrELQvUNsQ",
+  "chapter": "必修二 第3章 基因的本质",
+  "points": [
+   "DNA的复制"
+  ],
+  "province": "山东",
+  "year": "2024",
+  "type": "单选",
+  "answer": "D",
+  "stem": "制备荧光标记的DNA探针时，需要模板、引物、DNA聚合酶等。在只含大肠杆菌DNA聚合酶、扩增缓冲液、H2O和4种脱氧核苷酸（dCTP、dTTP、dGTP和碱基被荧光标记的dATP）的反应管①~④中，分别加入如表所示的适量单链DNA。已知形成的双链DNA区遵循碱基互补配对原则，且在本实验的温度条件下不能产生小于9个连续碱基对的双链DNA区。能得到带有荧光标记的DNA探针的反应管有（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "①②"
+   },
+   {
+    "label": "B",
+    "text": "②③"
+   },
+   {
+    "label": "C",
+    "text": "①④"
+   },
+   {
+    "label": "D",
+    "text": "③④"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_6koj5Gwu8ejEKrELQvUNsQ#2024山东·DNA的复制]"
+ },
+ {
+  "root_id": "mkjr_Mdha5SZbn3690IIKxJhizA",
+  "chapter": "必修二 第3章 基因的本质",
+  "points": [
+   "DNA的粗提取与鉴定"
+  ],
+  "province": "山东",
+  "year": "2024",
+  "type": "单选",
+  "answer": "A",
+  "stem": "关于“DNA的粗提取与鉴定”实验，下列说法正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "整个提取过程中可以不使用离心机"
+   },
+   {
+    "label": "B",
+    "text": "研磨液在4℃冰箱中放置几分钟后，应充分摇匀再倒入烧杯中"
+   },
+   {
+    "label": "C",
+    "text": "鉴定过程中DNA双螺旋结构不发生改变"
+   },
+   {
+    "label": "D",
+    "text": "仅设置一个对照组不能排除二苯胺加热后可能变蓝的干扰"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_Mdha5SZbn3690IIKxJhizA#2024山东·DNA的粗提取与鉴定]"
+ },
+ {
+  "root_id": "mkjr__1MGSVQ2lP.90ps7Lutp2A",
+  "chapter": "必修二 第3章 基因的本质",
+  "points": [
+   "DNA的结构",
+   "基因是有遗传效应的DNA片段"
+  ],
+  "province": "河北",
+  "year": "2023",
+  "type": "单选",
+  "answer": "B",
+  "stem": "关于基因、DNA、染色体和染色体组的叙述，正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "等位基因均成对排布在同源染色体上"
+   },
+   {
+    "label": "B",
+    "text": "双螺旋DNA中互补配对的碱基所对应的核苷酸方向相反"
+   },
+   {
+    "label": "C",
+    "text": "染色体的组蛋白被修饰造成的结构变化不影响基因表达"
+   },
+   {
+    "label": "D",
+    "text": "一个物种的染色体组数与其等位基因数一定相同"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr__1MGSVQ2lP.90ps7Lutp2A#2023河北·DNA的结构]"
+ },
+ {
+  "root_id": "mkjr_hIPTXnOcJ1AJI4ldFbNdtg",
+  "chapter": "必修二 第3章 基因的本质",
+  "points": [
+   "DNA是主要的遗传物质"
+  ],
+  "province": "福建",
+  "year": "2025",
+  "type": "单选",
+  "answer": "B",
+  "stem": "关于生物科学史中经典实验对应的实验设计，下列叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "A"
+   },
+   {
+    "label": "B",
+    "text": "B"
+   },
+   {
+    "label": "C",
+    "text": "C"
+   },
+   {
+    "label": "D",
+    "text": "D"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_hIPTXnOcJ1AJI4ldFbNdtg#2025福建·DNA是主要的遗传物质]"
+ },
+ {
+  "root_id": "mkjr_LwpXiw2oLXcjhMqsoz8NBQ",
+  "chapter": "必修二 第3章 基因的本质",
+  "points": [
+   "DNA的结构"
+  ],
+  "province": "广西",
+  "year": "2024",
+  "type": "单选",
+  "answer": "A",
+  "stem": "研究发现真核生物基因组DNA普遍存在5-甲基胞嘧啶和N6-甲基腺嘌呤，分别被称为DNA的第5、6个碱基。关于这两个碱基的说法，正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "均含有N元素"
+   },
+   {
+    "label": "B",
+    "text": "均含有脱氧核糖"
+   },
+   {
+    "label": "C",
+    "text": "都排列在DNA骨架的外侧"
+   },
+   {
+    "label": "D",
+    "text": "都不参与碱基互补配对"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_LwpXiw2oLXcjhMqsoz8NBQ#2024广西·DNA的结构]"
+ },
+ {
+  "root_id": "mkjr_gtf9RHKKsS_1nlcyR8BaTg",
+  "chapter": "必修二 第3章 基因的本质",
+  "points": [
+   "DNA的复制"
+  ],
+  "province": "海南",
+  "year": "2022",
+  "type": "单选",
+  "answer": "D",
+  "stem": "科学家曾提出DNA复制方式的三种假说：全保留复制、半保留复制和分散复制（图1）。对此假说，科学家以大肠杆菌为实验材料，进行了如下实验（图2）： [图] [图] 下列有关叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "第一代细菌DNA离心后，试管中出现1条中带，说明DNA复制方式一定是半保留复制"
+   },
+   {
+    "label": "B",
+    "text": "第二代细菌DNA离心后，试管中出现1条中带和1条轻带，说明DNA复制方式一定是全保留复制"
+   },
+   {
+    "label": "C",
+    "text": "结合第一代和第二代细菌DNA的离心结果，说明DNA复制方式一定是分散复制"
+   },
+   {
+    "label": "D",
+    "text": "若DNA复制方式是半保留复制，继续培养至第三代，细菌DNA离心后试管中会出现1条中带和1条轻带"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_gtf9RHKKsS_1nlcyR8BaTg#2022海南·DNA的复制]"
+ },
+ {
+  "root_id": "mkjr_ziaQzeCVuWmCToMdGQY7Ag",
+  "chapter": "必修二 第3章 基因的本质",
+  "points": [
+   "肺炎链球菌转化实验",
+   "噬菌体侵染细菌实验"
+  ],
+  "province": "河北",
+  "year": "2022",
+  "type": "单选",
+  "answer": "A",
+  "stem": "关于遗传物质DNA的经典实验，叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "摩尔根依据果蝇杂交实验结果首次推理出基因位于染色体上"
+   },
+   {
+    "label": "B",
+    "text": "孟德尔描述的“遗传因子”与格里菲思提出的“转化因子”化学本质相同"
+   },
+   {
+    "label": "C",
+    "text": "肺炎双球菌体外转化实验和噬菌体浸染细菌实验均采用了能区分DNA和蛋白质的技术"
+   },
+   {
+    "label": "D",
+    "text": "双螺旋模型的碱基互补配对原则解释了DNA分子具有稳定的直径"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_ziaQzeCVuWmCToMdGQY7Ag#2022河北·肺炎链球菌转化实验]"
+ },
+ {
+  "root_id": "mkjr_MfIsx.bbIxGKsP5r5sCYFA",
+  "chapter": "必修二 第3章 基因的本质",
+  "points": [
+   "DNA的结构"
+  ],
+  "province": "河北",
+  "year": "2022",
+  "type": "多选",
+  "answer": "BC",
+  "stem": "人染色体DNA中存在串联重复序列，对这些序列进行体外扩增、电泳分离后可得到个体的DNA指纹图谱。该技术可用于亲子鉴定和法医学分析。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "DNA分子的多样性、特异性及稳定性是DNA鉴定技术的基础"
+   },
+   {
+    "label": "B",
+    "text": "串联重复序列在父母与子女之间的遗传不遵循孟德尔遗传定律"
+   },
+   {
+    "label": "C",
+    "text": "指纹图谱显示的DNA片段属于人体基础代谢功能蛋白的编码序列"
+   },
+   {
+    "label": "D",
+    "text": "串联重复序列突变可能会造成亲子鉴定结论出现错误"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_MfIsx.bbIxGKsP5r5sCYFA#2022河北·DNA的结构]"
+ },
+ {
+  "root_id": "mkjr_9FnaZHlU9Pu6tqI2kOUonQ",
+  "chapter": "必修二 第3章 基因的本质",
+  "points": [
+   "肺炎链球菌转化实验"
+  ],
+  "province": "浙江",
+  "year": "2022",
+  "type": "单选",
+  "answer": "D",
+  "stem": "S型肺炎双球菌的某种“转化因子”可使R型菌转化为S型菌。研究“转化因子”化学本质的部分实验流程如图所示 [图] 下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "步骤①中、酶处理时间不宜过长，以免底物完全水解"
+   },
+   {
+    "label": "B",
+    "text": "步骤②中，甲或乙的加入量不影响实验结果"
+   },
+   {
+    "label": "C",
+    "text": "步骤④中，固体培养基比液体培养基更有利于细菌转化"
+   },
+   {
+    "label": "D",
+    "text": "步骤⑤中，通过涂布分离后观察菌落或鉴定细胞形态得到实验结果"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_9FnaZHlU9Pu6tqI2kOUonQ#2022浙江·肺炎链球菌转化实验]"
+ },
+ {
+  "root_id": "mkjr_DpPi_3JNdDaSIp1xGEEiSg",
+  "chapter": "必修二 第3章 基因的本质",
+  "points": [
+   "DNA的复制"
+  ],
+  "province": "河北",
+  "year": "2024",
+  "type": "单选",
+  "answer": "D",
+  "stem": "下列关于DNA复制和转录的叙述，正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "DNA复制时，脱氧核苷酸通过氢键连接成子链"
+   },
+   {
+    "label": "B",
+    "text": "复制时，解旋酶使DNA双链由5′端向3′端解旋"
+   },
+   {
+    "label": "C",
+    "text": "复制和转录时，在能量的驱动下解旋酶将DNA双链解开"
+   },
+   {
+    "label": "D",
+    "text": "DNA复制合成的子链和转录合成的RNA延伸方向均为由5′端向3′端"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_DpPi_3JNdDaSIp1xGEEiSg#2024河北·DNA的复制]"
+ },
+ {
+  "root_id": "mkjr_VuqJr8A9BMmz2tOEJF0IfA",
+  "chapter": "必修二 第3章 基因的本质",
+  "points": [
+   "DNA是主要的遗传物质"
+  ],
+  "province": "河北",
+  "year": "2024",
+  "type": "单选",
+  "answer": "B",
+  "stem": "某病毒具有蛋白质外壳，其遗传物质的碱基含量如表所示，下列叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "该病毒复制合成的互补链中G＋C含量为51.2％"
+   },
+   {
+    "label": "B",
+    "text": "病毒的遗传物质可能会引起宿主DNA变异"
+   },
+   {
+    "label": "C",
+    "text": "病毒增殖需要的蛋白质在自身核糖体合成"
+   },
+   {
+    "label": "D",
+    "text": "病毒基因的遗传符合分离定律"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_VuqJr8A9BMmz2tOEJF0IfA#2024河北·DNA是主要的遗传物质]"
+ },
+ {
+  "root_id": "mkjr_9nXXomDSpVJE5wzOZhKphw",
+  "chapter": "必修二 第3章 基因的本质",
+  "points": [
+   "DNA的结构"
+  ],
+  "province": "海南",
+  "year": "2024",
+  "type": "单选",
+  "answer": "D",
+  "stem": "海南黎锦是非物质文化遗产，其染料主要来源于植物。DNA条形码技术可利用DNA条形码序列（细胞内一段特定的DNA序列）准确鉴定出染料植物的种类。下列有关叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "不同染料植物的DNA均含有元素C、H、O、N、S"
+   },
+   {
+    "label": "B",
+    "text": "DNA条形码序列由核糖核苷酸连接而成"
+   },
+   {
+    "label": "C",
+    "text": "染料植物的DNA条形码序列仅存在于细胞核中"
+   },
+   {
+    "label": "D",
+    "text": "DNA条形码技术鉴定染料植物的依据是不同物种的DNA条形码序列不同"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_9nXXomDSpVJE5wzOZhKphw#2024海南·DNA的结构]"
+ },
+ {
+  "root_id": "mkjr_RaCpsCFr2kK5frRiSJ.M6g",
+  "chapter": "必修二 第3章 基因的本质",
+  "points": [
+   "噬菌体侵染细菌实验"
+  ],
+  "province": "湖南",
+  "year": "2024",
+  "type": "单选",
+  "answer": "B",
+  "stem": "我国科学家成功用噬菌体治疗方法治愈了耐药性细菌引起的顽固性尿路感染。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "运用噬菌体治疗时，噬菌体特异性侵染病原菌"
+   },
+   {
+    "label": "B",
+    "text": "宿主菌经噬菌体侵染后，基因定向突变的几率变大"
+   },
+   {
+    "label": "C",
+    "text": "噬菌体和细菌在自然界长期的生存斗争中协同进化"
+   },
+   {
+    "label": "D",
+    "text": "噬菌体繁殖消耗宿主菌的核苷酸、氨基酸和能量等"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_RaCpsCFr2kK5frRiSJ.M6g#2024湖南·噬菌体侵染细菌实验]"
+ },
+ {
+  "root_id": "mkjr_xwtXbnRvN1ropfW3fJIJRQ",
+  "chapter": "必修二 第3章 基因的本质",
+  "points": [
+   "肺炎链球菌转化实验",
+   "DNA是主要的遗传物质"
+  ],
+  "province": "甘肃",
+  "year": "2024",
+  "type": "单选",
+  "answer": "D",
+  "stem": "科学家发现染色体主要是由蛋白质和DNA组成。关于证明蛋白质和核酸哪一种是遗传物质的系列实验，下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "肺炎链球菌体内转化实验中，加热致死的S型菌株的DNA分子在小鼠体内可使R型活菌的相对性状从无致病性转化为有致病性"
+   },
+   {
+    "label": "B",
+    "text": "肺炎链球菌体外转化实验中，利用自变量控制的“加法原理”，将“S型菌DNA+DNA酶”加入R型活菌的培养基中，结果证明DNA是转化因子"
+   },
+   {
+    "label": "C",
+    "text": "噬菌体侵染实验中，用放射性同位素分别标记了噬菌体的蛋白质外壳和DNA，发现其DNA进入宿主细胞后，利用自身原料和酶完成自我复制"
+   },
+   {
+    "label": "D",
+    "text": "烟草花叶病毒实验中，以病毒颗粒的RNA和蛋白质互为对照进行侵染，结果发现自变量RNA分子可使烟草出现花叶病斑性状"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_xwtXbnRvN1ropfW3fJIJRQ#2024甘肃·肺炎链球菌转化实验]"
+ }
+]

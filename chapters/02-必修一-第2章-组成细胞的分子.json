@@ -1,0 +1,1390 @@
+[
+ {
+  "root_id": "mkjr_yHlIYmGPPMOtcjiJX8Xc2g",
+  "chapter": "必修一 第2章 组成细胞的分子",
+  "points": [
+   "检测生物组织中的糖类、脂肪和蛋白质"
+  ],
+  "province": "云南",
+  "year": "2026",
+  "type": "单选",
+  "answer": "A",
+  "stem": "生物学实验常用到不同体积分数的酒精。下列说法错误的是（　　）",
+  "options": [
+   {
+    "label": "A",
+    "text": "用95%的酒精洗去苏丹Ⅲ染色后花生子叶薄片上的浮色"
+   },
+   {
+    "label": "B",
+    "text": "用无水乙醇提取绿叶中的色素"
+   },
+   {
+    "label": "C",
+    "text": "用95%的酒精冲洗经卡诺氏液浸泡的根尖"
+   },
+   {
+    "label": "D",
+    "text": "用70%的酒精对植物组织培养的外植体进行消毒"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_yHlIYmGPPMOtcjiJX8Xc2g#2026云南·检测生物组织中的糖类、脂肪和蛋白质]"
+ },
+ {
+  "root_id": "mkjr_bYC4SAJWqqO0WtvaGzI3kw",
+  "chapter": "必修一 第2章 组成细胞的分子",
+  "points": [
+   "细胞中的无机盐"
+  ],
+  "province": "四川",
+  "year": "2026",
+  "type": "单选",
+  "answer": "A",
+  "stem": "5月20日为中国学生营养日，全面均衡饮食有利于健康成长。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "低血钙会导致肌肉抽搐，奶制品是钙的重要来源"
+   },
+   {
+    "label": "B",
+    "text": "只吃肉、不吃水果蔬菜，易造成身体缺乏蛋白质"
+   },
+   {
+    "label": "C",
+    "text": "粗粮有益健康，其中的纤维素可直接为人体供能"
+   },
+   {
+    "label": "D",
+    "text": "均衡饮食是指各种营养元素摄入充足、比例相同"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_bYC4SAJWqqO0WtvaGzI3kw#2026四川·细胞中的无机盐]"
+ },
+ {
+  "root_id": "mkjr_DrGXIYWJ3quHTR04bQv2LA",
+  "chapter": "必修一 第2章 组成细胞的分子",
+  "points": [
+   "蛋白质的结构与功能"
+  ],
+  "province": "安徽",
+  "year": "2026",
+  "type": "单选",
+  "answer": "D",
+  "stem": "下列关于蛋白质及其功能的叙述，错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "红细胞内的血红蛋白可以运输血液中的氧"
+   },
+   {
+    "label": "B",
+    "text": "胰岛素可以降低血液中葡萄糖的浓度"
+   },
+   {
+    "label": "C",
+    "text": "体液中的抗体可以与抗原特异性结合"
+   },
+   {
+    "label": "D",
+    "text": "Na+通道可以维持神经细胞内外Na+浓度差"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_DrGXIYWJ3quHTR04bQv2LA#2026安徽·蛋白质的结构与功能]"
+ },
+ {
+  "root_id": "mkjr_aaDYi_aj2KsoMjXWLobUdw",
+  "chapter": "必修一 第2章 组成细胞的分子",
+  "points": [
+   "糖类的种类和作用"
+  ],
+  "province": "山东",
+  "year": "2026",
+  "type": "单选",
+  "answer": "D",
+  "stem": "生物体内的糖类绝大多数以多糖的形式存在。下列关于多糖的说法错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "组成元素中都有C、H、O"
+   },
+   {
+    "label": "B",
+    "text": "不能通过转运蛋白运输"
+   },
+   {
+    "label": "C",
+    "text": "是由许多单体连接成的多聚体"
+   },
+   {
+    "label": "D",
+    "text": "是构成细胞骨架的主要成分"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_aaDYi_aj2KsoMjXWLobUdw#2026山东·糖类的种类和作用]"
+ },
+ {
+  "root_id": "mkjr_BmF0xUBAMRF0W9evQ4e59g",
+  "chapter": "必修一 第2章 组成细胞的分子",
+  "points": [
+   "蛋白质的结构与功能"
+  ],
+  "province": "河南",
+  "year": "2026",
+  "type": "单选",
+  "answer": "C",
+  "stem": "科学合理的饮食结构和饮食习惯有助于维持机体健康。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "合理摄入奶类有助于维持骨骼健康"
+   },
+   {
+    "label": "B",
+    "text": "合理摄入蔬菜有助于维持肠道健康"
+   },
+   {
+    "label": "C",
+    "text": "摄入未煮熟的肉蛋类食物有助于蛋白质的消化吸收"
+   },
+   {
+    "label": "D",
+    "text": "摄入未精加工的谷薯类食物有助于维持血糖的平衡"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_BmF0xUBAMRF0W9evQ4e59g#2026河南·蛋白质的结构与功能]"
+ },
+ {
+  "root_id": "mkjr_wrN.R2poe73vu7.gT2Df9g",
+  "chapter": "必修一 第2章 组成细胞的分子",
+  "points": [
+   "糖类的种类和作用",
+   "脂质的种类和作用"
+  ],
+  "province": "北京",
+  "year": "2025",
+  "type": "单选",
+  "answer": "D",
+  "stem": "2025年，国家持续推进“体重管理年”行动。为践行“健康饮食、科学运动”，应持有的正确认识是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "饮食中元素种类越多所含能量越高"
+   },
+   {
+    "label": "B",
+    "text": "饮食中用糖代替脂肪即可控制体重"
+   },
+   {
+    "label": "C",
+    "text": "无氧运动比有氧运动更有利于控制体重"
+   },
+   {
+    "label": "D",
+    "text": "在生活中既要均衡饮食又要适量运动"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_wrN.R2poe73vu7.gT2Df9g#2025北京·糖类的种类和作用]"
+ },
+ {
+  "root_id": "mkjr_CsGVGDrMvFEacPD76zGhEg",
+  "chapter": "必修一 第2章 组成细胞的分子",
+  "points": [
+   "蛋白质的结构与功能"
+  ],
+  "province": "四川",
+  "year": "2025",
+  "type": "单选",
+  "answer": "C",
+  "stem": "真核细胞的核孔含有多种蛋白质，这些蛋白质的主要区别是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "基本组成元素不同"
+   },
+   {
+    "label": "B",
+    "text": "单体连接方式不同"
+   },
+   {
+    "label": "C",
+    "text": "肽链空间结构不同"
+   },
+   {
+    "label": "D",
+    "text": "合成加工场所不同"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_CsGVGDrMvFEacPD76zGhEg#2025四川·蛋白质的结构与功能]"
+ },
+ {
+  "root_id": "mkjr_e9C6xkKjDVth4yRJV4Ay6w",
+  "chapter": "必修一 第2章 组成细胞的分子",
+  "points": [
+   "检测生物组织中的糖类、脂肪和蛋白质"
+  ],
+  "province": "四川",
+  "year": "2025",
+  "type": "单选",
+  "answer": "A",
+  "stem": "下列以土豆为材料的实验描述，错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "土豆DNA溶于酒精后，与二苯胺试剂混合呈蓝色"
+   },
+   {
+    "label": "B",
+    "text": "向土豆匀浆中加入一定量的碘液后，溶液会呈蓝色"
+   },
+   {
+    "label": "C",
+    "text": "利用土豆匀浆制备的培养基，可用于酵母菌的培养"
+   },
+   {
+    "label": "D",
+    "text": "土豆中的过氧化氢酶可用于探究pH对酶活性的影响"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_e9C6xkKjDVth4yRJV4Ay6w#2025四川·检测生物组织中的糖类、脂肪和蛋白质]"
+ },
+ {
+  "root_id": "mkjr_Z6CaJvj8N4NErh4jf_cuLw",
+  "chapter": "必修一 第2章 组成细胞的分子",
+  "points": [
+   "检测生物组织中的糖类、脂肪和蛋白质"
+  ],
+  "province": "安徽",
+  "year": "2025",
+  "type": "单选",
+  "answer": "D",
+  "stem": "运用某些化学试剂可以检测生物组织中的物质或相关代谢物。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "蔗糖溶液与淀粉酶混合后温水浴，加入斐林试剂可反应生成砖红色沉淀"
+   },
+   {
+    "label": "B",
+    "text": "淡蓝色的双缩脲试剂可与豆浆中的蛋白质结合，通过吸附作用显示紫色"
+   },
+   {
+    "label": "C",
+    "text": "苏丹Ⅲ染液可与花生子叶中的脂肪结合，通过化学反应形成橘黄色"
+   },
+   {
+    "label": "D",
+    "text": "橙色的酸性重铬酸钾溶液可与酒精或葡萄糖发生反应，变成灰绿色"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_Z6CaJvj8N4NErh4jf_cuLw#2025安徽·检测生物组织中的糖类、脂肪和蛋白质]"
+ },
+ {
+  "root_id": "mkjr_c_ssKnM1onzQe93IEgF.mQ",
+  "chapter": "必修一 第2章 组成细胞的分子",
+  "points": [
+   "细胞中的无机盐"
+  ],
+  "province": "云南",
+  "year": "2025",
+  "type": "单选",
+  "answer": "C",
+  "stem": "化学元素含量对生命活动十分重要。下列说法错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "植物缺镁导致叶绿素合成减少"
+   },
+   {
+    "label": "B",
+    "text": "哺乳动物缺钙会出现抽搐症状"
+   },
+   {
+    "label": "C",
+    "text": "人体缺铁导致镰状细胞贫血症"
+   },
+   {
+    "label": "D",
+    "text": "人体缺碘甲状腺激素合成减少"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_c_ssKnM1onzQe93IEgF.mQ#2025云南·细胞中的无机盐]"
+ },
+ {
+  "root_id": "mkjr_04rrbyCAbVQpytyOW.A02w",
+  "chapter": "必修一 第2章 组成细胞的分子",
+  "points": [
+   "蛋白质的结构与功能"
+  ],
+  "province": "课标",
+  "year": "2025",
+  "type": "单选",
+  "answer": "A",
+  "stem": "蛋白质是结构和功能多样生物大分子。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "二硫键的断裂不会改变蛋白质的空间结构"
+   },
+   {
+    "label": "B",
+    "text": "改变蛋白质的空间结构可能会影响其功能"
+   },
+   {
+    "label": "C",
+    "text": "用乙醇等有机溶剂处理可使蛋白质发生变性"
+   },
+   {
+    "label": "D",
+    "text": "利用蛋白质工程可获得氨基酸序列改变的蛋白质"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_04rrbyCAbVQpytyOW.A02w#2025课标·蛋白质的结构与功能]"
+ },
+ {
+  "root_id": "mkjr_6PZrp62Yqe9kD0hYEZVM1w",
+  "chapter": "必修一 第2章 组成细胞的分子",
+  "points": [
+   "生物大分子以碳链为骨架",
+   "检测生物组织中的糖类、脂肪和蛋白质"
+  ],
+  "province": "全国乙",
+  "year": "2023",
+  "type": "单选",
+  "answer": "B",
+  "stem": "生物体内参与生命活动的生物大分子可由单体聚合而成，构成蛋白质等生物大分子的单体和连接键以及检测生物大分子的试剂等信息如下表。 [图] 根据表中信息，下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "①可以是淀粉或糖原"
+   },
+   {
+    "label": "B",
+    "text": "②是氨基酸，③是肽键，⑤是碱基"
+   },
+   {
+    "label": "C",
+    "text": "②和⑤都含有C、H、O、N元素"
+   },
+   {
+    "label": "D",
+    "text": "④可以是双缩脲试剂，⑥可以是甲基绿和吡罗红混合染色剂"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_6PZrp62Yqe9kD0hYEZVM1w#2023全国乙·生物大分子以碳链为骨架]"
+ },
+ {
+  "root_id": "mkjr_pujlYCPk.zBcQA9SqwMO5g",
+  "chapter": "必修一 第2章 组成细胞的分子",
+  "points": [
+   "糖类的种类和作用"
+  ],
+  "province": "北京",
+  "year": "2023",
+  "type": "单选",
+  "answer": "B",
+  "stem": "PET-CT是一种使用示踪剂的影像学检查方法。所用示踪剂由细胞能量代谢的主要能源物质改造而来，进入细胞后不易被代谢，可以反映细胞摄取能源物质的量。由此可知，这种示踪剂是一种改造过的（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "维生素"
+   },
+   {
+    "label": "B",
+    "text": "葡萄糖"
+   },
+   {
+    "label": "C",
+    "text": "氨基酸"
+   },
+   {
+    "label": "D",
+    "text": "核苷酸"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_pujlYCPk.zBcQA9SqwMO5g#2023北京·糖类的种类和作用]"
+ },
+ {
+  "root_id": "mkjr_AmMfY8f_VpkechU9ZEcXCw",
+  "chapter": "必修一 第2章 组成细胞的分子",
+  "points": [
+   "蛋白质的结构与功能"
+  ],
+  "province": "江苏",
+  "year": "2023",
+  "type": "单选",
+  "answer": "D",
+  "stem": "细胞色素C是一种线粒体内膜蛋白，参与呼吸链中的电子传递，在不同物种间具有高度保守性。下列关于细胞色素C的叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "仅由C、H、O、N四种元素组成"
+   },
+   {
+    "label": "B",
+    "text": "是一种能催化ATP合成的蛋白质"
+   },
+   {
+    "label": "C",
+    "text": "是由多个氨基酸通过氢键连接而成的多聚体"
+   },
+   {
+    "label": "D",
+    "text": "不同物种间氨基酸序列的相似性可作为生物进化的证据"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_AmMfY8f_VpkechU9ZEcXCw#2023江苏·蛋白质的结构与功能]"
+ },
+ {
+  "root_id": "mkjr_Dvlrr9.BMGFGvqxjcql7rw",
+  "chapter": "必修一 第2章 组成细胞的分子",
+  "points": [
+   "细胞中的无机盐"
+  ],
+  "province": "全国甲",
+  "year": "2022",
+  "type": "单选",
+  "answer": "B",
+  "stem": "钙在骨骼生长和肌肉收缩等过程中发挥重要作用。晒太阳有助于青少年骨骼生长，预防老年人骨质疏松。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "细胞中有以无机离子形式存在的钙"
+   },
+   {
+    "label": "B",
+    "text": "人体内Ca2+可自由通过细胞膜的磷脂双分子层"
+   },
+   {
+    "label": "C",
+    "text": "适当补充维生素D可以促进肠道对钙的吸收"
+   },
+   {
+    "label": "D",
+    "text": "人体血液中钙离子浓度过低易出现抽搐现象"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_Dvlrr9.BMGFGvqxjcql7rw#2022全国甲·细胞中的无机盐]"
+ },
+ {
+  "root_id": "mkjr_GXx1320XKhfxEDCAv7v9vw",
+  "chapter": "必修一 第2章 组成细胞的分子",
+  "points": [
+   "蛋白质的结构与功能"
+  ],
+  "province": "天津",
+  "year": "2022",
+  "type": "单选",
+  "answer": "A",
+  "stem": "新冠病毒抗原检测的对象是蛋白质，其基本组成单位是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "氨基酸"
+   },
+   {
+    "label": "B",
+    "text": "核苷酸"
+   },
+   {
+    "label": "C",
+    "text": "单糖"
+   },
+   {
+    "label": "D",
+    "text": "脂肪酸"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_GXx1320XKhfxEDCAv7v9vw#2022天津·蛋白质的结构与功能]"
+ },
+ {
+  "root_id": "mkjr_2Bmzg3k73aI.YatNSGbl6A",
+  "chapter": "必修一 第2章 组成细胞的分子",
+  "points": [
+   "细胞中的水"
+  ],
+  "province": "贵州",
+  "year": "2026",
+  "type": "单选",
+  "answer": "B",
+  "stem": "“贵州三宝”有杜仲、天麻和灵芝（真菌），闻名海内外。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "天麻块茎中储存有大量的糖原"
+   },
+   {
+    "label": "B",
+    "text": "杜仲树皮晒干过程中自由水含量下降"
+   },
+   {
+    "label": "C",
+    "text": "灵芝不具有由蛋白质和DNA构成的染色体"
+   },
+   {
+    "label": "D",
+    "text": "天麻、杜仲和灵芝的蛋白质种类相同"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_2Bmzg3k73aI.YatNSGbl6A#2026贵州·细胞中的水]"
+ },
+ {
+  "root_id": "mkjr_cpQAoH2sz5zRhzuMlJIsMg",
+  "chapter": "必修一 第2章 组成细胞的分子",
+  "points": [
+   "脂质的种类和作用"
+  ],
+  "province": "未知",
+  "year": "2026",
+  "type": "单选",
+  "answer": "C",
+  "stem": "在我国一些地区有端午节吃绿豆糕和粽子的习俗。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "绿豆糕中含有人体必需的钾和锌等微量元素"
+   },
+   {
+    "label": "B",
+    "text": "粽子中的淀粉可以被人体细胞直接吸收"
+   },
+   {
+    "label": "C",
+    "text": "绿豆糕中的脂肪在人体内可以转化为葡萄糖"
+   },
+   {
+    "label": "D",
+    "text": "粽子中蛋白质的基本组成单位是核苷酸"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_cpQAoH2sz5zRhzuMlJIsMg#2026未知·脂质的种类和作用]"
+ },
+ {
+  "root_id": "mkjr_M9kTgYE_59CWr2dapyaaFg",
+  "chapter": "必修一 第2章 组成细胞的分子",
+  "points": [
+   "检测生物组织中的糖类、脂肪和蛋白质"
+  ],
+  "province": "广东",
+  "year": "2025",
+  "type": "单选",
+  "answer": "C",
+  "stem": "某同学使用双缩脲试剂检测豆浆中的蛋白质。下列做法错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "用蒸馏水稀释豆浆作样液"
+   },
+   {
+    "label": "B",
+    "text": "在常温下检测"
+   },
+   {
+    "label": "C",
+    "text": "用未加试剂的样液作对照"
+   },
+   {
+    "label": "D",
+    "text": "剩余豆浆不饮用"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_M9kTgYE_59CWr2dapyaaFg#2025广东·检测生物组织中的糖类、脂肪和蛋白质]"
+ },
+ {
+  "root_id": "mkjr_y8F.SCVQ9tB47YbA2ld1qA",
+  "chapter": "必修一 第2章 组成细胞的分子",
+  "points": [
+   "脂质的种类和作用"
+  ],
+  "province": "江苏",
+  "year": "2025",
+  "type": "单选",
+  "answer": "B",
+  "stem": "关于蛋白质、磷脂和淀粉，下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "三者组成元素都有C、H、O、N"
+   },
+   {
+    "label": "B",
+    "text": "蛋白质和磷脂是构成生物膜的主要成分"
+   },
+   {
+    "label": "C",
+    "text": "蛋白质和淀粉都是细胞内的主要储能物质"
+   },
+   {
+    "label": "D",
+    "text": "磷脂和淀粉都是生物大分子"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_y8F.SCVQ9tB47YbA2ld1qA#2025江苏·脂质的种类和作用]"
+ },
+ {
+  "root_id": "mkjr_JufTIHOMI2KbyOwfQG9tqA",
+  "chapter": "必修一 第2章 组成细胞的分子",
+  "points": [
+   "生物大分子以碳链为骨架"
+  ],
+  "province": "河北",
+  "year": "2025",
+  "type": "单选",
+  "answer": "B",
+  "stem": "下列对生物体有机物的相关叙述，错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "纤维素、淀粉酶和核酸的组成元素中都有C、H和O"
+   },
+   {
+    "label": "B",
+    "text": "糖原、蛋白质和脂肪都是由单体连接成的多聚体"
+   },
+   {
+    "label": "C",
+    "text": "多肽链和核酸单链可在链内形成氢键"
+   },
+   {
+    "label": "D",
+    "text": "多糖、蛋白质和固醇可参与组成细胞结构"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_JufTIHOMI2KbyOwfQG9tqA#2025河北·生物大分子以碳链为骨架]"
+ },
+ {
+  "root_id": "mkjr_6LCOUlvFjLxlsGTD349HOg",
+  "chapter": "必修一 第2章 组成细胞的分子",
+  "points": [
+   "脂质的种类和作用"
+  ],
+  "province": "海南",
+  "year": "2025",
+  "type": "单选",
+  "answer": "A",
+  "stem": "极低密度脂蛋白是肝细胞分泌的一种脂蛋白复合物其中磷脂分子形成球形小体，表面镶嵌载脂蛋白，内部包裹胆固醇、甘油三酯等脂质分子。下列有关叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "极低密度脂蛋白的所有脂质分子只含C、H、O三种元素"
+   },
+   {
+    "label": "B",
+    "text": "合成载脂蛋白的场所是核糖体"
+   },
+   {
+    "label": "C",
+    "text": "肝细胞通过胞吐方式分泌极低密度脂蛋白"
+   },
+   {
+    "label": "D",
+    "text": "极低密度脂蛋白可为肝外组织细胞提供能量"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_6LCOUlvFjLxlsGTD349HOg#2025海南·脂质的种类和作用]"
+ },
+ {
+  "root_id": "mkjr_.AJ69INVn4X8KoGTxVpLzQ",
+  "chapter": "必修一 第2章 组成细胞的分子",
+  "points": [
+   "细胞中的水"
+  ],
+  "province": "湖北",
+  "year": "2025",
+  "type": "单选",
+  "answer": "B",
+  "stem": "我国农学家贾思勰所著《齐民要术》记载：“凡五谷种子，浥郁则不生，生者亦寻死。”意思是种子如果受潮发霉就不会发芽，即使发芽也会很快死亡。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "农业生产中，种子储藏需要干燥的环境"
+   },
+   {
+    "label": "B",
+    "text": "种子受潮导致细胞内结合水比例升高，自由水比例降低，细胞代谢减弱"
+   },
+   {
+    "label": "C",
+    "text": "霉菌在种子上大量繁殖，消耗了种子的营养物质，不利于种子正常萌发"
+   },
+   {
+    "label": "D",
+    "text": "发霉过程中，微生物代谢产生的有害物质可能抑制种子萌发相关酶的活性"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_.AJ69INVn4X8KoGTxVpLzQ#2025湖北·细胞中的水]"
+ },
+ {
+  "root_id": "mkjr_7Yd5o6VJ_m7oMEQdyLNXBA",
+  "chapter": "必修一 第2章 组成细胞的分子",
+  "points": [
+   "糖类的种类和作用"
+  ],
+  "province": "甘肃",
+  "year": "2025",
+  "type": "单选",
+  "answer": "D",
+  "stem": "马铃薯是世界第四大主粮作物。甘肃“定西马铃薯”是中国国家地理标志产品，富含淀粉等营养物质。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "淀粉是含有C、H、O、N等元素的一类多糖"
+   },
+   {
+    "label": "B",
+    "text": "淀粉水解液中加入斐林试剂立刻呈现砖红色"
+   },
+   {
+    "label": "C",
+    "text": "淀粉水解为葡萄糖和果糖后可以被人体吸收"
+   },
+   {
+    "label": "D",
+    "text": "食用过多淀粉类食物可使人体脂肪含量增加"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_7Yd5o6VJ_m7oMEQdyLNXBA#2025甘肃·糖类的种类和作用]"
+ },
+ {
+  "root_id": "mkjr_uI7TmrtBueBgXkqgHZ9TwQ",
+  "chapter": "必修一 第2章 组成细胞的分子",
+  "points": [
+   "细胞中的无机盐"
+  ],
+  "province": "山西",
+  "year": "2025",
+  "type": "单选",
+  "answer": "B",
+  "stem": "佝偻病伴发的手足抽搐症状与人体内某种元素缺乏有关。该元素还可以（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "参与构成叶绿素"
+   },
+   {
+    "label": "B",
+    "text": "用于诱导原生质体融合"
+   },
+   {
+    "label": "C",
+    "text": "辅助血红蛋白携氧"
+   },
+   {
+    "label": "D",
+    "text": "参与构成甲状腺激素"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_uI7TmrtBueBgXkqgHZ9TwQ#2025山西·细胞中的无机盐]"
+ },
+ {
+  "root_id": "mkjr_eWC1vrvcjZZrpTvdiPJhvw",
+  "chapter": "必修一 第2章 组成细胞的分子",
+  "points": [
+   "糖类的种类和作用"
+  ],
+  "province": "福建",
+  "year": "2025",
+  "type": "单选",
+  "answer": "B",
+  "stem": "今年是我国的“体重管理年”。下列与体重管理相关的叙述，错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "体重超标易引发身体代谢异常"
+   },
+   {
+    "label": "B",
+    "text": "糖原会直接转化为脂肪导致肥胖"
+   },
+   {
+    "label": "C",
+    "text": "长期低蛋白饮食会危害身体健康"
+   },
+   {
+    "label": "D",
+    "text": "过度节食会影响身体的营养均衡"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_eWC1vrvcjZZrpTvdiPJhvw#2025福建·糖类的种类和作用]"
+ },
+ {
+  "root_id": "mkjr_OJEdtdCeH_84EkTDF5sotg",
+  "chapter": "必修一 第2章 组成细胞的分子",
+  "points": [
+   "糖类的种类和作用"
+  ],
+  "province": "贵州",
+  "year": "2025",
+  "type": "单选",
+  "answer": "C",
+  "stem": "2025年我国将健康体重管理行动纳入健康中国行动。科学管理体重需注意合理膳食、适量运动等。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "糖类可在体内转化为脂肪，长期糖摄入超标可能导致肥胖"
+   },
+   {
+    "label": "B",
+    "text": "食物中搭配奶制品和大豆制品等，可补充人体的必需氨基酸"
+   },
+   {
+    "label": "C",
+    "text": "纤维素难以被人体消化吸收，科学减重期间应减少膳食纤维的摄入"
+   },
+   {
+    "label": "D",
+    "text": "无机盐对维持人体细胞渗透压有重要作用，大量出汗需适量补充水和无机盐"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_OJEdtdCeH_84EkTDF5sotg#2025贵州·糖类的种类和作用]"
+ },
+ {
+  "root_id": "mkjr_gNXwrA7UC9gnEK15J1d7zA",
+  "chapter": "必修一 第2章 组成细胞的分子",
+  "points": [
+   "蛋白质的结构与功能"
+  ],
+  "province": "浙江",
+  "year": "2025",
+  "type": "单选",
+  "answer": "A",
+  "stem": "下列参与细胞生命活动的物质中，由氨基酸组成的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "胶原蛋白"
+   },
+   {
+    "label": "B",
+    "text": "纤维素"
+   },
+   {
+    "label": "C",
+    "text": "RNA"
+   },
+   {
+    "label": "D",
+    "text": "DNA"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_gNXwrA7UC9gnEK15J1d7zA#2025浙江·蛋白质的结构与功能]"
+ },
+ {
+  "root_id": "mkjr_FcRWhDZ7g34Wtt_Z849l4w",
+  "chapter": "必修一 第2章 组成细胞的分子",
+  "points": [
+   "蛋白质的结构与功能"
+  ],
+  "province": "浙江",
+  "year": "2023",
+  "type": "单选",
+  "answer": "C",
+  "stem": "我国科学家在世界上首次人工合成的结晶牛胰岛素，其化学结构和生物活性与天然胰岛素完全相同。结晶牛胰岛素的化学本质是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "糖类"
+   },
+   {
+    "label": "B",
+    "text": "脂质"
+   },
+   {
+    "label": "C",
+    "text": "蛋白质"
+   },
+   {
+    "label": "D",
+    "text": "核酸"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_FcRWhDZ7g34Wtt_Z849l4w#2023浙江·蛋白质的结构与功能]"
+ },
+ {
+  "root_id": "mkjr_Bfq5tnIEuL2JBoifNpqaEQ",
+  "chapter": "必修一 第2章 组成细胞的分子",
+  "points": [
+   "细胞中的元素和化合物"
+  ],
+  "province": "江苏",
+  "year": "2022",
+  "type": "单选",
+  "answer": "A",
+  "stem": "下列各组元素中，大量参与组成线粒体内膜的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "O、P、N"
+   },
+   {
+    "label": "B",
+    "text": "C、N、Si"
+   },
+   {
+    "label": "C",
+    "text": "S、P、Ca"
+   },
+   {
+    "label": "D",
+    "text": "N、P、Na"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_Bfq5tnIEuL2JBoifNpqaEQ#2022江苏·细胞中的元素和化合物]"
+ },
+ {
+  "root_id": "mkjr_dDkvz2l4Xlkn8lHAOCBACw",
+  "chapter": "必修一 第2章 组成细胞的分子",
+  "points": [
+   "检测生物组织中的糖类、脂肪和蛋白质"
+  ],
+  "province": "江苏",
+  "year": "2022",
+  "type": "单选",
+  "answer": "B",
+  "stem": "下列物质的鉴定实验中所用试剂与现象对应关系错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "还原糖-斐林试剂-砖红色"
+   },
+   {
+    "label": "B",
+    "text": "DNA-台盼蓝染液-蓝色"
+   },
+   {
+    "label": "C",
+    "text": "脂肪-苏丹Ⅲ染液-橘黄色"
+   },
+   {
+    "label": "D",
+    "text": "淀粉-碘液-蓝色"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_dDkvz2l4Xlkn8lHAOCBACw#2022江苏·检测生物组织中的糖类、脂肪和蛋白质]"
+ },
+ {
+  "root_id": "mkjr_1jXp.3gpXE.MPuk2sMy08Q",
+  "chapter": "必修一 第2章 组成细胞的分子",
+  "points": [
+   "细胞中的水"
+  ],
+  "province": "湖北",
+  "year": "2022",
+  "type": "单选",
+  "answer": "C",
+  "stem": "水是生命的源泉，节约用水是每个人应尽的责任，下列有关水在生命活动中作用的叙述，错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "水是酶促反应的环境"
+   },
+   {
+    "label": "B",
+    "text": "参与血液中缓冲体系的形成"
+   },
+   {
+    "label": "C",
+    "text": "可作为维生素D等物质的溶剂"
+   },
+   {
+    "label": "D",
+    "text": "可作为反应物参与生物氧化过程"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_1jXp.3gpXE.MPuk2sMy08Q#2022湖北·细胞中的水]"
+ },
+ {
+  "root_id": "mkjr_pPr7jTc3RQbnNJ5aKwKBCg",
+  "chapter": "必修一 第2章 组成细胞的分子",
+  "points": [
+   "蛋白质的结构与功能"
+  ],
+  "province": "湖北",
+  "year": "2022",
+  "type": "单选",
+  "answer": "A",
+  "stem": "人体中血红蛋白构型主要有T型和R型，其中R型与氧的亲和力约是T型的500倍，内、外因素的改变会导致血红蛋白一氧亲和力发生变化，如：血液pH升高，温度下降等因素可促使血红蛋白从T型向R型转变。正常情况下，不同氧分压时血红蛋白氧饱和度变化曲线如下图实线所示（血红蛋白氧饱和度与血红蛋白-氧亲和力呈正相关）。下列叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "体温升高时，血红蛋白由R型向T型转变，实线向虚线2方向偏移"
+   },
+   {
+    "label": "B",
+    "text": "在肾脏毛细血管处，血红蛋白由R型向T型转变，实线向虚线1方向偏移"
+   },
+   {
+    "label": "C",
+    "text": "在肺部毛细血管处，血红蛋白由T型向R型转变，实线向虚线2方向偏移"
+   },
+   {
+    "label": "D",
+    "text": "剧烈运动时，骨酪肌毛细血管处血红蛋白由T型向R型转变，有利于肌肉细胞代谢"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_pPr7jTc3RQbnNJ5aKwKBCg#2022湖北·蛋白质的结构与功能]"
+ },
+ {
+  "root_id": "mkjr_Y9sk39nznaVG.._eVYSOgQ",
+  "chapter": "必修一 第2章 组成细胞的分子",
+  "points": [
+   "蛋白质的结构与功能"
+  ],
+  "province": "湖南",
+  "year": "2022",
+  "type": "单选",
+  "answer": "C",
+  "stem": "胶原蛋白是细胞外基质的主要成分之一，其非必需氨基酸含量比蛋清蛋白高。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "胶原蛋白的氮元素主要存在于氨基中"
+   },
+   {
+    "label": "B",
+    "text": "皮肤表面涂抹的胶原蛋白可被直接吸收"
+   },
+   {
+    "label": "C",
+    "text": "胶原蛋白的形成与内质网和高尔基体有关"
+   },
+   {
+    "label": "D",
+    "text": "胶原蛋白比蛋清蛋白的营养价值高"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_Y9sk39nznaVG.._eVYSOgQ#2022湖南·蛋白质的结构与功能]"
+ },
+ {
+  "root_id": "mkjr_yquEe28v6mdWj8jj52Au2g",
+  "chapter": "必修一 第2章 组成细胞的分子",
+  "points": [
+   "蛋白质的结构与功能"
+  ],
+  "province": "浙江",
+  "year": "2022",
+  "type": "单选",
+  "answer": "D",
+  "stem": "羊瘙痒病是感染性蛋白粒子PrPSc引起的。某些羊体内存在蛋白质PrPc，但不发病。当羊感染了PrPSc后，PrPSc将PrPc不断地转变为PrPSc，导致PrPSc积累，从而发病。把患瘙痒病的羊组织匀浆接种到小鼠后，小鼠也会发病。下列分析合理的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "动物体内的PrPSc可全部被蛋白酶水解"
+   },
+   {
+    "label": "B",
+    "text": "患病羊体内存在指导PrPSc合成的基因"
+   },
+   {
+    "label": "C",
+    "text": "产物PrPSc对PrPc转变为PrPSc具有反馈抑制作用"
+   },
+   {
+    "label": "D",
+    "text": "给PrPc基因敲除小鼠接种PrPSSc，小鼠不会发病"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_yquEe28v6mdWj8jj52Au2g#2022浙江·蛋白质的结构与功能]"
+ },
+ {
+  "root_id": "mkjr_XgJ1NgPH9J5kE66FiC0SxA",
+  "chapter": "必修一 第2章 组成细胞的分子",
+  "points": [
+   "蛋白质的结构与功能"
+  ],
+  "province": "湖北",
+  "year": "2023",
+  "type": "单选",
+  "answer": "A",
+  "stem": "球状蛋白分子空间结构为外圆中空，氨基酸侧链极性基团分布在分子的外侧，而非极性基团分布在内侧。蛋白质变性后，会出现生物活性丧失及一系列理化性质的变化。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "蛋白质变性可导致部分肽键断裂"
+   },
+   {
+    "label": "B",
+    "text": "球状蛋白多数可溶于水，不溶于乙醇"
+   },
+   {
+    "label": "C",
+    "text": "加热变性的蛋白质不能恢复原有的结构和性质"
+   },
+   {
+    "label": "D",
+    "text": "变性后生物活性丧失是因为原有空间结构破坏"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_XgJ1NgPH9J5kE66FiC0SxA#2023湖北·蛋白质的结构与功能]"
+ },
+ {
+  "root_id": "mkjr_hK5LEvzuOrQAod.R9sgCow",
+  "chapter": "必修一 第2章 组成细胞的分子",
+  "points": [
+   "细胞中的元素和化合物"
+  ],
+  "province": "湖南",
+  "year": "2023",
+  "type": "单选",
+  "answer": "A",
+  "stem": "南极雌帝企鹅产蛋后，由雄帝企鹅负责孵蛋，孵蛋期间不进食。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "帝企鹅蛋的卵清蛋白中N元素的质量分数高于C元素"
+   },
+   {
+    "label": "B",
+    "text": "帝企鹅的核酸、多糖和蛋白质合成过程中都有水的产生"
+   },
+   {
+    "label": "C",
+    "text": "帝企鹅蛋孵化过程中有mRNA和蛋白质种类的变化"
+   },
+   {
+    "label": "D",
+    "text": "雄帝企鹅孵蛋期间主要靠消耗体内脂肪以供能"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_hK5LEvzuOrQAod.R9sgCow#2023湖南·细胞中的元素和化合物]"
+ },
+ {
+  "root_id": "mkjr_puT.kXB9IieSFkKt2XJKaA",
+  "chapter": "必修一 第2章 组成细胞的分子",
+  "points": [
+   "脂质的种类和作用"
+  ],
+  "province": "甘肃",
+  "year": "2024",
+  "type": "单选",
+  "answer": "C",
+  "stem": "甘肃陇南的“武都油橄榄”是中国国家地理标志产品，其果肉呈黄绿色，子叶呈乳白色，均富含脂肪。由其生产的橄榄油含有丰富的不饱和脂肪酸，可广泛用于食品、医药和化工等领域。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "不饱和脂肪酸的熔点较低，不容易凝固，橄榄油在室温下通常呈液态"
+   },
+   {
+    "label": "B",
+    "text": "苏丹Ⅲ染液处理油橄榄子叶，在高倍镜下可观察到橘黄色的脂肪颗粒"
+   },
+   {
+    "label": "C",
+    "text": "油橄榄种子萌发过程中有机物的含量减少，有机物的种类不发生变化"
+   },
+   {
+    "label": "D",
+    "text": "脂肪在人体消化道内水解为脂肪酸和甘油后，可被小肠上皮细胞吸收"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_puT.kXB9IieSFkKt2XJKaA#2024甘肃·脂质的种类和作用]"
+ },
+ {
+  "root_id": "mkjr_P99qdS2.nJQrZx7_KqzoTw",
+  "chapter": "必修一 第2章 组成细胞的分子",
+  "points": [
+   "脂质的种类和作用"
+  ],
+  "province": "课标",
+  "year": "2024",
+  "type": "单选",
+  "answer": "D",
+  "stem": "大豆是我国重要的粮食作物。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "大豆油含有不饱和脂肪酸，熔点较低，室温时呈液态"
+   },
+   {
+    "label": "B",
+    "text": "大豆的蛋白质、脂肪和淀粉可在人体内分解产生能量"
+   },
+   {
+    "label": "C",
+    "text": "大豆中的蛋白质含有人体细胞不能合成的必需氨基酸"
+   },
+   {
+    "label": "D",
+    "text": "大豆中的脂肪和磷脂均含有碳、氢、氧、磷4种元素"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_P99qdS2.nJQrZx7_KqzoTw#2024课标·脂质的种类和作用]"
+ },
+ {
+  "root_id": "mkjr_EOO0Asg_TVIhAeQOzI3M1A",
+  "chapter": "必修一 第2章 组成细胞的分子",
+  "points": [
+   "细胞中的水"
+  ],
+  "province": "贵州",
+  "year": "2024",
+  "type": "单选",
+  "answer": "D",
+  "stem": "种子萌发形成幼苗离不开糖类等能源物质，也离不开水和无机盐。下列叙述正确是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "种子吸收的水与多糖等物质结合后，水仍具有溶解性"
+   },
+   {
+    "label": "B",
+    "text": "种子萌发过程中糖类含量逐渐下降，有机物种类不变"
+   },
+   {
+    "label": "C",
+    "text": "幼苗细胞中的无机盐可参与细胞构建，水不参与"
+   },
+   {
+    "label": "D",
+    "text": "幼苗中的水可参与形成NADPH，也可参与形成NADH"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_EOO0Asg_TVIhAeQOzI3M1A#2024贵州·细胞中的水]"
+ },
+ {
+  "root_id": "mkjr_Bz_yUj83yYzT6ysjvx.NPw",
+  "chapter": "必修一 第2章 组成细胞的分子",
+  "points": [
+   "核酸的种类与结构"
+  ],
+  "province": "贵州",
+  "year": "2024",
+  "type": "单选",
+  "answer": "A",
+  "stem": "李花是两性花，若花粉落到同一朵花的柱头上，萌发产生的花粉管在花柱中会停止生长，原因是花柱细胞产生一种核酸酶降解花粉管中的rRNA所致。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "这一特性表明李不能通过有性生殖繁殖后代"
+   },
+   {
+    "label": "B",
+    "text": "这一特性表明李的遗传多样性高，有利于进化"
+   },
+   {
+    "label": "C",
+    "text": "rRNA彻底水解的产物是碱基、核糖、磷酸"
+   },
+   {
+    "label": "D",
+    "text": "该核酸酶可阻碍花粉管中核糖体的形成"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_Bz_yUj83yYzT6ysjvx.NPw#2024贵州·核酸的种类与结构]"
+ },
+ {
+  "root_id": "mkjr_17Xxp3tthBVS4lthF_mj3Q",
+  "chapter": "必修一 第2章 组成细胞的分子",
+  "points": [
+   "细胞中的元素和化合物"
+  ],
+  "province": "重庆",
+  "year": "2024",
+  "type": "单选",
+  "answer": "C",
+  "stem": "下表据《中国膳食指南》得到女性3种营养元素每天推荐摄入量，据表推测，下列错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "以单位体重计，婴儿对碘的需求高于成人"
+   },
+   {
+    "label": "B",
+    "text": "与孕前期相比，孕中期女性对氧的需求量升高"
+   },
+   {
+    "label": "C",
+    "text": "对25岁与65岁女性，大量元素的推荐摄入量不同"
+   },
+   {
+    "label": "D",
+    "text": "即使按推荐量摄入钙，部分女性也会因缺维生素D而缺钙"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_17Xxp3tthBVS4lthF_mj3Q#2024重庆·细胞中的元素和化合物]"
+ }
+]

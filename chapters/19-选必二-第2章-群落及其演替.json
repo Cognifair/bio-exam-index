@@ -1,0 +1,1658 @@
+[
+ {
+  "root_id": "mkjr_lDSiDa7PGJxsH.cHJb3hJA",
+  "chapter": "选必二 第2章 群落及其演替",
+  "points": [
+   "群落的空间结构"
+  ],
+  "province": "云南",
+  "year": "2026",
+  "type": "单选",
+  "answer": "A",
+  "stem": "在水稻种植中，中密度冠层结构单位面积的产量比低密度和高密度的更高。下列解释合理的是（　　）",
+  "options": [
+   {
+    "label": "A",
+    "text": "低密度冠层降低了单位面积水稻获取的光能"
+   },
+   {
+    "label": "B",
+    "text": "低密度冠层水稻的群落空间结构更简单"
+   },
+   {
+    "label": "C",
+    "text": "高密度冠层单位面积水稻的养分利用率更高"
+   },
+   {
+    "label": "D",
+    "text": "高密度冠层使水稻的种间竞争加剧"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_lDSiDa7PGJxsH.cHJb3hJA#2026云南·群落的空间结构]"
+ },
+ {
+  "root_id": "mkjr_S0ZL4BB0YjxaXnm.UK4Cwg",
+  "chapter": "选必二 第2章 群落及其演替",
+  "points": [
+   "生态位"
+  ],
+  "province": "云南",
+  "year": "2026",
+  "type": "单选",
+  "answer": "B",
+  "stem": "杜鹃花是云南八大名花之一。云南某高山的杜鹃花属植物分布情况如下表。 [图] 下列说法正确的是（　　）",
+  "options": [
+   {
+    "label": "A",
+    "text": "不同植被类型分布于不同海拔范围，体现了群落的垂直结构特征"
+   },
+   {
+    "label": "B",
+    "text": "不同杜鹃花属植物分布于不同植被类型，体现出物种生态位差异"
+   },
+   {
+    "label": "C",
+    "text": "在各植被类型中，杜鹃花属物种丰富度由大到小为森林、草甸、灌丛"
+   },
+   {
+    "label": "D",
+    "text": "在常绿阔叶林中建园集中种植本山的杜鹃花属植物，属于就地保护"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_S0ZL4BB0YjxaXnm.UK4Cwg#2026云南·生态位]"
+ },
+ {
+  "root_id": "mkjr_cwZcK5thJCvvRrwePqxLrg",
+  "chapter": "选必二 第2章 群落及其演替",
+  "points": [
+   "生态位"
+  ],
+  "province": "四川",
+  "year": "2026",
+  "type": "单选",
+  "answer": "B",
+  "stem": "鼠兔和牦牛是青藏高原重要的草食动物，分析粪便中叶绿体rbcL基因序列可判定它们的食物组成。不同牦牛放牧强度下，两者的食物重叠度指数和牦牛食物中优势禾草占比如图。下列叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "牦牛与鼠兔食物种类的判定利用了染色体上遗传信息的特异性"
+   },
+   {
+    "label": "B",
+    "text": "放牧强度在a∼b时，鼠兔食物中优势禾草的占比随放牧强度增大而降低"
+   },
+   {
+    "label": "C",
+    "text": "放牧强度为a时，牦牛与鼠兔的食物重叠度高，二者竞争激烈"
+   },
+   {
+    "label": "D",
+    "text": "放牧强度高于b时，牦牛与鼠兔食物生态位分化程度随放牧强度增大而升高"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_cwZcK5thJCvvRrwePqxLrg#2026四川·生态位]"
+ },
+ {
+  "root_id": "mkjr_tEjHK0uG7E5spJG7iSdlUA",
+  "chapter": "选必二 第2章 群落及其演替",
+  "points": [
+   "物种丰富度的调查"
+  ],
+  "province": "山东",
+  "year": "2026",
+  "type": "单选",
+  "answer": "A",
+  "stem": "用样方法调查并比较了等面积样地上的甲、乙两个植物群落，分别将每个群落中种群密度相同的物种归到同一组，相关数据如图所示。物种L的相关数据在a点，物种J的相关数据在b点。下列说法正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "植物群落甲的物种丰富度大于乙"
+   },
+   {
+    "label": "B",
+    "text": "J的个体数量最多，因此该物种在群落中影响最大"
+   },
+   {
+    "label": "C",
+    "text": "曲线交点代表两群落物种组成相同"
+   },
+   {
+    "label": "D",
+    "text": "群落乙中L的种群密度估算值比J的更接近真实值"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_tEjHK0uG7E5spJG7iSdlUA#2026山东·物种丰富度的调查]"
+ },
+ {
+  "root_id": "mkjr_CpwGnwwzv2bvYcidCE.4aQ",
+  "chapter": "选必二 第2章 群落及其演替",
+  "points": [
+   "群落的空间结构",
+   "群落的演替"
+  ],
+  "province": "广东",
+  "year": "2026",
+  "type": "单选",
+  "answer": "C",
+  "stem": "广东省众多的古村落周边常有被充分保护的防护林，可供村民、游客休憩。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "光照的差异是防护林群落中植物垂直分层的主要原因"
+   },
+   {
+    "label": "B",
+    "text": "防护林最终会演替为与环境相适应的稳定群落"
+   },
+   {
+    "label": "C",
+    "text": "清除外来入侵物种不利于防护林物种多样性维持"
+   },
+   {
+    "label": "D",
+    "text": "若干扰超过一定限度，防护林生态系统稳定性会下降"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_CpwGnwwzv2bvYcidCE.4aQ#2026广东·群落的空间结构]"
+ },
+ {
+  "root_id": "mkjr_oRF4RE9JjychdKMxoGerSw",
+  "chapter": "选必二 第2章 群落及其演替",
+  "points": [
+   "种间关系"
+  ],
+  "province": "广东",
+  "year": "2026",
+  "type": "单选",
+  "answer": "D",
+  "stem": "我国科学家从由单细胞H藻引起的赤潮海域中分离获得优势细菌P菌。为研究两者的种间关系，设置了H藻、P菌单独培养和共同培养3个实验组，生长曲线见图。下列分析错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "共同培养时P菌的K值约为每升4.0×108个"
+   },
+   {
+    "label": "B",
+    "text": "两种培养条件下H藻种群数量增长趋势均为S形"
+   },
+   {
+    "label": "C",
+    "text": "两种培养条件下H藻在第18～21天的增长速率相近"
+   },
+   {
+    "label": "D",
+    "text": "实验结果表明H藻和P菌的种间关系是原始合作"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_oRF4RE9JjychdKMxoGerSw#2026广东·种间关系]"
+ },
+ {
+  "root_id": "mkjr_4e.b3ojM4mX_5a.sd0vLEA",
+  "chapter": "选必二 第2章 群落及其演替",
+  "points": [
+   "群落的演替",
+   "生态位"
+  ],
+  "province": "江西",
+  "year": "2026",
+  "type": "多选",
+  "answer": "BD",
+  "stem": "为研究草方格的治沙效果，研究人员调查了草方格不同年度的相关指标(如表)。下列推测合理的是（ ） [图] 注：“—”表示未调查到数据，“盖度”在题中可代表优势度",
+  "options": [
+   {
+    "label": "A",
+    "text": "1年到2年间草方格内未发生群落演替"
+   },
+   {
+    "label": "B",
+    "text": "2年到5年间A与B的生态位发生了重叠"
+   },
+   {
+    "label": "C",
+    "text": "5年到10年间群落结构的变化说明群落在衰退"
+   },
+   {
+    "label": "D",
+    "text": "相较往年，10年的草方格内土壤保水性最高"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_4e.b3ojM4mX_5a.sd0vLEA#2026江西·群落的演替]"
+ },
+ {
+  "root_id": "mkjr__qYKdog6Xrf7PP0HkumjQA",
+  "chapter": "选必二 第2章 群落及其演替",
+  "points": [
+   "群落的物种组成"
+  ],
+  "province": "河北",
+  "year": "2026",
+  "type": "多选",
+  "answer": "BCD",
+  "stem": "河北衡水湖是水鸟迁徙的重要驿站。衡水湖西湖区域存在较大面积的鱼塘和农田，东湖长期保持相对稳定的湖泊水面。科研人员对相关区域涉禽类水鸟的多样性进行了研究，结果如图所示。下列分析正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "季节改变导致的涉禽物种组成变化属于次生演替"
+   },
+   {
+    "label": "B",
+    "text": "9—11月调查区域中涉禽数量的减少主要是水鸟迁出所致"
+   },
+   {
+    "label": "C",
+    "text": "建立衡水湖自然保护区可对该地水鸟的物种多样性进行有效保护"
+   },
+   {
+    "label": "D",
+    "text": "生境差异是3—7月衡水湖东湖、西湖涉禽数量显著不同的重要原因"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr__qYKdog6Xrf7PP0HkumjQA#2026河北·群落的物种组成]"
+ },
+ {
+  "root_id": "mkjr_7PxJx7cPmOrjq55BFQXqRg",
+  "chapter": "选必二 第2章 群落及其演替",
+  "points": [
+   "群落的演替"
+  ],
+  "province": "湖北",
+  "year": "2026",
+  "type": "单选",
+  "answer": "D",
+  "stem": "科研人员选取某地区疏灌草丛群落、马尾松群落和常绿阔叶林群落，分别代表亚热带森林群落演替的初期、中期和后期3个阶段，然后对上述3个群落中芒萁的光合特性进行了研究，结果如下图。 [图] 注：净光合速率是指光照下植物单位时间内从外界吸收的CO2总量光饱和点是指光合作用速率达到最大值时所对应的最小光照强度 下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "芒萁最适宜在马尾松林下生长"
+   },
+   {
+    "label": "B",
+    "text": "不同群落中芒萁的光饱和点有差异说明不同群落下芒萁的生理状态有差异"
+   },
+   {
+    "label": "C",
+    "text": "上述3个亚热带典型群落演替阶段中，疏灌草丛的演替速度快于常绿阔叶林"
+   },
+   {
+    "label": "D",
+    "text": "在夏季若将疏灌草丛内生长的芒萁移栽至常绿阔叶林内，将有利于芒萁生物量积累"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_7PxJx7cPmOrjq55BFQXqRg#2026湖北·群落的演替]"
+ },
+ {
+  "root_id": "mkjr_6cCZaBqgYWjjgz22gACmiw",
+  "chapter": "选必二 第2章 群落及其演替",
+  "points": [
+   "种间关系"
+  ],
+  "province": "湖北",
+  "year": "2026",
+  "type": "单选",
+  "answer": "D",
+  "stem": "在研究菟丝子寄生对大豆根系微生物群落影响的实验中发现，菟丝子寄生导致大豆根系既显著富集了根瘤菌属等固氮有益类群，也富集了镰刀菌属等潜在病原菌，同时显著诱导了大豆根内黄酮类物质的积累。黄酮类物质积累对菟丝子和镰刀菌属均有抑制作用。施加氮肥、接种根瘤菌能够缓解菟丝子寄生对大豆生长的抑制作用。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "菟丝子寄生能诱导大豆产生系统性防御"
+   },
+   {
+    "label": "B",
+    "text": "菟丝子寄生可能驱使大豆提升对氮的需求"
+   },
+   {
+    "label": "C",
+    "text": "寄生导致大豆根系微生物群落的结构发生改变，这可能造成病原微生物的入侵"
+   },
+   {
+    "label": "D",
+    "text": "黄酮类物质的积累有助于菟丝子和大豆的生态位分化，降低两者的种间竞争强度"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_6cCZaBqgYWjjgz22gACmiw#2026湖北·种间关系]"
+ },
+ {
+  "root_id": "mkjr_W3SU0.aNWHqAUJceh5T0Bg",
+  "chapter": "选必二 第2章 群落及其演替",
+  "points": [
+   "生态位"
+  ],
+  "province": "湖南",
+  "year": "2026",
+  "type": "单选",
+  "answer": "C",
+  "stem": "马达加斯加有6种猴面包树，其中Adansonia za（Az）的生态位最宽，且分布区与其他猴面包树物种重叠。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "猴面包树中Az占据优势地位，种群数量最大"
+   },
+   {
+    "label": "B",
+    "text": "与Az存在较大生态位重叠的其他物种会被Az淘汰"
+   },
+   {
+    "label": "C",
+    "text": "猴面包树种间生态位分化不只是物种间相互作用的结果"
+   },
+   {
+    "label": "D",
+    "text": "生态位不重叠的两个物种无种间竞争，生态位重叠越大种间竞争越大"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_W3SU0.aNWHqAUJceh5T0Bg#2026湖南·生态位]"
+ },
+ {
+  "root_id": "mkjr_vtc_zb5FltclOrVvd_nMHQ",
+  "chapter": "选必二 第2章 群落及其演替",
+  "points": [
+   "人类活动对群落演替的影响"
+  ],
+  "province": "北京",
+  "year": "2025",
+  "type": "单选",
+  "answer": "A",
+  "stem": "塞罕坝曾森林茂密，后来由于人类活动破坏而逐渐变成荒原。上世纪60年代以来，林业工人不断努力，种植了华北落叶松等多种树木，如今已将森林覆盖率提高到75%以上，成为人类改善自然环境的典范。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "塞罕坝造林经验可推广到各类荒原的治理，以提高森林覆盖率"
+   },
+   {
+    "label": "B",
+    "text": "植树造林时要尽量种植多种树木，以利于提高生态系统稳定性"
+   },
+   {
+    "label": "C",
+    "text": "塞罕坝的变化说明，人类活动可以影响群落演替的进程和方向"
+   },
+   {
+    "label": "D",
+    "text": "与上世纪60年代相比，现在塞罕坝生态系统的固碳量大幅增加"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_vtc_zb5FltclOrVvd_nMHQ#2025北京·人类活动对群落演替的影响]"
+ },
+ {
+  "root_id": "mkjr__X1h0FUHzeNlApc31qp9vw",
+  "chapter": "选必二 第2章 群落及其演替",
+  "points": [
+   "生态位"
+  ],
+  "province": "四川",
+  "year": "2025",
+  "type": "单选",
+  "answer": "A",
+  "stem": "为更好地保护草原生态系统，有人对某草原两种鼠类及其天敌的昼夜相对活动频次进行统计，结果如下图。下列推断不合理的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "子午沙鼠的昼夜活动节律主要受到了兔狲的影响"
+   },
+   {
+    "label": "B",
+    "text": "两种鼠类的活动节律显示它们已发生生态位分化"
+   },
+   {
+    "label": "C",
+    "text": "两种天敌间的竞争比两种沙鼠间的竞争更为激烈"
+   },
+   {
+    "label": "D",
+    "text": "一定数量的兔狲和赤狐有利于维持草原生态平衡"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr__X1h0FUHzeNlApc31qp9vw#2025四川·生态位]"
+ },
+ {
+  "root_id": "mkjr_EiIzfXLwfbVmLCJ3KY2HQQ",
+  "chapter": "选必二 第2章 群落及其演替",
+  "points": [
+   "群落的空间结构"
+  ],
+  "province": "安徽",
+  "year": "2025",
+  "type": "单选",
+  "answer": "B",
+  "stem": "过渡带是两个或多个群落之间的过渡区域。大兴安岭森林与呼伦贝尔草原的过渡带中，森林和草原镶嵌分布，该区域环境较两个群落的内部核心区域更为异质多样。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "过渡带环境复杂，通过协同进化形成了适应该环境特征的物种组合"
+   },
+   {
+    "label": "B",
+    "text": "过渡带属于群落间的交错区域，其物种丰富度介于草原和森林之间"
+   },
+   {
+    "label": "C",
+    "text": "相较于森林和草原核心区域，过渡带存在明显不同的群落水平结构特征"
+   },
+   {
+    "label": "D",
+    "text": "过渡带可能有更多可抵抗不良环境波动的物种，影响群落结构的稳定性"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_EiIzfXLwfbVmLCJ3KY2HQQ#2025安徽·群落的空间结构]"
+ },
+ {
+  "root_id": "mkjr_gdFS3FLkPoFu9pfKbFl0NA",
+  "chapter": "选必二 第2章 群落及其演替",
+  "points": [
+   "群落的演替"
+  ],
+  "province": "云南",
+  "year": "2025",
+  "type": "单选",
+  "answer": "A",
+  "stem": "群落演替理论为实施自然保护和生态修复提供了科学依据，关于演替，下列说法错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "森林火灾后发生的演替属于初生演替"
+   },
+   {
+    "label": "B",
+    "text": "科学合理的人工造林可加快演替的速度"
+   },
+   {
+    "label": "C",
+    "text": "优势种改变是判断群落演替的标志之一"
+   },
+   {
+    "label": "D",
+    "text": "环境变化是诱发演替的主要因素之一"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_gdFS3FLkPoFu9pfKbFl0NA#2025云南·群落的演替]"
+ },
+ {
+  "root_id": "mkjr_wWh.Buk6vcENYyA90s8zeg",
+  "chapter": "选必二 第2章 群落及其演替",
+  "points": [
+   "物种丰富度的调查"
+  ],
+  "province": "课标",
+  "year": "2025",
+  "type": "单选",
+  "answer": "D",
+  "stem": "某同学在甲、乙两个植物群落中设置样方调查其特征，样方中植物的物种数随样方面积扩大而逐渐增加，但样方面积扩大到一定程度后物种数的变化明显趋缓（如图所示），此时对应的样方面积（a和b）通常称为最小面积。下列叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "最小面积样方中应包含群落中绝大多数的物种"
+   },
+   {
+    "label": "B",
+    "text": "与甲相比，乙群落的物种丰富度较高，调查时最小面积更大"
+   },
+   {
+    "label": "C",
+    "text": "调查甲群落的物种丰富度时，设置的样方面积应不小于a"
+   },
+   {
+    "label": "D",
+    "text": "调查乙群落中植物的种群密度时，针对每种植物设置的样方面积应不小于b"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_wWh.Buk6vcENYyA90s8zeg#2025课标·物种丰富度的调查]"
+ },
+ {
+  "root_id": "mkjr_DSK7y6QxAL.3XYoTN70YFA",
+  "chapter": "选必二 第2章 群落及其演替",
+  "points": [
+   "生态位"
+  ],
+  "province": "江苏",
+  "year": "2023",
+  "type": "单选",
+  "answer": "A",
+  "stem": "在江苏沿海湿地生态系统中，生态位重叠的两种动物甲、乙发生生态位分化，如图所示。甲主要以植物a为食，乙主要以植物b为食，两者又共同以植食性动物c为食。下列相关叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "a、c分别处于第一、二营养级，其生态位重叠"
+   },
+   {
+    "label": "B",
+    "text": "a、b中的能量沿着食物链单向流动、逐级递减，最终以热能形式散失"
+   },
+   {
+    "label": "C",
+    "text": "生物群落中物种的生态位受生物因素影响，也与非生物因素有关"
+   },
+   {
+    "label": "D",
+    "text": "生态位分化是经自然选择形成的生物适应性，提高了生物对环境资源的利用率"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_DSK7y6QxAL.3XYoTN70YFA#2023江苏·生态位]"
+ },
+ {
+  "root_id": "mkjr_mBsCZqvx8wFmFyJ5xHckMQ",
+  "chapter": "选必二 第2章 群落及其演替",
+  "points": [
+   "群落的空间结构"
+  ],
+  "province": "全国乙",
+  "year": "2022",
+  "type": "单选",
+  "answer": "A",
+  "stem": "分层现象是群落研究的重要内容。下列关于森林群落分层现象的叙述，正确的是（ ） ① 森林群落的分层现象提高了生物对环境资源的利用能力 ② 森林植物从上到下可分为不同层次，最上层为灌木层 ③ 垂直方向上森林中植物分层现象与对光的利用有关 ④ 森林群落中动物的分层现象与食物有关 ⑤ 森林群落中植物的分层现象是自然选择的结果 ⑥ 群落中植物垂直分层现象的形成是由动物种类决定的",
+  "options": [
+   {
+    "label": "A",
+    "text": "①③④⑤"
+   },
+   {
+    "label": "B",
+    "text": "②④⑤⑥"
+   },
+   {
+    "label": "C",
+    "text": "①②③⑥"
+   },
+   {
+    "label": "D",
+    "text": "③④⑤⑥"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_mBsCZqvx8wFmFyJ5xHckMQ#2022全国乙·群落的空间结构]"
+ },
+ {
+  "root_id": "mkjr_ZggHRHJZjdm7FjzKZ3XW2g",
+  "chapter": "选必二 第2章 群落及其演替",
+  "points": [
+   "生态位"
+  ],
+  "province": "贵州",
+  "year": "2026",
+  "type": "单选",
+  "answer": "A",
+  "stem": "科研人员分别在冷、暖两季对某自然保护区赤狐及其猎物旱獭的日活动节律进行调查，结果如图。下列叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "赤狐摄入的能量除用于呼吸作用，其余储存在体内"
+   },
+   {
+    "label": "B",
+    "text": "旱獭在冷季和暖季的生态位存在一定的差异"
+   },
+   {
+    "label": "C",
+    "text": "温度对旱獭日活动节律的影响比对赤狐大"
+   },
+   {
+    "label": "D",
+    "text": "旱獭通过时间错位来规避赤狐的捕食"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_ZggHRHJZjdm7FjzKZ3XW2g#2026贵州·生态位]"
+ },
+ {
+  "root_id": "mkjr_BWtJgKulrdmlCtKHbgW9qQ",
+  "chapter": "选必二 第2章 群落及其演替",
+  "points": [
+   "群落的演替",
+   "人类活动对群落演替的影响"
+  ],
+  "province": "未知",
+  "year": "2026",
+  "type": "单选",
+  "answer": "C",
+  "stem": "毛乌素沙地位于我国半干旱地区，经几十年的治理，成效显著，大部分区域已恢复为灌草生境。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "流动沙丘上开始的次生演替速度慢，人工恢复措施可加快演替"
+   },
+   {
+    "label": "B",
+    "text": "群落恢复过程中最先到达的物种是优势种，其环境适应能力强"
+   },
+   {
+    "label": "C",
+    "text": "若该地气候持续暖湿化，灌草植物群落将向森林群落阶段演替"
+   },
+   {
+    "label": "D",
+    "text": "随着群落的恢复，物种多样性先升高后稳定，演替过程将结束"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_BWtJgKulrdmlCtKHbgW9qQ#2026未知·群落的演替]"
+ },
+ {
+  "root_id": "mkjr_mVZ__22ZDPeewQkR9bdRBQ",
+  "chapter": "选必二 第2章 群落及其演替",
+  "points": [
+   "生态位"
+  ],
+  "province": "天津",
+  "year": "2025",
+  "type": "单选",
+  "answer": "A",
+  "stem": "对高寒草原牧场长期围封（禁牧）前后的植物群落进行调查，结果如下表： [图] 对于围封前后的变化，说法错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "紫花针茅的生态位未发生改变"
+   },
+   {
+    "label": "B",
+    "text": "群落中赖草逐渐占据优势"
+   },
+   {
+    "label": "C",
+    "text": "影响群落结构的主要因素由捕食变为种间竞争"
+   },
+   {
+    "label": "D",
+    "text": "草原牧场功能得到恢复，体现生态系统具有恢复力稳定性"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_mVZ__22ZDPeewQkR9bdRBQ#2025天津·生态位]"
+ },
+ {
+  "root_id": "mkjr_lcLh0kLmDPHq1HfCwNs.kw",
+  "chapter": "选必二 第2章 群落及其演替",
+  "points": [
+   "群落的季节性"
+  ],
+  "province": "山东",
+  "year": "2025",
+  "type": "单选",
+  "answer": "C",
+  "stem": "某湿地公园出现大量由北方前来越冬的候鸟，下列说法正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "候鸟前来该湿地公园越冬的信息传递只发生在鸟类与鸟类之间"
+   },
+   {
+    "label": "B",
+    "text": "鸟类的到来改变了该湿地群落冬季的物种数目，属于群落演替"
+   },
+   {
+    "label": "C",
+    "text": "来自不同地区鸟类的交配机会增加，体现了生物多样性的间接价值"
+   },
+   {
+    "label": "D",
+    "text": "湿地水位深浅不同的区域分布着不同的鸟类种群，体现了群落的垂直结构"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_lcLh0kLmDPHq1HfCwNs.kw#2025山东·群落的季节性]"
+ },
+ {
+  "root_id": "mkjr_nlFd1dzIkoK8KnRiQMtEYA",
+  "chapter": "选必二 第2章 群落及其演替",
+  "points": [
+   "群落的空间结构"
+  ],
+  "province": "广东",
+  "year": "2025",
+  "type": "单选",
+  "answer": "B",
+  "stem": "草地蘑菇圈是大量蘑菇呈圈带状分布的一种生态现象（如图）。通过对圈上、圈内和圈外的植物和土壤进行调查分析，可揭示蘑菇圈形成对草地群落和土壤的影响。下列叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "调查草地上植物和土壤分别采用样方法和取样器取样法"
+   },
+   {
+    "label": "B",
+    "text": "圈上植物长得高呈现明显的圈带形成草地群落垂直结构"
+   },
+   {
+    "label": "C",
+    "text": "蘑菇菌丝促进土壤有机质分解使圈上土壤速效养分增加"
+   },
+   {
+    "label": "D",
+    "text": "圈上植物种群的优势度增加可影响草地群落的物种组成"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_nlFd1dzIkoK8KnRiQMtEYA#2025广东·群落的空间结构]"
+ },
+ {
+  "root_id": "mkjr_S315BihhOgujwvhOxEH6Pw",
+  "chapter": "选必二 第2章 群落及其演替",
+  "points": [
+   "物种丰富度的调查"
+  ],
+  "province": "江苏",
+  "year": "2025",
+  "type": "单选",
+  "answer": "D",
+  "stem": "关于“研究土壤中动物类群的丰富度”实验，下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "设计统计表格时应将物种数和个体数纳入其中"
+   },
+   {
+    "label": "B",
+    "text": "可用采集罐采集土壤动物"
+   },
+   {
+    "label": "C",
+    "text": "不宜采用样方法调查活动能力强的土壤动物"
+   },
+   {
+    "label": "D",
+    "text": "记名计数法适用于体型小且数量极多的土壤动物"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_S315BihhOgujwvhOxEH6Pw#2025江苏·物种丰富度的调查]"
+ },
+ {
+  "root_id": "mkjr_LO1pD4A9ok3yENXVEKi61Q",
+  "chapter": "选必二 第2章 群落及其演替",
+  "points": [
+   "群落的物种组成"
+  ],
+  "province": "江西",
+  "year": "2025",
+  "type": "单选",
+  "answer": "B",
+  "stem": "为探究土地利用方式对羊草草地植物群落的影响，研究人员测定了不同土地利用方式下某羊草草地的相关指标，结果如表。与传统放牧相比，下列关于该草地的推测，不合理的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "围封打草和畜禽草耦合均提高了土壤肥力"
+   },
+   {
+    "label": "B",
+    "text": "围封打草减弱了羊草在植物群落中的优势"
+   },
+   {
+    "label": "C",
+    "text": "畜禽草耦合提高了植物群落的光能利用率"
+   },
+   {
+    "label": "D",
+    "text": "畜禽草耦合降低了植物群落的物种多样性"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_LO1pD4A9ok3yENXVEKi61Q#2025江西·群落的物种组成]"
+ },
+ {
+  "root_id": "mkjr_EGdY7LODZb5HpsNsa4UIkw",
+  "chapter": "选必二 第2章 群落及其演替",
+  "points": [
+   "群落的演替"
+  ],
+  "province": "河北",
+  "year": "2025",
+  "type": "多选",
+  "answer": "BCD",
+  "stem": "某林地去除所有植被后，耐阴性不同的树种类群在植被恢复过程中优势度的变化如图所示。下列叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "去除林中所有植被后，该地发生的演替为初生演替"
+   },
+   {
+    "label": "B",
+    "text": "该地恢复的最初阶段，林冠层郁闭度低，不耐阴类群具有竞争优势"
+   },
+   {
+    "label": "C",
+    "text": "不耐阴类群优势度的丧失，可能是由于该地环境逐渐不适于其繁殖"
+   },
+   {
+    "label": "D",
+    "text": "恢复末期，中间性类群优势度下降，耐阴性类群可获得的资源增加"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_EGdY7LODZb5HpsNsa4UIkw#2025河北·群落的演替]"
+ },
+ {
+  "root_id": "mkjr_.63jq2QdMgbeOU.Bv2gcxQ",
+  "chapter": "选必二 第2章 群落及其演替",
+  "points": [
+   "群落的演替"
+  ],
+  "province": "河南",
+  "year": "2025",
+  "type": "单选",
+  "answer": "D",
+  "stem": "黄河流域是我国重要的生态屏障和经济地带，研究和保护黄河湿地生物多样性意义重大。某区域黄河湿地不同积水生境中植物物种的调查结果如图。下列叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "永久性积水退去后的植物群落演替属于次生演替"
+   },
+   {
+    "label": "B",
+    "text": "积水生境中的植物具有适应所处非生物环境的共同特征"
+   },
+   {
+    "label": "C",
+    "text": "积水频次和积水量均可以影响湿地生态系统的抵抗力稳定性"
+   },
+   {
+    "label": "D",
+    "text": "影响季节性水涝生境中植物物种数量的关键生态因子属于密度制约因素"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_.63jq2QdMgbeOU.Bv2gcxQ#2025河南·群落的演替]"
+ },
+ {
+  "root_id": "mkjr_oSyCxhHa3cMNifoeB_6CMA",
+  "chapter": "选必二 第2章 群落及其演替",
+  "points": [
+   "群落的演替"
+  ],
+  "province": "辽宁",
+  "year": "2024",
+  "type": "单选",
+  "answer": "C",
+  "stem": "下列关于森林群落演替的叙述，正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "土壤的理化性质不会影响森林群落演替"
+   },
+   {
+    "label": "B",
+    "text": "植物种群数量的改变不会影响森林群落演替"
+   },
+   {
+    "label": "C",
+    "text": "森林由乔木林变为灌木林属于群落演替"
+   },
+   {
+    "label": "D",
+    "text": "砍伐树木对森林群落演替的影响总是负面的"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_oSyCxhHa3cMNifoeB_6CMA#2024辽宁·群落的演替]"
+ },
+ {
+  "root_id": "mkjr__s449qXqBkrYJJ_K_mFiYA",
+  "chapter": "选必二 第2章 群落及其演替",
+  "points": [
+   "群落的物种组成"
+  ],
+  "province": "天津",
+  "year": "2024",
+  "type": "单选",
+  "answer": "D",
+  "stem": "为研究生物多样性对盐沼生态系统的影响，将优势种去除后，调查滨海盐沼湿地植物的物种组成，结果如下图。有关优势种去除后的变化，下列说法正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "丙的生态位持续收缩"
+   },
+   {
+    "label": "B",
+    "text": "三种盐沼植物的K值一直上升"
+   },
+   {
+    "label": "C",
+    "text": "优势种去除是甲消失的主要原因"
+   },
+   {
+    "label": "D",
+    "text": "盐沼植物群落的空间结构发生改变"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr__s449qXqBkrYJJ_K_mFiYA#2024天津·群落的物种组成]"
+ },
+ {
+  "root_id": "mkjr_7k0jejoa0C45oyM38uZtpg",
+  "chapter": "选必二 第2章 群落及其演替",
+  "points": [
+   "生态位"
+  ],
+  "province": "安徽",
+  "year": "2024",
+  "type": "单选",
+  "answer": "B",
+  "stem": "物种的生态位研究对生物多样性保护具有重要意义。研究人员对我国某自然保护区白马鸡与血雉在三种植被类型中的分布和日活动节律进行了调查，结果见下表。下列叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "生境的复杂程度会明显影响白马鸡和血雉对栖息地的选择"
+   },
+   {
+    "label": "B",
+    "text": "两物种在三种植被类型中的分布差异体现了群落的垂直结构"
+   },
+   {
+    "label": "C",
+    "text": "季节交替影响两物种对植被类型的选择，降雨对血雉的影响更大"
+   },
+   {
+    "label": "D",
+    "text": "两物种在白天均出现活动高峰，但在日活动节律上存在生态位分化"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_7k0jejoa0C45oyM38uZtpg#2024安徽·生态位]"
+ },
+ {
+  "root_id": "mkjr_4OxtKISaSW7fNVuLmNAdOQ",
+  "chapter": "选必二 第2章 群落及其演替",
+  "points": [
+   "群落的演替"
+  ],
+  "province": "河北",
+  "year": "2023",
+  "type": "单选",
+  "answer": "C",
+  "stem": "某经营性森林有27种植物，林场对其林木采伐后彻底清除地表植物。自然恢复若干年后，该地段上形成了有36种植物的森林。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "采伐后的空地资源丰富，植物种群呈“J”形增长"
+   },
+   {
+    "label": "B",
+    "text": "采伐前的生态系统比恢复后的生态系统抵抗力稳定性高"
+   },
+   {
+    "label": "C",
+    "text": "采伐后的空地上出现新群落的过程属于次生演替"
+   },
+   {
+    "label": "D",
+    "text": "该生态系统恢复过程中，营养级的增多取决于植物种类的增加"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_4OxtKISaSW7fNVuLmNAdOQ#2023河北·群落的演替]"
+ },
+ {
+  "root_id": "mkjr_9X6T8esKxfnvZuw0FHd8Fw",
+  "chapter": "选必二 第2章 群落及其演替",
+  "points": [
+   "种间关系"
+  ],
+  "province": "辽宁",
+  "year": "2025",
+  "type": "单选",
+  "answer": "C",
+  "stem": "红藻兼具无性生殖和有性生殖。海蟑螂依赖红藻躲避天敌，并取食红藻表面附生的硅藻，在此过程中携带了红藻的雄配子，使红藻有性生殖成功率提升。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "海蟑螂与红藻存在互惠关系，二者协同进化"
+   },
+   {
+    "label": "B",
+    "text": "海蟑螂数量减少不利于红藻形成多样的变异"
+   },
+   {
+    "label": "C",
+    "text": "硅藻附生于红藻，因此二者存在寄生关系"
+   },
+   {
+    "label": "D",
+    "text": "海蟑螂与红藻的关系类似传粉昆虫与虫媒花"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_9X6T8esKxfnvZuw0FHd8Fw#2025辽宁·种间关系]"
+ },
+ {
+  "root_id": "mkjr_0gyMfOWvwBXAMitN_YKCdw",
+  "chapter": "选必二 第2章 群落及其演替",
+  "points": [
+   "种间关系"
+  ],
+  "province": "山西",
+  "year": "2025",
+  "type": "单选",
+  "answer": "D",
+  "stem": "入侵物种线虫甲和本土物种线虫乙常引起松树成片死亡。为探究两者的竞争关系，在相同实验条件下对甲和乙混合培养，部分结果如下表。下列叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "相同条件下甲单独培养时的K值比混合培养时大"
+   },
+   {
+    "label": "B",
+    "text": "实验中仅存活一种线虫的原因是两者生态位相似"
+   },
+   {
+    "label": "C",
+    "text": "设置相同雌雄比是为排除性比对实验结果的干扰"
+   },
+   {
+    "label": "D",
+    "text": "结果表明野外释放乙是生物防治甲入侵的有效措施"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_0gyMfOWvwBXAMitN_YKCdw#2025山西·种间关系]"
+ },
+ {
+  "root_id": "mkjr_c2hZyyA5HLlOUFjcL0nrig",
+  "chapter": "选必二 第2章 群落及其演替",
+  "points": [
+   "群落的物种组成"
+  ],
+  "province": "山西",
+  "year": "2025",
+  "type": "单选",
+  "answer": "B",
+  "stem": "冰川融水会将溪流沿岸的无机盐和有机物残体等带入湖泊，如图（a）。环境DNA（eDNA）技术通过检测环境样品中特异性基因序列来识别物种，利用该技术分析青藏高原某冰川前缘、溪流到下游湖泊的15个采样点的物种丰富度，如图（b）。下列叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "冰川前缘至少有2个营养级，湖泊中至少有4个营养级"
+   },
+   {
+    "label": "B",
+    "text": "eDNA结果可同时反映水体及周边陆地生态系统物种多样性"
+   },
+   {
+    "label": "C",
+    "text": "从高山流石滩到高寒草甸生物的分布体现了群落的垂直结构"
+   },
+   {
+    "label": "D",
+    "text": "蓝细菌等生产者固定的太阳能是输入湖泊生态系统的总能量"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_c2hZyyA5HLlOUFjcL0nrig#2025山西·群落的物种组成]"
+ },
+ {
+  "root_id": "mkjr_yRggxdKoKmQLbLHYlmYguw",
+  "chapter": "选必二 第2章 群落及其演替",
+  "points": [
+   "群落的物种组成"
+  ],
+  "province": "福建",
+  "year": "2025",
+  "type": "单选",
+  "answer": "D",
+  "stem": "在森林内经常可观察到小动物出没于地表的枯枝落叶中。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "枯枝落叶的分布属于生物群落的水平结构"
+   },
+   {
+    "label": "B",
+    "text": "枯枝落叶的分解由分解者和生产者共同主导"
+   },
+   {
+    "label": "C",
+    "text": "枯枝落叶和地表的一些小动物是互利共生关系"
+   },
+   {
+    "label": "D",
+    "text": "枯枝落叶的种类间接反映了群落的物种丰富度"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_yRggxdKoKmQLbLHYlmYguw#2025福建·群落的物种组成]"
+ },
+ {
+  "root_id": "mkjr_M3jq3FhmGTx.QwKRldh6Bw",
+  "chapter": "选必二 第2章 群落及其演替",
+  "points": [
+   "群落的空间结构"
+  ],
+  "province": "贵州",
+  "year": "2025",
+  "type": "单选",
+  "answer": "D",
+  "stem": "乌蒙山区的百里杜鹃林被誉为“地球上最美的彩带”，分布有40多种乔木型和灌木型杜鹃。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "多种多样的杜鹃构成百里杜鹃林群落"
+   },
+   {
+    "label": "B",
+    "text": "百里杜鹃林群落的分层结构主要由温度决定"
+   },
+   {
+    "label": "C",
+    "text": "百里杜鹃林中乔木型杜鹃终会取代灌木型杜鹃"
+   },
+   {
+    "label": "D",
+    "text": "百里杜鹃林生物多样性的间接价值大于直接价值"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_M3jq3FhmGTx.QwKRldh6Bw#2025贵州·群落的空间结构]"
+ },
+ {
+  "root_id": "mkjr_yppK2kU8DqOKJ8M9LZ1udQ",
+  "chapter": "选必二 第2章 群落及其演替",
+  "points": [
+   "生态位"
+  ],
+  "province": "广东",
+  "year": "2024",
+  "type": "单选",
+  "answer": "B",
+  "stem": "为探究人类活动对鸟类食性及物种多样性的影响，研究者调查了某地的自然保护区、农田和城区3种生境中雀形目鸟类的物种数量（取样的方法和条件一致），结果见图。下列分析错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "自然保护区的植被群落类型多样，鸟类物种丰富度高"
+   },
+   {
+    "label": "B",
+    "text": "农田的鸟类比自然保护区鸟类的种间竞争更小"
+   },
+   {
+    "label": "C",
+    "text": "自然保护区鸟类比其他生境的鸟类有更宽的空间生态位"
+   },
+   {
+    "label": "D",
+    "text": "人类活动产生的空白生态位有利于杂食性鸟类迁入"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_yppK2kU8DqOKJ8M9LZ1udQ#2024广东·生态位]"
+ },
+ {
+  "root_id": "mkjr_5mn.YTENKL2b.Ng1nVU7dw",
+  "chapter": "选必二 第2章 群落及其演替",
+  "points": [
+   "生态位"
+  ],
+  "province": "浙江",
+  "year": "2023",
+  "type": "单选",
+  "answer": "C",
+  "stem": "太平洋某岛上生存着上百个蜗牛物种，但同一区域中只有少数几个蜗牛物种共存。生活在同一区域的不同蜗牛物种之间外壳相似性高，生活在不同区域的不同蜗牛物种之间外壳相似性低。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "该岛上蜗牛物种数就是该岛的物种多样性"
+   },
+   {
+    "label": "B",
+    "text": "该岛上所有蜗牛的全部基因组成了一个基因库"
+   },
+   {
+    "label": "C",
+    "text": "同一区域内的不同蜗牛物种具有相似的外壳是自然选择的结果"
+   },
+   {
+    "label": "D",
+    "text": "仅有少数蜗牛物种生存在同一区域是种间竞争造成生态位重叠的结果"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_5mn.YTENKL2b.Ng1nVU7dw#2023浙江·生态位]"
+ },
+ {
+  "root_id": "mkjr_jrxTVZvNsZUZFzFt42tpOA",
+  "chapter": "选必二 第2章 群落及其演替",
+  "points": [
+   "群落的演替"
+  ],
+  "province": "浙江",
+  "year": "2023",
+  "type": "单选",
+  "answer": "B",
+  "stem": "群落演替是一个缓慢、持续的动态过程，短时间的观察难以发现这个过程，但是有些现象的出现，可以一窥其演替进行的状态。下列事实的出现，可以用来推断群落演替正在进行着的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "毛竹林中的竹笋明显长高"
+   },
+   {
+    "label": "B",
+    "text": "在浮叶根生植物群落中出现了挺水植物"
+   },
+   {
+    "label": "C",
+    "text": "荷塘中荷花盛开、荷叶逐渐覆盖了整片水面"
+   },
+   {
+    "label": "D",
+    "text": "在常绿阔叶林中马尾松的部分个体因感染松材线虫死亡"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_jrxTVZvNsZUZFzFt42tpOA#2023浙江·群落的演替]"
+ },
+ {
+  "root_id": "mkjr_RWi92fZOb5NR6iiBWTVq_Q",
+  "chapter": "选必二 第2章 群落及其演替",
+  "points": [
+   "群落的物种组成"
+  ],
+  "province": "海南",
+  "year": "2022",
+  "type": "单选",
+  "answer": "A",
+  "stem": "某学者提出，岛屿上的物种数取决于物种迁入和灭亡的动态平衡。图中曲线表示面积大小不同和距离大陆远近不同的岛屿上物种的迁入率和灭亡率，S1、S2、S3和S4表示迁入率和灭亡率曲线交叉点对应的平衡物种数，即为该岛上预测的物种数。下列有关叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "面积相同时，岛屿距离大陆越远，预测的物种数越多"
+   },
+   {
+    "label": "B",
+    "text": "与大陆距离相同时，岛屿面积越大，预测的物种数越多"
+   },
+   {
+    "label": "C",
+    "text": "物种数相同情况下，近而大的岛，迁入率高；远而小的岛，迁入率低"
+   },
+   {
+    "label": "D",
+    "text": "物种数相同情况下，小岛上的物种灭亡率高于大岛"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_RWi92fZOb5NR6iiBWTVq_Q#2022海南·群落的物种组成]"
+ },
+ {
+  "root_id": "mkjr_S2WIZIcuas6RTX3OS4fleA",
+  "chapter": "选必二 第2章 群落及其演替",
+  "points": [
+   "群落的空间结构"
+  ],
+  "province": "江苏",
+  "year": "2022",
+  "type": "多选",
+  "answer": "BC",
+  "stem": "下图表示夏季北温带常见湖泊不同水深含氧量、温度的变化。下列相关叙述合理的有（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "决定群落垂直分层现象的非生物因素主要是温度和含氧量"
+   },
+   {
+    "label": "B",
+    "text": "自养型生物主要分布在表水层，分解者主要分布在底泥层"
+   },
+   {
+    "label": "C",
+    "text": "群落分层越明显层次越多，生物多样性越丰富，生态系统稳定性越强"
+   },
+   {
+    "label": "D",
+    "text": "湖泊经地衣阶段、苔藓阶段、草本植物阶段和灌木阶段可初生演替出森林"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_S2WIZIcuas6RTX3OS4fleA#2022江苏·群落的空间结构]"
+ },
+ {
+  "root_id": "mkjr_BytJeTiVPR8vIyAOTs7LuQ",
+  "chapter": "选必二 第2章 群落及其演替",
+  "points": [
+   "群落的物种组成"
+  ],
+  "province": "辽宁",
+  "year": "2022",
+  "type": "单选",
+  "answer": "A",
+  "stem": "采用样线法（以一定的速度沿样线前进，同时记录样线两侧一定距离内鸟类的种类及数量）对某地城市公园中鸟类多样性进行调查，结果见下表。下列分析不合理的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "植物园为鸟类提供易地保护的生存空间，一定程度上增加了鸟类物种多样性"
+   },
+   {
+    "label": "B",
+    "text": "森林公园群落结构复杂，能够满足多种鸟类对栖息地的要求，鸟类种类较多"
+   },
+   {
+    "label": "C",
+    "text": "湿地公园为鸟类提供丰富的食物及相对隐蔽的栖息场所，鸟类种类最多"
+   },
+   {
+    "label": "D",
+    "text": "山体公园由于生境碎片化及人类活动频繁的干扰，鸟类物种数量最少"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_BytJeTiVPR8vIyAOTs7LuQ#2022辽宁·群落的物种组成]"
+ },
+ {
+  "root_id": "mkjr_Ki5zj4Al1ICRw9eMMQ68wg",
+  "chapter": "选必二 第2章 群落及其演替",
+  "points": [
+   "群落的季节性"
+  ],
+  "province": "辽宁",
+  "year": "2022",
+  "type": "多选",
+  "answer": "CD",
+  "stem": "底栖硅藻是河口泥滩潮间带生态系统中的生产者，为底栖动物提供食物。调查分析某河口底栖硅藻群落随季节变化优势种（相对数量占比>5%）的分布特征，结果如下图。下列叙述错误的是（ ） [图] 注：不同条纹代表不同优势种：空白代表除优势种外的其他底栖硅藻；不同条纹柱高代表每个优势种的相对数量占比",
+  "options": [
+   {
+    "label": "A",
+    "text": "底栖硅藻群落的季节性变化主要体现在优势种的种类和数量变化"
+   },
+   {
+    "label": "B",
+    "text": "影响优势种①从3月到9月数量变化的生物因素包含捕食和竞争"
+   },
+   {
+    "label": "C",
+    "text": "春季和秋季物种丰富度高于夏季，是温度变化影响的结果"
+   },
+   {
+    "label": "D",
+    "text": "底栖硅藻固定的能量是流经河口泥滩潮间带生态系统的总能量"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_Ki5zj4Al1ICRw9eMMQ68wg#2022辽宁·群落的季节性]"
+ },
+ {
+  "root_id": "mkjr_B7MnQil0VZio6EgMGHetHQ",
+  "chapter": "选必二 第2章 群落及其演替",
+  "points": [
+   "种间关系"
+  ],
+  "province": "辽宁",
+  "year": "2023",
+  "type": "单选",
+  "answer": "B",
+  "stem": "某些微生物与昆虫构建了互利共生的关系，共生微生物参与昆虫的生命活动并促进其生态功能的发挥。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "昆虫为共生微生物提供了相对稳定的生存环境"
+   },
+   {
+    "label": "B",
+    "text": "与昆虫共生的微生物降低了昆虫的免疫力"
+   },
+   {
+    "label": "C",
+    "text": "不同生境中同种昆虫的共生微生物可能不同"
+   },
+   {
+    "label": "D",
+    "text": "昆虫与微生物共生的关系是长期协同进化的结果"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_B7MnQil0VZio6EgMGHetHQ#2023辽宁·种间关系]"
+ },
+ {
+  "root_id": "mkjr_7e.YA._2K4mCpT0kybGINw",
+  "chapter": "选必二 第2章 群落及其演替",
+  "points": [
+   "群落的物种组成",
+   "人类活动对群落演替的影响"
+  ],
+  "province": "重庆",
+  "year": "2023",
+  "type": "单选",
+  "answer": "B",
+  "stem": "研究放牧强度对草原群落特征的影响，对合理利用草原和防止荒漠化具有重要意义。下表为某高寒草原在不同放牧强度下的植物群落调查数据。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "中度放牧和无放牧下生产力不同，可能是物种组成不同所致"
+   },
+   {
+    "label": "B",
+    "text": "重度放牧下土壤有机碳含量降低是分解者的分解过程加快所致"
+   },
+   {
+    "label": "C",
+    "text": "放牧可能导致群落优势种改变且重度放牧下的优势种更加耐旱"
+   },
+   {
+    "label": "D",
+    "text": "适度放牧是保护草原生物多样性和践行绿色发展理念的有效措施"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_7e.YA._2K4mCpT0kybGINw#2023重庆·群落的物种组成]"
+ },
+ {
+  "root_id": "mkjr_.PPkNPsmiihYQdSCzzNAMw",
+  "chapter": "选必二 第2章 群落及其演替",
+  "points": [
+   "群落的演替",
+   "人类活动对群落演替的影响"
+  ],
+  "province": "江西",
+  "year": "2024",
+  "type": "单选",
+  "answer": "D",
+  "stem": "实施退耕还林还草工程是我国践行生态文明思想的重要举措。下列关于某干旱地区退耕农田群落演替的叙述，错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "上述演替与沙丘上发生的演替不是同一种类型"
+   },
+   {
+    "label": "B",
+    "text": "可用样方法调查该退耕农田中植物的种群密度"
+   },
+   {
+    "label": "C",
+    "text": "可在该退耕农田引进优势物种改变演替的速度"
+   },
+   {
+    "label": "D",
+    "text": "上述退耕农田群落演替的最终阶段是森林阶段"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_.PPkNPsmiihYQdSCzzNAMw#2024江西·群落的演替]"
+ },
+ {
+  "root_id": "mkjr_P0buWpjyd8SfV0sT6Pn87A",
+  "chapter": "选必二 第2章 群落及其演替",
+  "points": [
+   "生态位"
+  ],
+  "province": "江西",
+  "year": "2024",
+  "type": "多选",
+  "answer": "ABC",
+  "stem": "“种豆南山下，草盛豆苗稀”描绘了诗人的田耕生活。下图是大豆和杂草R在某种养分生态位维度上的分布曲线。下列叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "a越大，表明大豆个体间对该养分的竞争越激烈"
+   },
+   {
+    "label": "B",
+    "text": "b越小，表明大豆与杂草R对该养分的竞争越小"
+   },
+   {
+    "label": "C",
+    "text": "b的大小会随着环境的变化而变化，但a和d不会"
+   },
+   {
+    "label": "D",
+    "text": "当c为0时，表明大豆和杂草R的该养分生态位发生了分化"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_P0buWpjyd8SfV0sT6Pn87A#2024江西·生态位]"
+ },
+ {
+  "root_id": "mkjr_WoOlxO713N0ltChdTdXKmQ",
+  "chapter": "选必二 第2章 群落及其演替",
+  "points": [
+   "群落的季节性",
+   "群落的物种组成"
+  ],
+  "province": "河北",
+  "year": "2024",
+  "type": "单选",
+  "answer": "D",
+  "stem": "下列关于群落的叙述，正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "过度放牧会改变草原群落物种组成，但群落中占优势的物种不会改变"
+   },
+   {
+    "label": "B",
+    "text": "多种生物只要能各自适应某一空间的非生物环境，即可组成群落"
+   },
+   {
+    "label": "C",
+    "text": "森林群落中林下喜阴植物的种群密度与林冠层的郁闭度无关"
+   },
+   {
+    "label": "D",
+    "text": "在四季分明的温带地区，森林群落和草原群落的季节性变化明显"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_WoOlxO713N0ltChdTdXKmQ#2024河北·群落的季节性]"
+ },
+ {
+  "root_id": "mkjr_nHzosrG_npPPBdWhQjn3DA",
+  "chapter": "选必二 第2章 群落及其演替",
+  "points": [
+   "群落的演替"
+  ],
+  "province": "浙江",
+  "year": "2024",
+  "type": "单选",
+  "answer": "D",
+  "stem": "在自然界中，群落演替是普遍现象。下列现象不属于群落演替的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "裸岩上出现了地衣"
+   },
+   {
+    "label": "B",
+    "text": "草本群落中出现成片灌木"
+   },
+   {
+    "label": "C",
+    "text": "灌木群落中长出大量乔木"
+   },
+   {
+    "label": "D",
+    "text": "常绿阔叶林中樟树明显长高"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_nHzosrG_npPPBdWhQjn3DA#2024浙江·群落的演替]"
+ },
+ {
+  "root_id": "mkjr_GthsD.4sXM32YS_JMFQcmg",
+  "chapter": "选必二 第2章 群落及其演替",
+  "points": [
+   "人类活动对群落演替的影响"
+  ],
+  "province": "贵州",
+  "year": "2024",
+  "type": "单选",
+  "answer": "D",
+  "stem": "在公路边坡修复过程中，常选用“豆科-禾本科”植物进行搭配种植。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "边坡修复优先筛选本地植物是因为其适应性强"
+   },
+   {
+    "label": "B",
+    "text": "“豆科-禾本科”搭配种植可减少氮肥的施用"
+   },
+   {
+    "label": "C",
+    "text": "人类对边坡的修复加快了群落演替的速度"
+   },
+   {
+    "label": "D",
+    "text": "与豆科植物共生的根瘤菌属于分解者"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_GthsD.4sXM32YS_JMFQcmg#2024贵州·人类活动对群落演替的影响]"
+ }
+]

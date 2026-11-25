@@ -1,0 +1,1557 @@
+[
+ {
+  "root_id": "mkjr_SKOeuWdN95rhl_f3nIz.Fw",
+  "chapter": "必修二 第6章 生物的进化",
+  "points": [
+   "种群基因频率的变化"
+  ],
+  "province": "云南",
+  "year": "2026",
+  "type": "单选",
+  "answer": "C",
+  "stem": "对长臂猿科的21个物种进行基因组信息分析，证实分布于云南高黎贡山的天行长臂猿是白眉长臂猿属的一个独立物种；推测出白眉长臂猿的有效种群大小在约18.7万年前下降，群体数量同步下降，约7万年前出现了一定程度的恢复，这与历史气候变化吻合；现存的白眉长臂猿各种群内存在高水平的近亲交配。下列说法错误的是（　　）",
+  "options": [
+   {
+    "label": "A",
+    "text": "气候变化是影响白眉长臂猿数量的因素之一"
+   },
+   {
+    "label": "B",
+    "text": "白眉长臂猿基因库组成难以恢复至7万年前水平"
+   },
+   {
+    "label": "C",
+    "text": "当今环境促使天行长臂猿种群产生更多有利变异"
+   },
+   {
+    "label": "D",
+    "text": "高水平的近亲交配使种群的遗传多样性降低"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_SKOeuWdN95rhl_f3nIz.Fw#2026云南·种群基因频率的变化]"
+ },
+ {
+  "root_id": "mkjr_ohXDbZRGEs11ZPOufe4zyw",
+  "chapter": "必修二 第6章 生物的进化",
+  "points": [
+   "种群基因频率的变化"
+  ],
+  "province": "安徽",
+  "year": "2026",
+  "type": "单选",
+  "answer": "D",
+  "stem": "绵羊的有角与无角是一对相对性状，由常染色体上一对等位基因控制。杂合子中，雄羊表现为有角，雌羊表现为无角。在一个基因频率相对稳定的种群中有角羊占25%。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "雄羊中有角比无角的多，雌羊中则相反"
+   },
+   {
+    "label": "B",
+    "text": "雄羊有角基因的频率比雌羊的高"
+   },
+   {
+    "label": "C",
+    "text": "无角个体中，杂合子∶纯合子=2∶3"
+   },
+   {
+    "label": "D",
+    "text": "有角个体中，雄羊∶雌羊=7∶1"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_ohXDbZRGEs11ZPOufe4zyw#2026安徽·种群基因频率的变化]"
+ },
+ {
+  "root_id": "mkjr_HEvgkPii54jyQ2uXLlxt7w",
+  "chapter": "必修二 第6章 生物的进化",
+  "points": [
+   "分子水平证据",
+   "种群基因频率的变化"
+  ],
+  "province": "广东",
+  "year": "2026",
+  "type": "单选",
+  "answer": "B",
+  "stem": "我国科学家通过对18种长臂猿的基因组进行测序，发现其长臂性状均与SHH基因中205个碱基对的缺失有关。下列分析正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "长臂性状的产生是环境定向诱导基因突变的结果"
+   },
+   {
+    "label": "B",
+    "text": "SHH基因的碱基对缺失发生在长臂猿的共同祖先中"
+   },
+   {
+    "label": "C",
+    "text": "SHH基因的碱基对缺失不利于长臂猿的生存"
+   },
+   {
+    "label": "D",
+    "text": "自然选择通过改变SHH基因的突变率来影响长臂猿的进化方向"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_HEvgkPii54jyQ2uXLlxt7w#2026广东·分子水平证据]"
+ },
+ {
+  "root_id": "mkjr__iUmWmx_bRHmyAX1noVsGA",
+  "chapter": "必修二 第6章 生物的进化",
+  "points": [
+   "协同进化与生物多样性"
+  ],
+  "province": "江西",
+  "year": "2026",
+  "type": "单选",
+  "answer": "B",
+  "stem": "成年人乳糖酶基因的表达量明显低于婴幼儿时期。部分成年人调控乳糖酶基因表达的序列发生突变，可阻止其表达量显著下降，是他们能保持乳糖耐受的重要原因。研究人员对4个地区成年人乳糖耐受及相关情况做了调查(如表)。据表分析，下列推测合理的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "甲地区乳糖耐受的成年人中不会出现位点3的突变"
+   },
+   {
+    "label": "B",
+    "text": "乙地区成年人乳糖耐受和畜牧业发展发生了协同进化"
+   },
+   {
+    "label": "C",
+    "text": "丙地区成年人乳糖耐受比例高是因为与乙地区广泛通婚"
+   },
+   {
+    "label": "D",
+    "text": "丁地区乳糖耐受基因型的比例会在选择压力驱动下增加"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr__iUmWmx_bRHmyAX1noVsGA#2026江西·协同进化与生物多样性]"
+ },
+ {
+  "root_id": "mkjr_tPJ8kUrB7mCXKkM6cW9LpA",
+  "chapter": "必修二 第6章 生物的进化",
+  "points": [
+   "自然选择与适应"
+  ],
+  "province": "河北",
+  "year": "2026",
+  "type": "单选",
+  "answer": "A",
+  "stem": "在雄性大角鹿求偶争斗的过程中，鹿角较大的个体更易获胜，能繁殖更多的后代，从而使雄鹿中鹿角较大的个体占比逐代增高。然而鹿角大的雄鹿更易被捕食，致使大角鹿种群不断衰退。下列分析错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "大角鹿在求偶选择中的不适应特征导致其种群衰退"
+   },
+   {
+    "label": "B",
+    "text": "生物种群繁殖能力和生存能力的减弱均会造成种群衰退"
+   },
+   {
+    "label": "C",
+    "text": "在一定的选择作用下，可遗传的有利变异会使某些个体具有相对优势"
+   },
+   {
+    "label": "D",
+    "text": "生物面临不同选择压力时，某些适应性特征反而会使其表现为不适应"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_tPJ8kUrB7mCXKkM6cW9LpA#2026河北·自然选择与适应]"
+ },
+ {
+  "root_id": "mkjr_5xX5Qpjimfj.RD0JiU43LQ",
+  "chapter": "必修二 第6章 生物的进化",
+  "points": [
+   "种群基因频率的变化"
+  ],
+  "province": "河南",
+  "year": "2026",
+  "type": "单选",
+  "answer": "D",
+  "stem": "青藏高原是生物适应性进化的天然实验室。棕颈雪雀生活在高海拔地区，与生活在低海拔地区的树麻雀有共同祖先。与树麻雀相比，棕颈雪雀的心脏毛细血管密度（I值）更高，更适应低氧环境。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "棕颈雪雀和树麻雀的全部等位基因构成了一个种群基因库"
+   },
+   {
+    "label": "B",
+    "text": "棕颈雪雀与树麻雀在物种分化的过程中遗传差异不会变大"
+   },
+   {
+    "label": "C",
+    "text": "棕颈雪雀在进化过程中不会出现导致Ⅰ值变低的可遗传变异"
+   },
+   {
+    "label": "D",
+    "text": "自然选择使棕颈雪雀种群中适应高海拔环境基因的频率升高"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_5xX5Qpjimfj.RD0JiU43LQ#2026河南·种群基因频率的变化]"
+ },
+ {
+  "root_id": "mkjr_4vH3sASbuBHrsh9k4Shqjw",
+  "chapter": "必修二 第6章 生物的进化",
+  "points": [
+   "协同进化与生物多样性"
+  ],
+  "province": "北京",
+  "year": "2025",
+  "type": "单选",
+  "answer": "C",
+  "stem": "蝴蝶幼虫取食植物叶片，萝藦类植物进化出产生CA的能力，CA抑制动物细胞膜上N酶的活性，对动物产生毒性，从而阻止大部分蝴蝶幼虫取食。斑蝶类蝴蝶因N酶发生了一个氨基酸替换而对CA不敏感，其幼虫可以取食萝藦。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "斑蝶类蝴蝶对CA的适应主要源自基因突变和选择"
+   },
+   {
+    "label": "B",
+    "text": "斑蝶类蝴蝶取食萝藦可减少与其他蝴蝶竞争食物"
+   },
+   {
+    "label": "C",
+    "text": "N酶基因突变导致斑蝶类蝴蝶与其他蝴蝶发生生殖隔离"
+   },
+   {
+    "label": "D",
+    "text": "萝藦类植物和斑蝶类蝴蝶的进化是一个协同进化的实例"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_4vH3sASbuBHrsh9k4Shqjw#2025北京·协同进化与生物多样性]"
+ },
+ {
+  "root_id": "mkjr_MlGQg8PRvmhAQn4OCoquqw",
+  "chapter": "必修二 第6章 生物的进化",
+  "points": [
+   "自然选择与适应"
+  ],
+  "province": "四川",
+  "year": "2025",
+  "type": "单选",
+  "answer": "B",
+  "stem": "青藏高原砾石（呈灰色）荒漠中生活着一种紫堇，每年7月开蓝花，叶片通常为绿色，但部分植株出现H基因，导致叶片呈灰色。绢蝶是紫堇的头号天敌，主要靠识别紫堇与环境的颜色差异来定位植株。绢蝶5~6月将卵产在紫堇附近的砾石上，便于孵化的幼虫就近取食。绢蝶产卵率与紫堇结实率如下图。下列推断不合理的是（ ） [图] 注：产卵率指绢蝶在绿叶或灰叶紫堇附近产卵的机率；结实率=结实植株数/总植株数×100%",
+  "options": [
+   {
+    "label": "A",
+    "text": "灰叶紫堇具有保护色，被天敌取食的机率更低，结实率更高"
+   },
+   {
+    "label": "B",
+    "text": "紫堇开花时间与绢蝶产卵时间不重叠，不利于H基因的保留"
+   },
+   {
+    "label": "C",
+    "text": "若绢蝶种群数量锐减，绿叶紫堇在种群中所占的比例会增加"
+   },
+   {
+    "label": "D",
+    "text": "灰叶紫堇占比增加有助于绢蝶演化出更敏锐的视觉定位能力"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_MlGQg8PRvmhAQn4OCoquqw#2025四川·自然选择与适应]"
+ },
+ {
+  "root_id": "mkjr_C_.vHoRxrH00OH8OvfBFSg",
+  "chapter": "必修二 第6章 生物的进化",
+  "points": [
+   "物种形成与隔离"
+  ],
+  "province": "云南",
+  "year": "2025",
+  "type": "单选",
+  "answer": "D",
+  "stem": "研究人员观察到川金丝猴为黄色毛发、滇/缅甸金丝猴为黑色毛发、黔金丝猴为黑灰色—黄色的镶嵌毛发，因此对金丝猴属5种金丝猴进行研究，证实黔金丝猴起源于187万年前川金丝猴祖先群与滇/缅甸金丝猴祖先群的杂交后代，其遗传信息约70%来自川金丝猴祖先群，30%来自滇/缅甸金丝猴祖先群。下列结论无法得出的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "杂交促进了金丝猴间的基因交流，是黔金丝猴形成的重要因素"
+   },
+   {
+    "label": "B",
+    "text": "黔金丝猴毛色是有别于祖先群的新性状，该性状可遗传给后代"
+   },
+   {
+    "label": "C",
+    "text": "黔金丝猴毛色的形成是遗传和所处自然环境共同作用的结果"
+   },
+   {
+    "label": "D",
+    "text": "黔金丝猴群体中黄色毛发的基因频率大于黑色毛发的基因频率"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_C_.vHoRxrH00OH8OvfBFSg#2025云南·物种形成与隔离]"
+ },
+ {
+  "root_id": "mkjr_y_zGT4FHhjXnfErX_GOY1Q",
+  "chapter": "必修二 第6章 生物的进化",
+  "points": [
+   "分子水平证据"
+  ],
+  "province": "北京",
+  "year": "2024",
+  "type": "单选",
+  "answer": "C",
+  "stem": "科学家证明“尼安德特人”是现代人的近亲，依据的是DNA的（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "元素组成"
+   },
+   {
+    "label": "B",
+    "text": "核苷酸种类"
+   },
+   {
+    "label": "C",
+    "text": "碱基序列"
+   },
+   {
+    "label": "D",
+    "text": "空间结构"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_y_zGT4FHhjXnfErX_GOY1Q#2024北京·分子水平证据]"
+ },
+ {
+  "root_id": "mkjr_77RAOm1oiofbLBS9CeWUvw",
+  "chapter": "必修二 第6章 生物的进化",
+  "points": [
+   "分子水平证据"
+  ],
+  "province": "广东",
+  "year": "2023",
+  "type": "单选",
+  "answer": "B",
+  "stem": "下列叙述中，能支持将线粒体用于生物进化研究的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "线粒体基因遗传时遵循孟德尔定律"
+   },
+   {
+    "label": "B",
+    "text": "线粒体DNA复制时可能发生突变"
+   },
+   {
+    "label": "C",
+    "text": "线粒体存在于各地质年代生物细胞中"
+   },
+   {
+    "label": "D",
+    "text": "线粒体通过有丝分裂的方式进行增殖"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_77RAOm1oiofbLBS9CeWUvw#2023广东·分子水平证据]"
+ },
+ {
+  "root_id": "mkjr_FuKiCo5W52.AUxuzL6GMDg",
+  "chapter": "必修二 第6章 生物的进化",
+  "points": [
+   "拉马克与达尔文的进化学说"
+  ],
+  "province": "广东",
+  "year": "2023",
+  "type": "单选",
+  "answer": "B",
+  "stem": "科学理论随人类认知的深入会不断被修正和补充，下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "新细胞产生方式的发现是对细胞学说的修正"
+   },
+   {
+    "label": "B",
+    "text": "自然选择学说的提出是对共同由来学说的修正"
+   },
+   {
+    "label": "C",
+    "text": "RNA逆转录现象的发现是对中心法则的补充"
+   },
+   {
+    "label": "D",
+    "text": "具催化功能RNA的发现是对酶化学本质认识的补充"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_FuKiCo5W52.AUxuzL6GMDg#2023广东·拉马克与达尔文的进化学说]"
+ },
+ {
+  "root_id": "mkjr_yGZHhe1Wxfwp2_Jw21sVbQ",
+  "chapter": "必修二 第6章 生物的进化",
+  "points": [
+   "分子水平证据"
+  ],
+  "province": "北京",
+  "year": "2022",
+  "type": "单选",
+  "answer": "D",
+  "stem": "人与黑猩猩是从大约700万年前的共同祖先进化而来，两个物种成体的血红蛋白均由α和β两种肽链组成，但α链的相同位置上有一个氨基酸不同，据此不能得出（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "这种差异是由基因中碱基替换造成的"
+   },
+   {
+    "label": "B",
+    "text": "两者共同祖先的血红蛋白也有α链"
+   },
+   {
+    "label": "C",
+    "text": "两者的血红蛋白都能行使正常的生理功能"
+   },
+   {
+    "label": "D",
+    "text": "导致差别的变异发生在黑猩猩这一物种形成的过程中"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_yGZHhe1Wxfwp2_Jw21sVbQ#2022北京·分子水平证据]"
+ },
+ {
+  "root_id": "mkjr_2XIkgOVKjWDLOMO2iqZKMw",
+  "chapter": "必修二 第6章 生物的进化",
+  "points": [
+   "协同进化与生物多样性"
+  ],
+  "province": "天津",
+  "year": "2022",
+  "type": "单选",
+  "answer": "A",
+  "stem": "蝙蝠是现存携带病毒较多的夜行性哺乳动物，这与其高体温（40℃）和强大的基因修复功能有关。关于蝙蝠与其携带的病毒，下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "高温利于提高病毒对蝙蝠的致病性"
+   },
+   {
+    "label": "B",
+    "text": "病毒有潜在破坏蝙蝠基因的能力"
+   },
+   {
+    "label": "C",
+    "text": "病毒与蝙蝠之间存在寄生关系"
+   },
+   {
+    "label": "D",
+    "text": "病毒与蝙蝠协同进化"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_2XIkgOVKjWDLOMO2iqZKMw#2022天津·协同进化与生物多样性]"
+ },
+ {
+  "root_id": "mkjr_EqdUVsXXZz.aU6eHKfp_UA",
+  "chapter": "必修二 第6章 生物的进化",
+  "points": [
+   "化石证据"
+  ],
+  "province": "贵州",
+  "year": "2026",
+  "type": "单选",
+  "answer": "C",
+  "stem": "贵州三叠纪化石群完整记录了二叠纪末生物大灭绝后海洋生态系统的重建历程，保存有鱼龙、海百合、菊石、双壳等动物化石，其中鱼龙化石显示其四肢为桨状且胃容物含有菊石。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "鱼龙与菊石可能存在捕食与被捕食的关系"
+   },
+   {
+    "label": "B",
+    "text": "桨状四肢是鱼龙适应海洋环境的形态特征"
+   },
+   {
+    "label": "C",
+    "text": "通过化石证据不能推断海百合和双壳的行为特征"
+   },
+   {
+    "label": "D",
+    "text": "根据放射性元素的半衰期可以测算化石的形成年代"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_EqdUVsXXZz.aU6eHKfp_UA#2026贵州·化石证据]"
+ },
+ {
+  "root_id": "mkjr_iMM2CRHpzJl2weVseZbBtw",
+  "chapter": "必修二 第6章 生物的进化",
+  "points": [
+   "物种形成与隔离"
+  ],
+  "province": "未知",
+  "year": "2026",
+  "type": "单选",
+  "answer": "A",
+  "stem": "大杜鹃(ZW型)是一个通过产卵进行巢寄生的物种。专化寄生于不同宿主巢的大杜鹃产出的卵与各自宿主的卵外观类似，如图。以往认为卵的外观由母本决定，近期研究表明常染色体遗传也参与其中。下列叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "卵外观若由常染色体主导则更有利于新物种形成"
+   },
+   {
+    "label": "B",
+    "text": "线粒体或Z染色体遗传可解释卵外观的母本决定"
+   },
+   {
+    "label": "C",
+    "text": "卵外观不同的大杜鹃亲本间普遍存在着生殖隔离"
+   },
+   {
+    "label": "D",
+    "text": "大杜鹃与宿主对卵的识别博弈限制了生物多样性"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_iMM2CRHpzJl2weVseZbBtw#2026未知·物种形成与隔离]"
+ },
+ {
+  "root_id": "mkjr_y0F_b9Xeky6OVif0XZSUzQ",
+  "chapter": "必修二 第6章 生物的进化",
+  "points": [
+   "物种形成与隔离"
+  ],
+  "province": "黑吉辽蒙",
+  "year": "2026",
+  "type": "单选",
+  "answer": "D",
+  "stem": "鲸类祖先从陆地进入海洋后，分化出深潜水鲸类（如抹香鲸）和浅潜水鲸类（如灰鲸）等物种。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "抹香鲸深潜能力涉及多器官、系统的协调活动，受多基因控制"
+   },
+   {
+    "label": "B",
+    "text": "鲸类生态位的分化是物种之间及生物与环境之间协同进化的结果"
+   },
+   {
+    "label": "C",
+    "text": "鲸类深潜能力相关的基因频率在自然选择的作用下发生定向改变"
+   },
+   {
+    "label": "D",
+    "text": "抹香鲸和灰鲸在潜水相关基因上的差异，是判断它们为不同物种的依据"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_y0F_b9Xeky6OVif0XZSUzQ#2026黑吉辽蒙·物种形成与隔离]"
+ },
+ {
+  "root_id": "mkjr__YCnHIfAReScYtwgOknGhg",
+  "chapter": "必修二 第6章 生物的进化",
+  "points": [
+   "物种形成与隔离"
+  ],
+  "province": "广东",
+  "year": "2025",
+  "type": "单选",
+  "answer": "D",
+  "stem": "果蝇外骨骼角质中表皮烃的含量不仅影响果蝇的环境适应能力，也影响果蝇的交配对象选择（如图）。表皮烃的合成受mFAS基因控制。下列叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "突变和自然选择驱动果蝇物种A和物种B的形成"
+   },
+   {
+    "label": "B",
+    "text": "自然选择使具有低表皮烃性状的果蝇适应潮湿环境"
+   },
+   {
+    "label": "C",
+    "text": "果蝇种群A和种群B交配减少加速了新物种的形成"
+   },
+   {
+    "label": "D",
+    "text": "mFAS基因突变带来的双重效应足以导致生殖隔离"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr__YCnHIfAReScYtwgOknGhg#2025广东·物种形成与隔离]"
+ },
+ {
+  "root_id": "mkjr_uDCMWPPol.1es9Ru0NgB9g",
+  "chapter": "必修二 第6章 生物的进化",
+  "points": [
+   "化石证据",
+   "物种形成与隔离"
+  ],
+  "province": "江苏",
+  "year": "2025",
+  "type": "多选",
+  "answer": "BD",
+  "stem": "图示部分竹子的进化发展史，其中A~D和H代表不同的染色体组。下列相关叙述正确的有（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "新热带木本竹与温带木本竹杂交，是六倍体"
+   },
+   {
+    "label": "B",
+    "text": "竹子的染色体数目变异是可遗传的"
+   },
+   {
+    "label": "C",
+    "text": "四种类群的竹子共同组成进化的基本单位"
+   },
+   {
+    "label": "D",
+    "text": "竹子化石为研究其进化提供直接证据"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_uDCMWPPol.1es9Ru0NgB9g#2025江苏·化石证据]"
+ },
+ {
+  "root_id": "mkjr_3Gwlv2FLmdf0GNIUU55isQ",
+  "chapter": "必修二 第6章 生物的进化",
+  "points": [
+   "种群基因频率的变化"
+  ],
+  "province": "江西",
+  "year": "2025",
+  "type": "多选",
+  "answer": "BC",
+  "stem": "有研究表明，基因突变对生物适应性的影响并不是非益即害的，大量的基因突变是中性的。以下能支撑中性突变学说的事实有（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "减数分裂过程中非姐妹染色单体的交叉互换可产生新的配子类型"
+   },
+   {
+    "label": "B",
+    "text": "很多突变改变了氨基酸的序列，但没有改变蛋白质的功能"
+   },
+   {
+    "label": "C",
+    "text": "基因中对应密码子第三位碱基的多态性远高于前两位碱基"
+   },
+   {
+    "label": "D",
+    "text": "很多突变产生的新等位基因在长期进化中取代原基因或完全消失"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_3Gwlv2FLmdf0GNIUU55isQ#2025江西·种群基因频率的变化]"
+ },
+ {
+  "root_id": "mkjr__g3FxUKYbJcegeSJ9WajIg",
+  "chapter": "必修二 第6章 生物的进化",
+  "points": [
+   "自然选择与适应"
+  ],
+  "province": "河北",
+  "year": "2025",
+  "type": "单选",
+  "answer": "B",
+  "stem": "僧帽蚤接触到天敌昆虫的气味分子（利它素）后，头盔会明显增大，从而降低被天敌昆虫捕食的风险。如图所示，僧帽蚤母本和子代接触利它素的情况不同，对子代头盔占身体比例的影响具有明显差异。下列分析错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "母本接触利它素可增大幼年子代头盔占身体的比例"
+   },
+   {
+    "label": "B",
+    "text": "受利它素刺激后，僧帽蚤发生基因突变，导致头盔占身体的比例增大"
+   },
+   {
+    "label": "C",
+    "text": "僧帽蚤受利它素刺激后头盔增大的特性是自然选择的结果"
+   },
+   {
+    "label": "D",
+    "text": "在没有利它素时，僧帽蚤发育过程中头盔占身体的比例会减小"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr__g3FxUKYbJcegeSJ9WajIg#2025河北·自然选择与适应]"
+ },
+ {
+  "root_id": "mkjr_l8VzAHMOmDX179VDqu5nwQ",
+  "chapter": "必修二 第6章 生物的进化",
+  "points": [
+   "拉马克与达尔文的进化学说"
+  ],
+  "province": "河南",
+  "year": "2025",
+  "type": "单选",
+  "answer": "A",
+  "stem": "系统进化树是一种表示物种间亲缘关系的树形图。研究人员结合形态学和分子证据，构建了绿色植物的系统进化关系，示意简图如下。下列推断正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "植物的系统进化关系是共同由来学说的体现和自然选择的结果"
+   },
+   {
+    "label": "B",
+    "text": "基因重组增强了生物变异的多样性，但不影响进化的速度和方向"
+   },
+   {
+    "label": "C",
+    "text": "绿藻化石首次出现地层的年龄小于苔藓植物化石首次出现地层的年龄"
+   },
+   {
+    "label": "D",
+    "text": "裸子植物与被子植物的亲缘关系比裸子植物与蕨类植物的亲缘关系远"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_l8VzAHMOmDX179VDqu5nwQ#2025河南·拉马克与达尔文的进化学说]"
+ },
+ {
+  "root_id": "mkjr_fmZS.OMLoqHWWZTppDa_bA",
+  "chapter": "必修二 第6章 生物的进化",
+  "points": [
+   "种群基因频率的变化"
+  ],
+  "province": "海南",
+  "year": "2025",
+  "type": "单选",
+  "answer": "C",
+  "stem": "研究人员比较某家畜驯化种群和野生种群的基因组，发现该物种在驯化过程中积累了很多具有新功能的突变基因，人工选择是其主要驱动因素。下列有关叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "基因突变是物种进化的重要基础"
+   },
+   {
+    "label": "B",
+    "text": "所有驯化个体和野生个体的全部基因共同组成该物种种群的基因库"
+   },
+   {
+    "label": "C",
+    "text": "出现新功能的突变基因是人工选择的结果"
+   },
+   {
+    "label": "D",
+    "text": "驯化种群和野生种群都受自然选择的作用"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_fmZS.OMLoqHWWZTppDa_bA#2025海南·种群基因频率的变化]"
+ },
+ {
+  "root_id": "mkjr_Y4CHgM2h3z3qSJWV.PcXQA",
+  "chapter": "必修二 第6章 生物的进化",
+  "points": [
+   "种群基因频率的变化"
+  ],
+  "province": "湖北",
+  "year": "2025",
+  "type": "单选",
+  "answer": "D",
+  "stem": "若在一个随机交配的二倍体生物种群中，偶然出现一个有利突变基因，该突变基因可能是隐性或显性，具有突变表型的个体更容易生存和繁衍。图1与图2是在自然选择下突变基因的频率变化趋势图。据图分析，下列叙述正确的是（ ） [图] [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "图1曲线在1200代左右时形成了新物种"
+   },
+   {
+    "label": "B",
+    "text": "对比图1与图2，推测图1中有利突变基因为隐性"
+   },
+   {
+    "label": "C",
+    "text": "随着世代数的增加，图2曲线的峰值只能接近1，无法等于1"
+   },
+   {
+    "label": "D",
+    "text": "图2曲线在200~400代增长慢，推测该阶段含有利基因的纯合体占比少"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_Y4CHgM2h3z3qSJWV.PcXQA#2025湖北·种群基因频率的变化]"
+ },
+ {
+  "root_id": "mkjr_20LxqrtoC6X8W1GZMXYZzQ",
+  "chapter": "必修二 第6章 生物的进化",
+  "points": [
+   "化石证据"
+  ],
+  "province": "甘肃",
+  "year": "2025",
+  "type": "单选",
+  "answer": "C",
+  "stem": "我国古生物化石种类繁多。其中，在甘肃和政县发现的以铲齿象、和政羊与三趾马为代表的古脊椎动物化石群具有极高的研究价值。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "铲齿象、和政羊与三趾马化石可以为研究哺乳动物的进化提供直接证据"
+   },
+   {
+    "label": "B",
+    "text": "根据铲齿象特有的下颌和牙齿形态特征，可以推断它的食性和生活环境"
+   },
+   {
+    "label": "C",
+    "text": "通过自然作用保存在地层中的和政羊、三趾马等动物的粪便不属于化石"
+   },
+   {
+    "label": "D",
+    "text": "不借助化石而通过现生生物的比较分析也可以推断生物进化的部分历史"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_20LxqrtoC6X8W1GZMXYZzQ#2025甘肃·化石证据]"
+ },
+ {
+  "root_id": "mkjr_7a81NZjr98llatPDTHasHw",
+  "chapter": "必修二 第6章 生物的进化",
+  "points": [
+   "分子水平证据",
+   "物种形成与隔离"
+  ],
+  "province": "辽宁",
+  "year": "2024",
+  "type": "单选",
+  "answer": "C",
+  "stem": "鲟类是最古老的鱼类之一，被誉为鱼类的“活化石”。我国学者新测定了中华鲟、长江鲟等的线粒体基因组，结合已有信息将鲟科分为尖吻鲟类、大西洋鲟类和太平洋鲟类三个类群。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "鲟类的形态结构和化石记录可为生物进化提供证据"
+   },
+   {
+    "label": "B",
+    "text": "地理隔离在不同水域分布的鲟类进化过程中起作用"
+   },
+   {
+    "label": "C",
+    "text": "鲟类稳定的形态结构能更好地适应不断变化的环境"
+   },
+   {
+    "label": "D",
+    "text": "研究鲟类进化关系时线粒体基因组数据有重要价值"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_7a81NZjr98llatPDTHasHw#2024辽宁·分子水平证据]"
+ },
+ {
+  "root_id": "mkjr_wsJXAUxJts6mTFOKvh5j8Q",
+  "chapter": "必修二 第6章 生物的进化",
+  "points": [
+   "分子水平证据"
+  ],
+  "province": "安徽",
+  "year": "2024",
+  "type": "单选",
+  "answer": "D",
+  "stem": "下图是甲与其他四种生物β-珠蛋白前 40个氨基酸的序列比对结果，字母代表氨基酸，“.”表示该位点上的氨基酸与甲的相同，相同位点氨基酸的差异是进化过程中β-珠蛋白基因发生突变的结果。下列叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "不同生物β-珠蛋白的基因序列差异可能比氨基酸序列差异更大"
+   },
+   {
+    "label": "B",
+    "text": "位点上未发生改变的氨基酸对维持β-珠蛋白功能稳定可能更重要"
+   },
+   {
+    "label": "C",
+    "text": "分子生物学证据与化石等证据结合能更准确判断物种间进化关系"
+   },
+   {
+    "label": "D",
+    "text": "五种生物相互比较，甲与乙的氨基酸序列差异最大，亲缘关系最远"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_wsJXAUxJts6mTFOKvh5j8Q#2024安徽·分子水平证据]"
+ },
+ {
+  "root_id": "mkjr_3yyx3r0.pCd6gl0OyULX2w",
+  "chapter": "必修二 第6章 生物的进化",
+  "points": [
+   "种群基因频率的变化"
+  ],
+  "province": "辽宁",
+  "year": "2025",
+  "type": "单选",
+  "answer": "B",
+  "stem": "下列关于现代生物进化理论的叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "进化的基本单位是种群"
+   },
+   {
+    "label": "B",
+    "text": "可遗传变异使种群基因频率定向改变，导致生物进化"
+   },
+   {
+    "label": "C",
+    "text": "某些物种经过地理隔离后出现生殖隔离会产生新物种"
+   },
+   {
+    "label": "D",
+    "text": "不同物种间、生物与无机环境之间在相互影响中不断进化和发展"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_3yyx3r0.pCd6gl0OyULX2w#2025辽宁·种群基因频率的变化]"
+ },
+ {
+  "root_id": "mkjr_jMit3BThk8r_l_il05Db6A",
+  "chapter": "必修二 第6章 生物的进化",
+  "points": [
+   "种群基因频率的变化"
+  ],
+  "province": "山西",
+  "year": "2025",
+  "type": "单选",
+  "answer": "A",
+  "stem": "专食性绢蝶幼虫以半荷包紫堇叶片为食，成体绢蝶偏好在绿叶型半荷包紫堇植株附近产卵。生长于某冰川地域的半荷包紫堇因bHLH35基因突变使叶片呈现类似岩石的灰色，不易被成体绢蝶识别。冰川消融导致裸露岩石增多、分布范围扩大，则该地区（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "半荷包紫堇突变的bHLH35基因频率会逐渐增加"
+   },
+   {
+    "label": "B",
+    "text": "半荷包紫堇bHLH35基因突变会引起绢蝶的变异"
+   },
+   {
+    "label": "C",
+    "text": "灰叶型半荷包紫堇的出现标志着新物种的形成"
+   },
+   {
+    "label": "D",
+    "text": "冰川消融导致绢蝶受到的选择压力减小"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_jMit3BThk8r_l_il05Db6A#2025山西·种群基因频率的变化]"
+ },
+ {
+  "root_id": "mkjr_dKByf5vtV0mgK6CQEkXl0w",
+  "chapter": "必修二 第6章 生物的进化",
+  "points": [
+   "化石证据"
+  ],
+  "province": "福建",
+  "year": "2025",
+  "type": "单选",
+  "answer": "A",
+  "stem": "我国科学家通过对福建发现的侏罗纪鸟类化石的研究，确认了目前全球最古老的鸟类并命名为“政和八闽鸟”。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "该化石为研究鸟类进化提供了最直接的证据"
+   },
+   {
+    "label": "B",
+    "text": "政和八闽鸟为躲避爬行类的捕食进化出了翅膀"
+   },
+   {
+    "label": "C",
+    "text": "该发现证明政和八闽鸟是现代所有鸟类的原始祖先"
+   },
+   {
+    "label": "D",
+    "text": "与现代鸟类同源DNA化学组成比对可确认化石的分类地位"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_dKByf5vtV0mgK6CQEkXl0w#2025福建·化石证据]"
+ },
+ {
+  "root_id": "mkjr_NXsuxhvIbWVmnCHu8v0C7g",
+  "chapter": "必修二 第6章 生物的进化",
+  "points": [
+   "比较解剖学与胚胎学证据",
+   "分子水平证据"
+  ],
+  "province": "浙江",
+  "year": "2025",
+  "type": "单选",
+  "answer": "C",
+  "stem": "大量的证据表明，生物是由共同祖先进化而来的。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "DNA核苷酸序列差异可为物种进化提供证据"
+   },
+   {
+    "label": "B",
+    "text": "牙齿化石是研究动物取食方式进化的证据之一"
+   },
+   {
+    "label": "C",
+    "text": "比较解剖学研究表明人上肢和蝙蝠翼手的功能相同"
+   },
+   {
+    "label": "D",
+    "text": "多种脊椎动物的胚胎发育早期都有尾说明它们有共同祖先"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_NXsuxhvIbWVmnCHu8v0C7g#2025浙江·比较解剖学与胚胎学证据]"
+ },
+ {
+  "root_id": "mkjr_2.pgjApO8XXSJvDAJeZmPQ",
+  "chapter": "必修二 第6章 生物的进化",
+  "points": [
+   "种群基因频率的变化"
+  ],
+  "province": "广东",
+  "year": "2024",
+  "type": "单选",
+  "answer": "C",
+  "stem": "EDAR 基因的一个碱基替换与东亚人有更多汗腺等典型体征有关。用M、m分别表示突变前后的EDAR 基因，研究发现，m的频率从末次盛冰期后开始明显升高。下列推测合理的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "m的出现是自然选择的结果"
+   },
+   {
+    "label": "B",
+    "text": "m不存在于现代非洲和欧洲人群中"
+   },
+   {
+    "label": "C",
+    "text": "m的频率升高是末次盛冰期后环境选择的结果"
+   },
+   {
+    "label": "D",
+    "text": "MM、Mm和mm个体的汗腺密度依次下降"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_2.pgjApO8XXSJvDAJeZmPQ#2024广东·种群基因频率的变化]"
+ },
+ {
+  "root_id": "mkjr_Pu52dFkaE3Iqp6cLQuw79g",
+  "chapter": "必修二 第6章 生物的进化",
+  "points": [
+   "种群基因频率的变化"
+  ],
+  "province": "广西",
+  "year": "2024",
+  "type": "单选",
+  "answer": "B",
+  "stem": "屠呦呦等科学家发现青蒿素，为全球疟疾治疗做出突出贡献。随着时间推移。发现疟原虫对单方青蒿素出现了一定抗药性，为了解决该问题，我国科学家继续研发出高效的青蒿素联合疗法并广泛应用。下列说法错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "疟原虫出现抗药性，说明疟原虫种群在进化"
+   },
+   {
+    "label": "B",
+    "text": "受单方青蒿素刺激，疟原虫产生了抗药性变异"
+   },
+   {
+    "label": "C",
+    "text": "若一直使用单方青蒿素，疟原虫种群抗药性基因频率会上升"
+   },
+   {
+    "label": "D",
+    "text": "青蒿素联合疗法，可以有效地杀灭感染人体的抗药性疟原虫"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_Pu52dFkaE3Iqp6cLQuw79g#2024广西·种群基因频率的变化]"
+ },
+ {
+  "root_id": "mkjr__A3xkiTgn1kNlPGHNRs1Rg",
+  "chapter": "必修二 第6章 生物的进化",
+  "points": [
+   "种群基因频率的变化"
+  ],
+  "province": "江西",
+  "year": "2024",
+  "type": "单选",
+  "answer": "A",
+  "stem": "某水果的W基因（存在多种等位基因）影响果实甜度。研究人员收集到1000棵该水果的植株，它们的基因型及对应棵数如下表。据表分析，这1000棵植株中W1的基因频率是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "16.25%"
+   },
+   {
+    "label": "B",
+    "text": "32.50%"
+   },
+   {
+    "label": "C",
+    "text": "50.00%"
+   },
+   {
+    "label": "D",
+    "text": "67.50%"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr__A3xkiTgn1kNlPGHNRs1Rg#2024江西·种群基因频率的变化]"
+ },
+ {
+  "root_id": "mkjr_EkLpi1FLxA4OY0C19n6PUw",
+  "chapter": "必修二 第6章 生物的进化",
+  "points": [
+   "种群基因频率的变化"
+  ],
+  "province": "浙江",
+  "year": "2023",
+  "type": "单选",
+  "answer": "D",
+  "stem": "浙江浦江县上山村发现了距今1万年的稻作遗址，证明我国先民在1万年前就开始了野生稻驯化。经过长期驯化和改良，现代稻产量不断提高。尤其是袁隆平院士团队培育成的超级杂交稻品种，创造水稻高产新记录，为我国粮食安全作出杰出贡献。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "自然选择在水稻驯化过程中起主导作用"
+   },
+   {
+    "label": "B",
+    "text": "现代稻的基因库与野生稻的基因库完全相同"
+   },
+   {
+    "label": "C",
+    "text": "驯化形成的现代稻保留了野生稻的各种性状"
+   },
+   {
+    "label": "D",
+    "text": "超级杂交稻品种的培育主要利用基因重组原理"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_EkLpi1FLxA4OY0C19n6PUw#2023浙江·种群基因频率的变化]"
+ },
+ {
+  "root_id": "mkjr_APGWbOYH1P85MbntLvIPQQ",
+  "chapter": "必修二 第6章 生物的进化",
+  "points": [
+   "协同进化与生物多样性"
+  ],
+  "province": "河北",
+  "year": "2022",
+  "type": "单选",
+  "answer": "C",
+  "stem": "某植物叶片含有对昆虫有毒的香豆素，经紫外线照射后香豆素毒性显著增强。乌凤蝶可以将香豆素降解，消除其毒性。织叶蛾能将叶片卷起，取食内部叶片，不会受到毒害。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "乌凤蝶进化形成香豆素降解体系，是香豆素对其定向选择的结果"
+   },
+   {
+    "label": "B",
+    "text": "影响乌凤蝶对香豆素降解能力的基因突变具有不定向性"
+   },
+   {
+    "label": "C",
+    "text": "为防止取食含有强毒素的部分，织叶蛾采用卷起叶片再摄食的策略"
+   },
+   {
+    "label": "D",
+    "text": "植物的香豆素防御体系和昆虫的避免被毒杀策略是共同进化的结果"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_APGWbOYH1P85MbntLvIPQQ#2022河北·协同进化与生物多样性]"
+ },
+ {
+  "root_id": "mkjr_cEHSc7zXuZOvBSTFYg.LAg",
+  "chapter": "必修二 第6章 生物的进化",
+  "points": [
+   "物种形成与隔离"
+  ],
+  "province": "湖南",
+  "year": "2022",
+  "type": "单选",
+  "answer": "D",
+  "stem": "稻蝗属的三个近缘物种①日本稻蝗、②中华稻蝗台湾亚种和③小翅稻蝗中，①与②、①与③的分布区域有重叠，②与③的分布区域不重叠。为探究它们之间的生殖隔离机制，进行了种间交配实验，结果如表所示。下列叙述错误的是（ ） [图] 注:精子传送率是指受精囊中有精子的雌虫占确认交配雌虫的百分比",
+  "options": [
+   {
+    "label": "A",
+    "text": "实验结果表明近缘物种之间也可进行交配"
+   },
+   {
+    "label": "B",
+    "text": "生殖隔离与物种的分布区域是否重叠无关"
+   },
+   {
+    "label": "C",
+    "text": "隔离是物种形成的必要条件"
+   },
+   {
+    "label": "D",
+    "text": "②和③之间可进行基因交流"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_cEHSc7zXuZOvBSTFYg.LAg#2022湖南·物种形成与隔离]"
+ },
+ {
+  "root_id": "mkjr_4aU1aCw4BGvKQuZBt9YEqA",
+  "chapter": "必修二 第6章 生物的进化",
+  "points": [
+   "协同进化与生物多样性"
+  ],
+  "province": "辽宁",
+  "year": "2022",
+  "type": "单选",
+  "answer": "B",
+  "stem": "下列关于生物进化和生物多样性的叙述，错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "通过杂交育种技术培育出许多水稻新品种，增加了水稻的遗传多样性"
+   },
+   {
+    "label": "B",
+    "text": "人类与黑猩猩基因组序列高度相似，说明人类从黑猩猩进化而来"
+   },
+   {
+    "label": "C",
+    "text": "新物种的形成意味着生物类型和适应方式的增多"
+   },
+   {
+    "label": "D",
+    "text": "生物之间既相互依存又相互制约，生物多样性是协同进化的结果"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_4aU1aCw4BGvKQuZBt9YEqA#2022辽宁·协同进化与生物多样性]"
+ },
+ {
+  "root_id": "mkjr_4ytondXfBm3eluFkHE4ydA",
+  "chapter": "必修二 第6章 生物的进化",
+  "points": [
+   "物种形成与隔离"
+  ],
+  "province": "湖北",
+  "year": "2023",
+  "type": "单选",
+  "answer": "A",
+  "stem": "现有甲、乙两种牵牛花，花冠的颜色由基因A、a控制。含A基因的牵牛花开紫花，不含A基因的牵牛花开白花。甲开白花，释放的挥发物质多，主要靠蛾类传粉；乙开紫花，释放的挥发物质少，主要靠蜂类传粉。若将A基因转入甲，其花颜色由白变紫，其他性状不变，但对蛾类的吸引下降，对蜂类的吸引增强。根据上述材料，下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "甲、乙两种牵牛花传粉昆虫的差异，对维持两物种生殖隔离具有重要作用"
+   },
+   {
+    "label": "B",
+    "text": "在蛾类多而蜂类少的环境下，甲有选择优势，A基因突变加快"
+   },
+   {
+    "label": "C",
+    "text": "将A基因引入甲植物种群后，甲植物种群的基因库未发生改变"
+   },
+   {
+    "label": "D",
+    "text": "甲释放的挥发物是吸引蛾类传粉的决定性因素"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_4ytondXfBm3eluFkHE4ydA#2023湖北·物种形成与隔离]"
+ },
+ {
+  "root_id": "mkjr_tYRezmogZtHt847ZOhlP9w",
+  "chapter": "必修二 第6章 生物的进化",
+  "points": [
+   "种群基因频率的变化"
+  ],
+  "province": "湖北",
+  "year": "2023",
+  "type": "单选",
+  "answer": "B",
+  "stem": "某二倍体动物种群有100个个体，其常染色体上某基因有A1、A2、A3三个等位基因。对这些个体的基因A1、A2、A3进行PCR扩增，凝胶电泳及统计结果如图所示。该种群中A3的基因频率是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "52%"
+   },
+   {
+    "label": "B",
+    "text": "27%"
+   },
+   {
+    "label": "C",
+    "text": "26%"
+   },
+   {
+    "label": "D",
+    "text": "2%"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_tYRezmogZtHt847ZOhlP9w#2023湖北·种群基因频率的变化]"
+ },
+ {
+  "root_id": "mkjr_DwS18.62ldyr3G1dwVQ6fA",
+  "chapter": "必修二 第6章 生物的进化",
+  "points": [
+   "种群基因频率的变化"
+  ],
+  "province": "重庆",
+  "year": "2023",
+  "type": "单选",
+  "answer": "D",
+  "stem": "果蝇有翅（H）对无翅（h）为显性。在某实验室繁育的果蝇种群中，部分无翅果蝇胚胎被转入小鼠W基因后（不整合到基因组），会发育成有翅果蝇，随后被放回原种群。下列推测不合理的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "W基因在不同物种中功能可能不同"
+   },
+   {
+    "label": "B",
+    "text": "H、W基因序列可能具有高度相似性"
+   },
+   {
+    "label": "C",
+    "text": "种群中H、h基因频率可能保持相对恒定"
+   },
+   {
+    "label": "D",
+    "text": "转入W基因的果蝇可能决定该种群朝有翅方向进化"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_DwS18.62ldyr3G1dwVQ6fA#2023重庆·种群基因频率的变化]"
+ },
+ {
+  "root_id": "mkjr_2aBrNks6nkCJ4UsLWBoh4A",
+  "chapter": "必修二 第6章 生物的进化",
+  "points": [
+   "种群基因频率的变化"
+  ],
+  "province": "河北",
+  "year": "2024",
+  "type": "单选",
+  "answer": "B",
+  "stem": "为控制地中海沿岸某陆地区域蚊子的数量，每年在距海岸线0～20 km范围内（区域A）喷洒杀虫剂。某种蚊子的Est基因与毒素降解相关，其基因频率如图所示。下列分析正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "在区域A中，该种蚊子的Est基因频率发生不定向改变"
+   },
+   {
+    "label": "B",
+    "text": "随着远离海岸线，区域A中该种蚊子Est基因频率的下降主要由迁入和迁出导致"
+   },
+   {
+    "label": "C",
+    "text": "距海岸线0～60 km区域内，蚊子受到杀虫剂的选择压力相同"
+   },
+   {
+    "label": "D",
+    "text": "区域A中的蚊子可快速形成新物种"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_2aBrNks6nkCJ4UsLWBoh4A#2024河北·种群基因频率的变化]"
+ },
+ {
+  "root_id": "mkjr_cnW2DNVzS2l.dBTzbNMD9g",
+  "chapter": "必修二 第6章 生物的进化",
+  "points": [
+   "分子水平证据"
+  ],
+  "province": "浙江",
+  "year": "2024",
+  "type": "单选",
+  "answer": "D",
+  "stem": "在酵母菌、植物、昆虫等不同生物类群中，rDNA（编码核糖体RNA的基因）的碱基序列大部分是相同的。这一事实为“这些不同生物类群具有共同祖先”的观点提供了（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "化石证据"
+   },
+   {
+    "label": "B",
+    "text": "比较解剖学证据"
+   },
+   {
+    "label": "C",
+    "text": "胚胎学证据"
+   },
+   {
+    "label": "D",
+    "text": "分子水平证据"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_cnW2DNVzS2l.dBTzbNMD9g#2024浙江·分子水平证据]"
+ },
+ {
+  "root_id": "mkjr_yi_cUl19sTZVAeiYN9kOzg",
+  "chapter": "必修二 第6章 生物的进化",
+  "points": [
+   "物种形成与隔离"
+  ],
+  "province": "湖北",
+  "year": "2024",
+  "type": "单选",
+  "answer": "D",
+  "stem": "研究发现，某种芦鹀分布在不同地区的三个种群，因栖息地环境的差异导致声音信号发生分歧。不同芦鹀种群的两个和求偶有关的鸣唱特征，相较于其他鸣唱特征有明显分歧。因此推测和求偶有关的鸣唱特征，在芦鹀的早期物种形成过程中有重要作用。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "芦鹀的鸣唱声属于物理信息"
+   },
+   {
+    "label": "B",
+    "text": "求偶的鸣唱特征是芦鹀与栖息环境之间协同进化的结果"
+   },
+   {
+    "label": "C",
+    "text": "芦鹀之间通过鸣唱形成信息流，芦鹀既是信息源又是信息受体"
+   },
+   {
+    "label": "D",
+    "text": "和求偶有关的鸣唱特征的差异，表明这三个芦鹀种群存在生殖隔离"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_yi_cUl19sTZVAeiYN9kOzg#2024湖北·物种形成与隔离]"
+ },
+ {
+  "root_id": "mkjr_537.L4OIMnwvspfHKRGcfQ",
+  "chapter": "必修二 第6章 生物的进化",
+  "points": [
+   "种群基因频率的变化"
+  ],
+  "province": "湖北",
+  "year": "2024",
+  "type": "单选",
+  "answer": "B",
+  "stem": "某二倍体动物的性别决定方式为ZW型，雌性和雄性个体数的比例为1∶1。该动物种群处于遗传平衡，雌性个体中有1/10患甲病（由Z染色体上h基因决定）。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "该种群有11%的个体患该病"
+   },
+   {
+    "label": "B",
+    "text": "该种群h基因的频率是10%"
+   },
+   {
+    "label": "C",
+    "text": "只考虑该对基因，种群繁殖一代后基因型共有6种"
+   },
+   {
+    "label": "D",
+    "text": "若某病毒使该种群患甲病雄性个体减少10%，H基因频率不变"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_537.L4OIMnwvspfHKRGcfQ#2024湖北·种群基因频率的变化]"
+ },
+ {
+  "root_id": "mkjr_ACNE67I_nuY_ciMKFIXuxA",
+  "chapter": "必修二 第6章 生物的进化",
+  "points": [
+   "物种形成与隔离"
+  ],
+  "province": "甘肃",
+  "year": "2024",
+  "type": "单选",
+  "answer": "A",
+  "stem": "青藏高原隆升引起的生态地理隔离促进了物种的形成。该地区某植物不同区域的两个种群，进化过程中出现了花期等性状的分化，种群甲花期结束约20天后，种群乙才开始开花，研究发现两者间人工授粉不能形成有活力的种子。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "花期隔离标志着两个种群间已出现了物种的分化"
+   },
+   {
+    "label": "B",
+    "text": "花期隔离进一步增大了种群甲和乙的基因库差异"
+   },
+   {
+    "label": "C",
+    "text": "地理隔离和花期隔离限制了两种群间的基因交流"
+   },
+   {
+    "label": "D",
+    "text": "物种形成过程实质上是种间生殖隔离建立的过程"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_ACNE67I_nuY_ciMKFIXuxA#2024甘肃·物种形成与隔离]"
+ },
+ {
+  "root_id": "mkjr_qcm2aJSNA48179IV_tughw",
+  "chapter": "必修二 第6章 生物的进化",
+  "points": [
+   "自然选择与适应"
+  ],
+  "province": "福建",
+  "year": "2024",
+  "type": "单选",
+  "answer": "A",
+  "stem": "成年棘胸蛙存在雄蛙大、雌蛙小两性异形现象，推测这是雌蛙对雄蛙长期选择的结果。支持该推测的证据是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "体型较大的雄蛙能获得更多的交配机会"
+   },
+   {
+    "label": "B",
+    "text": "雌蛙对相同种群雄蛙的求偶鸣叫更敏感"
+   },
+   {
+    "label": "C",
+    "text": "雄蛙在雌蛙产卵高峰期求偶鸣叫更积极"
+   },
+   {
+    "label": "D",
+    "text": "体型较大的雌蛙交配后能产出更多的卵"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_qcm2aJSNA48179IV_tughw#2024福建·自然选择与适应]"
+ }
+]

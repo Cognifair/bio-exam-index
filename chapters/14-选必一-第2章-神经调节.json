@@ -1,0 +1,1304 @@
+[
+ {
+  "root_id": "mkjr_xWjUFec0KBsyUzuNx5LlqA",
+  "chapter": "选必一 第2章 神经调节",
+  "points": [
+   "神经系统的分级调节",
+   "自主神经系统"
+  ],
+  "province": "云南",
+  "year": "2026",
+  "type": "单选",
+  "answer": "A",
+  "stem": "下列成语与神经调节的对应关系正确的是（　　）",
+  "options": [
+   {
+    "label": "A",
+    "text": "“手舞足蹈”——小脑对运动的协调加强"
+   },
+   {
+    "label": "B",
+    "text": "“巧舌如簧”——大脑皮层W区活动加强"
+   },
+   {
+    "label": "C",
+    "text": "“面红耳赤”——自主神经系统活动减弱"
+   },
+   {
+    "label": "D",
+    "text": "“怒发冲冠”——副交感神经活动占优势"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_xWjUFec0KBsyUzuNx5LlqA#2026云南·神经系统的分级调节]"
+ },
+ {
+  "root_id": "mkjr_eQ1BhPu5c_NOekGjrQ6F4A",
+  "chapter": "选必一 第2章 神经调节",
+  "points": [
+   "反射与反射弧",
+   "神经系统的分级调节"
+  ],
+  "province": "安徽",
+  "year": "2026",
+  "type": "单选",
+  "answer": "D",
+  "stem": "临床上常通过检查膝跳反射来了解参与该反射的神经系统功能状态。用相同力度叩击肌腱，若小腿抬高幅度过大，则称为膝跳反射亢进。如图①~⑦是参与膝跳反射的相关结构。下列叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "发生膝跳反射时，①→④→⑥→②的效应是收缩"
+   },
+   {
+    "label": "B",
+    "text": "发生膝跳反射时，①→④→⑦→⑤→③的效应是舒张"
+   },
+   {
+    "label": "C",
+    "text": "截瘫患者若膝跳反射消失，可能的原因是反射弧中断"
+   },
+   {
+    "label": "D",
+    "text": "截瘫患者若膝跳反射亢进，说明高位中枢对⑥有增强作用"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_eQ1BhPu5c_NOekGjrQ6F4A#2026安徽·反射与反射弧]"
+ },
+ {
+  "root_id": "mkjr_z1nDaZ.gKEWeCvkXa_Ms2A",
+  "chapter": "选必一 第2章 神经调节",
+  "points": [
+   "突触的结构与传递",
+   "神经冲动的产生与传导"
+  ],
+  "province": "河南",
+  "year": "2026",
+  "type": "单选",
+  "answer": "C",
+  "stem": "神经元外K+或谷氨酸（神经递质）积累过多使神经元易过度兴奋。星形胶质细胞是一种神经胶质细胞，能够摄取神经元外多余的K+和谷氨酸。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "神经元上同时存在运输K+的通道蛋白和载体蛋白"
+   },
+   {
+    "label": "B",
+    "text": "星形胶质细胞能够防止神经元过度兴奋，以起到保护作用"
+   },
+   {
+    "label": "C",
+    "text": "若星形胶质细胞摄取谷氨酸的能力下降，突触后膜静息电位的绝对值增大"
+   },
+   {
+    "label": "D",
+    "text": "星形胶质细胞可通过改变神经元内外的离子分布和膜通透性影响兴奋传递"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_z1nDaZ.gKEWeCvkXa_Ms2A#2026河南·突触的结构与传递]"
+ },
+ {
+  "root_id": "mkjr_vJNuv2KuiWXmLPVRJ7Cjyg",
+  "chapter": "选必一 第2章 神经调节",
+  "points": [
+   "人脑的高级功能",
+   "神经系统的基本结构"
+  ],
+  "province": "湖北",
+  "year": "2026",
+  "type": "单选",
+  "answer": "C",
+  "stem": "脑机接口（BCI）技术通过在脑与机器间建立信息通道，帮助脊髓损伤、脑卒中等患者重建部分运动和语言功能。某四肢瘫痪患者在植入我国研发的“北脑一号”BCI后，不仅能脑控机械臂，上肢肌力也显著提升。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "由于BCI收集的是电信号，无需考虑数据信息的隐私保密"
+   },
+   {
+    "label": "B",
+    "text": "植入BCI的脑卒中患者恢复写字能力，说明该患者大脑皮层S区正常"
+   },
+   {
+    "label": "C",
+    "text": "识别、解析大脑发出的电信号是BCI帮助四肢瘫痪患者恢复运动功能的难点"
+   },
+   {
+    "label": "D",
+    "text": "神经胶质细胞数量远多于神经元，故BCI采集的电信号主要来自神经胶质细胞"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_vJNuv2KuiWXmLPVRJ7Cjyg#2026湖北·人脑的高级功能]"
+ },
+ {
+  "root_id": "mkjr_9_c5h8DNstW_NPfww8HqDQ",
+  "chapter": "选必一 第2章 神经调节",
+  "points": [
+   "反射与反射弧"
+  ],
+  "province": "北京",
+  "year": "2025",
+  "type": "单选",
+  "answer": "D",
+  "stem": "外科医生给足外伤患者缝合伤口时，先在伤口附近注射局部麻醉药，以减轻患者疼痛。局部麻醉药的作用原理是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "降低伤口处效应器的功能"
+   },
+   {
+    "label": "B",
+    "text": "降低脊髓中枢的反射能力"
+   },
+   {
+    "label": "C",
+    "text": "阻断相关传出神经纤维的传导"
+   },
+   {
+    "label": "D",
+    "text": "阻断相关传入神经纤维的传导"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_9_c5h8DNstW_NPfww8HqDQ#2025北京·反射与反射弧]"
+ },
+ {
+  "root_id": "mkjr_2OaFdBIbwxk8BeOiL9K0Rw",
+  "chapter": "选必一 第2章 神经调节",
+  "points": [
+   "自主神经系统"
+  ],
+  "province": "北京",
+  "year": "2025",
+  "type": "单选",
+  "answer": "A",
+  "stem": "为了解甲基苯丙胺（MA，俗称冰毒）对心脏功能的影响，研究者比较了吸食与不吸食MA人群左心室的泵血能力，结果如图。下列叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "滥用MA会导致左心室收缩能力下降"
+   },
+   {
+    "label": "B",
+    "text": "左心室功能的显著下降导致吸食MA成瘾"
+   },
+   {
+    "label": "C",
+    "text": "MA可以阻断神经对心脏活动的调节"
+   },
+   {
+    "label": "D",
+    "text": "MA通过破坏血管影响左心室泵血功能"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_2OaFdBIbwxk8BeOiL9K0Rw#2025北京·自主神经系统]"
+ },
+ {
+  "root_id": "mkjr_9PAmj8on.hAPvKXaIt0Hsg",
+  "chapter": "选必一 第2章 神经调节",
+  "points": [
+   "突触的结构与传递"
+  ],
+  "province": "四川",
+  "year": "2025",
+  "type": "单选",
+  "answer": "C",
+  "stem": "为模拟大脑控制骨骼肌运动的生理过程，科学家将人干细胞诱导分化成三种细胞（图甲），并分别培养成具有相应功能的细胞团，再将不同细胞团组合培养一段时间后，观察骨骼肌细胞团（简称肌）的收缩频率（图乙）。下列推断最合理的是（ ） [图] 注：谷氨酸和乙酰胆碱为两种神经元释放的神经递质",
+  "options": [
+   {
+    "label": "A",
+    "text": "若在③培养液中加入谷氨酸，肌收缩频率不会发生变化"
+   },
+   {
+    "label": "B",
+    "text": "若将④中乙酰胆碱受体阻断，刺激X会增加肌收缩频率"
+   },
+   {
+    "label": "C",
+    "text": "分析②③④可知，X需要通过Y与肌发生功能上的联系"
+   },
+   {
+    "label": "D",
+    "text": "由实验结果可知，肌与神经元共培养时收缩频率均增加"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_9PAmj8on.hAPvKXaIt0Hsg#2025四川·突触的结构与传递]"
+ },
+ {
+  "root_id": "mkjr_N_r_OLMGv5efxw7yF5_G1g",
+  "chapter": "选必一 第2章 神经调节",
+  "points": [
+   "突触的结构与传递"
+  ],
+  "province": "安徽",
+  "year": "2025",
+  "type": "单选",
+  "answer": "A",
+  "stem": "正常情况下，神经产生的动作电位个数与所支配的骨骼肌收缩次数一致，乙酰胆碱递质的释放依赖于细胞外液中的钙离子。下图是蛙坐骨神经—腓肠肌标本示意图。刺激a处，电表偏转，腓肠肌收缩。对细胞外液分别进行4种预处理后，再进行以下实验，其中符合细胞外液中去除钙离子预处理的实验现象是（ ） [图] [图] 说明：“+”表示收缩；“-”表示无收缩；“+++”表示持续性收缩。",
+  "options": [
+   {
+    "label": "A",
+    "text": "A"
+   },
+   {
+    "label": "B",
+    "text": "B"
+   },
+   {
+    "label": "C",
+    "text": "C"
+   },
+   {
+    "label": "D",
+    "text": "D"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_N_r_OLMGv5efxw7yF5_G1g#2025安徽·突触的结构与传递]"
+ },
+ {
+  "root_id": "mkjr_3uGuI7B23u.lVEN8sdE9qg",
+  "chapter": "选必一 第2章 神经调节",
+  "points": [
+   "神经冲动的产生与传导",
+   "神经系统的分级调节"
+  ],
+  "province": "湖南",
+  "year": "2026",
+  "type": "多选",
+  "answer": "BCD",
+  "stem": "某人颈脊髓损伤，失去行走能力。在安装脑脊接口套件后，该患者恢复了自主行走能力。该套件由三个装置组成，如图所示：装置1安装在大脑皮层中央前回，负责采集信号；装置2穿戴于体外，负责对装置1传来的信息解码并生成控制指令；装置3置于体内脊髓区，负责将装置2的指令转换并传至控制下肢的脊髓运动中枢。下列叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "装置1收到的信号与神经元的Na+、K+跨膜运输有关"
+   },
+   {
+    "label": "B",
+    "text": "装置2和大脑皮层一样，具有随意支配下肢运动的能力"
+   },
+   {
+    "label": "C",
+    "text": "装置3刺激患者自主神经纤维释放电信号控制下肢肌肉收缩"
+   },
+   {
+    "label": "D",
+    "text": "该套件的应用证明大脑可不经反射弧直接支配下肢肌肉"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_3uGuI7B23u.lVEN8sdE9qg#2026湖南·神经冲动的产生与传导]"
+ },
+ {
+  "root_id": "mkjr_KtnSqS3GrSmLgD.3k1UK9w",
+  "chapter": "选必一 第2章 神经调节",
+  "points": [
+   "神经系统的分级调节"
+  ],
+  "province": "全国甲",
+  "year": "2023",
+  "type": "单选",
+  "answer": "D",
+  "stem": "中枢神经系统对维持人体内环境的稳态具有重要作用。下列关于人体中枢的叙述，错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "大脑皮层是调节机体活动的最高级中枢"
+   },
+   {
+    "label": "B",
+    "text": "中枢神经系统的脑和脊髓中含有大量的神经元"
+   },
+   {
+    "label": "C",
+    "text": "位于脊髓的低级中枢通常受脑中相应的高级中枢调控"
+   },
+   {
+    "label": "D",
+    "text": "人体脊髓完整而脑部受到损伤时，不能完成膝跳反射"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_KtnSqS3GrSmLgD.3k1UK9w#2023全国甲·神经系统的分级调节]"
+ },
+ {
+  "root_id": "mkjr_TUNFq1P7EILd1VOF3.U5Zw",
+  "chapter": "选必一 第2章 神经调节",
+  "points": [
+   "条件反射的建立与消退"
+  ],
+  "province": "北京",
+  "year": "2023",
+  "type": "单选",
+  "answer": "B",
+  "stem": "人通过学习获得各种条件反射，这有效提高了对复杂环境变化的适应能力。下列属于条件反射的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "食物进入口腔引起胃液分泌"
+   },
+   {
+    "label": "B",
+    "text": "司机看见红色交通信号灯踩刹车"
+   },
+   {
+    "label": "C",
+    "text": "打篮球时运动员大汗淋漓"
+   },
+   {
+    "label": "D",
+    "text": "新生儿吸吮放入口中的奶嘴"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_TUNFq1P7EILd1VOF3.U5Zw#2023北京·条件反射的建立与消退]"
+ },
+ {
+  "root_id": "mkjr_5mWh0CD2PJe5a.4QK9nnBw",
+  "chapter": "选必一 第2章 神经调节",
+  "points": [
+   "突触的结构与传递"
+  ],
+  "province": "全国乙",
+  "year": "2022",
+  "type": "单选",
+  "answer": "B",
+  "stem": "运动神经元与骨骼肌之间的兴奋传递过度会引起肌肉痉挛，严重时会危及生命。下列治疗方法中合理的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "通过药物加快神经递质经突触前膜释放到突触间隙中"
+   },
+   {
+    "label": "B",
+    "text": "通过药物阻止神经递质与突触后膜上特异性受体结合"
+   },
+   {
+    "label": "C",
+    "text": "通过药物抑制突触间隙中可降解神经递质的酶的活性"
+   },
+   {
+    "label": "D",
+    "text": "通过药物增加突触后膜上神经递质特异性受体的数量"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_5mWh0CD2PJe5a.4QK9nnBw#2022全国乙·突触的结构与传递]"
+ },
+ {
+  "root_id": "mkjr_6tTljh.nJNl.g3pnE1SmcQ",
+  "chapter": "选必一 第2章 神经调节",
+  "points": [
+   "突触的结构与传递"
+  ],
+  "province": "北京",
+  "year": "2022",
+  "type": "单选",
+  "answer": "D",
+  "stem": "神经组织局部电镜照片如下图。下列有关突触的结构及神经元间信息传递的叙述，不正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "神经冲动传导至轴突末梢，可引起1与突触前膜融合"
+   },
+   {
+    "label": "B",
+    "text": "1中的神经递质释放后可与突触后膜上的受体结合"
+   },
+   {
+    "label": "C",
+    "text": "2所示的细胞器可以为神经元间的信息传递供能"
+   },
+   {
+    "label": "D",
+    "text": "2所在的神经元只接受1所在的神经元传来的信息"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_6tTljh.nJNl.g3pnE1SmcQ#2022北京·突触的结构与传递]"
+ },
+ {
+  "root_id": "mkjr_aDK2IT5JnIrm5IVx0oyeZA",
+  "chapter": "选必一 第2章 神经调节",
+  "points": [
+   "突触的结构与传递"
+  ],
+  "province": "山东",
+  "year": "2022",
+  "type": "单选",
+  "answer": "B",
+  "stem": "药物甲、乙、丙均可治疗某种疾病，相关作用机制如图所示，突触前膜释放的递质为去甲肾上腺素（NE）。下列说法错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "药物甲的作用导致突触间隙中的NE增多"
+   },
+   {
+    "label": "B",
+    "text": "药物乙抑制NE释放过程中的正反馈"
+   },
+   {
+    "label": "C",
+    "text": "药物丙抑制突触间隙中NE的回收"
+   },
+   {
+    "label": "D",
+    "text": "NE-β受体复合物可改变突触后膜的离子通透性"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_aDK2IT5JnIrm5IVx0oyeZA#2022山东·突触的结构与传递]"
+ },
+ {
+  "root_id": "mkjr_iMDw9oesYWDzU7FKvUbDQA",
+  "chapter": "选必一 第2章 神经调节",
+  "points": [
+   "神经冲动的产生与传导",
+   "神经系统的分级调节"
+  ],
+  "province": "贵州",
+  "year": "2026",
+  "type": "单选",
+  "answer": "A",
+  "stem": "独竹漂是贵州少数民族的特色水上运动，运动员需要精准感知身体姿态变化并迅速调整动作。长期训练会使运动员小脑中与平衡协调相关的神经元之间建立更复杂的联系。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "运动员感知竹竿晃动时，兴奋在神经纤维上以电信号形式双向传导"
+   },
+   {
+    "label": "B",
+    "text": "运动员迅速调整动作时，支配肌肉的传出神经属于躯体运动神经"
+   },
+   {
+    "label": "C",
+    "text": "小脑中新建立的复杂联系，其结构基础是神经元之间建立的突触"
+   },
+   {
+    "label": "D",
+    "text": "运动员的平衡调节过程需要大脑皮层、小脑和脊髓等共同参与"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_iMDw9oesYWDzU7FKvUbDQA#2026贵州·神经冲动的产生与传导]"
+ },
+ {
+  "root_id": "mkjr_7fDJ4N3iIpFSCosNcK.BzA",
+  "chapter": "选必一 第2章 神经调节",
+  "points": [
+   "神经冲动的产生与传导"
+  ],
+  "province": "山东",
+  "year": "2025",
+  "type": "单选",
+  "answer": "B",
+  "stem": "神经细胞动作电位产生后，K+外流使膜电位恢复为静息状态的过程中，膜上的钠钾泵转运K+、Na+的活动增强，促使膜内外的K+、Na+分布也恢复到静息状态。已知胞内K+浓度总是高于胞外，胞外Na+浓度总是高于胞内。下列说法错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "若增加神经细胞外的Na+浓度，动作电位的幅度增大"
+   },
+   {
+    "label": "B",
+    "text": "若静息状态下Na+通道的通透性增加，静息电位的幅度不变"
+   },
+   {
+    "label": "C",
+    "text": "若抑制钠钾泵活动，静息电位和动作电位的幅度都减小"
+   },
+   {
+    "label": "D",
+    "text": "神经细胞的K+、Na+跨膜运输方式均包含主动运输和被动运输"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_7fDJ4N3iIpFSCosNcK.BzA#2025山东·神经冲动的产生与传导]"
+ },
+ {
+  "root_id": "mkjr_IvHE_4RyYw2AhkpNpFUekQ",
+  "chapter": "选必一 第2章 神经调节",
+  "points": [
+   "神经冲动的产生与传导"
+  ],
+  "province": "广东",
+  "year": "2025",
+  "type": "单选",
+  "answer": "C",
+  "stem": "临床上常采用体表电刺激诱发神经兴奋并检测相关指标，以用于神经病变的早期诊断和疗效评价，下列分析正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "刺激后神经纤维的钠钾泵活性不变"
+   },
+   {
+    "label": "B",
+    "text": "兴奋传导过程中刺激部位保持兴奋状态"
+   },
+   {
+    "label": "C",
+    "text": "神经纤维上通道相继开放传导兴奋"
+   },
+   {
+    "label": "D",
+    "text": "兴奋传导过程中细胞膜通透性不变"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_IvHE_4RyYw2AhkpNpFUekQ#2025广东·神经冲动的产生与传导]"
+ },
+ {
+  "root_id": "mkjr_yBgz3GGU8ZGCSp.RvCjDoQ",
+  "chapter": "选必一 第2章 神经调节",
+  "points": [
+   "突触的结构与传递"
+  ],
+  "province": "江苏",
+  "year": "2025",
+  "type": "单选",
+  "answer": "B",
+  "stem": "脂肪细胞分泌的生物活性蛋白Leptin可使兴奋性递质5-羟色胺的合成和释放减少，阻碍神经元之间的兴奋传递，如图所示。下列相关叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "脂肪细胞通过释放Leptin使5-羟色胺的合成减少属于体液调节"
+   },
+   {
+    "label": "B",
+    "text": "Leptin直接影响突触前膜和突触后膜的静息电位"
+   },
+   {
+    "label": "C",
+    "text": "Leptin与突触前膜受体结合，影响兴奋在突触处的传递"
+   },
+   {
+    "label": "D",
+    "text": "5-羟色胺与突触后膜受体结合减少，导致内流减少"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_yBgz3GGU8ZGCSp.RvCjDoQ#2025江苏·突触的结构与传递]"
+ },
+ {
+  "root_id": "mkjr__IakzP0AhfLo9FogIQYu2g",
+  "chapter": "选必一 第2章 神经调节",
+  "points": [
+   "突触的结构与传递"
+  ],
+  "province": "江西",
+  "year": "2025",
+  "type": "单选",
+  "answer": "A",
+  "stem": "乙酰胆碱(ACh)可在多条神经调节通路中发挥作用。研究发现，小鼠获得奖赏时，强啡肽阳性神经元会释放强啡肽，通过图示通路促进ACh的释放，提升学习效果。GABA是一种抑制性神经递质，能抑制ACh的释放。在奖赏信息刺激下，下列推测合理的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "敲除强啡肽阳性神经元的强啡肽受体基因，ACh的释放量会更多"
+   },
+   {
+    "label": "B",
+    "text": "强啡肽与GABA能神经元上的受体结合后，GABA的释放量会更多"
+   },
+   {
+    "label": "C",
+    "text": "敲除GABA能神经元的强啡肽受体基因，ACh的释放量会更多"
+   },
+   {
+    "label": "D",
+    "text": "去除奖赏信息刺激后，乙酰胆碱能神经元会停止释放ACh"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr__IakzP0AhfLo9FogIQYu2g#2025江西·突触的结构与传递]"
+ },
+ {
+  "root_id": "mkjr_1dYff9btKeaVUxhKRUk_og",
+  "chapter": "选必一 第2章 神经调节",
+  "points": [
+   "反射与反射弧",
+   "突触的结构与传递"
+  ],
+  "province": "河北",
+  "year": "2025",
+  "type": "单选",
+  "answer": "A",
+  "stem": "血液中CO2浓度升高刺激Ⅰ型细胞，由此引发的Ca2+内流促使神经递质释放，引起传入神经兴奋，最终使呼吸加深加快。通过Ⅰ型细胞对信息进行转换和传递的通路如图所示。下列叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "Ⅰ型细胞受CO2浓度升高刺激时，胞内K+浓度降低，引发膜电位变化"
+   },
+   {
+    "label": "B",
+    "text": "阻断Ⅰ型细胞的Ca2+内流，可阻断该通路对呼吸的调节作用"
+   },
+   {
+    "label": "C",
+    "text": "该通路可将CO2浓度升高的刺激转换为传入神经的电信号"
+   },
+   {
+    "label": "D",
+    "text": "机体通过Ⅰ型细胞维持CO2浓度相对稳定的过程存在负反馈调节"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_1dYff9btKeaVUxhKRUk_og#2025河北·反射与反射弧]"
+ },
+ {
+  "root_id": "mkjr_AdWML2PyOem9RQ0N9P7xuQ",
+  "chapter": "选必一 第2章 神经调节",
+  "points": [
+   "条件反射的建立与消退",
+   "神经系统的基本结构"
+  ],
+  "province": "河北",
+  "year": "2025",
+  "type": "多选",
+  "answer": "BC",
+  "stem": "研究者对不同受试者的检查发现：①丘脑（位于下丘脑旁侧的较高级中枢）受损患者对皮肤的触碰刺激无反应；②看到食物，引起唾液分泌；③受到惊吓时，咀嚼和吞咽食物变慢。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "①说明触觉产生于丘脑"
+   },
+   {
+    "label": "B",
+    "text": "②中引起唾液分泌的反射为条件反射"
+   },
+   {
+    "label": "C",
+    "text": "控制咀嚼和吞咽的传出神经属于外周神经系统"
+   },
+   {
+    "label": "D",
+    "text": "受到惊吓时，机体通过神经系统影响内分泌，肾上腺素分泌减少"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_AdWML2PyOem9RQ0N9P7xuQ#2025河北·条件反射的建立与消退]"
+ },
+ {
+  "root_id": "mkjr_8fGaUjDi2ZWdlfaCDxDltQ",
+  "chapter": "选必一 第2章 神经调节",
+  "points": [
+   "神经冲动的产生与传导"
+  ],
+  "province": "甘肃",
+  "year": "2025",
+  "type": "单选",
+  "answer": "A",
+  "stem": "现代生理学中将能发生动作电位的细胞称为可兴奋细胞，动作电位是在静息电位的基础上产生的膜电位变化。关于可兴奋细胞的静息电位和动作电位，下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "静息状态下细胞内的K+浓度高于细胞外，在动作电位发生时则相反"
+   },
+   {
+    "label": "B",
+    "text": "胞外K+浓度降低时，静息电位的绝对值会变大，动作电位不易发生"
+   },
+   {
+    "label": "C",
+    "text": "动作电位发生时，细胞膜对Na+的通透性迅速升高，随后快速回落"
+   },
+   {
+    "label": "D",
+    "text": "由主动运输建立的跨膜离子浓度梯度是动作电位发生的必要条件"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_8fGaUjDi2ZWdlfaCDxDltQ#2025甘肃·神经冲动的产生与传导]"
+ },
+ {
+  "root_id": "mkjr_OKq4IqkxtsMT8mKPfw4UdA",
+  "chapter": "选必一 第2章 神经调节",
+  "points": [
+   "自主神经系统"
+  ],
+  "province": "安徽",
+  "year": "2024",
+  "type": "单选",
+  "answer": "A",
+  "stem": "人在睡梦中偶尔会出现心跳明显加快、呼吸急促，甚至惊叫。如果此时检测这些人的血液，会发现肾上腺素含量明显升高。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "睡梦中出现呼吸急促和惊叫等生理活动不受大脑皮层控制"
+   },
+   {
+    "label": "B",
+    "text": "睡梦中惊叫等应激行为与肾上腺髓质分泌的肾上腺素有关"
+   },
+   {
+    "label": "C",
+    "text": "睡梦中心跳加快与交感神经活动增强、副交感神经活动减弱有关"
+   },
+   {
+    "label": "D",
+    "text": "交感神经兴奋促进肾上腺素释放进而引起心跳加快，属于神经－体液调节"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_OKq4IqkxtsMT8mKPfw4UdA#2024安徽·自主神经系统]"
+ },
+ {
+  "root_id": "mkjr_K9WqaBlMpnQKSy8lI2GgHQ",
+  "chapter": "选必一 第2章 神经调节",
+  "points": [
+   "自主神经系统",
+   "反射与反射弧"
+  ],
+  "province": "山东",
+  "year": "2024",
+  "type": "单选",
+  "answer": "C",
+  "stem": "瞳孔开大肌是分布于眼睛瞳孔周围的肌肉，只受自主神经系统支配。当抓捏面部皮肤时，会引起瞳孔开大肌收缩，导致瞳孔扩张，该反射称为瞳孔皮肤反射，其反射通路如图所示，其中网状脊髓束是位于脑干和脊髓中的神经纤维束。下列说法错误的是（ ） 面部皮肤感受器→传入神经①→脑干→网状脊髓束→脊髓（胸段）→传出神经②→瞳孔开大肌",
+  "options": [
+   {
+    "label": "A",
+    "text": "该反射属于非条件反射"
+   },
+   {
+    "label": "B",
+    "text": "传入神经①属于脑神经"
+   },
+   {
+    "label": "C",
+    "text": "传出神经②属于躯体运动神经"
+   },
+   {
+    "label": "D",
+    "text": "若完全阻断脊髓（颈段）中的网状脊髓束，该反射不能完成"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_K9WqaBlMpnQKSy8lI2GgHQ#2024山东·自主神经系统]"
+ },
+ {
+  "root_id": "mkjr_DTLzk2REdWhkMrEspqPP9w",
+  "chapter": "选必一 第2章 神经调节",
+  "points": [
+   "自主神经系统"
+  ],
+  "province": "浙江",
+  "year": "2025",
+  "type": "单选",
+  "answer": "D",
+  "stem": "人体的传出神经有躯体运动神经和内脏运动神经(植物性神经)，后者包括交感神经和副交感神经。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "交感神经和副交感神经的作用完全相反"
+   },
+   {
+    "label": "B",
+    "text": "躯体运动神经受大脑皮层的控制，内脏运动神经不受控制"
+   },
+   {
+    "label": "C",
+    "text": "所有的内脏器官同时受交感神经和副交感神经的双重支配"
+   },
+   {
+    "label": "D",
+    "text": "内脏运动神经既可支配心脏等，也可调节某些内分泌腺的活动"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_DTLzk2REdWhkMrEspqPP9w#2025浙江·自主神经系统]"
+ },
+ {
+  "root_id": "mkjr_.cdj33VbvxiMZ9A7M7aLhw",
+  "chapter": "选必一 第2章 神经调节",
+  "points": [
+   "突触的结构与传递"
+  ],
+  "province": "广东",
+  "year": "2024",
+  "type": "单选",
+  "answer": "D",
+  "stem": "轻微触碰时，兴奋经触觉神经元传向脊髓抑制性神经元，使其释放神经递质 GABA.正常情况下，GABA作用于痛觉神经元引起Cl-通道开放，Cl-内流，不产生痛觉；患带状疱疹后，痛觉神经元上Cl-转运蛋白（单向转运Cl-）表达量改变，引起Cl-的转运量改变，细胞内Cl-浓度升高，此时轻触引起GABA作用于痛觉神经元后，Cl-经Cl-通道外流，产生强烈痛觉。针对该过程（如图）的分析，错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "触觉神经元兴奋时，在抑制性神经元上可记录到动作电位"
+   },
+   {
+    "label": "B",
+    "text": "正常和患带状疱疹时，Cl-经Cl-通道的运输方式均为协助扩散"
+   },
+   {
+    "label": "C",
+    "text": "GABA作用的效果可以是抑制性的，也可以是兴奋性的"
+   },
+   {
+    "label": "D",
+    "text": "患带状疱疹后Cl-转运蛋白增多，导致轻触产生痛觉"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_.cdj33VbvxiMZ9A7M7aLhw#2024广东·突触的结构与传递]"
+ },
+ {
+  "root_id": "mkjr_JhebuQMW_cgUI_SXI39fng",
+  "chapter": "选必一 第2章 神经调节",
+  "points": [
+   "神经冲动的产生与传导"
+  ],
+  "province": "广西",
+  "year": "2024",
+  "type": "单选",
+  "answer": "C",
+  "stem": "人体心室肌细胞内K+浓度高于胞外，Na+浓度低于胞外。心室肌细胞静息电位和动作电位的产生（如图），主要与K+和Na+的流动有关。图中0期为去极化：1、2和3期Na+通道关闭，同时K+外流；2期出现主要依赖K+和Ca2+的流动。下列说法错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "静息电位主要由K+外流造成"
+   },
+   {
+    "label": "B",
+    "text": "0期的产生依赖于Na+快速内流"
+   },
+   {
+    "label": "C",
+    "text": "1期K+外流是通过主动运输进行"
+   },
+   {
+    "label": "D",
+    "text": "2期的形成是K+外流和Ca2+内流导致"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_JhebuQMW_cgUI_SXI39fng#2024广西·神经冲动的产生与传导]"
+ },
+ {
+  "root_id": "mkjr_dOgmvG5WVjMwV5CTtwMFQw",
+  "chapter": "选必一 第2章 神经调节",
+  "points": [
+   "突触的结构与传递"
+  ],
+  "province": "江苏",
+  "year": "2024",
+  "type": "单选",
+  "answer": "C",
+  "stem": "图示为反射弧传导兴奋的部分结构，a、b表示轴突末梢。下列相关叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "a、b可能来自同一神经元，也可能来自不同神经元"
+   },
+   {
+    "label": "B",
+    "text": "a、b释放的神经递质可能相同，也可能不同"
+   },
+   {
+    "label": "C",
+    "text": "a、b通过突触传递的兴奋都能经细胞膜传递到Ⅰ处"
+   },
+   {
+    "label": "D",
+    "text": "脑和脊髓中都存在图示这种传导兴奋的结构"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_dOgmvG5WVjMwV5CTtwMFQw#2024江苏·突触的结构与传递]"
+ },
+ {
+  "root_id": "mkjr_C36Of64chpUnJuHuVJej2w",
+  "chapter": "选必一 第2章 神经调节",
+  "points": [
+   "突触的结构与传递",
+   "神经冲动的产生与传导"
+  ],
+  "province": "江苏",
+  "year": "2024",
+  "type": "多选",
+  "answer": "BC",
+  "stem": "神经元释放的递质引起骨骼肌兴奋，下列相关叙述正确的有（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "该过程经历了“电信号→化学信号→电信号”的变化"
+   },
+   {
+    "label": "B",
+    "text": "神经元处于静息状态时，其细胞膜内K+的浓度高于膜外"
+   },
+   {
+    "label": "C",
+    "text": "骨骼肌细胞兴奋与组织液中Na+协助扩散进入细胞有关"
+   },
+   {
+    "label": "D",
+    "text": "交感神经和副交感神经共同调节骨骼肌的收缩和舒张"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_C36Of64chpUnJuHuVJej2w#2024江苏·突触的结构与传递]"
+ },
+ {
+  "root_id": "mkjr_nN7JYTVvhrWYoVM_eXWLNw",
+  "chapter": "选必一 第2章 神经调节",
+  "points": [
+   "人脑的高级功能",
+   "突触的结构与传递"
+  ],
+  "province": "湖南",
+  "year": "2022",
+  "type": "单选",
+  "answer": "A",
+  "stem": "情绪活动受中枢神经系统释放神经递质调控，常伴随内分泌活动的变化。此外，学习和记忆也与某些神经递质的释放有关。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "剧痛、恐惧时，人表现为警觉性下降，反应迟钝"
+   },
+   {
+    "label": "B",
+    "text": "边听课边做笔记依赖神经元的活动及神经元之间的联系"
+   },
+   {
+    "label": "C",
+    "text": "突触后膜上受体数量的减少常影响神经递质发挥作用"
+   },
+   {
+    "label": "D",
+    "text": "情绪激动、焦虑时，肾上腺素水平升高，心率加速"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_nN7JYTVvhrWYoVM_eXWLNw#2022湖南·人脑的高级功能]"
+ },
+ {
+  "root_id": "mkjr_EUfD8i9ow2HqzICmQhfKSg",
+  "chapter": "选必一 第2章 神经调节",
+  "points": [
+   "反射与反射弧",
+   "突触的结构与传递"
+  ],
+  "province": "浙江",
+  "year": "2022",
+  "type": "单选",
+  "answer": "D",
+  "stem": "膝反射是一种简单反射，其反射弧为二元反射弧。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "感受器将刺激转换成神经冲动并沿神经纤维单向传导"
+   },
+   {
+    "label": "B",
+    "text": "神经肌肉接点的神经冲动传递伴随信号形式的转换"
+   },
+   {
+    "label": "C",
+    "text": "突触后膜去极化形成的电位累加至阈值后引起动作电位"
+   },
+   {
+    "label": "D",
+    "text": "抑制突触间隙中递质分解的药物可抑制膝反射"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_EUfD8i9ow2HqzICmQhfKSg#2022浙江·反射与反射弧]"
+ },
+ {
+  "root_id": "mkjr_tqyLjEmqPsMg1eIZ6Jdv8g",
+  "chapter": "选必一 第2章 神经调节",
+  "points": [
+   "突触的结构与传递"
+  ],
+  "province": "浙江",
+  "year": "2023",
+  "type": "单选",
+  "answer": "B",
+  "stem": "神经元的轴突末梢可与另一个神经元的树突或胞体构成突触。通过微电极测定细胞的膜电位，PSP1和PSP2分别表示突触a和突触b的后膜电位，如图所示。下列叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "突触a、b前膜释放的递质，分别使突触a后膜通透性增大、突触b后膜通透性降低"
+   },
+   {
+    "label": "B",
+    "text": "PSP1和PSP2由离子浓度改变形成，共同影响突触后神经元动作电位的产生"
+   },
+   {
+    "label": "C",
+    "text": "PSP1由K+外流或Cl-内流形成，PSP2由Na+或Ca2+内流形成"
+   },
+   {
+    "label": "D",
+    "text": "突触a、b前膜释放的递质增多，分别使PSP1幅值增大、PSP2幅值减小"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_tqyLjEmqPsMg1eIZ6Jdv8g#2023浙江·突触的结构与传递]"
+ },
+ {
+  "root_id": "mkjr_esEdSh2S9xZBxc5iUINuMw",
+  "chapter": "选必一 第2章 神经调节",
+  "points": [
+   "突触的结构与传递",
+   "反射与反射弧"
+  ],
+  "province": "辽宁",
+  "year": "2023",
+  "type": "单选",
+  "answer": "C",
+  "stem": "尾悬吊（后肢悬空）的大鼠常被用作骨骼肌萎缩研究的实验模型。将实验大鼠随机均分为3组：甲组不悬吊；乙组悬吊；丙组悬吊+电针插入骨骼肌刺激。4周后结果显示：与甲组相比，乙组大鼠后肢小腿骨骼肌出现重量降低、肌纤维横截面积减小等肌萎缩症状；丙组的肌萎缩症状比乙组有一定程度的减轻。据此分析，下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "尾悬吊使大鼠骨骼肌的肌蛋白降解速度大于合成速度"
+   },
+   {
+    "label": "B",
+    "text": "乙组大鼠后肢骨骼肌萎缩与神经—肌肉突触传递减弱有关"
+   },
+   {
+    "label": "C",
+    "text": "对丙组大鼠施加的电刺激信号经反射弧调控骨骼肌收缩"
+   },
+   {
+    "label": "D",
+    "text": "长期卧床病人通过适当的电刺激可能缓解骨骼肌萎缩"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_esEdSh2S9xZBxc5iUINuMw#2023辽宁·突触的结构与传递]"
+ },
+ {
+  "root_id": "mkjr_92utjK7LtHj41v8djeM3cQ",
+  "chapter": "选必一 第2章 神经调节",
+  "points": [
+   "突触的结构与传递"
+  ],
+  "province": "重庆",
+  "year": "2023",
+  "type": "单选",
+  "answer": "D",
+  "stem": "某团队用果蝇研究了高蛋白饮食促进深度睡眠的机制，发现肠道中的蛋白质促进肠道上皮细胞分泌神经肽Y，最终Y作用于大脑相关神经元，利于果蝇保持睡眠状态。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "蛋白质作用于肠道上皮细胞的过程发生在内环境"
+   },
+   {
+    "label": "B",
+    "text": "肠道上皮细胞分泌Y会使细胞膜的表面积减小"
+   },
+   {
+    "label": "C",
+    "text": "肠道中的蛋白质增加使血液中的Y含量减少"
+   },
+   {
+    "label": "D",
+    "text": "若果蝇神经元上Y的受体减少，则容易从睡眠中醒来"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_92utjK7LtHj41v8djeM3cQ#2023重庆·突触的结构与传递]"
+ },
+ {
+  "root_id": "mkjr_.lpY4IC1EDcTwtNRIghm0A",
+  "chapter": "选必一 第2章 神经调节",
+  "points": [
+   "神经冲动的产生与传导"
+  ],
+  "province": "浙江",
+  "year": "2024",
+  "type": "单选",
+  "answer": "A",
+  "stem": "以枪乌贼的巨大神经纤维为材料，研究了静息状态和兴奋过程中，K+、Na+的内向流量与外向流量，结果如图所示。外向流量指经通道外流的离子量，内向流量指经通道内流的离子量。 [图] 下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "兴奋过程中，K+外向流量大于内向流量"
+   },
+   {
+    "label": "B",
+    "text": "兴奋过程中，Na+内向流量小于外向流量"
+   },
+   {
+    "label": "C",
+    "text": "静息状态时，K+外向流量小于内向流量"
+   },
+   {
+    "label": "D",
+    "text": "静息状态时，Na+外向流量大于内向流量"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_.lpY4IC1EDcTwtNRIghm0A#2024浙江·神经冲动的产生与传导]"
+ },
+ {
+  "root_id": "mkjr_rvc4bCBBX4nY.wo6D9z6JA",
+  "chapter": "选必一 第2章 神经调节",
+  "points": [
+   "神经冲动的产生与传导"
+  ],
+  "province": "湖南",
+  "year": "2024",
+  "type": "单选",
+  "answer": "C",
+  "stem": "细胞所处的内环境变化可影响其兴奋性、膜电位达到阈电位（即引发动作电位的临界值）后，才能产生兴奋。如图所示，甲、乙和丙表示不同环境下静息电位或阈电位的变化情况。下列叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "正常环境中细胞的动作电位峰值受膜内外钠离子浓度差影响"
+   },
+   {
+    "label": "B",
+    "text": "环境甲中钾离子浓度低于正常环境"
+   },
+   {
+    "label": "C",
+    "text": "细胞膜电位达到阈电位后，钠离子通道才开放"
+   },
+   {
+    "label": "D",
+    "text": "同一细胞在环境乙中比丙中更难发生兴奋"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_rvc4bCBBX4nY.wo6D9z6JA#2024湖南·神经冲动的产生与传导]"
+ },
+ {
+  "root_id": "mkjr_2ePZI7GGma2X_BE03SXBXw",
+  "chapter": "选必一 第2章 神经调节",
+  "points": [
+   "条件反射的建立与消退",
+   "人脑的高级功能"
+  ],
+  "province": "甘肃",
+  "year": "2024",
+  "type": "单选",
+  "answer": "C",
+  "stem": "条件反射的建立提高了人和动物对外界复杂环境的适应能力，是人和高等动物生存必不可少的学习过程。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "实验犬看到盆中的肉时唾液分泌增加是先天具有的非条件反射"
+   },
+   {
+    "label": "B",
+    "text": "有人听到“酸梅”有止渴作用是条件反射，与大脑皮层言语区的S区有关"
+   },
+   {
+    "label": "C",
+    "text": "条件反射的消退是由于在中枢神经系统内产生了抑制性效应的结果"
+   },
+   {
+    "label": "D",
+    "text": "条件反射的建立需要大脑皮层参与，条件反射的消退不需要大脑皮层参与"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_2ePZI7GGma2X_BE03SXBXw#2024甘肃·条件反射的建立与消退]"
+ },
+ {
+  "root_id": "mkjr_eHIH1QYbZRz0Dvti2sC6QQ",
+  "chapter": "选必一 第2章 神经调节",
+  "points": [
+   "自主神经系统",
+   "条件反射的建立与消退"
+  ],
+  "province": "课标",
+  "year": "2024",
+  "type": "单选",
+  "answer": "A",
+  "stem": "人体消化道内食物的消化和吸收过程受神经和体液调节。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "进食后若副交感神经活动增强可抑制消化液分泌"
+   },
+   {
+    "label": "B",
+    "text": "唾液分泌条件反射的建立需以非条件反射为基础"
+   },
+   {
+    "label": "C",
+    "text": "胃液中的盐酸能为胃蛋白酶提供适宜的pH环境"
+   },
+   {
+    "label": "D",
+    "text": "小肠上皮细胞通过转运蛋白吸收肠腔中的氨基酸"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_eHIH1QYbZRz0Dvti2sC6QQ#2024课标·自主神经系统]"
+ },
+ {
+  "root_id": "mkjr_SoNVlPlZ2R3.n6rkuZF9TQ",
+  "chapter": "选必一 第2章 神经调节",
+  "points": [
+   "自主神经系统"
+  ],
+  "province": "重庆",
+  "year": "2024",
+  "type": "单选",
+  "answer": "D",
+  "stem": "正常重力环境中，成骨细胞分泌的PGE2与感觉神经上的EP4结合，将信号传入下丘脑抑制某类交感神经活动。进而对骨骼中血管和成骨细胞进行调节，促进骨生成以维持骨量稳定。长时间航天飞行会使宇航员骨量下降。下列分析合理的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "PGE2与EP4的合成过程均发生在内环境"
+   },
+   {
+    "label": "B",
+    "text": "PGE2与EP4的结合使骨骼中血管收缩"
+   },
+   {
+    "label": "C",
+    "text": "长时间航天飞行会使宇航员成骨细胞分泌PGE2增加"
+   },
+   {
+    "label": "D",
+    "text": "使用抑制该类交感神经的药物有利于宇航员的骨量恢复"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_SoNVlPlZ2R3.n6rkuZF9TQ#2024重庆·自主神经系统]"
+ }
+]

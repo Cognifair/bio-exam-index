@@ -1,0 +1,3083 @@
+[
+ {
+  "root_id": "mkjr_GKxQzsK0sr5PjbwacPXO0g",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "细胞呼吸原理的应用"
+  ],
+  "province": "云南",
+  "year": "2026",
+  "type": "单选",
+  "answer": "D",
+  "stem": "猕猴桃鲜果储藏条件如下表： [图] 下列说法错误的是（　　）",
+  "options": [
+   {
+    "label": "A",
+    "text": "高湿度可减少果实水分蒸发以利于果实保鲜"
+   },
+   {
+    "label": "B",
+    "text": "低温抑制酶活性来降低果实细胞的呼吸速率"
+   },
+   {
+    "label": "C",
+    "text": "O2含量低可抑制猕猴桃细胞有氧呼吸第三阶段"
+   },
+   {
+    "label": "D",
+    "text": "有氧呼吸消耗水的量大于产生量需要人工补水"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_GKxQzsK0sr5PjbwacPXO0g#2026云南·细胞呼吸原理的应用]"
+ },
+ {
+  "root_id": "mkjr_Z1imYqHJn.QIX6FmksRAtg",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "无氧呼吸"
+  ],
+  "province": "四川",
+  "year": "2026",
+  "type": "单选",
+  "answer": "B",
+  "stem": "器官在移植过程中面临离体缺血和再灌注的双重损伤。器官离体后，缺血导致细胞供氧不足，影响细胞呼吸；恢复血液灌注后，短时间内大量的O2会激活膜外的NADPH氧化酶，进而产生带电的自由基，损伤细胞。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "缺血时，无氧呼吸积累大量CO2，细胞pH下降，酶的活性降低"
+   },
+   {
+    "label": "B",
+    "text": "缺血时，细胞的Na+运出受阻，胞内渗透压升高，导致细胞肿胀"
+   },
+   {
+    "label": "C",
+    "text": "再灌注后，NADPH氧化酶催化产生的自由基以自由扩散方式进入细胞"
+   },
+   {
+    "label": "D",
+    "text": "再灌注后，细胞核内DNA因与蛋白质紧密结合，不受自由基攻击破坏"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_Z1imYqHJn.QIX6FmksRAtg#2026四川·无氧呼吸]"
+ },
+ {
+  "root_id": "mkjr_PKi_0LOg_ZIPVKXr5gH1Xw",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "有氧呼吸的过程",
+   "无氧呼吸"
+  ],
+  "province": "安徽",
+  "year": "2026",
+  "type": "单选",
+  "answer": "B",
+  "stem": "下列有关真核生物细胞呼吸的叙述，错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "无氧呼吸中ATP的生成只发生在第一阶段"
+   },
+   {
+    "label": "B",
+    "text": "无氧呼吸都会产生使溴麝香草酚蓝溶液变色的气体"
+   },
+   {
+    "label": "C",
+    "text": "有氧呼吸的中间产物NADH主要形成于线粒体基质"
+   },
+   {
+    "label": "D",
+    "text": "有氧呼吸第一阶段葡萄糖中的化学能大部分储存在产物丙酮酸中"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_PKi_0LOg_ZIPVKXr5gH1Xw#2026安徽·有氧呼吸的过程]"
+ },
+ {
+  "root_id": "mkjr_.GzANb4BVhdiO0NHlnoI_w",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "无氧呼吸"
+  ],
+  "province": "山东",
+  "year": "2026",
+  "type": "单选",
+  "answer": "C",
+  "stem": "水稻根细胞中，无氧呼吸第二阶段通过以下两个反应完成。水稻根系细胞在水淹一段时间后，酶Ⅰ和酶Ⅱ的表达量明显增加，无氧呼吸增强。下列说法错误的是（ ） ①丙酮酸乙醛+CO2 ②乙醛+NADH+H+ 乙醇+NAD+",
+  "options": [
+   {
+    "label": "A",
+    "text": "根细胞利用葡萄糖进行无氧呼吸释放CO2只发生在反应①中"
+   },
+   {
+    "label": "B",
+    "text": "反应①和②均发生在细胞质基质中"
+   },
+   {
+    "label": "C",
+    "text": "该时间段内，反应①和②产生的ATP增加"
+   },
+   {
+    "label": "D",
+    "text": "水稻根细胞中的葡萄糖经过无氧呼吸时，其中的能量大部分存留在乙醇中"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_.GzANb4BVhdiO0NHlnoI_w#2026山东·无氧呼吸]"
+ },
+ {
+  "root_id": "mkjr_XkEMsMNTwRaxGLM5qyVwvQ",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "细胞呼吸方式的判断"
+  ],
+  "province": "山东",
+  "year": "2026",
+  "type": "多选",
+  "answer": "BC",
+  "stem": "在充入了适量空气的恒温密闭发酵罐中，酵母菌以充足的葡萄糖为原料进行呼吸作用，随着时间的延长，呼吸作用中O2的消耗速率与CO2的产生速率比如图所示。下列说法正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "从a到b时，有氧呼吸速率不变"
+   },
+   {
+    "label": "B",
+    "text": "从b到d时，无氧呼吸速率增大"
+   },
+   {
+    "label": "C",
+    "text": "c时，有氧呼吸与无氧呼吸消耗葡萄糖的速率相等"
+   },
+   {
+    "label": "D",
+    "text": "d时以后，无氧呼吸速率始终不变"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_XkEMsMNTwRaxGLM5qyVwvQ#2026山东·细胞呼吸方式的判断]"
+ },
+ {
+  "root_id": "mkjr_5R8rN4jutn.YUSsTm4MaGA",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "化能合成作用"
+  ],
+  "province": "广东",
+  "year": "2026",
+  "type": "单选",
+  "answer": "D",
+  "stem": "某种硝化细菌能将NH3氧化形成HNO2，并利用该过程释放的能量将无机物合成为有机物。该种细菌（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "具有核膜"
+   },
+   {
+    "label": "B",
+    "text": "为异养生物"
+   },
+   {
+    "label": "C",
+    "text": "可利用光能"
+   },
+   {
+    "label": "D",
+    "text": "可固定CO2"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_5R8rN4jutn.YUSsTm4MaGA#2026广东·化能合成作用]"
+ },
+ {
+  "root_id": "mkjr_e8YKp5EsLBhXWEIKxuYd6g",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "无氧呼吸"
+  ],
+  "province": "广东",
+  "year": "2026",
+  "type": "单选",
+  "answer": "A",
+  "stem": "鲫鱼骨骼肌细胞缺氧时，葡萄糖在细胞质基质分解产生的丙酮酸在线粒体内转化为乙醛和CO2，乙醛进入细胞质基质转化为乙醇，最终经鳃排出。上述过程与人体细胞无氧呼吸相比，两者（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "第一阶段反应都相同"
+   },
+   {
+    "label": "B",
+    "text": "反应的场所都相同"
+   },
+   {
+    "label": "C",
+    "text": "最终产物都相同"
+   },
+   {
+    "label": "D",
+    "text": "催化反应的酶都相同"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_e8YKp5EsLBhXWEIKxuYd6g#2026广东·无氧呼吸]"
+ },
+ {
+  "root_id": "mkjr_AVyaVGWo.vXDFw0dwHfhvQ",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "影响酶活性的因素"
+  ],
+  "province": "江西",
+  "year": "2026",
+  "type": "单选",
+  "answer": "D",
+  "stem": "蛋白酶E被广泛用作洗涤剂的生产原料，但洗涤剂中的物质S能将E的第n位甲硫氨酸氧化，降低其活性。研究人员将上述甲硫氨酸替换为丝氨酸，提高了E对S的耐受性。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "第n位甲硫氨酸的氧化会影响E的空间结构，从而影响酶的活性"
+   },
+   {
+    "label": "B",
+    "text": "将第n位的甲硫氨酸替换为丝氨酸可通过基因工程实现"
+   },
+   {
+    "label": "C",
+    "text": "判断E的改造效果，需用S处理一段时间后测定酶活性"
+   },
+   {
+    "label": "D",
+    "text": "甲硫氨酸的替换在提高E对S耐受性的同时，降低了E的专一性"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_AVyaVGWo.vXDFw0dwHfhvQ#2026江西·影响酶活性的因素]"
+ },
+ {
+  "root_id": "mkjr_NtYYzz2Y3UYjbf5gAJhBrg",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "影响光合作用的因素"
+  ],
+  "province": "江西",
+  "year": "2026",
+  "type": "多选",
+  "answer": "CD",
+  "stem": "锌是植物生长发育的必需元素，缺锌会影响色氨酸(合成IAA的原料)和叶绿素等细胞组分的合成。研究人员分别测定了某植物幼苗在正常供锌(对照)和缺锌条件下培养40天后的相关指标(如表)。下列关于缺锌组的分析，合理的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "净光合速率下降的直接原因是气孔导度下降"
+   },
+   {
+    "label": "B",
+    "text": "叶绿素含量下降的直接原因是净光合速率下降"
+   },
+   {
+    "label": "C",
+    "text": "胞间CO2浓度升高的直接原因是光合作用减弱"
+   },
+   {
+    "label": "D",
+    "text": "IAA含量下降的直接原因是合成原料供应不足"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_NtYYzz2Y3UYjbf5gAJhBrg#2026江西·影响光合作用的因素]"
+ },
+ {
+  "root_id": "mkjr_gGSgXjDs1vyCMspYL9F1tA",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "酶的本质与作用"
+  ],
+  "province": "河北",
+  "year": "2026",
+  "type": "单选",
+  "answer": "D",
+  "stem": "酶与无机催化剂催化的两类反应中能量变化如图1和图2所示，下列分析错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "图1所示反应中酶与无机催化剂降低活化能的差值为e"
+   },
+   {
+    "label": "B",
+    "text": "图1所示为放能反应，图2所示为吸能反应"
+   },
+   {
+    "label": "C",
+    "text": "与①反应相比，②反应所需的条件一般较温和"
+   },
+   {
+    "label": "D",
+    "text": "图2所示反应中酶促反应的活化能为f"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_gGSgXjDs1vyCMspYL9F1tA#2026河北·酶的本质与作用]"
+ },
+ {
+  "root_id": "mkjr_2EoUG.NAn03fRht70gLcvA",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "光合作用的光反应",
+   "光合作用与细胞呼吸的关系"
+  ],
+  "province": "河北",
+  "year": "2026",
+  "type": "多选",
+  "answer": "ABD",
+  "stem": "小立碗藓的叶绿体和线粒体都有为细胞质基质提供ATP的潜力。为探究两者对细胞质基质ATP水平的影响，对①、②和③组小立碗藓进行黑暗预处理后，检测其细胞质基质ATP对光的响应变化，结果如图所示。下列分析正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "光合产物的缺乏和光反应受阻导致③在光照下ATP无显著变化"
+   },
+   {
+    "label": "B",
+    "text": "第一次光照时，①中ATP的增加与叶绿体、线粒体均有关"
+   },
+   {
+    "label": "C",
+    "text": "光照时，叶绿体中的部分ATP用于暗反应中CO2与C5的结合"
+   },
+   {
+    "label": "D",
+    "text": "小立碗藓中的线粒体有助于维持细胞质基质中ATP的稳定供应"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_2EoUG.NAn03fRht70gLcvA#2026河北·光合作用的光反应]"
+ },
+ {
+  "root_id": "mkjr_Jt9O1XkEvMaAHJ4wDtEkVQ",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "探究酵母菌细胞呼吸的方式"
+  ],
+  "province": "河南",
+  "year": "2026",
+  "type": "单选",
+  "answer": "D",
+  "stem": "为探究酵母菌的呼吸作用，研究人员将注满酵母菌和葡萄糖混合液的小管倒置于大管中，并对大管的液面进行油封处理，装置如图所示，液面高度不再变化时终止实验。下列推断错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "实验前期，葡萄糖可彻底氧化分解并产生CO2和H2O"
+   },
+   {
+    "label": "B",
+    "text": "实验过程中，液面高度的变化速率和液体温度可发生改变"
+   },
+   {
+    "label": "C",
+    "text": "实验后期，管内液体与酸性重铬酸钾溶液可发生颜色反应"
+   },
+   {
+    "label": "D",
+    "text": "实验结束后，大管内的液面降低，小管内的液面升高"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_Jt9O1XkEvMaAHJ4wDtEkVQ#2026河南·探究酵母菌细胞呼吸的方式]"
+ },
+ {
+  "root_id": "mkjr_hxNfXUqQqFMGgI5HYsHZqw",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "影响光合作用的因素",
+   "光合作用的暗反应"
+  ],
+  "province": "湖北",
+  "year": "2026",
+  "type": "单选",
+  "answer": "A",
+  "stem": "生物固定技术是实现碳中和的重要途径之一。科研人员利用衣藻、蓝细菌等光合微生物固定，并将其转化为乙醇、生物柴油等清洁燃料。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "上述微生物的光能转化效率与暗反应无关"
+   },
+   {
+    "label": "B",
+    "text": "优化浓度、温度等条件，可提高衣藻固碳效率"
+   },
+   {
+    "label": "C",
+    "text": "蓝细菌能促进生态系统的碳循环过程，维持生态系统稳定"
+   },
+   {
+    "label": "D",
+    "text": "蓝细菌和衣藻生长快、环境适应性强，是生物柴油规模化生产的基础"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_hxNfXUqQqFMGgI5HYsHZqw#2026湖北·影响光合作用的因素]"
+ },
+ {
+  "root_id": "mkjr_6wVJ1Qy1UjcByJVo1qzNYw",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "影响酶活性的因素"
+  ],
+  "province": "湖北",
+  "year": "2026",
+  "type": "单选",
+  "answer": "D",
+  "stem": "为探究某种酶的活性，某同学在最适温度C条件下，测得不同底物浓度下对应的反应速率，结果如下表。 [图] 下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "若将1号试管的原酶液稀释10倍，其反应速率会下降"
+   },
+   {
+    "label": "B",
+    "text": "若3号试管反应温度改为37℃，其反应速率会下降"
+   },
+   {
+    "label": "C",
+    "text": "若4号试管多加1倍酶量，其反应速率会升高"
+   },
+   {
+    "label": "D",
+    "text": "实验说明底物浓度过高不利于该酶促反应进行"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_6wVJ1Qy1UjcByJVo1qzNYw#2026湖北·影响酶活性的因素]"
+ },
+ {
+  "root_id": "mkjr_jhYb0y94dxTnW0kbttslKg",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "影响酶活性的因素"
+  ],
+  "province": "湖南",
+  "year": "2026",
+  "type": "单选",
+  "answer": "D",
+  "stem": "关于过氧化氢酶的叙述，错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "过氧化氢酶可以降低H2O2分解反应所需的活化能"
+   },
+   {
+    "label": "B",
+    "text": "若用过氧化氢酶探究温度对酶活性的影响，应设置不加酶的对照组"
+   },
+   {
+    "label": "C",
+    "text": "持续升高H2O2浓度不一定加快过氧化氢酶的酶促反应速率"
+   },
+   {
+    "label": "D",
+    "text": "过氧化氢酶活性随pH降低而降低，随pH升高而升高"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_jhYb0y94dxTnW0kbttslKg#2026湖南·影响酶活性的因素]"
+ },
+ {
+  "root_id": "mkjr_JTyVHVo1dqlLlPOrrqWDug",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "有氧呼吸的过程"
+  ],
+  "province": "北京",
+  "year": "2025",
+  "type": "单选",
+  "answer": "C",
+  "stem": "下图是植物细胞局部亚显微结构示意图。在有氧呼吸过程中，细胞不同部位产生ATP的量不同。以下选项正确的是（ ） [图] [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "A"
+   },
+   {
+    "label": "B",
+    "text": "B"
+   },
+   {
+    "label": "C",
+    "text": "C"
+   },
+   {
+    "label": "D",
+    "text": "D"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_JTyVHVo1dqlLlPOrrqWDug#2025北京·有氧呼吸的过程]"
+ },
+ {
+  "root_id": "mkjr_ZFmdcXCiVDgx6ZnpR8n9Ew",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "影响酶活性的因素"
+  ],
+  "province": "北京",
+  "year": "2025",
+  "type": "单选",
+  "answer": "A",
+  "stem": "某种加酶洗衣粉包装袋上注有下列信息：本品含有蛋白酶、脂肪酶和淀粉酶；洗涤前先浸泡15～20min，特别脏的衣物可减少浸泡用水量；请勿使用60℃以上热水。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "该洗衣粉含多种酶，不适合洗涤纯棉衣物"
+   },
+   {
+    "label": "B",
+    "text": "洗涤前浸泡有利于酶与污渍结合催化其分解"
+   },
+   {
+    "label": "C",
+    "text": "减少浸泡衣物的用水量可提高酶的浓度"
+   },
+   {
+    "label": "D",
+    "text": "水温过高导致酶活性下降"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_ZFmdcXCiVDgx6ZnpR8n9Ew#2025北京·影响酶活性的因素]"
+ },
+ {
+  "root_id": "mkjr_tVjhgVCm1jQ1KilTZ1Vfmw",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "影响光合作用的因素"
+  ],
+  "province": "安徽",
+  "year": "2025",
+  "type": "单选",
+  "answer": "C",
+  "stem": "关于“探究光照强度对光合作用强度的影响”实验，下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "用打孔器打出叶圆片时，为保证叶圆片相对一致应避开大的叶脉"
+   },
+   {
+    "label": "B",
+    "text": "调节LED灯光源与盛有叶圆片烧杯之间的距离，以进行对比实验"
+   },
+   {
+    "label": "C",
+    "text": "用化学传感器监测光照时O2浓度变化，可计算出实际光合作用强度"
+   },
+   {
+    "label": "D",
+    "text": "同一烧杯中叶圆片浮起的快慢不同，可能与其接受的光照强度不同有关"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_tVjhgVCm1jQ1KilTZ1Vfmw#2025安徽·影响光合作用的因素]"
+ },
+ {
+  "root_id": "mkjr_XCcp6tOfS62uHvTV_EE4rw",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "ATP的结构与功能"
+  ],
+  "province": "全国甲",
+  "year": "2024",
+  "type": "单选",
+  "answer": "C",
+  "stem": "ATP可为代谢提供能量，也参与RNA的合成，ATP结构如图所示，图中～表示高能磷酸键，下列叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "ATP转化为ADP可为离子的主动运输提供能量"
+   },
+   {
+    "label": "B",
+    "text": "用α位32P标记的ATP可以合成带有32P的RNA"
+   },
+   {
+    "label": "C",
+    "text": "β和γ位磷酸基团之间的高能磷酸键不能在细胞核中断裂"
+   },
+   {
+    "label": "D",
+    "text": "光合作用可将光能转化为化学能储存于β和γ位磷酸基团之间的高能磷酸键"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_XCcp6tOfS62uHvTV_EE4rw#2024全国甲·ATP的结构与功能]"
+ },
+ {
+  "root_id": "mkjr_4Xq8tG.qsLDIkU1k4LHFdw",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "影响光合作用的因素"
+  ],
+  "province": "北京",
+  "year": "2024",
+  "type": "单选",
+  "answer": "A",
+  "stem": "某同学用植物叶片在室温下进行光合作用实验，测定单位时间单位叶面积的氧气释放量，结果如图所示。若想提高X，可采取的做法是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "增加叶片周围环境CO2浓度"
+   },
+   {
+    "label": "B",
+    "text": "将叶片置于4℃的冷室中"
+   },
+   {
+    "label": "C",
+    "text": "给光源加滤光片改变光的颜色"
+   },
+   {
+    "label": "D",
+    "text": "移动冷光源缩短与叶片的距离"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_4Xq8tG.qsLDIkU1k4LHFdw#2024北京·影响光合作用的因素]"
+ },
+ {
+  "root_id": "mkjr_5BNS6oaGqKvsuHsFq3Hzpw",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "叶绿体中的色素"
+  ],
+  "province": "全国乙",
+  "year": "2023",
+  "type": "单选",
+  "answer": "D",
+  "stem": "植物叶片中的色素对植物的生长发育有重要作用。下列有关叶绿体中色素的叙述，错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "氮元素和镁元素是构成叶绿素分子的重要元素"
+   },
+   {
+    "label": "B",
+    "text": "叶绿素和类胡萝卜素存在于叶绿体中类囊体的薄膜上"
+   },
+   {
+    "label": "C",
+    "text": "用不同波长的光照射类胡萝卜素溶液，其吸收光谱在蓝紫光区有吸收峰"
+   },
+   {
+    "label": "D",
+    "text": "叶绿体中的色素在层析液中的溶解度越高，随层析液在滤纸上扩散得越慢"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_5BNS6oaGqKvsuHsFq3Hzpw#2023全国乙·叶绿体中的色素]"
+ },
+ {
+  "root_id": "mkjr_aL1.zHDWrLlPyWxqE2I7cQ",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "细胞呼吸原理的应用"
+  ],
+  "province": "北京",
+  "year": "2023",
+  "type": "单选",
+  "answer": "A",
+  "stem": "运动强度越低，骨骼肌的耗氧量越少。如图显示在不同强度体育运动时，骨骼肌消耗的糖类和脂类的相对量。对这一结果正确的理解是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "低强度运动时，主要利用脂肪酸供能"
+   },
+   {
+    "label": "B",
+    "text": "中等强度运动时，主要供能物质是血糖"
+   },
+   {
+    "label": "C",
+    "text": "高强度运动时，糖类中的能量全部转变为ATP"
+   },
+   {
+    "label": "D",
+    "text": "肌糖原在有氧条件下才能氧化分解提供能量"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_aL1.zHDWrLlPyWxqE2I7cQ#2023北京·细胞呼吸原理的应用]"
+ },
+ {
+  "root_id": "mkjr_zwOg9uPdDN8GBzibF3PmiQ",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "影响光合作用的因素"
+  ],
+  "province": "北京",
+  "year": "2023",
+  "type": "单选",
+  "answer": "C",
+  "stem": "在两种光照强度下，不同温度对某植物CO2吸收速率的影响如图。对此图理解错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "在低光强下，CO2吸收速率随叶温升高而下降的原因是呼吸速率上升"
+   },
+   {
+    "label": "B",
+    "text": "在高光强下，M点左侧CO2吸收速率升高与光合酶活性增强相关"
+   },
+   {
+    "label": "C",
+    "text": "在图中两个CP点处，植物均不能进行光合作用"
+   },
+   {
+    "label": "D",
+    "text": "图中M点处光合速率与呼吸速率的差值最大"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_zwOg9uPdDN8GBzibF3PmiQ#2023北京·影响光合作用的因素]"
+ },
+ {
+  "root_id": "mkjr__tkSDGRoz3LYeBcRq_CnEw",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "ATP的结构与功能"
+  ],
+  "province": "天津",
+  "year": "2023",
+  "type": "单选",
+  "answer": "D",
+  "stem": "衣原体缺乏细胞呼吸所需的酶，则其需要从宿主细胞体内摄取的物质是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "葡萄糖"
+   },
+   {
+    "label": "B",
+    "text": "糖原"
+   },
+   {
+    "label": "C",
+    "text": "淀粉"
+   },
+   {
+    "label": "D",
+    "text": "ATP"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr__tkSDGRoz3LYeBcRq_CnEw#2023天津·ATP的结构与功能]"
+ },
+ {
+  "root_id": "mkjr_AdCEv86aPZTYl3pVXZZ2nA",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "光合作用的光反应",
+   "光合作用的暗反应"
+  ],
+  "province": "天津",
+  "year": "2023",
+  "type": "单选",
+  "answer": "B",
+  "stem": "下图是某种植物光合作用及呼吸作用部分过程的图，关于此图说法错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "HCO3-经主动运输进入细胞质基质"
+   },
+   {
+    "label": "B",
+    "text": "HCO3-通过通道蛋白进入叶绿体基质"
+   },
+   {
+    "label": "C",
+    "text": "光反应生成的H+促进了HCO3-进入类囊体"
+   },
+   {
+    "label": "D",
+    "text": "光反应生成的物质X保障了暗反应的CO2供应"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_AdCEv86aPZTYl3pVXZZ2nA#2023天津·光合作用的光反应]"
+ },
+ {
+  "root_id": "mkjr_p0_1TevmR9_waAa3lDYaYQ",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "无氧呼吸"
+  ],
+  "province": "山东",
+  "year": "2023",
+  "type": "单选",
+  "answer": "B",
+  "stem": "水淹时，玉米根细胞由于较长时间进行无氧呼吸导致能量供应不足，使液泡膜上的H+转运减缓，引起细胞质基质内H+积累，无氧呼吸产生的乳酸也使细胞质基质pH降低。pH降低至一定程度会引起细胞酸中毒。细胞可通过将无氧呼吸过程中的丙酮酸产乳酸途径转换为丙酮酸产酒精途径，延缓细胞酸中毒。下列说法正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "正常玉米根细胞液泡内pH高于细胞质基质"
+   },
+   {
+    "label": "B",
+    "text": "检测到水淹的玉米根有CO2的产生不能判断是否有酒精生成"
+   },
+   {
+    "label": "C",
+    "text": "转换为丙酮酸产酒精途径时释放的ATP增多以缓解能量供应不足"
+   },
+   {
+    "label": "D",
+    "text": "转换为丙酮酸产酒精途径时消耗的[H]增多以缓解酸中毒"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_p0_1TevmR9_waAa3lDYaYQ#2023山东·无氧呼吸]"
+ },
+ {
+  "root_id": "mkjr_tWWSaq1EiSImhNyLRpAUHQ",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "影响酶活性的因素"
+  ],
+  "province": "广东",
+  "year": "2023",
+  "type": "单选",
+  "answer": "C",
+  "stem": "中国制茶工艺源远流长。红茶制作包括萎凋、揉捻、发酵、高温干燥等工序，其间多酚氧化酶催化茶多酚生成适量茶黄素是红茶风味形成的关键。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "揉捻能破坏细胞结构使多酚氧化酶与茶多酚接触"
+   },
+   {
+    "label": "B",
+    "text": "发酵时保持适宜的温度以维持多酚氧化酶的活性"
+   },
+   {
+    "label": "C",
+    "text": "发酵时有机酸含量增加不会影响多酚氧化酶活性"
+   },
+   {
+    "label": "D",
+    "text": "高温灭活多酚氧化酶以防止过度氧化影响茶品质"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_tWWSaq1EiSImhNyLRpAUHQ#2023广东·影响酶活性的因素]"
+ },
+ {
+  "root_id": "mkjr_JC9DJE0a4PVxPGG2TTxC1A",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "有氧呼吸的过程"
+  ],
+  "province": "广东",
+  "year": "2023",
+  "type": "单选",
+  "answer": "A",
+  "stem": "在游泳过程中，参与呼吸作用并在线粒体内膜上作为反应物的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "还原型辅酶Ⅰ"
+   },
+   {
+    "label": "B",
+    "text": "丙酮酸"
+   },
+   {
+    "label": "C",
+    "text": "氧化型辅酶Ⅰ"
+   },
+   {
+    "label": "D",
+    "text": "二氧化碳"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_JC9DJE0a4PVxPGG2TTxC1A#2023广东·有氧呼吸的过程]"
+ },
+ {
+  "root_id": "mkjr_M6rQbZF2rsz.hF7QlsprEA",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "光合作用与细胞呼吸的关系"
+  ],
+  "province": "全国乙",
+  "year": "2022",
+  "type": "单选",
+  "answer": "D",
+  "stem": "某同学将一株生长正常的小麦置于密闭容器中，在适宜且恒定的温度和光照条件下培养，发现容器内CO2含量初期逐渐降低，之后保持相对稳定。关于这一实验现象，下列解释合理的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "初期光合速率逐渐升高，之后光合速率等于呼吸速率"
+   },
+   {
+    "label": "B",
+    "text": "初期光合速率和呼吸速率均降低，之后呼吸速率保持稳定"
+   },
+   {
+    "label": "C",
+    "text": "初期呼吸速率大于光合速率，之后呼吸速率等于光合速率"
+   },
+   {
+    "label": "D",
+    "text": "初期光合速率大于呼吸速率，之后光合速率等于呼吸速率"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_M6rQbZF2rsz.hF7QlsprEA#2022全国乙·光合作用与细胞呼吸的关系]"
+ },
+ {
+  "root_id": "mkjr__NQms0InTncmLTH3uu8Arg",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "酶的本质与作用"
+  ],
+  "province": "全国乙",
+  "year": "2022",
+  "type": "单选",
+  "answer": "C",
+  "stem": "某种酶P由RNA和蛋白质组成，可催化底物转化为相应的产物。为探究该酶不同组分催化反应所需的条件。某同学进行了下列5组实验（表中“+”表示有，“－”表示无）。 [图] 根据实验结果可以得出结论是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "酶P必须在高浓度Mg2+条件下才具有催化活性"
+   },
+   {
+    "label": "B",
+    "text": "蛋白质组分的催化活性随Mg2+浓度升高而升高"
+   },
+   {
+    "label": "C",
+    "text": "在高浓度Mg2+条件下RNA组分具有催化活性"
+   },
+   {
+    "label": "D",
+    "text": "在高浓度Mg2+条件下蛋白质组分具有催化活性"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr__NQms0InTncmLTH3uu8Arg#2022全国乙·酶的本质与作用]"
+ },
+ {
+  "root_id": "mkjr_J0PTRVnvsS1_KaJLiVs0Nw",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "有氧呼吸的过程"
+  ],
+  "province": "全国甲",
+  "year": "2022",
+  "type": "单选",
+  "answer": "C",
+  "stem": "线粒体是细胞进行有氧呼吸的主要场所。研究发现，经常运动的人肌细胞中线粒体数量通常比缺乏锻炼的人多。下列与线粒体有关的叙述，错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "有氧呼吸时细胞质基质和线粒体中都能产生ATP"
+   },
+   {
+    "label": "B",
+    "text": "线粒体内膜上的酶可以参与[H]和氧反应形成水的过程"
+   },
+   {
+    "label": "C",
+    "text": "线粒体中的丙酮酸分解成CO2和[H]的过程需要O2的直接参与"
+   },
+   {
+    "label": "D",
+    "text": "线粒体中的DNA能够通过转录和翻译控制某些蛋白质的合成"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_J0PTRVnvsS1_KaJLiVs0Nw#2022全国甲·有氧呼吸的过程]"
+ },
+ {
+  "root_id": "mkjr_7wUY1eMP8rMvm7sLAPXMRA",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "影响光合作用的因素"
+  ],
+  "province": "北京",
+  "year": "2022",
+  "type": "单选",
+  "answer": "D",
+  "stem": "光合作用强度受环境因素的影响。车前草的光合速率与叶片温度、CO2浓度的关系如下图。据图分析不能得出（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "低于最适温度时，光合速率随温度升高而升高"
+   },
+   {
+    "label": "B",
+    "text": "在一定的范围内，CO2浓度升高可使光合作用最适温度升高"
+   },
+   {
+    "label": "C",
+    "text": "CO2浓度为200μL·L-1时，温度对光合速率影响小"
+   },
+   {
+    "label": "D",
+    "text": "10℃条件下，光合速率随CO2浓度的升高会持续提高"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_7wUY1eMP8rMvm7sLAPXMRA#2022北京·影响光合作用的因素]"
+ },
+ {
+  "root_id": "mkjr_ZrZsDlUZczcj6kvw2577kw",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "无氧呼吸"
+  ],
+  "province": "北京",
+  "year": "2022",
+  "type": "单选",
+  "answer": "B",
+  "stem": "在北京冬奥会的感召下，一队初学者进行了3个月高山滑雪集训，成绩显著提高，而体重和滑雪时单位时间的摄氧量均无明显变化。检测集训前后受训者完成滑雪动作后血浆中乳酸浓度，结果如下图。与集训前相比，滑雪过程中受训者在单位时间内（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "消耗的ATP不变"
+   },
+   {
+    "label": "B",
+    "text": "无氧呼吸增强"
+   },
+   {
+    "label": "C",
+    "text": "所消耗的ATP中来自有氧呼吸的增多"
+   },
+   {
+    "label": "D",
+    "text": "骨骼肌中每克葡萄糖产生的ATP增多"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_ZrZsDlUZczcj6kvw2577kw#2022北京·无氧呼吸]"
+ },
+ {
+  "root_id": "mkjr_4IgrfCmF_4Dqv1VME80Wqw",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "有氧呼吸的过程"
+  ],
+  "province": "北京",
+  "year": "2022",
+  "type": "单选",
+  "answer": "D",
+  "stem": "有氧呼吸会产生少量超氧化物，超氧化物积累会氧化生物分子引发细胞损伤。将生理指标接近的青年志愿者按吸烟与否分为两组，在相同条件下进行体力消耗测试，受试者血浆中蛋白质被超氧化物氧化生成的产物量如下图。基于此结果，下列说法正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "超氧化物主要在血浆中产生"
+   },
+   {
+    "label": "B",
+    "text": "烟草中的尼古丁导致超氧化物含量增加"
+   },
+   {
+    "label": "C",
+    "text": "与不吸烟者比，蛋白质能为吸烟者提供更多能量"
+   },
+   {
+    "label": "D",
+    "text": "本实验为“吸烟有害健康”提供了证据"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_4IgrfCmF_4Dqv1VME80Wqw#2022北京·有氧呼吸的过程]"
+ },
+ {
+  "root_id": "mkjr_O3JiWFORZnrLDP8Q8kelBA",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "有氧呼吸的过程"
+  ],
+  "province": "山东",
+  "year": "2022",
+  "type": "单选",
+  "answer": "C",
+  "stem": "植物细胞内10%~25%的葡萄糖经过一系列反应，产生NADPH、CO2和多种中间产物，该过程称为磷酸戊糖途径。该途径的中间产物可进一步生成氨基酸和核苷酸等。下列说法错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "磷酸戊糖途径产生的NADPH与有氧呼吸产生的还原型辅酶不同"
+   },
+   {
+    "label": "B",
+    "text": "与有氧呼吸相比，葡萄糖经磷酸戊糖途径产生的能量少"
+   },
+   {
+    "label": "C",
+    "text": "正常生理条件下，利用14C标记的葡萄糖可追踪磷酸戊糖途径中各产物的生成"
+   },
+   {
+    "label": "D",
+    "text": "受伤组织修复过程中所需要的原料可由该途径的中间产物转化生成"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_O3JiWFORZnrLDP8Q8kelBA#2022山东·有氧呼吸的过程]"
+ },
+ {
+  "root_id": "mkjr_4y_m_xEviuqDhLw2MSbQRQ",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "有氧呼吸的过程"
+  ],
+  "province": "山东",
+  "year": "2022",
+  "type": "多选",
+  "answer": "BCD",
+  "stem": "在有氧呼吸第三阶段，线粒体基质中的还原型辅酶脱去氢并释放电子，电子经线粒体内膜最终传递给O2，电子传递过程中释放的能量驱动H+从线粒体基质移至内外膜间隙中，随后H+经ATP合酶返回线粒体基质并促使ATP合成，然后与接受了电子的O2结合生成水。为研究短时低温对该阶段的影响，将长势相同的黄瓜幼苗在不同条件下处理，分组情况及结果如图所示。已知DNP可使H+进入线粒体基质时不经过ATP合酶。下列相关说法正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "4℃时线粒体内膜上的电子传递受阻"
+   },
+   {
+    "label": "B",
+    "text": "与25℃时相比，4℃时有氧呼吸产热多"
+   },
+   {
+    "label": "C",
+    "text": "与25℃时相比，4℃时有氧呼吸消耗葡萄糖的量多"
+   },
+   {
+    "label": "D",
+    "text": "DNP导致线粒体内外膜间隙中H+浓度降低，生成的ATP减少"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_4y_m_xEviuqDhLw2MSbQRQ#2022山东·有氧呼吸的过程]"
+ },
+ {
+  "root_id": "mkjr_gS9SrrI0h1ViGQiywbfpxA",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "影响光合作用的因素"
+  ],
+  "province": "海南",
+  "year": "2022",
+  "type": "单选",
+  "answer": "B",
+  "stem": "某小组为了探究适宜温度下CO2对光合作用的影响，将四组等量菠菜叶圆片排气后，分别置于盛有等体积不同浓度NaHCO3溶液的烧杯中，从烧杯底部给予适宜光照，记录叶圆片上浮所需时长，结果如图。下列有关叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "本实验中，温度、NaHCO3浓度和光照都属于自变量"
+   },
+   {
+    "label": "B",
+    "text": "叶圆片上浮所需时长主要取决于叶圆片光合作用释放氧气的速率"
+   },
+   {
+    "label": "C",
+    "text": "四组实验中，0.5％NaHCO3溶液中叶圆片光合速率最高"
+   },
+   {
+    "label": "D",
+    "text": "若在4℃条件下进行本实验，则各组叶圆片上浮所需时长均会缩短"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_gS9SrrI0h1ViGQiywbfpxA#2022海南·影响光合作用的因素]"
+ },
+ {
+  "root_id": "mkjr_FgkD2mDqTsyiUw4VwRakbA",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "细胞呼吸方式的判断"
+  ],
+  "province": "未知",
+  "year": "2026",
+  "type": "单选",
+  "answer": "B",
+  "stem": "剧烈运动过程中，骨骼肌细胞有氧呼吸供能占比随运动时间变化趋势如图。下列叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "60 s时，肌细胞的无氧呼吸产生乳酸"
+   },
+   {
+    "label": "B",
+    "text": "78.6 s时，有氧呼吸与无氧呼吸消耗葡萄糖量相等"
+   },
+   {
+    "label": "C",
+    "text": "肌细胞水解ATP生成的ADP可循环利用"
+   },
+   {
+    "label": "D",
+    "text": "运动后期，供氧增加促进了线粒体内反应物的彻底氧化"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_FgkD2mDqTsyiUw4VwRakbA#2026未知·细胞呼吸方式的判断]"
+ },
+ {
+  "root_id": "mkjr_WHJFysTHF.srYxPEfCPD7A",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "细胞呼吸原理的应用"
+  ],
+  "province": "未知",
+  "year": "2026",
+  "type": "单选",
+  "answer": "D",
+  "stem": "某同学用苹果制备果醋前欲对果实品质进行检测。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "检测果实细菌污染状况时，需将稀释液滴到涂布器上再进行涂布"
+   },
+   {
+    "label": "B",
+    "text": "测定果实淀粉酶活性时，为保持酶活性需在4℃下进行酶促反应"
+   },
+   {
+    "label": "C",
+    "text": "室温下加入斐林试剂测定砖红色沉淀量，以分析果实糖含量"
+   },
+   {
+    "label": "D",
+    "text": "探究果实储存状况时，可用CO2和O2传感器测定果实呼吸速率"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_WHJFysTHF.srYxPEfCPD7A#2026未知·细胞呼吸原理的应用]"
+ },
+ {
+  "root_id": "mkjr_gGcw3EqVHBo6DVcX2YDI9g",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "酶的高效性与专一性"
+  ],
+  "province": "黑吉辽蒙",
+  "year": "2026",
+  "type": "单选",
+  "answer": "B",
+  "stem": "玉米籽粒形成过程中，磷酸烯醇式丙酮酸羧激酶2（PEPCK2）催化的反应如下图。下列叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "过程①在线粒体基质中进行"
+   },
+   {
+    "label": "B",
+    "text": "PEPCK2不能为草酰乙酸转化为PEP提供能量"
+   },
+   {
+    "label": "C",
+    "text": "PEPCK2不能催化其他来源的草酰乙酸转化为PEP"
+   },
+   {
+    "label": "D",
+    "text": "PEPCK2活性提高可促进籽粒中淀粉与蛋白质的积累"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_gGcw3EqVHBo6DVcX2YDI9g#2026黑吉辽蒙·酶的高效性与专一性]"
+ },
+ {
+  "root_id": "mkjr_wv1a3avvCCqMONYGkXT_Yg",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "叶绿体中的色素"
+  ],
+  "province": "天津",
+  "year": "2025",
+  "type": "单选",
+  "answer": "C",
+  "stem": "老师检查同学们的生物实验报告时，发现其中有误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "电泳分离DNA片段时，需用缓冲液配制琼脂糖凝胶"
+   },
+   {
+    "label": "B",
+    "text": "检测酵母是否产生酒精时，需向培养液滤液中加入酸性重铬酸钾"
+   },
+   {
+    "label": "C",
+    "text": "提取和分离菠菜叶中的色素时，用层析液进行提取，用无水乙醇进行分离"
+   },
+   {
+    "label": "D",
+    "text": "为维持有丝分裂样品最佳观察状态，需在分裂旺盛时剪取根尖，用卡诺氏液固定"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_wv1a3avvCCqMONYGkXT_Yg#2025天津·叶绿体中的色素]"
+ },
+ {
+  "root_id": "mkjr_Wh6RcOM1SI9mT3oMgWkhgg",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "有氧呼吸的过程",
+   "无氧呼吸"
+  ],
+  "province": "山东",
+  "year": "2025",
+  "type": "单选",
+  "answer": "B",
+  "stem": "关于细胞以葡萄糖为原料进行有氧呼吸和无氧呼吸的过程，下列说法正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "有氧呼吸的前两个阶段均需要O2作为原料"
+   },
+   {
+    "label": "B",
+    "text": "有氧呼吸的第二阶段需要H2O作为原料"
+   },
+   {
+    "label": "C",
+    "text": "无氧呼吸的两个阶段均不产生NADH"
+   },
+   {
+    "label": "D",
+    "text": "经过无氧呼吸，葡萄糖分子中的大部分能量以热能的形式散失"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_Wh6RcOM1SI9mT3oMgWkhgg#2025山东·有氧呼吸的过程]"
+ },
+ {
+  "root_id": "mkjr_h5_3WfHjvJi8qAy0dTv.2w",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "光合作用的光反应"
+  ],
+  "province": "山东",
+  "year": "2025",
+  "type": "多选",
+  "answer": "ACD",
+  "stem": "在低氧条件下，某单细胞藻叶绿体基质中的蛋白F可利用H+和光合作用产生的NADPH生成H2。为研究藻释放H2的培养条件，将大肠杆菌和藻按一定比例混合均匀后分成2等份，1份形成松散菌-藻体，另1份形成致密菌-藻体，在CO2充足的封闭体系中分别培养并测定体系中的气体含量，2种菌-藻体培养体系中的O2含量变化相同，结果如图所示。培养过程中，任意时刻2体系之间的光反应速率无差异。下列说法错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "菌-藻体不能同时产生O2和H2"
+   },
+   {
+    "label": "B",
+    "text": "菌-藻体的致密程度可影响H2生成量"
+   },
+   {
+    "label": "C",
+    "text": "H2的产生场所是该藻叶绿体的类囊体薄膜"
+   },
+   {
+    "label": "D",
+    "text": "培养至72h，致密菌-藻体暗反应产生的有机物多于松散菌-藻体"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_h5_3WfHjvJi8qAy0dTv.2w#2025山东·光合作用的光反应]"
+ },
+ {
+  "root_id": "mkjr_xJXRnS3nchw9LniSWvzX4A",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "影响酶活性的因素"
+  ],
+  "province": "广西",
+  "year": "2025",
+  "type": "单选",
+  "answer": "A",
+  "stem": "研究人员探究了不同浓度的油菜蜂花粉多酚（以下简称“多酚”）和药物Q对胰脂肪酶活性的影响（图a）；以及不同pH处理多酚后，多酚对该酶的酶促水解速率的影响（图b）。下列说法正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "单位时间内甘油的生成量，可作为以上实验的检测指标"
+   },
+   {
+    "label": "B",
+    "text": "在催化脂肪水解过程中，胰脂肪酶提供了大量的活化能"
+   },
+   {
+    "label": "C",
+    "text": "相同浓度下，药物Q对胰脂肪酶活性的抑制效果强于多酚"
+   },
+   {
+    "label": "D",
+    "text": "比较不同pH处理后的多酚，乙组对胰脂肪酶活性的抑制效果最弱"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_xJXRnS3nchw9LniSWvzX4A#2025广西·影响酶活性的因素]"
+ },
+ {
+  "root_id": "mkjr_OgAdrxXAmtVBugZyUaPrqA",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "有氧呼吸的过程",
+   "无氧呼吸"
+  ],
+  "province": "江苏",
+  "year": "2025",
+  "type": "单选",
+  "answer": "C",
+  "stem": "关于人体细胞和酵母细胞呼吸作用的比较分析，下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "细胞内葡萄糖分解成丙酮酸的场所不同"
+   },
+   {
+    "label": "B",
+    "text": "有氧呼吸第二阶段都有O2和H2O参与"
+   },
+   {
+    "label": "C",
+    "text": "呼吸作用都能产生[H]和ATP"
+   },
+   {
+    "label": "D",
+    "text": "无氧呼吸的产物都有"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_OgAdrxXAmtVBugZyUaPrqA#2025江苏·有氧呼吸的过程]"
+ },
+ {
+  "root_id": "mkjr_WFbnSO.e02nNF55Tpoo2JA",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "酶的高效性与专一性"
+  ],
+  "province": "江苏",
+  "year": "2025",
+  "type": "单选",
+  "answer": "C",
+  "stem": "为探究淀粉酶是否具有专一性，有同学设计了实验方案，主要步骤如表。下列相关叙述合理的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "丙组步骤②应加入2mL蔗糖酶溶液"
+   },
+   {
+    "label": "B",
+    "text": "两次水浴加热的主要目的都是提高酶活性"
+   },
+   {
+    "label": "C",
+    "text": "根据乙组的实验结果可判断淀粉溶液中是否含有还原糖"
+   },
+   {
+    "label": "D",
+    "text": "甲、丙组的预期实验结果都出现砖红色沉淀"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_WFbnSO.e02nNF55Tpoo2JA#2025江苏·酶的高效性与专一性]"
+ },
+ {
+  "root_id": "mkjr_mYXXxqzTk5aXK0znkDnP8w",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "细胞呼吸原理的应用"
+  ],
+  "province": "江西",
+  "year": "2025",
+  "type": "单选",
+  "answer": "A",
+  "stem": "体重水平与人体健康状况密切相关，体重异常特别的超重和肥胖是导致心脑血管疾病、糖尿病和部分癌症等慢性病的重要危险因素。国家卫生健康委员会等16部门启动了“体重管理年”活动。从机体能量代谢的角度分析，下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "有氧运动可加速新陈代谢，促进脂肪进入线粒体分解"
+   },
+   {
+    "label": "B",
+    "text": "高脂饮食易破坏能量平衡，导致脂肪积累而发生肥胖"
+   },
+   {
+    "label": "C",
+    "text": "低脂饮食可减少能量摄入，有氧运动可促进能量消耗"
+   },
+   {
+    "label": "D",
+    "text": "有氧运动能够避免肌细胞进行无氧呼吸产生大量乳酸"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_mYXXxqzTk5aXK0znkDnP8w#2025江西·细胞呼吸原理的应用]"
+ },
+ {
+  "root_id": "mkjr_Yl5jdkV3bQiJBLMUo3uSpw",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "影响酶活性的因素"
+  ],
+  "province": "江西",
+  "year": "2025",
+  "type": "单选",
+  "answer": "D",
+  "stem": "芸香糖苷酶能水解芸香糖苷类黄酮化合物生产槲皮素、柚皮素和橙皮素等活性物质，具有重要的应用前景。研究人员比较了芸香糖苷酶I、Ⅱ和Ⅲ的酶学性质，部分结果如表。下列叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "酶I的反应温度升高20℃，其他条件不变，酶I与酶Ⅱ活性一致"
+   },
+   {
+    "label": "B",
+    "text": "三种酶在最适的温度和pH条件下，催化底物的活性相同"
+   },
+   {
+    "label": "C",
+    "text": "三种酶能水解芸香糖苷类黄酮化合物，表明它们具有专一性"
+   },
+   {
+    "label": "D",
+    "text": "三种酶的空间结构会因环境温度和pH的改变而发生变化"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_Yl5jdkV3bQiJBLMUo3uSpw#2025江西·影响酶活性的因素]"
+ },
+ {
+  "root_id": "mkjr_E_25UnT17LYSlmXBJtHHkA",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "ATP的结构与功能"
+  ],
+  "province": "河北",
+  "year": "2025",
+  "type": "单选",
+  "answer": "D",
+  "stem": "ATP是一种能为生命活动供能的化合物，下列过程不消耗ATP的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "肌肉的收缩"
+   },
+   {
+    "label": "B",
+    "text": "光合作用的暗反应"
+   },
+   {
+    "label": "C",
+    "text": "Ca2+载体蛋白的磷酸化"
+   },
+   {
+    "label": "D",
+    "text": "水的光解"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_E_25UnT17LYSlmXBJtHHkA#2025河北·ATP的结构与功能]"
+ },
+ {
+  "root_id": "mkjr_5wDzqQuPyVGGu91Kism3sg",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "酶的本质与作用"
+  ],
+  "province": "河北",
+  "year": "2025",
+  "type": "单选",
+  "answer": "D",
+  "stem": "下列过程涉及酶催化作用的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "Fe3+催化H2O2的分解"
+   },
+   {
+    "label": "B",
+    "text": "O2通过自由扩散进入细胞"
+   },
+   {
+    "label": "C",
+    "text": "PCR过程中DNA双链的解旋"
+   },
+   {
+    "label": "D",
+    "text": "植物体细胞杂交前细胞壁的去除"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_5wDzqQuPyVGGu91Kism3sg#2025河北·酶的本质与作用]"
+ },
+ {
+  "root_id": "mkjr_XrU1l.F8rCZC01n5qFY8Hw",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "光合作用与细胞呼吸的关系"
+  ],
+  "province": "河北",
+  "year": "2025",
+  "type": "单选",
+  "answer": "A",
+  "stem": "对绿色植物的光合作用和呼吸作用过程进行比较，下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "类囊体膜上消耗H2O、而线粒体基质中生成H2O"
+   },
+   {
+    "label": "B",
+    "text": "叶绿体基质中消耗CO2，而线粒体基质中生成CO2"
+   },
+   {
+    "label": "C",
+    "text": "类囊体膜上生成O2，而线粒体内膜上消耗O2"
+   },
+   {
+    "label": "D",
+    "text": "叶绿体基质中合成有机物，而线粒体基质中分解有机物"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_XrU1l.F8rCZC01n5qFY8Hw#2025河北·光合作用与细胞呼吸的关系]"
+ },
+ {
+  "root_id": "mkjr_qS4cE9pwaVnpVDpzUWD8qQ",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "有氧呼吸的过程",
+   "无氧呼吸"
+  ],
+  "province": "河北",
+  "year": "2025",
+  "type": "多选",
+  "answer": "ACD",
+  "stem": "玉米T蛋白可影响线粒体内与呼吸作用相关的多种酶、T蛋白缺失还会造成线粒体内膜受损。针对T基因缺失突变体和野生型玉米胚乳，研究者检测了其线粒体中有氧呼吸中间产物和细胞质基质中无氧呼吸产物乳酸的含量，结果如图。下列分析正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "线粒体中的[H]可来自细胞质基质"
+   },
+   {
+    "label": "B",
+    "text": "突变体中有氧呼吸的第二阶段增强"
+   },
+   {
+    "label": "C",
+    "text": "突变体线粒体内膜上的呼吸作用阶段受阻"
+   },
+   {
+    "label": "D",
+    "text": "突变体有氧呼吸强度的变化可导致无氧呼吸的增强"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_qS4cE9pwaVnpVDpzUWD8qQ#2025河北·有氧呼吸的过程]"
+ },
+ {
+  "root_id": "mkjr_udZP66HjsxjERG6C6pL4Ig",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "有氧呼吸的过程"
+  ],
+  "province": "河南",
+  "year": "2025",
+  "type": "单选",
+  "answer": "B",
+  "stem": "甜菜是我国重要的经济作物之一，根中含有大量的糖分。研究表明呼吸代谢可影响甜菜块根的生长，其中酶Ⅰ在有氧呼吸的第二阶段发挥催化功能，该酶活性与甜菜根重呈正相关。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "酶Ⅰ主要分布在线粒体内膜上，催化的反应需要消耗氧气"
+   },
+   {
+    "label": "B",
+    "text": "低温抑制酶Ⅰ的活性，进而影响二氧化碳和NADH的生成速率"
+   },
+   {
+    "label": "C",
+    "text": "酶Ⅰ参与的有氧呼吸第二阶段是有氧呼吸中生成ATP最多的阶段"
+   },
+   {
+    "label": "D",
+    "text": "呼吸作用会消耗糖分，因此在生长期喷施酶Ⅰ抑制剂会增加甜菜产量"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_udZP66HjsxjERG6C6pL4Ig#2025河南·有氧呼吸的过程]"
+ },
+ {
+  "root_id": "mkjr_GIHWPMKV.bRXiscg0OPgrw",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "无氧呼吸"
+  ],
+  "province": "海南",
+  "year": "2025",
+  "type": "单选",
+  "answer": "C",
+  "stem": "某团队研究了水淹对植物A根系呼吸作用的影响，结果如图。下列有关叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "图中两种酶的催化反应均发生在线粒体中"
+   },
+   {
+    "label": "B",
+    "text": "图中水淹时间越长，植物A根系的无氧呼吸速率越慢"
+   },
+   {
+    "label": "C",
+    "text": "水淹时，植物A根系的无氧呼吸既产生酒精，又产生乳酸"
+   },
+   {
+    "label": "D",
+    "text": "图中酶促反应产生的ATP逐渐增加"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_GIHWPMKV.bRXiscg0OPgrw#2025海南·无氧呼吸]"
+ },
+ {
+  "root_id": "mkjr_EJMJc0PD1bQk7mVKahWifg",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "有氧呼吸的过程"
+  ],
+  "province": "甘肃",
+  "year": "2025",
+  "type": "单选",
+  "answer": "C",
+  "stem": "线粒体在足量可氧化底物和ADP存在的情况下发生的呼吸称为状态3呼吸，可用于评估线粒体产生ATP的能力。若分别以葡萄糖、丙酮酸和NADH为可氧化底物测定离体线粒体状态3呼吸速率，下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "状态3呼吸不需要氧气参与"
+   },
+   {
+    "label": "B",
+    "text": "状态3呼吸的反应场所是线粒体基质"
+   },
+   {
+    "label": "C",
+    "text": "以葡萄糖为底物测定的状态3呼吸速率为0"
+   },
+   {
+    "label": "D",
+    "text": "相比NADH，以丙酮酸为底物的状态3呼吸速率较大"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_EJMJc0PD1bQk7mVKahWifg#2025甘肃·有氧呼吸的过程]"
+ },
+ {
+  "root_id": "mkjr_Jk6keLsZl6_RfCzpbKK0Jg",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "有氧呼吸的过程"
+  ],
+  "province": "山东",
+  "year": "2024",
+  "type": "单选",
+  "answer": "C",
+  "stem": "心肌损伤诱导某种巨噬细胞吞噬、清除死亡的细胞，随后该巨噬细胞线粒体中NAD+浓度降低，生成NADH的速率减小，引起有机酸ITA的生成增加。ITA可被细胞膜上的载体蛋白L转运到细胞外。下列说法错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "细胞呼吸为巨噬细胞吞噬死亡细胞的过程提供能量"
+   },
+   {
+    "label": "B",
+    "text": "转运ITA时，载体蛋白L的构象会发生改变"
+   },
+   {
+    "label": "C",
+    "text": "该巨噬细胞清除死亡细胞后，有氧呼吸产生CO2的速率增大"
+   },
+   {
+    "label": "D",
+    "text": "被吞噬的死亡细胞可由巨噬细胞的溶酶体分解"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_Jk6keLsZl6_RfCzpbKK0Jg#2024山东·有氧呼吸的过程]"
+ },
+ {
+  "root_id": "mkjr_5GNyJGbkm_PO29CeeNNgFg",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "细胞呼吸方式的判断"
+  ],
+  "province": "山东",
+  "year": "2024",
+  "type": "多选",
+  "answer": "ABD",
+  "stem": "种皮会限制O2进入种子。豌豆干种子吸水萌发实验中子叶耗氧量、乙醇脱氢酶活性与被氧化的NADH的关系如图所示。已知无氧呼吸中，乙醇脱氢酶催化生成乙醇，与此同时NADH被氧化。下列说法正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "p点为种皮被突破的时间点"
+   },
+   {
+    "label": "B",
+    "text": "Ⅱ阶段种子内O2浓度降低限制了有氧呼吸"
+   },
+   {
+    "label": "C",
+    "text": "Ⅲ阶段种子无氧呼吸合成乙醇的速率逐渐增加"
+   },
+   {
+    "label": "D",
+    "text": "q处种子无氧呼吸比有氧呼吸分解的葡萄糖多"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_5GNyJGbkm_PO29CeeNNgFg#2024山东·细胞呼吸方式的判断]"
+ },
+ {
+  "root_id": "mkjr_5PRmF8SICDoBXzN.LgJJ0A",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "叶绿体中的色素"
+  ],
+  "province": "广东",
+  "year": "2024",
+  "type": "单选",
+  "answer": "C",
+  "stem": "银杏是我国特有的珍稀植物，其叶片变黄后极具观赏价值。某同学用纸层析法探究银杏绿叶和黄叶的色素差别，下列实验操作正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "选择新鲜程度不同的叶片混合研磨"
+   },
+   {
+    "label": "B",
+    "text": "研磨时用水补充损失的提取液"
+   },
+   {
+    "label": "C",
+    "text": "将两组滤纸条置于同一烧杯中层析"
+   },
+   {
+    "label": "D",
+    "text": "用过的层析液直接倒入下水道"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_5PRmF8SICDoBXzN.LgJJ0A#2024广东·叶绿体中的色素]"
+ },
+ {
+  "root_id": "mkjr_LH7vNjTX32dSiJhgBGlrkQ",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "有氧呼吸的过程"
+  ],
+  "province": "广东",
+  "year": "2024",
+  "type": "单选",
+  "answer": "D",
+  "stem": "研究发现，敲除某种兼性厌氧酵母（WT）sqr基因后获得的突变株△sqr中，线粒体出现碎片化现象，且数量减少。下列分析错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "碎片化的线粒体无法正常进行有氧呼吸"
+   },
+   {
+    "label": "B",
+    "text": "线粒体数量减少使△sqr的有氧呼吸减弱"
+   },
+   {
+    "label": "C",
+    "text": "有氧条件下，WT 比△sqr的生长速度快"
+   },
+   {
+    "label": "D",
+    "text": "无氧条件下，WT 比△sqr产生更多的ATP"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_LH7vNjTX32dSiJhgBGlrkQ#2024广东·有氧呼吸的过程]"
+ },
+ {
+  "root_id": "mkjr_QX8N7mPPSYmjYUpfM.h2ZA",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "光合作用的暗反应"
+  ],
+  "province": "福建",
+  "year": "2025",
+  "type": "单选",
+  "answer": "B",
+  "stem": "科研人员将光合系统相关基因整合到大肠杆菌后，该菌能在无碳源培养基中生长繁殖。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "必需整合光反应和暗反应系统的相关基因"
+   },
+   {
+    "label": "B",
+    "text": "暗反应所需的所有能量来源于细胞中的ATP"
+   },
+   {
+    "label": "C",
+    "text": "改造成功的大肠杆菌可用作为唯一碳源"
+   },
+   {
+    "label": "D",
+    "text": "该菌在无碳源培养基中生长繁殖一定需要光照"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_QX8N7mPPSYmjYUpfM.h2ZA#2025福建·光合作用的暗反应]"
+ },
+ {
+  "root_id": "mkjr_ZrINkmBO2.HTGG1RrIH9vg",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "细胞呼吸方式的判断"
+  ],
+  "province": "福建",
+  "year": "2025",
+  "type": "单选",
+  "answer": "D",
+  "stem": "细胞呼吸产生的乳酸等物质的释放会引起胞外环境的酸化。为探究氧浓度对细胞呼吸的影响，科研人员将两组肿瘤细胞在不同氧浓度下短暂培养，在箭头所示的时间点更换新的无机盐缓冲液（不含葡萄糖），并分别添加相应的成分，其中a为足量的葡萄糖，b和c为有氧呼吸某一阶段的抑制剂，检测细胞外的酸化速率，结果如图。下列叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "试剂c只能是有氧呼吸第一阶段的抑制剂"
+   },
+   {
+    "label": "B",
+    "text": "低氧组细胞对足量葡萄糖引发的无氧呼吸更强烈"
+   },
+   {
+    "label": "C",
+    "text": "①时间段正常氧组细胞同时发生有氧呼吸和无氧呼吸"
+   },
+   {
+    "label": "D",
+    "text": "②时间段正常氧组细胞无氧呼吸消耗的葡萄糖多于低氧组"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_ZrINkmBO2.HTGG1RrIH9vg#2025福建·细胞呼吸方式的判断]"
+ },
+ {
+  "root_id": "mkjr_WfZC4B42Fpb6F64DV3kHUQ",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "影响酶活性的因素"
+  ],
+  "province": "贵州",
+  "year": "2025",
+  "type": "单选",
+  "answer": "C",
+  "stem": "科研人员筛选得到某种可参与降解塑料的酶，并探究了温度对该酶催化反应速率的影响，实验结果如下图所示。下列叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "该实验中，酶的用量、pH、处理时间和初始底物浓度相同且适宜"
+   },
+   {
+    "label": "B",
+    "text": "该实验中，温度高于60℃后酶变性导致反应速率下降"
+   },
+   {
+    "label": "C",
+    "text": "该实验条件下，底物充足时增加酶的用量对反应速率无影响"
+   },
+   {
+    "label": "D",
+    "text": "进一步探究该酶最适温度时，宜在50~60℃之间设置更小温度梯度"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_WfZC4B42Fpb6F64DV3kHUQ#2025贵州·影响酶活性的因素]"
+ },
+ {
+  "root_id": "mkjr_r_9jE03wGIS7PjsnFPgNMQ",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "有氧呼吸的过程",
+   "无氧呼吸"
+  ],
+  "province": "贵州",
+  "year": "2025",
+  "type": "单选",
+  "answer": "C",
+  "stem": "R848分子可抑制X精子（含X染色体）中葡萄糖生成丙酮酸的过程和线粒体活性。哺乳动物育种时可用R848筛选精子类型控制雌雄比例。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "R848能影响X精子的无氧呼吸"
+   },
+   {
+    "label": "B",
+    "text": "R848会导致X精子ATP生成量减少"
+   },
+   {
+    "label": "C",
+    "text": "R848不会影响有氧呼吸的O2消耗量"
+   },
+   {
+    "label": "D",
+    "text": "R848可通过改变X精子的运动能力达到筛选目的"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_r_9jE03wGIS7PjsnFPgNMQ#2025贵州·有氧呼吸的过程]"
+ },
+ {
+  "root_id": "mkjr_vT8KbwibNsy52toe.BKoug",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "ATP的结构与功能"
+  ],
+  "province": "重庆",
+  "year": "2025",
+  "type": "单选",
+  "answer": "A",
+  "stem": "能量胶是马拉松运动员常用的胶状补给品，可快速供能。下表是某能量胶的营养成分表。据表分析，下列叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "核糖是ATP的组成成分，补充核糖有助于合成ATP"
+   },
+   {
+    "label": "B",
+    "text": "推测表中的碳水化合物主要是淀粉"
+   },
+   {
+    "label": "C",
+    "text": "比赛过程中大量出汗，少量补充能量胶即可维持水盐平衡"
+   },
+   {
+    "label": "D",
+    "text": "能量胶不含脂肪和蛋白质是因为它们不能为机体提供能量"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_vT8KbwibNsy52toe.BKoug#2025重庆·ATP的结构与功能]"
+ },
+ {
+  "root_id": "mkjr_lhp1dFi7.a6l9_993AN3cQ",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "有氧呼吸的过程"
+  ],
+  "province": "重庆",
+  "year": "2025",
+  "type": "单选",
+  "answer": "A",
+  "stem": "在T细胞凋亡和坏死过程中，ATP生成速率和氧气消耗速率如图1、2所示，下列说法错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "可根据氧气的消耗速率计算ATP生成的总量"
+   },
+   {
+    "label": "B",
+    "text": "有氧呼吸中氧气的消耗发生在线粒体的内膜"
+   },
+   {
+    "label": "C",
+    "text": "在t1时，凋亡组产生的乳酸比坏死组多"
+   },
+   {
+    "label": "D",
+    "text": "在t2时，凋亡组产生的CO2比坏死组多"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_lhp1dFi7.a6l9_993AN3cQ#2025重庆·有氧呼吸的过程]"
+ },
+ {
+  "root_id": "mkjr_CjwWowaIEnRGSdl5pgqgtA",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "影响酶活性的因素"
+  ],
+  "province": "浙江",
+  "year": "2025",
+  "type": "单选",
+  "answer": "C",
+  "stem": "血红素是血红蛋白的组成成分，其合成的简要过程如图所示，其中甲、乙和丙代表不同的物质，酶X能催化甲和乙转变为丙，“(-)”表示抑制作用。 [图] 下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "酶X为甲和乙的活化提供了能量"
+   },
+   {
+    "label": "B",
+    "text": "与甲、乙结合后，酶X会发生不可逆的结构变化"
+   },
+   {
+    "label": "C",
+    "text": "血红素浓度过高会通过反馈调节抑制酶X 的活性"
+   },
+   {
+    "label": "D",
+    "text": "随着甲和乙的浓度提高，酶X 催化反应的速率不断提高"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_CjwWowaIEnRGSdl5pgqgtA#2025浙江·影响酶活性的因素]"
+ },
+ {
+  "root_id": "mkjr_ETV1nvVT5mUkf3qoclpZrw",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "酶的高效性与专一性"
+  ],
+  "province": "广东",
+  "year": "2024",
+  "type": "单选",
+  "answer": "B",
+  "stem": "现有一种天然多糖降解酶，其肽链由4段序列以Ce5-Ay3-Bi-CB方式连接而成。研究者将各段序列以不同方式构建新肽链，并评价其催化活性，部分结果见表。关于各段序列的生物学功能，下列分析错误的是（ ） [图] 注：—表示无活性，+表示有活性，+越多表示活性越强。",
+  "options": [
+   {
+    "label": "A",
+    "text": "Ay3与Ce5 催化功能不同，但可能存在相互影响"
+   },
+   {
+    "label": "B",
+    "text": "Bi无催化活性，但可判断与Ay3的催化专一性有关"
+   },
+   {
+    "label": "C",
+    "text": "该酶对褐藻酸类底物的催化活性与Ce5无关"
+   },
+   {
+    "label": "D",
+    "text": "无法判断该酶对纤维素类底物的催化活性是否与CB相关"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_ETV1nvVT5mUkf3qoclpZrw#2024广东·酶的高效性与专一性]"
+ },
+ {
+  "root_id": "mkjr_MQMq5nkpM9acoA0DS4UkKw",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "影响酶活性的因素"
+  ],
+  "province": "江苏",
+  "year": "2024",
+  "type": "单选",
+  "answer": "A",
+  "stem": "某同学进行下列实验时，相关操作合理的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "从试管取菌种前，先在火焰旁拔棉塞，再将试管口迅速通过火焰以灭菌"
+   },
+   {
+    "label": "B",
+    "text": "观察黑藻的细胞质流动时，在高倍镜下先调粗准焦螺旋，再调细准焦螺旋"
+   },
+   {
+    "label": "C",
+    "text": "探究温度对酶活性的影响时，先将酶与底物混合，然后在不同温度下水浴处理"
+   },
+   {
+    "label": "D",
+    "text": "鉴定脂肪时，子叶临时切片先用体积分数为50%的乙醇浸泡，再用苏丹Ⅲ染液染色"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_MQMq5nkpM9acoA0DS4UkKw#2024江苏·影响酶活性的因素]"
+ },
+ {
+  "root_id": "mkjr_hXJrh0OxqECLMMFyKUuR0w",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "有氧呼吸的过程"
+  ],
+  "province": "江西",
+  "year": "2024",
+  "type": "单选",
+  "answer": "C",
+  "stem": "农谚有云：“雨生百谷”。“雨”有利于种子的萌发，是“百谷”丰收的基础。下列关于种子萌发的说法，错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "种子萌发时，细胞内自由水所占的比例升高"
+   },
+   {
+    "label": "B",
+    "text": "水可借助通道蛋白以协助扩散方式进入细胞"
+   },
+   {
+    "label": "C",
+    "text": "水直接参与了有氧呼吸过程中丙酮酸的生成"
+   },
+   {
+    "label": "D",
+    "text": "光合作用中，水的光解发生在类囊体薄膜上"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_hXJrh0OxqECLMMFyKUuR0w#2024江西·有氧呼吸的过程]"
+ },
+ {
+  "root_id": "mkjr_KgeH4Of4HPUx4Op0qwwCcA",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "影响酶活性的因素"
+  ],
+  "province": "浙江",
+  "year": "2023",
+  "type": "单选",
+  "answer": "B",
+  "stem": "某同学研究某因素对酶活性的影响，实验处理及结果如下：己糖激酶溶液置于45℃水浴12min，酶活性丧失50%；己糖激酶溶液中加入过量底物后置于45℃水浴12min，酶活性仅丧失3%。该同学研究的因素是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "温度"
+   },
+   {
+    "label": "B",
+    "text": "底物"
+   },
+   {
+    "label": "C",
+    "text": "反应时间"
+   },
+   {
+    "label": "D",
+    "text": "酶量"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_KgeH4Of4HPUx4Op0qwwCcA#2023浙江·影响酶活性的因素]"
+ },
+ {
+  "root_id": "mkjr_fSYxRu4oFo6rT7NFFMkPGw",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "探究酵母菌细胞呼吸的方式"
+  ],
+  "province": "浙江",
+  "year": "2023",
+  "type": "单选",
+  "answer": "C",
+  "stem": "为探究酵母菌的细胞呼吸方式，可利用酵母菌、葡萄糖溶液等材料进行实验。下列关于该实验的叙述，正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "酵母菌用量和葡萄糖溶液浓度是本实验的自变量"
+   },
+   {
+    "label": "B",
+    "text": "酵母菌可利用的氧气量是本实验的无关变量"
+   },
+   {
+    "label": "C",
+    "text": "可选用酒精和CO2生成量作为因变量的检测指标"
+   },
+   {
+    "label": "D",
+    "text": "不同方式的细胞呼吸消耗等量葡萄糖所释放的能量相等"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_fSYxRu4oFo6rT7NFFMkPGw#2023浙江·探究酵母菌细胞呼吸的方式]"
+ },
+ {
+  "root_id": "mkjr_O91Cq.ek9_nJXxomSbQ33w",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "酶的高效性与专一性"
+  ],
+  "province": "浙江",
+  "year": "2023",
+  "type": "单选",
+  "answer": "C",
+  "stem": "为探究酶的催化效率，某同学采用如图所示装置进行实验，实验分组、处理及结果如下表所示。 [图] [图] 下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "H2O2分解生成O2导致压强改变"
+   },
+   {
+    "label": "B",
+    "text": "从甲中溶液与乙中溶液混合时开始计时"
+   },
+   {
+    "label": "C",
+    "text": "250s时I组和Ⅲ组反应已结束而Ⅱ组仍在进行"
+   },
+   {
+    "label": "D",
+    "text": "实验结果说明酶的催化作用具有高效性"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_O91Cq.ek9_nJXxomSbQ33w#2023浙江·酶的高效性与专一性]"
+ },
+ {
+  "root_id": "mkjr_69OpypvVH1b1IuZEfd1uHw",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "细胞呼吸原理的应用"
+  ],
+  "province": "海南",
+  "year": "2022",
+  "type": "单选",
+  "answer": "C",
+  "stem": "种子萌发过程中，储藏的淀粉、蛋白质等物质在酶的催化下生成简单有机物，为新器官的生长和呼吸作用提供原料。下列有关叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "种子的萌发受水分、温度和氧气等因素的影响"
+   },
+   {
+    "label": "B",
+    "text": "种子萌发过程中呼吸作用增强，储藏的有机物的量减少"
+   },
+   {
+    "label": "C",
+    "text": "干燥条件下种子不萌发，主要是因为种子中的酶因缺水而变性失活"
+   },
+   {
+    "label": "D",
+    "text": "种子子叶切片用苏丹Ⅲ染色后，显微镜下观察到橘黄色颗粒，说明该种子含有脂肪"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_69OpypvVH1b1IuZEfd1uHw#2022海南·细胞呼吸原理的应用]"
+ },
+ {
+  "root_id": "mkjr_eZ2K2EJi8Za73wcTeIR.2w",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "无氧呼吸",
+   "有氧呼吸的过程"
+  ],
+  "province": "江苏",
+  "year": "2022",
+  "type": "单选",
+  "answer": "B",
+  "stem": "下列关于细胞代谢的叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "光照下，叶肉细胞中的ATP均源于光能的直接转化"
+   },
+   {
+    "label": "B",
+    "text": "供氧不足时，酵母菌在细胞质基质中将丙酮酸转化为乙醇"
+   },
+   {
+    "label": "C",
+    "text": "蓝细菌没有线粒体，只能通过无氧呼吸分解葡萄糖产生ATP"
+   },
+   {
+    "label": "D",
+    "text": "供氧充足时，真核生物在线粒体外膜上氧化[H]产生大量ATP"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_eZ2K2EJi8Za73wcTeIR.2w#2022江苏·无氧呼吸]"
+ },
+ {
+  "root_id": "mkjr_omzEPDMztwaOrOeipj9d_Q",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "有氧呼吸的过程"
+  ],
+  "province": "江苏",
+  "year": "2022",
+  "type": "多选",
+  "answer": "BC",
+  "stem": "下图为生命体内部分物质与能量代谢关系示意图。下列叙述正确的有（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "三羧酸循环是代谢网络的中心，可产生大量的[H]和CO2并消耗O2"
+   },
+   {
+    "label": "B",
+    "text": "生物通过代谢中间物，将物质的分解代谢与合成代谢相互联系"
+   },
+   {
+    "label": "C",
+    "text": "乙酰CoA在代谢途径中具有重要地位"
+   },
+   {
+    "label": "D",
+    "text": "物质氧化时释放的能量都储存于ATP"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_omzEPDMztwaOrOeipj9d_Q#2022江苏·有氧呼吸的过程]"
+ },
+ {
+  "root_id": "mkjr_9KZ4QyTDXKGexsTAyIbr_Q",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "有氧呼吸的过程",
+   "无氧呼吸"
+  ],
+  "province": "河北",
+  "year": "2022",
+  "type": "单选",
+  "answer": "B",
+  "stem": "关于呼吸作用的叙述，正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "酵母菌无氧呼吸不产生使溴麝香草酚蓝水溶液变黄的气体"
+   },
+   {
+    "label": "B",
+    "text": "种子萌发时需要有氧呼吸为新器官的发有提供原料和能量"
+   },
+   {
+    "label": "C",
+    "text": "有机物彻底分解、产生大量ATP的过程发生在线粒体基质中"
+   },
+   {
+    "label": "D",
+    "text": "通气培养的酵母菌液过滤后，滤液加入重铬酸钾浓硫酸溶液后变为灰绿色"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_9KZ4QyTDXKGexsTAyIbr_Q#2022河北·有氧呼吸的过程]"
+ },
+ {
+  "root_id": "mkjr_aVvDSCKTS.m2jEs0rDi7ug",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "叶绿体中的色素"
+  ],
+  "province": "湖北",
+  "year": "2022",
+  "type": "单选",
+  "answer": "D",
+  "stem": "某植物的2种黄叶突变体表现型相似，测定各类植株叶片的光合色素含量（单位：μg·g-1），结果如表。下列有关叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "两种突变体的出现增加了物种多样性"
+   },
+   {
+    "label": "B",
+    "text": "突变体2比突变体1吸收红光的能力更强"
+   },
+   {
+    "label": "C",
+    "text": "两种突变体的光合色素含量差异，是由不同基因的突变所致"
+   },
+   {
+    "label": "D",
+    "text": "叶绿素与类胡萝卜素的比值大幅下降可导致突变体的叶片呈黄色"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_aVvDSCKTS.m2jEs0rDi7ug#2022湖北·叶绿体中的色素]"
+ },
+ {
+  "root_id": "mkjr_cJxUUV3L7NTVhFCZmWdWJA",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "影响酶活性的因素"
+  ],
+  "province": "湖南",
+  "year": "2022",
+  "type": "单选",
+  "answer": "B",
+  "stem": "洗涤剂中的碱性蛋白酶受到其他成分的影响而改变构象，部分解折叠后可被正常碱性蛋白酶特异性识别并降解（自溶）失活。此外，加热也能使碱性蛋白酶失活，如图所示。下列叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "碱性蛋白酶在一定条件下可发生自溶失活"
+   },
+   {
+    "label": "B",
+    "text": "加热导致碱性蛋白酶构象改变是不可逆的"
+   },
+   {
+    "label": "C",
+    "text": "添加酶稳定剂可提高加碱性蛋白酶洗涤剂的去污效果"
+   },
+   {
+    "label": "D",
+    "text": "添加碱性蛋白酶可降低洗涤剂使用量，减少环境污染"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_cJxUUV3L7NTVhFCZmWdWJA#2022湖南·影响酶活性的因素]"
+ },
+ {
+  "root_id": "mkjr_MYeInNMvsVbHpNX4gvB6Xw",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "ATP的结构与功能"
+  ],
+  "province": "浙江",
+  "year": "2022",
+  "type": "单选",
+  "answer": "D",
+  "stem": "下列关于腺苷三磷酸分子的叙述，正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "由1个脱氧核糖、1个腺嘌呤和3个磷酸基团组成"
+   },
+   {
+    "label": "B",
+    "text": "分子中与磷酸基团相连接的化学键称为高能磷酸键"
+   },
+   {
+    "label": "C",
+    "text": "在水解酶的作用下不断地合成和水解"
+   },
+   {
+    "label": "D",
+    "text": "是细胞中吸能反应和放能反应的纽带"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_MYeInNMvsVbHpNX4gvB6Xw#2022浙江·ATP的结构与功能]"
+ },
+ {
+  "root_id": "mkjr_LcjFTaTh56odI0mgxaqypw",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "有氧呼吸的过程"
+  ],
+  "province": "浙江",
+  "year": "2022",
+  "type": "单选",
+  "answer": "C",
+  "stem": "线粒体结构模式如图所示，下列叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "结构1和2中的蛋白质种类不同"
+   },
+   {
+    "label": "B",
+    "text": "结构3增大了线粒体内膜的表面积"
+   },
+   {
+    "label": "C",
+    "text": "厌氧呼吸生成乳酸的过程发生在结构4中"
+   },
+   {
+    "label": "D",
+    "text": "电子传递链阻断剂会影响结构2中水的形成"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_LcjFTaTh56odI0mgxaqypw#2022浙江·有氧呼吸的过程]"
+ },
+ {
+  "root_id": "mkjr_K0nN9HeqY_H7_dg75FKOQw",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "酶的高效性与专一性"
+  ],
+  "province": "浙江",
+  "year": "2022",
+  "type": "单选",
+  "answer": "A",
+  "stem": "用果胶酶处理草莓，可以得到比较澄清的草莓汁；而利用稀盐酸处理草莓可以制得糊状的草莓酱。果胶酶和盐酸催化果胶水解的不同点在于（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "两者催化果胶水解得到的产物片段长度不同"
+   },
+   {
+    "label": "B",
+    "text": "两者催化果胶水解得到的单糖不同"
+   },
+   {
+    "label": "C",
+    "text": "两者催化果胶主链水解断裂的化学键不同"
+   },
+   {
+    "label": "D",
+    "text": "酶催化需要最适温度，盐酸水解果胶不需要最适温度"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_K0nN9HeqY_H7_dg75FKOQw#2022浙江·酶的高效性与专一性]"
+ },
+ {
+  "root_id": "mkjr_whzQrFbcV9p69B.GrZ_Qkw",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "光合作用的光反应"
+  ],
+  "province": "湖北",
+  "year": "2023",
+  "type": "单选",
+  "answer": "C",
+  "stem": "植物光合作用的光反应依赖类囊体膜上PSⅠ和PSⅡ光复合体，PSⅡ光复合体含有光合色素，能吸收光能，并分解水。研究发现，PSⅡ光复合体上的蛋白质LHCⅡ，通过与PSⅡ结合或分离来增强或减弱对光能的捕获（如图所示）。LHCⅡ与PSⅡ的分离依赖LHC蛋白激酶的催化。下列叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "叶肉细胞内LHC蛋白激酶活性下降，PSIⅡ光复合体对光能的捕获增强"
+   },
+   {
+    "label": "B",
+    "text": "Mg2+含量减少会导致PSⅡ光复合体对光能的捕获减弱"
+   },
+   {
+    "label": "C",
+    "text": "弱光下LHCⅡ与PSⅡ结合，不利于对光能的捕获"
+   },
+   {
+    "label": "D",
+    "text": "PSⅡ光复合体分解水可以产生H+、电子和O2"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_whzQrFbcV9p69B.GrZ_Qkw#2023湖北·光合作用的光反应]"
+ },
+ {
+  "root_id": "mkjr_4zG6YhmUmSzfnbx09OwWLA",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "影响光合作用的因素",
+   "光合作用的光反应"
+  ],
+  "province": "湖北",
+  "year": "2023",
+  "type": "单选",
+  "answer": "D",
+  "stem": "高温是制约世界粮食安全的因素之一，高温往往使植物叶片变黄、变褐。研究发现平均气温每升高1℃，水稻、小麦等作物减产约3%~8%。关于高温下作物减产的原因，下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "呼吸作用变强，消耗大量养分"
+   },
+   {
+    "label": "B",
+    "text": "光合作用强度减弱，有机物合成减少"
+   },
+   {
+    "label": "C",
+    "text": "蒸腾作用增强，植物易失水发生萎蔫"
+   },
+   {
+    "label": "D",
+    "text": "叶绿素降解，光反应生成的NADH和ATP减少"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_4zG6YhmUmSzfnbx09OwWLA#2023湖北·影响光合作用的因素]"
+ },
+ {
+  "root_id": "mkjr_QzyJmq5LJtDi_yKn798eHw",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "细胞呼吸原理的应用"
+  ],
+  "province": "课标",
+  "year": "2023",
+  "type": "单选",
+  "answer": "A",
+  "stem": "我国劳动人民在漫长的历史进程中，积累了丰富的生产、生活经验，并在实践中应用。生产和生活中常采取的一些措施如下。 ①低温储存，即果实、蔬菜等收获后在低温条件下存放 ②春化处理，即对某些作物萌发的种子或幼苗进行适度低温处理 ③风干储藏，即小麦、玉米等种子收获后经适当风干处理后储藏 ④光周期处理，即在作物生长的某一时期控制每天光照和黑暗的相对时长 ⑤合理密植，即栽种作物时做到密度适当，行距、株距合理 ⑥间作种植，即同一生长期内，在同一块土地上隔行种植两种高矮不同的作物 关于这些措施，下列说法合理的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "措施②④分别反映了低温和昼夜长短与作物开花的关系"
+   },
+   {
+    "label": "B",
+    "text": "措施③⑤的主要目的是降低有机物的消耗"
+   },
+   {
+    "label": "C",
+    "text": "措施②⑤⑥的主要目的是促进作物的光合作用"
+   },
+   {
+    "label": "D",
+    "text": "措施①③④的主要目的是降低作物或种子的呼吸作用强度"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_QzyJmq5LJtDi_yKn798eHw#2023课标·细胞呼吸原理的应用]"
+ },
+ {
+  "root_id": "mkjr_AoBJfVJoiebUDvZp1imDQQ",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "影响酶活性的因素"
+  ],
+  "province": "辽宁",
+  "year": "2023",
+  "type": "多选",
+  "answer": "BC",
+  "stem": "基质金属蛋白酶MMP2和MMP9是癌细胞转移的关键酶。MMP2和MMP9可以降解明胶，明胶可被某染液染成蓝色，因此可以利用含有明胶的凝胶电泳检测这两种酶在不同条件下的活性。据下图分析，下列叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "SDS可以提高MMP2和MMP9活性"
+   },
+   {
+    "label": "B",
+    "text": "10℃保温降低了MMP2和MMP9活性"
+   },
+   {
+    "label": "C",
+    "text": "缓冲液用于维持MMP2和MMP9活性"
+   },
+   {
+    "label": "D",
+    "text": "MMP2和MMP9降解明胶不具有专一性"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_AoBJfVJoiebUDvZp1imDQQ#2023辽宁·影响酶活性的因素]"
+ },
+ {
+  "root_id": "mkjr_P20Myer.JdKMsA1p281sSA",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "无氧呼吸"
+  ],
+  "province": "重庆",
+  "year": "2023",
+  "type": "单选",
+  "answer": "D",
+  "stem": "哺乳动物可利用食物中的NAM或NA合成NAD+，进而转化为NADH（[H]）。研究者以小鼠为模型，探究了哺乳动物与肠道菌群之间NAD+代谢的关系，如图所示。下列叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "静脉注射标记的NA，肠腔内会出现标记的NAM"
+   },
+   {
+    "label": "B",
+    "text": "静脉注射标记的NAM，细胞质基质会出现标记的NADH"
+   },
+   {
+    "label": "C",
+    "text": "食物中缺乏NAM时，组织细胞仍可用NAM合成NAD+"
+   },
+   {
+    "label": "D",
+    "text": "肠道中的厌氧菌合成ATP所需的能量主要来自于NADH"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_P20Myer.JdKMsA1p281sSA#2023重庆·无氧呼吸]"
+ },
+ {
+  "root_id": "mkjr_VXEzO62IYmdTEH_qbqsRlA",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "酶的本质与作用"
+  ],
+  "province": "河北",
+  "year": "2024",
+  "type": "单选",
+  "answer": "D",
+  "stem": "下列关于酶的叙述，正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "作为生物催化剂，酶作用的反应物都是有机物"
+   },
+   {
+    "label": "B",
+    "text": "胃蛋白酶应在酸性、37℃条件下保存"
+   },
+   {
+    "label": "C",
+    "text": "醋酸杆菌中与发酵产酸相关的酶，分布于其线粒体内膜上"
+   },
+   {
+    "label": "D",
+    "text": "从成年牛、羊等草食类动物的肠道内容物中可获得纤维素酶"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_VXEzO62IYmdTEH_qbqsRlA#2024河北·酶的本质与作用]"
+ },
+ {
+  "root_id": "mkjr_l.Dws9s3t0WfFVeClVTyFw",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "酶的本质与作用"
+  ],
+  "province": "浙江",
+  "year": "2024",
+  "type": "单选",
+  "answer": "B",
+  "stem": "脲酶催化尿素水解，产生的氨可作为细菌的氮源。脲酶被去除镍后失去活性。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "镍是组成脲酶的重要元素"
+   },
+   {
+    "label": "B",
+    "text": "镍能提高尿素水解反应的活化能"
+   },
+   {
+    "label": "C",
+    "text": "产脲酶细菌可在以NH4Cl为唯一氮源的培养基生长繁殖"
+   },
+   {
+    "label": "D",
+    "text": "以尿素为唯一氮源的培养基可用于筛选产脲酶细菌"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_l.Dws9s3t0WfFVeClVTyFw#2024浙江·酶的本质与作用]"
+ },
+ {
+  "root_id": "mkjr_lDAGuikfvr9OamIaBNJQfQ",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "有氧呼吸的过程",
+   "酶的高效性与专一性"
+  ],
+  "province": "海南",
+  "year": "2024",
+  "type": "单选",
+  "answer": "D",
+  "stem": "在D-甘露糖作用下，玉米细胞的线粒体结构受损，一类蛋白酶家族被激活，这些蛋白酶可以切割细胞骨架蛋白，并使DNA内切酶的抑制蛋白失活。下列有关叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "D-甘露糖会影响玉米细胞内ATP的合成"
+   },
+   {
+    "label": "B",
+    "text": "D-甘露糖会改变玉米细胞内各种具膜细胞器的分布"
+   },
+   {
+    "label": "C",
+    "text": "D-甘露糖会导致玉米细胞内的DNA被酶切成片段"
+   },
+   {
+    "label": "D",
+    "text": "D-甘露糖作用后，被激活的蛋白酶家族各个成员所催化的反应底物相同"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_lDAGuikfvr9OamIaBNJQfQ#2024海南·有氧呼吸的过程]"
+ },
+ {
+  "root_id": "mkjr_eFLOHg42OxzOwelTq5P1vA",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "有氧呼吸的过程"
+  ],
+  "province": "福建",
+  "year": "2024",
+  "type": "单选",
+  "answer": "D",
+  "stem": "科研人员用CCK-8试剂盒检测化合物M对肝细胞增殖的作用效果。该试剂盒的检测原理：在活细胞线粒体脱氢酶催化产物的介导下，试剂盒中无色的WST-8被还原成橙黄色甲攒，通过检测反应液颜色深浅判定活细胞的相对数量。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "WST-8可影响肝细胞线粒体脱氢酶的专一性"
+   },
+   {
+    "label": "B",
+    "text": "线粒体脱氢酶参与肝细胞有氧呼吸的第一阶段"
+   },
+   {
+    "label": "C",
+    "text": "用该方法对肝细胞增殖情况检测无需控制反应温度"
+   },
+   {
+    "label": "D",
+    "text": "若M促进肝细胞增殖能力越强则反应液颜色越深"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_eFLOHg42OxzOwelTq5P1vA#2024福建·有氧呼吸的过程]"
+ },
+ {
+  "root_id": "mkjr_K5vHTeEfUJ4VQvp6gI9LNg",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "光合作用的暗反应"
+  ],
+  "province": "福建",
+  "year": "2024",
+  "type": "单选",
+  "answer": "B",
+  "stem": "叶片从黑暗中转移到光照下，其光合速率要先经过一个增高过程，然后达到稳定的高水平状态，这个增高过程称为光合作用的光诱导期。已知黑暗中的大豆叶片气孔处于关闭状态，壳梭孢素处理可使大豆叶片气孔充分开放。为研究气孔开放与光诱导期的关系，科研人员将大豆叶片分为两组，A组不处理，B组用壳梭孢素处理，将两组叶片从黑暗中转移到光照下，测定光合速率，结果如图所示。 [图] 下列分析正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "0min时，A组胞间CO2浓度等于B组胞间CO2浓度"
+   },
+   {
+    "label": "B",
+    "text": "30min时，B组叶绿体中C3生成和还原速率均大于A组"
+   },
+   {
+    "label": "C",
+    "text": "30min时，限制A组光合速率的主要因素是光照时间"
+   },
+   {
+    "label": "D",
+    "text": "与A组叶片相比，B组叶片光合作用的光诱导期更长"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_K5vHTeEfUJ4VQvp6gI9LNg#2024福建·光合作用的暗反应]"
+ },
+ {
+  "root_id": "mkjr_ZK0w2hVJ.BxPoAwOGtdCIw",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "叶绿体中的色素"
+  ],
+  "province": "贵州",
+  "year": "2024",
+  "type": "单选",
+  "answer": "D",
+  "stem": "为探究不同光照强度对叶色的影响，取紫鸭跖草在不同光照强度下，其他条件相同且适宜，分组栽培，一段时间后获取各组光合色素提取液，用分光光度法（一束单色光通过溶液时，溶液的吸光度与吸光物质的浓度成正比）分别测定每组各种光合色素含量。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "叶片研磨时加入碳酸钙可防止破坏色素"
+   },
+   {
+    "label": "B",
+    "text": "分离提取液中的光合色素可采用纸层析法"
+   },
+   {
+    "label": "C",
+    "text": "光合色素相对含量不同可使叶色出现差异"
+   },
+   {
+    "label": "D",
+    "text": "测定叶绿素的含量时可使用蓝紫光波段"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_ZK0w2hVJ.BxPoAwOGtdCIw#2024贵州·叶绿体中的色素]"
+ },
+ {
+  "root_id": "mkjr_IiA04hEpjeUYXuvSzDUprg",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "points": [
+   "有氧呼吸的过程"
+  ],
+  "province": "重庆",
+  "year": "2024",
+  "type": "单选",
+  "answer": "D",
+  "stem": "肿瘤所处环境中的细胞毒性T细胞存在题图所示代谢过程。其中，PC酶和PDH酶控制着丙酮酸产生不同的代谢产物，进入有氧呼吸三羧酸循环。增加PC酶的活性会增加琥珀酸的释放，琥珀酸与受体结合可增强细胞毒性T细胞的杀伤能力，若环境中存在乳酸，PC酶的活性会被抑制。下列叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "图中三羧酸循环的代谢反应直接需要氧"
+   },
+   {
+    "label": "B",
+    "text": "图中草酰乙酸和乙酰辅酶A均产生于线粒体内膜"
+   },
+   {
+    "label": "C",
+    "text": "肿瘤细胞无氧呼吸会增强细胞毒性T细胞的杀伤能力"
+   },
+   {
+    "label": "D",
+    "text": "葡萄糖有氧呼吸的所有代谢反应中至少有5步会生成［H］"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_IiA04hEpjeUYXuvSzDUprg#2024重庆·有氧呼吸的过程]"
+ }
+]

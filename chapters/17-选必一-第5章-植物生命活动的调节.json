@@ -1,0 +1,1984 @@
+[
+ {
+  "root_id": "mkjr_9mF9dWk901NOZwl56IC4Kw",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "植物激素间的相互作用"
+  ],
+  "province": "云南",
+  "year": "2026",
+  "type": "单选",
+  "answer": "B",
+  "stem": "黄瓜的花有雌花、雄花和两性花，但只有雌花能够结出商品瓜。我国科学家发现基因ARF3在雌花形成过程中起重要作用，如图。 [图] 注：心皮发育形成雌蕊。 下列说法正确的是（　　）",
+  "options": [
+   {
+    "label": "A",
+    "text": "喷施生长素浓度越高，越有利于雌花形成"
+   },
+   {
+    "label": "B",
+    "text": "适当低温刺激可促进乙烯合成，抑制雄蕊发育"
+   },
+   {
+    "label": "C",
+    "text": "对ARF3缺失突变体补喷乙烯利，可促进雌花形成"
+   },
+   {
+    "label": "D",
+    "text": "在促进雌花形成过程中，乙烯与生长素的作用相抗衡"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_9mF9dWk901NOZwl56IC4Kw#2026云南·植物激素间的相互作用]"
+ },
+ {
+  "root_id": "mkjr_sCMQ4zAWB2D6vJShM_14Pw",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "光参与调节植物生命活动"
+  ],
+  "province": "四川",
+  "year": "2026",
+  "type": "单选",
+  "answer": "C",
+  "stem": "番茄红素含量是评价番茄果实成熟的关键指标，PSY是其合成的关键酶。PIF因子在黑暗中积累，光照下因与光敏色素结合而被诱导降解。光照下茉莉酸通过诱导MYC积累抑制PIF基因表达，解除对PSY基因转录的抑制。黑暗下茉莉酸诱导NATA积累，使PIF乙酰化后活性增强。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "光照下光敏色素被激活，可使PSY基因表达量增加"
+   },
+   {
+    "label": "B",
+    "text": "敲除PIF基因可以促进果实中番茄红素的合成"
+   },
+   {
+    "label": "C",
+    "text": "敲除NATA基因可延缓果实成熟，有利于番茄果实存储和运输"
+   },
+   {
+    "label": "D",
+    "text": "茉莉酸可用于促进番茄红素合成，也可用于延缓番茄果实成熟"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_sCMQ4zAWB2D6vJShM_14Pw#2026四川·光参与调节植物生命活动]"
+ },
+ {
+  "root_id": "mkjr_iwc_PmHWTZMXXyTUiBg2ww",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "其他植物激素"
+  ],
+  "province": "安徽",
+  "year": "2026",
+  "type": "单选",
+  "answer": "A",
+  "stem": "脱落酸在植物抗旱、落叶和种子休眠等生命活动中有重要作用。下列推测不合理的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "干旱时，脱落酸可能提高了保卫细胞的渗透压，导致细胞失水，气孔关闭"
+   },
+   {
+    "label": "B",
+    "text": "干旱时，根冠合成的脱落酸可能促进了主根伸长，提高了植物的抗旱能力"
+   },
+   {
+    "label": "C",
+    "text": "路灯下的树落叶较晚，原因可能是光照时间延长减缓了叶片脱落酸含量的上升"
+   },
+   {
+    "label": "D",
+    "text": "赤霉素可促进种子发芽，脱落酸可能抑制赤霉素的作用从而维持种子休眠"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_iwc_PmHWTZMXXyTUiBg2ww#2026安徽·其他植物激素]"
+ },
+ {
+  "root_id": "mkjr_TAzv1E_YH9yTs0Y0frTZjw",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "植物生长调节剂的应用"
+  ],
+  "province": "山东",
+  "year": "2026",
+  "type": "单选",
+  "answer": "B",
+  "stem": "植物生长调节剂在农林园艺生产上应用广泛。下列说法错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "吲哚丁酸可在植物体内合成，也可人工合成为植物生长调节剂"
+   },
+   {
+    "label": "B",
+    "text": "萘乙酸的分子结构和生理效应与生长素的类似"
+   },
+   {
+    "label": "C",
+    "text": "乙烯利可促进叶、花和果实脱落"
+   },
+   {
+    "label": "D",
+    "text": "喷施乙烯利可诱导柿子自身产生乙烯以加速成熟"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_TAzv1E_YH9yTs0Y0frTZjw#2026山东·植物生长调节剂的应用]"
+ },
+ {
+  "root_id": "mkjr_4V88422bIKVhxq0nU_A_tg",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "生长素的生理作用"
+  ],
+  "province": "广东",
+  "year": "2026",
+  "type": "单选",
+  "answer": "B",
+  "stem": "学农小组的同学发现农户大棚黄瓜果实普遍存在弯曲现象（如图），黄瓜果实弯曲造成产量和品质的大幅度下降。经查阅文献，并对黄瓜果实发生弯曲的可能原因和解决方法进行了分析讨论，得出下列结论，其中正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "因幼瓜发生病变导致其失去向地性而产生弯曲"
+   },
+   {
+    "label": "B",
+    "text": "因受精不均匀，受精较少一侧生长缓慢而产生弯曲"
+   },
+   {
+    "label": "C",
+    "text": "均匀涂抹低浓度的细胞分裂素可预防幼瓜弯曲"
+   },
+   {
+    "label": "D",
+    "text": "在凸面涂抹低浓度的生长素类调节剂可降低弯曲程度"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_4V88422bIKVhxq0nU_A_tg#2026广东·生长素的生理作用]"
+ },
+ {
+  "root_id": "mkjr_RiEbHedrz1Zykv33WhH8LQ",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "植物生长调节剂的应用"
+  ],
+  "province": "河北",
+  "year": "2026",
+  "type": "单选",
+  "answer": "B",
+  "stem": "为实现三七皂苷工厂化生产，研究者利用生长素类调节剂吲哚丁酸（IBA）和萘乙酸（NAA）对三七外植体进行不定根诱导，实验结果见表。下列分析错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "不同浓度IBA和NAA的组合对不定根的诱导效果不同"
+   },
+   {
+    "label": "B",
+    "text": "NAA浓度相同时，IBA浓度越高对不定根的诱导率越高"
+   },
+   {
+    "label": "C",
+    "text": "植物生长调节剂的作用受植物生理状态和环境条件的影响"
+   },
+   {
+    "label": "D",
+    "text": "植物生长调节剂的生产、销售和使用必须遵守国家相关规定"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_RiEbHedrz1Zykv33WhH8LQ#2026河北·植物生长调节剂的应用]"
+ },
+ {
+  "root_id": "mkjr_LIeLm8qlRlsqhYWwifGz9A",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "植物激素间的相互作用"
+  ],
+  "province": "河南",
+  "year": "2026",
+  "type": "单选",
+  "answer": "D",
+  "stem": "赤霉素和脱落酸处理对高休眠基因型（不易萌发）和低休眠基因型小麦种子萌发的影响如图所示。下列叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "甲为低休眠基因型小麦，乙为高休眠基因型小麦"
+   },
+   {
+    "label": "B",
+    "text": "赤霉素处理可维持休眠，脱落酸处理可解除休眠"
+   },
+   {
+    "label": "C",
+    "text": "赤霉素和脱落酸处理不会导致种子内源激素含量的改变"
+   },
+   {
+    "label": "D",
+    "text": "激素处理对小麦种子萌发率的影响依赖于小麦的基因型"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_LIeLm8qlRlsqhYWwifGz9A#2026河南·植物激素间的相互作用]"
+ },
+ {
+  "root_id": "mkjr_uOD3lE2zcp5khv0h6FOoJw",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "其他植物激素"
+  ],
+  "province": "湖南",
+  "year": "2026",
+  "type": "单选",
+  "answer": "D",
+  "stem": "某miRNA调控水稻种子休眠的机制如图所示。我国科学家发现该miRNA缺失突变体水稻的种子中赤霉素含量和穗发芽率均低于野生型。穗发芽指作物在成熟期或收获前，种子在穗上萌发的现象。下列叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "C蛋白抑制赤霉素在种子中积累"
+   },
+   {
+    "label": "B",
+    "text": "赤霉素主要在植物的幼芽、幼根和未成熟种子中合成"
+   },
+   {
+    "label": "C",
+    "text": "生产上应尽量选育抗穗发芽的品种"
+   },
+   {
+    "label": "D",
+    "text": "该miRNA与C基因的mRNA靶向结合促进种子休眠"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_uOD3lE2zcp5khv0h6FOoJw#2026湖南·其他植物激素]"
+ },
+ {
+  "root_id": "mkjr_ZsHhkbxX7Mec5cufKu4qGQ",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "植物激素间的相互作用"
+  ],
+  "province": "北京",
+  "year": "2025",
+  "type": "单选",
+  "answer": "D",
+  "stem": "油菜素内酯可促进Z蛋白进入细胞核调节基因表达，进而促进下胚轴生长。用生长素分别处理野生型和Z基因功能缺失突变体的拟南芥幼苗，结果如图。综合以上信息，不能得出的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "Z蛋白是油菜素内酯信号途径的组成成分"
+   },
+   {
+    "label": "B",
+    "text": "生长素和油菜素内酯都能调控下胚轴生长"
+   },
+   {
+    "label": "C",
+    "text": "生长素促进下胚轴生长依赖于Z蛋白"
+   },
+   {
+    "label": "D",
+    "text": "油菜素内酯促进下胚轴生长依赖于生长素"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_ZsHhkbxX7Mec5cufKu4qGQ#2025北京·植物激素间的相互作用]"
+ },
+ {
+  "root_id": "mkjr_oLJUqhMDjps4JD7_cFmYEQ",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "探究植物激素的作用"
+  ],
+  "province": "四川",
+  "year": "2025",
+  "type": "单选",
+  "answer": "D",
+  "stem": "生长素（IAA）和H2O2都参与中胚轴生长的调节。有人切取玉米幼苗的中胚轴、将其培养在含有不同外源物质的培养液中，一段时间后测定中胚轴长度，结果如下图（DPI可以抑制植物中H2O2的生成）。下列叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "本实验运用了实验设计的加法原理和减法原理"
+   },
+   {
+    "label": "B",
+    "text": "切去芽可以减少内源生长素对本实验结果的影响"
+   },
+   {
+    "label": "C",
+    "text": "IAA通过细胞中H2O2含量的增加促进中胚轴生长"
+   },
+   {
+    "label": "D",
+    "text": "若另设IAA抑制剂+H2O2组，中胚轴长度应与④相近"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_oLJUqhMDjps4JD7_cFmYEQ#2025四川·探究植物激素的作用]"
+ },
+ {
+  "root_id": "mkjr_ubowxBrFcp01Fi6tVgo0Zw",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "生长素的生理作用",
+   "其他植物激素"
+  ],
+  "province": "云南",
+  "year": "2025",
+  "type": "单选",
+  "answer": "C",
+  "stem": "我国劳动人民在长期农业生产实践中总结了大量经验，体现出劳动人民的勤劳与智慧。下列分析错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "“打顶去心，果枝满头”：去掉顶芽，可以消除顶端优势，促进侧枝发育"
+   },
+   {
+    "label": "B",
+    "text": "“要得果子好，蜂子把花咬”：蜜蜂可帮助传粉提高受精率，增加果实数量"
+   },
+   {
+    "label": "C",
+    "text": "“庄稼一枝花，全靠肥当家”：作物可吸收有机肥中残留蛋白质，加速生长"
+   },
+   {
+    "label": "D",
+    "text": "“瓜熟蒂落”：乙烯含量升高可促进瓜果成熟，脱落酸含量升高可促进其脱落"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_ubowxBrFcp01Fi6tVgo0Zw#2025云南·生长素的生理作用]"
+ },
+ {
+  "root_id": "mkjr_XlvQLrDG7ykT_kVI3FdY9Q",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "生长素的合成运输与分布"
+  ],
+  "province": "全国甲",
+  "year": "2024",
+  "type": "单选",
+  "answer": "B",
+  "stem": "植物生长发育受植物激素的调控。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "赤霉素可以诱导某些酶的合成促进种子萌发"
+   },
+   {
+    "label": "B",
+    "text": "单侧光下生长素的极性运输不需要载体蛋白"
+   },
+   {
+    "label": "C",
+    "text": "植物激素可与特异性受体结合调节基因表达"
+   },
+   {
+    "label": "D",
+    "text": "一种激素可通过诱导其他激素的合成发挥作用"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_XlvQLrDG7ykT_kVI3FdY9Q#2024全国甲·生长素的合成运输与分布]"
+ },
+ {
+  "root_id": "mkjr_ap0y9yzvX6k7.fg9z2vTxg",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "生长素的合成运输与分布"
+  ],
+  "province": "全国甲",
+  "year": "2023",
+  "type": "单选",
+  "answer": "D",
+  "stem": "植物激素是一类由植物体产生的，对植物的生长发育有显著影响的微量有机物，下列关于植物激素的叙述，错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "在植物幼嫩的芽中色氨酸可以转变成生长素"
+   },
+   {
+    "label": "B",
+    "text": "生长素可以从产生部位运输到其他部位发挥作用"
+   },
+   {
+    "label": "C",
+    "text": "生长素和乙烯可通过相互作用共同调节植物的生长发育"
+   },
+   {
+    "label": "D",
+    "text": "植物体内生长素可以作为催化剂直接参与细胞代谢过程"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_ap0y9yzvX6k7.fg9z2vTxg#2023全国甲·生长素的合成运输与分布]"
+ },
+ {
+  "root_id": "mkjr_kD.SOOZnJuQvJsjCkvYyBw",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "生长素的发现"
+  ],
+  "province": "山东",
+  "year": "2023",
+  "type": "单选",
+  "answer": "D",
+  "stem": "拟南芥的向光性是由生长素分布不均引起的，以其幼苗为实验材料进行向光性实验，处理方式及处理后4组幼苗的生长、向光弯曲情况如图表所示。由该实验结果不能得出的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "结构Ⅰ中有产生生长素的部位"
+   },
+   {
+    "label": "B",
+    "text": "①②之间有感受单侧光刺激的部位"
+   },
+   {
+    "label": "C",
+    "text": "甲组的①②之间有生长素分布不均的部位"
+   },
+   {
+    "label": "D",
+    "text": "②③之间无感受单侧光刺激的部位"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_kD.SOOZnJuQvJsjCkvYyBw#2023山东·生长素的发现]"
+ },
+ {
+  "root_id": "mkjr_aO57Nrfv9UnxYqY5z_.f.Q",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "生长素的生理作用"
+  ],
+  "province": "广东",
+  "year": "2023",
+  "type": "单选",
+  "answer": "B",
+  "stem": "某研学小组参加劳动实践，在校园试验田扦插繁殖药用植物两面针种苗。下列做法正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "插条只能保留1个芽以避免养分竞争"
+   },
+   {
+    "label": "B",
+    "text": "插条均应剪去多数叶片以避免蒸腾作用过度"
+   },
+   {
+    "label": "C",
+    "text": "插条的不同处理方法均应避免使用较高浓度NAA"
+   },
+   {
+    "label": "D",
+    "text": "插条均须在黑暗条件下培养以避免光抑制生根"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_aO57Nrfv9UnxYqY5z_.f.Q#2023广东·生长素的生理作用]"
+ },
+ {
+  "root_id": "mkjr_7uAse.I7qoJHhidminLrRw",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "光参与调节植物生命活动"
+  ],
+  "province": "广东",
+  "year": "2023",
+  "type": "单选",
+  "answer": "A",
+  "stem": "种植和欣赏水仙是广东的春节习俗。当室外栽培的水仙被移入室内后，其体内会发生一系列变化，导致徒长甚至倒伏。下列分析正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "水仙光敏色素感受的光信号发生改变"
+   },
+   {
+    "label": "B",
+    "text": "水仙叶绿素传递的光信号发生改变"
+   },
+   {
+    "label": "C",
+    "text": "水仙转入室内后不能发生向光性弯曲"
+   },
+   {
+    "label": "D",
+    "text": "强光促进了水仙花茎及叶的伸长生长"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_7uAse.I7qoJHhidminLrRw#2023广东·光参与调节植物生命活动]"
+ },
+ {
+  "root_id": "mkjr_XsYuKOta.TXei0W3In27ug",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "植物激素间的相互作用"
+  ],
+  "province": "江苏",
+  "year": "2023",
+  "type": "单选",
+  "answer": "B",
+  "stem": "为研究油菜素内酯（BL）和生长素（IAA）对植物侧根形成是否有协同效应，研究者进行了如下实验：在不含BL、含有1nmol/L BL的培养基中，分别加入不同浓度IAA，培养拟南芥8天，统计侧根数目，结果如图所示。下列相关叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "0~1nmol/L IAA浓度范围内，BL对侧根形成无影响"
+   },
+   {
+    "label": "B",
+    "text": "1~20nmol/L IAA浓度范围内，BL与IAA对侧根形成的协同作用显著"
+   },
+   {
+    "label": "C",
+    "text": "20~50nmol/L IAA浓度范围内，BL对侧根形成影响更显著"
+   },
+   {
+    "label": "D",
+    "text": "0~50nmol/L IAA浓度范围内，BL与IAA协同作用表现为低浓度抑制、高浓度促进"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_XsYuKOta.TXei0W3In27ug#2023江苏·植物激素间的相互作用]"
+ },
+ {
+  "root_id": "mkjr_oHj95hFB7LoId0x5zJcXWw",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "光参与调节植物生命活动"
+  ],
+  "province": "北京",
+  "year": "2022",
+  "type": "单选",
+  "answer": "A",
+  "stem": "2022年2月下旬，天安门广场各种盆栽花卉凌寒怒放，喜迎冬残奥会的胜利召开。为使植物在特定时间开花，园艺工作者需对植株进行处理，常用措施不包括（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "置于微重力场"
+   },
+   {
+    "label": "B",
+    "text": "改变温度"
+   },
+   {
+    "label": "C",
+    "text": "改变光照时间"
+   },
+   {
+    "label": "D",
+    "text": "施用植物生长调节剂"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_oHj95hFB7LoId0x5zJcXWw#2022北京·光参与调节植物生命活动]"
+ },
+ {
+  "root_id": "mkjr_lG8zEGEvlzhECXRKGpVayQ",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "探究植物激素的作用"
+  ],
+  "province": "山东",
+  "year": "2022",
+  "type": "单选",
+  "answer": "D",
+  "stem": "石蒜地下鳞茎的产量与鳞茎内淀粉的积累量呈正相关。为研究植物生长调节剂对石蒜鳞茎产量的影响，将适量赤霉素和植物生长调节剂多效唑的粉末分别溶于少量甲醇后用清水稀释，处理长势相同的石蒜幼苗，鳞茎中合成淀粉的关键酶AGPase的活性如图。下列说法正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "多效唑通过增强AGPase活性直接参与细胞代谢"
+   },
+   {
+    "label": "B",
+    "text": "对照组应使用等量清水处理与实验组长势相同的石蒜幼苗"
+   },
+   {
+    "label": "C",
+    "text": "喷施赤霉素能促进石蒜植株的生长，提高鳞茎产量"
+   },
+   {
+    "label": "D",
+    "text": "该实验设计遵循了实验变量控制中的“加法原理”"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_lG8zEGEvlzhECXRKGpVayQ#2022山东·探究植物激素的作用]"
+ },
+ {
+  "root_id": "mkjr_aYeB6qNS9gdCw1LSkWIGvg",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "其他植物激素"
+  ],
+  "province": "贵州",
+  "year": "2026",
+  "type": "单选",
+  "answer": "C",
+  "stem": "脱落酸（ABA）能影响植物种子的萌发及叶片气孔的开闭，气孔的开闭与植物的抗旱性相关，细胞膜上的一种转运蛋白E6可以转运ABA．现利用一定浓度的ABA处理水稻种子，结果如图。下列叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "ABA与赤霉素对水稻种子萌发的作用相抗衡"
+   },
+   {
+    "label": "B",
+    "text": "E6蛋白能将水稻种子细胞内的ABA转运至细胞外"
+   },
+   {
+    "label": "C",
+    "text": "E6基因过表达型比敲除型的种子对外施ABA更敏感"
+   },
+   {
+    "label": "D",
+    "text": "推测E6基因敲除型比野生型的植株更适应干旱条件"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_aYeB6qNS9gdCw1LSkWIGvg#2026贵州·其他植物激素]"
+ },
+ {
+  "root_id": "mkjr_0AMxccJjpuFbD7fJXwpi2A",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "探究植物激素的作用"
+  ],
+  "province": "黑吉辽蒙",
+  "year": "2026",
+  "type": "单选",
+  "answer": "C",
+  "stem": "玉米中有一种突变体，种子直接在植株的果穗上发芽。已知该性状是由于脱落酸合成受抑制或脱落酸受体功能异常导致。为确定该性状出现的原因，以下实验设计及结果分析合理的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "①"
+   },
+   {
+    "label": "B",
+    "text": "②"
+   },
+   {
+    "label": "C",
+    "text": "③"
+   },
+   {
+    "label": "D",
+    "text": "④"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_0AMxccJjpuFbD7fJXwpi2A#2026黑吉辽蒙·探究植物激素的作用]"
+ },
+ {
+  "root_id": "mkjr_E95pP4DPJJldgpFZdVFAKQ",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "生长素的合成运输与分布"
+  ],
+  "province": "天津",
+  "year": "2025",
+  "type": "单选",
+  "answer": "B",
+  "stem": "T1蛋白和生长素在植物组织水平上的分布高度重合。T1基因突变后细胞内的脂类会发生改变，且生长素载体蛋白从高尔基体到细胞膜的运输异常。描述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "T1蛋白主要表达在胚芽鞘、茎尖和根尖的分生区等部位"
+   },
+   {
+    "label": "B",
+    "text": "T1突变影响了核糖体、高尔基体的组成和功能"
+   },
+   {
+    "label": "C",
+    "text": "T1突变体内的生长素极性运输异常"
+   },
+   {
+    "label": "D",
+    "text": "T1突变体幼苗的根变短"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_E95pP4DPJJldgpFZdVFAKQ#2025天津·生长素的合成运输与分布]"
+ },
+ {
+  "root_id": "mkjr_GxMlH56yJVVm_K6k4IawVw",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "植物激素间的相互作用"
+  ],
+  "province": "山东",
+  "year": "2025",
+  "type": "单选",
+  "answer": "D",
+  "stem": "果实脱落受多种激素调控。某植物果实脱落的调控过程如图所示。下列说法错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "脱落酸通过促进乙烯的合成促进该植物果实脱落"
+   },
+   {
+    "label": "B",
+    "text": "脱落酸与生长素含量的比值影响该植物果实脱落"
+   },
+   {
+    "label": "C",
+    "text": "喷施适宜浓度的生长素类调节剂有利于防止该植物果实脱落"
+   },
+   {
+    "label": "D",
+    "text": "该植物果实脱落过程中产生的乙烯对自身合成的调节属于负反馈"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_GxMlH56yJVVm_K6k4IawVw#2025山东·植物激素间的相互作用]"
+ },
+ {
+  "root_id": "mkjr_uf2gIuU6eRPGCvLgXnbAig",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "生长素的生理作用"
+  ],
+  "province": "广东",
+  "year": "2025",
+  "type": "单选",
+  "answer": "A",
+  "stem": "某高校科技特派员为协助种养专业合作社繁殖优良欧李种质，以欧李根状茎为插条，用赤霉素合成抑制剂处理，使插条生根率由22%提高到78%。扦插后，插条的几种内源激素的含量变化见图。下列叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "细胞分裂素加快细胞分裂并促进生根"
+   },
+   {
+    "label": "B",
+    "text": "提高生长素含量而促进生根"
+   },
+   {
+    "label": "C",
+    "text": "推测赤霉素缺失突变体根系相对发达"
+   },
+   {
+    "label": "D",
+    "text": "推测促进生根效果更好"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_uf2gIuU6eRPGCvLgXnbAig#2025广东·生长素的生理作用]"
+ },
+ {
+  "root_id": "mkjr_1RzDgxoMxvcw01YfvejN7w",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "光参与调节植物生命活动"
+  ],
+  "province": "广西",
+  "year": "2025",
+  "type": "单选",
+  "answer": "D",
+  "stem": "植物光敏色素phyB通常有Pr和Pfr两种构型，Pr吸收红光后转化为Pfr，但Pfr吸收远红光后又可逆转为Pr。遮阴会使环境中红光与远红光比值下降。下列分析错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "Pr吸收红光转化为Pfr不属于蛋白质变性"
+   },
+   {
+    "label": "B",
+    "text": "茎尖分生区细胞phyB含量比叶表皮细胞多"
+   },
+   {
+    "label": "C",
+    "text": "茎尖向光侧细胞的Pr与Pfr比值比背光侧大"
+   },
+   {
+    "label": "D",
+    "text": "茎尖向光侧细胞的Pr会与IAA结合抑制生长"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_1RzDgxoMxvcw01YfvejN7w#2025广西·光参与调节植物生命活动]"
+ },
+ {
+  "root_id": "mkjr_UMaEJgqMKZi6Fab.muOChQ",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "其他植物激素"
+  ],
+  "province": "江西",
+  "year": "2025",
+  "type": "多选",
+  "answer": "ABD",
+  "stem": "杜鹃A是一种珍稀濒危植物，种子萌发率低。为了探究杜鹃A种子萌发的影响因素，研究人员将正常种子分别置于蒸馏水和适宜浓度的赤霉素溶液中浸泡，每4h取蒸馏水中浸泡的种子统计吸水率，每12h取赤霉素溶液中浸泡的种子进行培养，统计发芽率，结果如图。下列推测合理的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "浸种12h内，种子中赤霉素的含量逐渐升高"
+   },
+   {
+    "label": "B",
+    "text": "浸种24h内，种子细胞中自由水与结合水的比值升高"
+   },
+   {
+    "label": "C",
+    "text": "浸种24—48h，种子内高浓度赤霉素会抑制种子萌发"
+   },
+   {
+    "label": "D",
+    "text": "浸种36—48h，种子细胞的无氧呼吸强度逐渐提高"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_UMaEJgqMKZi6Fab.muOChQ#2025江西·其他植物激素]"
+ },
+ {
+  "root_id": "mkjr_X..FXdBJCmNjGROheyDAQw",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "其他植物激素"
+  ],
+  "province": "海南",
+  "year": "2025",
+  "type": "单选",
+  "answer": "C",
+  "stem": "为探究脱落酸对某作物受低温胁迫的缓解效应，研究人员用不同浓度（浓度1~3依次增加）的脱落酸处理该作物一定时间后，置于低温下培养5天，测定生物量和细胞膜受损程度，结果如图。下列有关叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "与对照1相比，对照2的结果说明低温对该作物造成了胁迫"
+   },
+   {
+    "label": "B",
+    "text": "与对照 2相比，脱落酸可增加该作物在低温下有机物的积累"
+   },
+   {
+    "label": "C",
+    "text": "与对照 2相比，脱落酸可降低该作物在低温下细胞膜的稳定性"
+   },
+   {
+    "label": "D",
+    "text": "3个浓度中，浓度1的脱落酸最有利于缓解低温对该作物造成的胁迫"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_X..FXdBJCmNjGROheyDAQw#2025海南·其他植物激素]"
+ },
+ {
+  "root_id": "mkjr_zHqJTiD5TMpd0BVL25VW.Q",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "光参与调节植物生命活动"
+  ],
+  "province": "湖北",
+  "year": "2025",
+  "type": "单选",
+  "answer": "D",
+  "stem": "科研人员对四种植物进行不同光照处理实验，记录开花情况如下表。根据实验结果，以下推断合理的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "对植物丁进行人工补光延长光照时间，能使其更快开花"
+   },
+   {
+    "label": "B",
+    "text": "植物丙的开花不受环境因素影响，由自身遗传物质决定"
+   },
+   {
+    "label": "C",
+    "text": "表中植物甲和乙开花的差异，是因为它们对光照强度的敏感度不同"
+   },
+   {
+    "label": "D",
+    "text": "若在湖北同一地点种植，植物甲可能在夏季开花，植物乙可能在秋季开花"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_zHqJTiD5TMpd0BVL25VW.Q#2025湖北·光参与调节植物生命活动]"
+ },
+ {
+  "root_id": "mkjr_qqPOVHvsYCKP3.EFMpaovw",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "温度参与调节植物生命活动"
+  ],
+  "province": "湖南",
+  "year": "2025",
+  "type": "单选",
+  "answer": "C",
+  "stem": "在常温（20℃）、长日照条件下栽培某油菜品种，幼苗生长至4~5叶时，将部分植株置于低温（5℃）处理6周后，立即进行嫁接。然后将所有植株常温栽培。不同处理植株茎尖中赤霉素含量（鲜重）及开花情况如表所示。下列叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "除赤霉素外，低温处理诱导油菜开花不需要其他物质参与"
+   },
+   {
+    "label": "B",
+    "text": "赤霉素直接参与油菜开花生理代谢反应的浓度需达到某临界值"
+   },
+   {
+    "label": "C",
+    "text": "将油菜幼苗的成熟叶片置于低温下，其余部位置于常温，不能诱导开花"
+   },
+   {
+    "label": "D",
+    "text": "若外源赤霉素代替低温也能促进油菜开花，则两者诱导开花的代谢途径相同"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_qqPOVHvsYCKP3.EFMpaovw#2025湖南·温度参与调节植物生命活动]"
+ },
+ {
+  "root_id": "mkjr_Ne01dM6MnbcYesjk1y2sLg",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "植物激素作用的机制"
+  ],
+  "province": "甘肃",
+  "year": "2025",
+  "type": "单选",
+  "answer": "C",
+  "stem": "生长素可促进植物细胞伸长生长，其作用机制之一是通过激活质膜H+-ATP酶，导致细胞壁酸化，活化细胞壁代谢相关的酶。拟南芥跨膜激酶TMK参与了这一过程，它与生长素受体、质膜H+-ATP酶的关系如下图所示。下列叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "生长素促进细胞伸长生长的过程与呼吸作用无关"
+   },
+   {
+    "label": "B",
+    "text": "碱性条件下生长素促进细胞伸长生长的作用增强"
+   },
+   {
+    "label": "C",
+    "text": "生长素受体可以结合吲哚乙酸或苯乙酸"
+   },
+   {
+    "label": "D",
+    "text": "TMK功能缺失突变体的生长较野生型快"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_Ne01dM6MnbcYesjk1y2sLg#2025甘肃·植物激素作用的机制]"
+ },
+ {
+  "root_id": "mkjr_zcinEaEk7IN8MrhdKMtyAA",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "探究植物激素的作用"
+  ],
+  "province": "天津",
+  "year": "2024",
+  "type": "单选",
+  "answer": "B",
+  "stem": "突变体是研究植物激素功能的常用材料，以下研究材料选择不当的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "生长素促进植物生根——无侧根突变体"
+   },
+   {
+    "label": "B",
+    "text": "乙烯促进果实的成熟——无果实突变体"
+   },
+   {
+    "label": "C",
+    "text": "赤霉素促进植株增高——麦苗疯长突变体"
+   },
+   {
+    "label": "D",
+    "text": "脱落酸维持种子休眠——种子成熟后随即萌发突变体"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_zcinEaEk7IN8MrhdKMtyAA#2024天津·探究植物激素的作用]"
+ },
+ {
+  "root_id": "mkjr_to6k19ATWAMyz2ChQcN3.g",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "植物生长发育的整体调控"
+  ],
+  "province": "安徽",
+  "year": "2024",
+  "type": "单选",
+  "answer": "D",
+  "stem": "植物生命活动受植物激素、环境因素等多种因素的调节。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "菊花是自然条件下秋季开花的植物，遮光处理可使其延迟开花"
+   },
+   {
+    "label": "B",
+    "text": "玉米倒伏后，茎背地生长与重力引起近地侧生长素含量较低有关"
+   },
+   {
+    "label": "C",
+    "text": "组织培养中，细胞分裂素与生长素浓度比值高时能诱导根的分化"
+   },
+   {
+    "label": "D",
+    "text": "土壤干旱时，豌豆根部合成的脱落酸向地上运输可引起气孔关闭"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_to6k19ATWAMyz2ChQcN3.g#2024安徽·植物生长发育的整体调控]"
+ },
+ {
+  "root_id": "mkjr_dh.ny36_U1CHVBtHR9PwLA",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "植物激素间的相互作用"
+  ],
+  "province": "山东",
+  "year": "2024",
+  "type": "单选",
+  "answer": "B",
+  "stem": "拟南芥的基因S与种子萌发有关。对野生型和基因S过表达株系的种子分别进行不同处理，处理方式及种子萌发率（%）如表所示，其中MS为基本培养基，WT为野生型，OX为基因S过表达株系，PAC为赤霉素合成抑制剂。下列说法错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "MS组是为了排除内源脱落酸和赤霉素的影响"
+   },
+   {
+    "label": "B",
+    "text": "基因S通过增加赤霉素的活性促进种子萌发"
+   },
+   {
+    "label": "C",
+    "text": "基因S过表达减缓脱落酸对种子萌发的抑制"
+   },
+   {
+    "label": "D",
+    "text": "脱落酸和赤霉素在拟南芥种子的萌发过程中相互拮抗"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_dh.ny36_U1CHVBtHR9PwLA#2024山东·植物激素间的相互作用]"
+ },
+ {
+  "root_id": "mkjr_VhBNQEJoz1BG_wS4jQn52w",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "植物激素间的相互作用"
+  ],
+  "province": "辽宁",
+  "year": "2025",
+  "type": "单选",
+  "answer": "D",
+  "stem": "光照、植物激素EBR、脱落酸和赤霉素均参与调节拟南芥种子的萌发，部分作用关系如下图。下列叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "光敏色素是一类含有色素的脂质化合物"
+   },
+   {
+    "label": "B",
+    "text": "图中激素①是赤霉素，激素②是脱落酸"
+   },
+   {
+    "label": "C",
+    "text": "EBR和赤霉素是相抗衡的关系"
+   },
+   {
+    "label": "D",
+    "text": "红光和EBR均能诱导拟南芥种子萌发"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_VhBNQEJoz1BG_wS4jQn52w#2025辽宁·植物激素间的相互作用]"
+ },
+ {
+  "root_id": "mkjr_Dc689bC6czBKpJ9wVxiauQ",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "植物激素间的相互作用"
+  ],
+  "province": "山西",
+  "year": "2025",
+  "type": "单选",
+  "answer": "D",
+  "stem": "某樱桃品种由北方引种到南方后，栽培于平地和同一地区高山的相比，花芽小且产量较低。研究人员分析了花芽的激素含量，结果如下表。下列叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "樱桃花芽的发育受多种植物激素的共同调控"
+   },
+   {
+    "label": "B",
+    "text": "平地和高山的樱桃花芽激素含量受温度影响"
+   },
+   {
+    "label": "C",
+    "text": "樱桃花芽发育中赤霉素和脱落酸的作用相反"
+   },
+   {
+    "label": "D",
+    "text": "生长素与细胞分裂素比值高有利于花芽膨大"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_Dc689bC6czBKpJ9wVxiauQ#2025山西·植物激素间的相互作用]"
+ },
+ {
+  "root_id": "mkjr__UGPyPRvwYDkOBy6KnzoSw",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "重力参与调节植物生命活动"
+  ],
+  "province": "福建",
+  "year": "2025",
+  "type": "单选",
+  "answer": "A",
+  "stem": "我国航天员在空间站收获并品尝了新鲜的“太空蔬菜”。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "太空蔬菜中的激素分布不受微重力的影响"
+   },
+   {
+    "label": "B",
+    "text": "太空蔬菜可为航天员提供维生素和膳食纤维"
+   },
+   {
+    "label": "C",
+    "text": "太空蔬菜种植可促进空间站内的物质循环"
+   },
+   {
+    "label": "D",
+    "text": "太空蔬菜的生长体现了植物对环境的适应性"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr__UGPyPRvwYDkOBy6KnzoSw#2025福建·重力参与调节植物生命活动]"
+ },
+ {
+  "root_id": "mkjr_5JJrpj3v65UZCxq8QAHPqQ",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "光参与调节植物生命活动"
+  ],
+  "province": "福建",
+  "year": "2025",
+  "type": "单选",
+  "answer": "C",
+  "stem": "为研究光照对培养箱中拟南芥生长的影响，科研人员在总光强相同情况下设置了不同的红蓝光强度比，并改变光照时间，进行相关实验，部分结果如图。下列叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "蓝光不能作为信号调控拟南芥生长"
+   },
+   {
+    "label": "B",
+    "text": "拟南芥叶绿素b的吸收光谱受光照时长的影响"
+   },
+   {
+    "label": "C",
+    "text": "适当调高16：1组的蓝光比例有利于拟南芥生长"
+   },
+   {
+    "label": "D",
+    "text": "不同光照时间下促进拟南芥生长的最佳红蓝光强度比相同"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_5JJrpj3v65UZCxq8QAHPqQ#2025福建·光参与调节植物生命活动]"
+ },
+ {
+  "root_id": "mkjr_wK5rZTSaoPYYhLRsDe6UJA",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "其他植物激素"
+  ],
+  "province": "浙江",
+  "year": "2025",
+  "type": "单选",
+  "answer": "D",
+  "stem": "ACC氧化酶催化ACC氧化产生乙烯，每种植物都有若干编码该酶的ACO基因。有研究人员检测了番茄中3种ACO 基因的相对表达量，结果如表所示。 [图] 注：“-”表示未检测到转录产物 下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "不是所有的ACO基因都在叶片中表达"
+   },
+   {
+    "label": "B",
+    "text": "3种ACO基因表达的最终产物催化产生乙烯的反应相同"
+   },
+   {
+    "label": "C",
+    "text": "绿果颜色转变过程中，ACO1基因的表达量提高，有利于乙烯的合成"
+   },
+   {
+    "label": "D",
+    "text": "3种ACO基因在开花及绿果颜色转变后表达量均上升，表明乙烯能促进衰老"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_wK5rZTSaoPYYhLRsDe6UJA#2025浙江·其他植物激素]"
+ },
+ {
+  "root_id": "mkjr_5.Lpov8Wsm9AdbDXyUGazw",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "探究植物激素的作用"
+  ],
+  "province": "广西",
+  "year": "2024",
+  "type": "单选",
+  "answer": "D",
+  "stem": "百香果具有较高的经济价值，在广西多地种植，赋能乡村振兴。为探究促进百香果健壮枝条生根的最适2,4-D浓度，某兴趣小组提出实验方案，其中不合理的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "设置清水组作为空白对照"
+   },
+   {
+    "label": "B",
+    "text": "将2,4-D浓度作为自变量"
+   },
+   {
+    "label": "C",
+    "text": "将枝条生根的数量及生根的长度作为因变量"
+   },
+   {
+    "label": "D",
+    "text": "随机选择生长状况不同的枝条作为实验材料"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_5.Lpov8Wsm9AdbDXyUGazw#2024广西·探究植物激素的作用]"
+ },
+ {
+  "root_id": "mkjr_NnWNei3.R6jznTk6Jllgqw",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "植物生长发育的整体调控"
+  ],
+  "province": "江苏",
+  "year": "2024",
+  "type": "单选",
+  "answer": "B",
+  "stem": "如需作图,必须用2B铅笔绘写清楚，线条、符号等须加黑,加粗。 一、单项选择题:共15题,每题2分,共30分。每题只有一个选项最符合题意。 1. 关于人体中肝糖原、脂肪和胃蛋白酶，下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "三者都含有的元素是C、H、O、N"
+   },
+   {
+    "label": "B",
+    "text": "细胞中肝糖原和脂肪都是储能物质"
+   },
+   {
+    "label": "C",
+    "text": "肝糖原和胃蛋白酶的基本组成单位相同"
+   },
+   {
+    "label": "D",
+    "text": "胃蛋白酶能将脂肪水解为甘油和脂肪酸"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_NnWNei3.R6jznTk6Jllgqw#2024江苏·植物生长发育的整体调控]"
+ },
+ {
+  "root_id": "mkjr_y29_han3.4uL6uEyMn87WA",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "光参与调节植物生命活动"
+  ],
+  "province": "浙江",
+  "year": "2023",
+  "type": "单选",
+  "answer": "B",
+  "stem": "为研究红光、远红光及赤霉素对莴苣种子萌发的影响，研究小组进行黑暗条件下莴苣种子萌发的实验。其中红光和远红光对莴苣种子赤霉素含量的影响如图甲所示，红光、远红光及外施赤霉素对莴苣种子萌发的影响如图乙所示。 [图] 据图分析，下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "远红光处理莴苣种子使赤霉素含量增加，促进种子萌发"
+   },
+   {
+    "label": "B",
+    "text": "红光能激活光敏色素，促进合成赤霉素相关基因的表达"
+   },
+   {
+    "label": "C",
+    "text": "红光与赤霉素处理相比，莴苣种子萌发的响应时间相同"
+   },
+   {
+    "label": "D",
+    "text": "若红光处理结合外施脱落酸，莴苣种子萌发率比单独红光处理高"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_y29_han3.4uL6uEyMn87WA#2023浙江·光参与调节植物生命活动]"
+ },
+ {
+  "root_id": "mkjr_QRdmKu1zzE.tXp1nukyisg",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "植物生长调节剂的应用"
+  ],
+  "province": "海南",
+  "year": "2022",
+  "type": "单选",
+  "answer": "C",
+  "stem": "植物激素和植物生长调节剂可调控植物的生长发育。下列有关叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "将患恶苗病的水稻叶片汁液喷洒到正常水稻幼苗上，结实率会降低"
+   },
+   {
+    "label": "B",
+    "text": "植物组织培养中，培养基含生长素、不含细胞分裂素时，易形成多核细胞"
+   },
+   {
+    "label": "C",
+    "text": "矮壮素处理后，小麦植株矮小、节间短，说明矮壮素的生理效应与赤霉素的相同"
+   },
+   {
+    "label": "D",
+    "text": "高浓度2，4－D能杀死双子叶植物杂草，可作为除草剂使用"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_QRdmKu1zzE.tXp1nukyisg#2022海南·植物生长调节剂的应用]"
+ },
+ {
+  "root_id": "mkjr_nAsxPsXjTYdPPfu6Dk9CPw",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "植物生长调节剂的应用"
+  ],
+  "province": "湖北",
+  "year": "2022",
+  "type": "单选",
+  "answer": "C",
+  "stem": "水稻种植过程中，植株在中后期易倒伏是常见问题。在适宜时期喷施适量的调环酸钙溶液，能缩短水稻基部节间长度，增强植株抗倒伏能力。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "调环酸钙是一种植物生长调节剂"
+   },
+   {
+    "label": "B",
+    "text": "喷施调环酸钙的关键之一是控制施用浓度"
+   },
+   {
+    "label": "C",
+    "text": "若调环酸钙喷施不足，可尽快喷施赤霉素进行补救"
+   },
+   {
+    "label": "D",
+    "text": "在水稻基部节间伸长初期喷施调环酸钙可抑制其伸长"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_nAsxPsXjTYdPPfu6Dk9CPw#2022湖北·植物生长调节剂的应用]"
+ },
+ {
+  "root_id": "mkjr_rYcGlbxOhHLDo_l9yvFZuA",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "其他植物激素"
+  ],
+  "province": "湖南",
+  "year": "2022",
+  "type": "多选",
+  "answer": "BD",
+  "stem": "植物受到创伤可诱导植物激素茉莉酸（JA）的合成，JA在伤害部位或运输到未伤害部位被受体感应而产生蛋白酶抑制剂I（PI-Ⅱ），该现象可通过嫁接试验证明。试验涉及突变体ml和m2，其中一个不能合成JA，但能感应JA而产生PI-Ⅱ；另一个能合成JA，但对JA不敏感。嫁接试验的接穗和砧木叶片中PI-Ⅱ的mRNA相对表达量的检测结果如图表所示。 [图] [图] 注:WT为野生型，ml为突变体1，m2为突变体2;“……”代表嫁接，上方为接穗，下方为砧木:“+”“－”分别表示有无，“+”越多表示表达量越高 下列判断或推测正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "ml不能合成JA，但能感应JA而产生PI-Ⅱ"
+   },
+   {
+    "label": "B",
+    "text": "嫁接也产生轻微伤害，可导致少量表达PI-Ⅱ"
+   },
+   {
+    "label": "C",
+    "text": "嫁接类型ml/m2叶片创伤，ml中大量表达PI-Ⅱ"
+   },
+   {
+    "label": "D",
+    "text": "嫁接类型m2/m1叶片创伤，m2中大量表达PI-Ⅱ"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_rYcGlbxOhHLDo_l9yvFZuA#2022湖南·其他植物激素]"
+ },
+ {
+  "root_id": "mkjr_1kXw7sMLcUcxGyhdj3IAGw",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "光参与调节植物生命活动"
+  ],
+  "province": "辽宁",
+  "year": "2022",
+  "type": "单选",
+  "answer": "C",
+  "stem": "亚麻籽可以榨油，茎秆可以生产纤维。在亚麻生长季节，北方比南方日照时间长，亚麻开花与昼夜长短有关，只有白天短于一定的时长才能开花。赤霉素可以促进植物伸长生长，但对亚麻成花没有影响。烯效唑可抑制植物体内赤霉素的合成。下列在黑龙江省栽培亚麻的叙述，正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "适当使用烯效唑，以同时生产亚麻籽和亚麻纤维"
+   },
+   {
+    "label": "B",
+    "text": "适当使用赤霉素，以同时生产亚麻籽和亚麻纤维"
+   },
+   {
+    "label": "C",
+    "text": "适当使用赤霉素，以提高亚麻纤维产量"
+   },
+   {
+    "label": "D",
+    "text": "适当使用烯效唑，以提高亚麻籽产量"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_1kXw7sMLcUcxGyhdj3IAGw#2022辽宁·光参与调节植物生命活动]"
+ },
+ {
+  "root_id": "mkjr_Vve42d4l85MspiYv0Aihhw",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "其他植物激素"
+  ],
+  "province": "浙江",
+  "year": "2022",
+  "type": "单选",
+  "answer": "A",
+  "stem": "某种植物激素能延缓离体叶片的衰老，可用于叶菜类的保鲜。该激素最可能是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "细胞分裂素"
+   },
+   {
+    "label": "B",
+    "text": "生长素"
+   },
+   {
+    "label": "C",
+    "text": "脱落酸"
+   },
+   {
+    "label": "D",
+    "text": "赤霉素"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_Vve42d4l85MspiYv0Aihhw#2022浙江·其他植物激素]"
+ },
+ {
+  "root_id": "mkjr_tewN2eRZv3g8asGzkxZvMg",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "其他植物激素"
+  ],
+  "province": "湖北",
+  "year": "2023",
+  "type": "单选",
+  "answer": "D",
+  "stem": "胁迫是指一种显著偏离于生物适宜生活需求的环境条件。水杨酸可以减轻胁迫对植物的不利影响。在镉的胁迫下，添加适宜浓度的水杨酸可激活苦草体内抗氧化酶系统，降低丙二醛和H2O2含量，有效缓解镉对苦草的氧化胁迫。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "水杨酸能缓解H2O2对苦草的氧化作用"
+   },
+   {
+    "label": "B",
+    "text": "在胁迫环境下，苦草种群的环境容纳量下降"
+   },
+   {
+    "label": "C",
+    "text": "通过生物富集作用，镉能沿食物链传递到更高营养级"
+   },
+   {
+    "label": "D",
+    "text": "在镉的胁迫下，苦草能通过自身的调节作用维持稳态"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_tewN2eRZv3g8asGzkxZvMg#2023湖北·其他植物激素]"
+ },
+ {
+  "root_id": "mkjr_iFykB09WF_1uGnSi2xmVTw",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "植物生长调节剂的应用"
+  ],
+  "province": "湖北",
+  "year": "2023",
+  "type": "单选",
+  "answer": "B",
+  "stem": "多年生植物甲为一种重要经济作物，果实采收期一般在10月，在生长过程中常受到寄生植物乙的危害（植物乙的果实成熟期为当年10月到次年2月）。为阻断植物乙的传播和蔓延，科研人员选用不同稀释浓度的植物生长调节剂M喷施处理，结果如图所示。下列叙述错误的是（ ） [图] [图] 曲线1：稀释浓度为1/100；曲线2：稀释浓度为1/200；曲线3：稀释浓度为1/400；曲线4：对照组",
+  "options": [
+   {
+    "label": "A",
+    "text": "据图综合分析，为防治乙的危害，M的稀释浓度应选用1/400"
+   },
+   {
+    "label": "B",
+    "text": "植物乙对照组的曲线逐渐下降，说明其生长逐渐减弱"
+   },
+   {
+    "label": "C",
+    "text": "喷施M时间选择甲果实采收后，乙果实未大量成熟前"
+   },
+   {
+    "label": "D",
+    "text": "植物生长调节剂M与植物激素脱落酸的作用相似"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_iFykB09WF_1uGnSi2xmVTw#2023湖北·植物生长调节剂的应用]"
+ },
+ {
+  "root_id": "mkjr_snrDn.QcxFWAK0pVdZIasQ",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "植物激素间的相互作用"
+  ],
+  "province": "湖南",
+  "year": "2023",
+  "type": "多选",
+  "answer": "ACD",
+  "stem": "番茄果实发育历时约53天达到完熟期，该过程受脱落酸和乙烯的调控，且果实发育过程中种子的脱落酸和乙烯含量达到峰值时间均早于果肉。基因NCEDI和AC01分别是脱落酸和乙烯合成的关键基因。NDGA抑制NCED1酶活性，1-MCP抑制乙烯合成。花后40天果实经不同处理后果实中脱落酸和乙烯含量的结果如图所示。下列叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "番茄种子的成熟期早于果肉，这种发育模式有利于种群的繁衍"
+   },
+   {
+    "label": "B",
+    "text": "果实发育过程中脱落酸生成时，果实中必需有NCEDI酶的合成"
+   },
+   {
+    "label": "C",
+    "text": "NCED1酶失活，ACO1基因的表达可能延迟"
+   },
+   {
+    "label": "D",
+    "text": "脱落酸诱导了乙烯的合成，其诱导效应可被1-MCP消除"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_snrDn.QcxFWAK0pVdZIasQ#2023湖南·植物激素间的相互作用]"
+ },
+ {
+  "root_id": "mkjr_B_c5XFyS.djXvMlx2r.FWw",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "植物生长调节剂的应用",
+   "探究植物激素的作用"
+  ],
+  "province": "辽宁",
+  "year": "2023",
+  "type": "单选",
+  "answer": "C",
+  "stem": "分别用不同浓度芸苔素（一种植物生长调节剂）和赤霉素处理杜仲叶片，然后测定叶片中的有效成分桃叶珊瑚苷含量，结果如下图所示。下列叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "实验中生长调节剂的浓度范围可以通过预实验确定"
+   },
+   {
+    "label": "B",
+    "text": "设置对照组是为了排除内源激素对实验结果的影响"
+   },
+   {
+    "label": "C",
+    "text": "与对照组相比，赤霉素在500mg·L-1时起抑制作用"
+   },
+   {
+    "label": "D",
+    "text": "与用赤霉素处理相比，杜仲叶片对芸苔素更敏感"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_B_c5XFyS.djXvMlx2r.FWw#2023辽宁·植物生长调节剂的应用]"
+ },
+ {
+  "root_id": "mkjr_71ynqvRIPsXtg.GSp0Ho4A",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "光参与调节植物生命活动"
+  ],
+  "province": "江西",
+  "year": "2024",
+  "type": "多选",
+  "answer": "AC",
+  "stem": "阳光为生命世界提供能量，同时作为光信号调控生物的生长、发育和繁衍，使地球成为生机勃勃的美丽星球。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "植物可通过感受光质和光周期等光信号调控开花"
+   },
+   {
+    "label": "B",
+    "text": "植物体中感受光信号的色素均衡分布在各组织中"
+   },
+   {
+    "label": "C",
+    "text": "植物体中光敏色素结构的改变影响细胞核基因的表达"
+   },
+   {
+    "label": "D",
+    "text": "光信号影响植物生长发育的主要机制是调节光合作用的强度"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_71ynqvRIPsXtg.GSp0Ho4A#2024江西·光参与调节植物生命活动]"
+ },
+ {
+  "root_id": "mkjr_gu.STERCubzSKKH6Wd5mVg",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "生长素的生理作用"
+  ],
+  "province": "河北",
+  "year": "2024",
+  "type": "单选",
+  "answer": "B",
+  "stem": "水稻在苗期会表现出顶端优势，其分蘖相当于侧枝。AUX1是参与水稻生长素极性运输的载体蛋白之一。下列分析错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "AUX1缺失突变体的分蘖可能增多"
+   },
+   {
+    "label": "B",
+    "text": "分蘖发生部位生长素浓度越高越有利于分蘖增多"
+   },
+   {
+    "label": "C",
+    "text": "在水稻的成熟组织中，生长素可进行非极性运输"
+   },
+   {
+    "label": "D",
+    "text": "同一浓度的生长素可能会促进分蘖的生长，却抑制根的生长"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_gu.STERCubzSKKH6Wd5mVg#2024河北·生长素的生理作用]"
+ },
+ {
+  "root_id": "mkjr_bS0eRE1INQOOJIYQA63STg",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "其他植物激素"
+  ],
+  "province": "浙江",
+  "year": "2024",
+  "type": "单选",
+  "answer": "D",
+  "stem": "干旱胁迫下，植物体内脱落酸含量显著增加，赤霉素含量下降。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "干旱胁迫下脱落酸含量上升，促进气孔开放"
+   },
+   {
+    "label": "B",
+    "text": "干旱胁迫下植物含水量上升，增强抗旱能力"
+   },
+   {
+    "label": "C",
+    "text": "干旱胁迫下，脱落酸受体缺失突变体较耐干旱"
+   },
+   {
+    "label": "D",
+    "text": "干旱胁迫下，叶面喷施赤霉素不利于植物抗旱"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_bS0eRE1INQOOJIYQA63STg#2024浙江·其他植物激素]"
+ },
+ {
+  "root_id": "mkjr_DTg69DB5SIXgfYtr80wZww",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "植物生长调节剂的应用"
+  ],
+  "province": "海南",
+  "year": "2024",
+  "type": "单选",
+  "answer": "D",
+  "stem": "6-苄基腺嘌呤（6-BA）是一种植物生长调节剂。某小组研究了不同浓度的6-BA对三种油茶花粉萌发的影响，结果如图。据图判断，下列有关叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "未添加6-BA时，三种油茶的花粉萌发率相同"
+   },
+   {
+    "label": "B",
+    "text": "6-BA诱导三种油茶花粉萌发的最佳浓度相同"
+   },
+   {
+    "label": "C",
+    "text": "不同浓度的6-BA对三种油茶花粉的萌发均起促进作用"
+   },
+   {
+    "label": "D",
+    "text": "与对照组相比，最佳诱导浓度下花粉萌发率增加倍数最大的是油茶A"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_DTg69DB5SIXgfYtr80wZww#2024海南·植物生长调节剂的应用]"
+ },
+ {
+  "root_id": "mkjr_fujrdHSBFKbCEcbRKMsjsw",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "光参与调节植物生命活动"
+  ],
+  "province": "湖北",
+  "year": "2024",
+  "type": "单选",
+  "answer": "C",
+  "stem": "植物甲的花产量、品质（与叶黄素含量呈正相关）与光照长短密切相关。研究人员用不同光照处理植物甲幼苗，实验结果如下表所示。下列叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "第①组处理有利于诱导植物甲提前开花，且产量最高"
+   },
+   {
+    "label": "B",
+    "text": "植物甲花的品质与光照处理中的黑暗时长呈负相关"
+   },
+   {
+    "label": "C",
+    "text": "综合考虑花的产量和品质，应该选择第②组处理"
+   },
+   {
+    "label": "D",
+    "text": "植物甲花的叶黄素含量与花的产量呈正相关"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_fujrdHSBFKbCEcbRKMsjsw#2024湖北·光参与调节植物生命活动]"
+ },
+ {
+  "root_id": "mkjr_PcWaV1FDldR9Sqfl7x2yww",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "植物激素间的相互作用"
+  ],
+  "province": "湖北",
+  "year": "2024",
+  "type": "单选",
+  "answer": "D",
+  "stem": "研究人员以野生型水稻和突变型水稻（乙烯受体缺失）等作为材料，探究乙烯对水稻根系生长的影响，结果如下表所示。下列叙述正确的是（ ） [图] 注：＋越多表示相关指标的量越大",
+  "options": [
+   {
+    "label": "A",
+    "text": "第④组中的水稻只能通过转基因技术获得"
+   },
+   {
+    "label": "B",
+    "text": "第②组与第③组对比说明乙烯对根系生长有促进作用"
+   },
+   {
+    "label": "C",
+    "text": "第③组与第④组对比说明NAA对根系生长有促进作用"
+   },
+   {
+    "label": "D",
+    "text": "实验结果说明乙烯可能影响生长素的合成，进而调控根系的生长"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_PcWaV1FDldR9Sqfl7x2yww#2024湖北·植物激素间的相互作用]"
+ },
+ {
+  "root_id": "mkjr_yyGFUt0Gy1QxSP2y_6CrYg",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "其他植物激素"
+  ],
+  "province": "湖南",
+  "year": "2024",
+  "type": "单选",
+  "answer": "A",
+  "stem": "脱落酸（ABA）是植物响应逆境胁迫的信号分子，NaCl和PEG6000（PEG6000不能进入细胞）皆可引起渗透胁迫。图a为某水稻种子在不同处理下基因R的相对表达量变化，图b为该基因的突变体和野生型种子在不同处理下7天时的萌发率。研究还发现无论在正常还是逆境下，基因R的突变体种子中ABA含量皆高于野生型。下列叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "NaCl、PEC6000和ABA对种子萌发的调节机制相同"
+   },
+   {
+    "label": "B",
+    "text": "渗透胁迫下种子中内原ABA的含量变化先于基因R的表达变化"
+   },
+   {
+    "label": "C",
+    "text": "基因R突变体种子中ABA含量升高可延长种子贮藏寿命"
+   },
+   {
+    "label": "D",
+    "text": "基因R突变可能解除了其对ABA生物合成的抑制作用"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_yyGFUt0Gy1QxSP2y_6CrYg#2024湖南·其他植物激素]"
+ },
+ {
+  "root_id": "mkjr_l52rk.8w4ZXFMxHDrzC5Rw",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "植物激素作用的机制"
+  ],
+  "province": "福建",
+  "year": "2024",
+  "type": "单选",
+  "answer": "D",
+  "stem": "乙烯前体物质ACC能在氧化酶ACO作用下生成乙烯，而乙酰转移酶B（NatB）会促进ACO的乙酰化，进而影响ACO的降解速度。已知乙烯含量与拟南芥幼苗顶端的弯曲角度有关，为探究NatB调控植物乙烯合成的机制，科研人员进行了相关实验，结果如图所示。 [图] 下列分析错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "乙烯会促进拟南芥幼苗顶端弯曲角度的增大"
+   },
+   {
+    "label": "B",
+    "text": "NatB基因突变会导致拟南芥内源性乙烯水平下降"
+   },
+   {
+    "label": "C",
+    "text": "外源施加ACC可增大NatB突变株顶端弯曲角度"
+   },
+   {
+    "label": "D",
+    "text": "乙烯不敏感株中NatB会抑制ACC转化为乙烯"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_l52rk.8w4ZXFMxHDrzC5Rw#2024福建·植物激素作用的机制]"
+ },
+ {
+  "root_id": "mkjr_Vvq17hm29jrfMN.h.Eu05w",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "植物生长调节剂的应用"
+  ],
+  "province": "贵州",
+  "year": "2024",
+  "type": "单选",
+  "answer": "D",
+  "stem": "矮壮素可使草莓植株矮化，提高草莓的产量。科研人员探究了不同浓度的矮壮素对草莓幼苗的矮化和地上部鲜重，以及对果实总产量的影响，实验结果如图所示。下列叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "矮壮素是从植物体提取的具有调节作用的物质"
+   },
+   {
+    "label": "B",
+    "text": "种植草莓时，施用矮壮素的最适浓度为400mg/L"
+   },
+   {
+    "label": "C",
+    "text": "一定范围内，随浓度增加，矮壮素对草莓幼苗的矮化作用减弱"
+   },
+   {
+    "label": "D",
+    "text": "一定浓度范围内，果实总产量与幼苗地上部鲜重变化趋势相近"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_Vvq17hm29jrfMN.h.Eu05w#2024贵州·植物生长调节剂的应用]"
+ },
+ {
+  "root_id": "mkjr_a3jkQhZC6XqtVjfcj0D9Bg",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "points": [
+   "其他植物激素"
+  ],
+  "province": "重庆",
+  "year": "2024",
+  "type": "单选",
+  "answer": "B",
+  "stem": "为探究乙烯在番茄幼苗生长过程中的作用，研究人员在玻璃箱中对若干番茄幼苗分组进行处理，一定时间后观测成熟叶叶柄与茎的夹角变化，然后切取枝条，检测各部位乙烯的量。题图，为其处理方式和结果的示意图（切枝上各部位颜色越深表示乙烯量越多）。据此分析，下列叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "由切口处乙烯的积累，可推测机械伤害加速乙烯合成"
+   },
+   {
+    "label": "B",
+    "text": "由幼叶发育成熟过程中乙烯量减少，可推测IAA抑制乙烯合成"
+   },
+   {
+    "label": "C",
+    "text": "乙烯处理使成熟叶向下弯曲，可能是由于叶柄上侧细胞生长快于下侧细胞"
+   },
+   {
+    "label": "D",
+    "text": "去除乙烯合成后成熟叶角度恢复，可能是因为叶柄上、下侧细胞中IAA比值持续增大"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_a3jkQhZC6XqtVjfcj0D9Bg#2024重庆·其他植物激素]"
+ }
+]

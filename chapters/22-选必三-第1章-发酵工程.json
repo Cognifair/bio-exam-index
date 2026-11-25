@@ -1,0 +1,1992 @@
+[
+ {
+  "root_id": "mkjr_bHe7fVx1pf.dwqPBWJRklQ",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "传统发酵技术",
+   "食品的保存与防腐"
+  ],
+  "province": "云南",
+  "year": "2026",
+  "type": "单选",
+  "answer": "D",
+  "stem": "肉类在低温下可经过高盐腌制、晾挂、发酵（乳酸菌、酵母菌为主）后延长保存期。下列说法错误的是（　　）",
+  "options": [
+   {
+    "label": "A",
+    "text": "高盐腌制提高了细胞外渗透压使细胞脱水"
+   },
+   {
+    "label": "B",
+    "text": "其中微生物大多数属于耐盐或嗜盐微生物"
+   },
+   {
+    "label": "C",
+    "text": "发酵产生的乳酸可抑制杂菌生长强化防腐"
+   },
+   {
+    "label": "D",
+    "text": "乳酸菌、酵母菌发酵过程中均可产生CO2"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_bHe7fVx1pf.dwqPBWJRklQ#2026云南·传统发酵技术]"
+ },
+ {
+  "root_id": "mkjr_61rdgP9jb3USrGgSDATQCA",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "微生物的选择培养与计数"
+  ],
+  "province": "四川",
+  "year": "2026",
+  "type": "单选",
+  "answer": "B",
+  "stem": "四川主产的浓香型白酒畅销全国。其发酵用的酒曲富含霉菌、酵母菌、细菌等微生物。从酒曲中分离纯化的某些酵母菌可利用其产生的乙醇合成低水溶性的乙酸乙酯，催化该反应的酶也能催化酯分解。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "向培养基中加入青霉素，可有效抑制细菌和霉菌的生长"
+   },
+   {
+    "label": "B",
+    "text": "向培养基中添加乙酸乙酯，可根据透明圈筛选产酯酵母"
+   },
+   {
+    "label": "C",
+    "text": "酵母菌被破碎处理成匀浆后，不能催化乙酸乙酯的合成"
+   },
+   {
+    "label": "D",
+    "text": "与无氧相比，有氧条件培养酵母菌能产生更多乙酸乙酯"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_61rdgP9jb3USrGgSDATQCA#2026四川·微生物的选择培养与计数]"
+ },
+ {
+  "root_id": "mkjr_leyYpSeCI6mkltS7h_EeOQ",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "微生物的选择培养与计数"
+  ],
+  "province": "安徽",
+  "year": "2026",
+  "type": "单选",
+  "answer": "B",
+  "stem": "某种营养缺陷型细菌在完全培养基上能生长，但在基本培养基上需添加组氨酸才能生长。将等量的营养缺陷型菌株涂布到两种培养基上（基本培养基中添加了少量组氨酸供细菌繁殖，但不足以形成菌落），再分别放入含低浓度和高浓度物质M的滤纸片，培养一段时间后菌落的生长情况如图。下列叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "固体培养基配制后需要采用干热灭菌法进行灭菌"
+   },
+   {
+    "label": "B",
+    "text": "牛肉膏蛋白胨培养基能用于培养该营养缺陷型细菌"
+   },
+   {
+    "label": "C",
+    "text": "物质M有诱变作用，菌落a中细菌合成蛋白质时不需要组氨酸"
+   },
+   {
+    "label": "D",
+    "text": "物质M有抑制作用，抑菌圈边缘的菌落多数能在基本培养基上生长"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_leyYpSeCI6mkltS7h_EeOQ#2026安徽·微生物的选择培养与计数]"
+ },
+ {
+  "root_id": "mkjr_NUad8Ox4tfaY2DhcCa_mvg",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "传统发酵技术"
+  ],
+  "province": "山东",
+  "year": "2026",
+  "type": "单选",
+  "answer": "A",
+  "stem": "某酱厂制作甜面酱的流程为：选料→蒸料→接种→制曲→恒温发酵→蒸煮→灌装。除米曲霉外，酵母菌、乳酸菌等多种微生物也参与发酵过程。下列说法错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "制曲应在有氧条件下进行，以便于发酵过程所用微生物均迅速增殖"
+   },
+   {
+    "label": "B",
+    "text": "恒温发酵过程中，pH和溶解氧的改变会影响微生物代谢物的形成"
+   },
+   {
+    "label": "C",
+    "text": "蒸煮具有终止发酵和延长产品保存期的作用"
+   },
+   {
+    "label": "D",
+    "text": "酵母菌和乳酸菌在参与发酵的过程中存在竞争"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_NUad8Ox4tfaY2DhcCa_mvg#2026山东·传统发酵技术]"
+ },
+ {
+  "root_id": "mkjr_plJpg1fr9VVP.PrJSKpTlw",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "微生物的选择培养与计数"
+  ],
+  "province": "山东",
+  "year": "2026",
+  "type": "多选",
+  "answer": "AD",
+  "stem": "刚果红与纤维素可形成红色复合物。在含刚果红和纤维素的培养基中培养细菌时，细菌产生的纤维素酶将纤维素分解，使菌落周围形成透明圈。为获得分解纤维素能力强的菌株，将筛选到的菌株a进行诱变处理得到菌株b、c、d。在相同且适宜的条件下培养，选取大小相近的菌落进行统计，相关数据如表所示。下列说法正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "筛选菌株a所用培养基应以纤维素为唯一碳源"
+   },
+   {
+    "label": "B",
+    "text": "将菌液接种到培养基进行菌株筛选时必须使用平板划线法"
+   },
+   {
+    "label": "C",
+    "text": "从表中数据可得出，菌株c的纤维素酶合成基因未发生突变"
+   },
+   {
+    "label": "D",
+    "text": "在4种菌株中，菌株b分解纤维素的能力最强"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_plJpg1fr9VVP.PrJSKpTlw#2026山东·微生物的选择培养与计数]"
+ },
+ {
+  "root_id": "mkjr_1Gxx0PwtcrCzmsQ.DnJtxw",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "微生物的纯培养"
+  ],
+  "province": "广东",
+  "year": "2026",
+  "type": "单选",
+  "answer": "B",
+  "stem": "“酵母菌的纯培养”实验中，下列操作不规范的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "在火焰旁冷却接种环"
+   },
+   {
+    "label": "B",
+    "text": "试管棉塞放超净台上"
+   },
+   {
+    "label": "C",
+    "text": "接种前灼烧试管口"
+   },
+   {
+    "label": "D",
+    "text": "划线时轻柔而迅速"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_1Gxx0PwtcrCzmsQ.DnJtxw#2026广东·微生物的纯培养]"
+ },
+ {
+  "root_id": "mkjr_LSxFW7HwiFTktzG_VZHy5Q",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "微生物的选择培养与计数"
+  ],
+  "province": "河北",
+  "year": "2026",
+  "type": "多选",
+  "answer": "AB",
+  "stem": "窖泥中的微生物是影响白酒风味的因素之一。现从某酒厂窖泥中分离筛选与白酒风味物质形成相关的己酸菌，下列分析错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "分离培养己酸菌时，需对培养基、培养皿和窖泥进行灭菌"
+   },
+   {
+    "label": "B",
+    "text": "通过稀释涂布平板法统计的菌落数一般比活菌的实际数偏多"
+   },
+   {
+    "label": "C",
+    "text": "依据己酸菌的特异基因序列设计引物，可通过PCR对目的菌株进行鉴定"
+   },
+   {
+    "label": "D",
+    "text": "获得的己酸菌优良菌种需扩大培养后再用于白酒的规模化生产"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_LSxFW7HwiFTktzG_VZHy5Q#2026河北·微生物的选择培养与计数]"
+ },
+ {
+  "root_id": "mkjr_kAY7rCNw4AW9psKeyV744Q",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "微生物的选择培养与计数"
+  ],
+  "province": "河南",
+  "year": "2026",
+  "type": "单选",
+  "answer": "B",
+  "stem": "自然界存在着甲、乙两种降解PET塑料（含碳有机物）的细菌。为筛选这两种细菌，并探究两种细菌的协同降解效果，研究人员进行了相关实验。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "为筛选出目的菌，培养基应以PET塑料为唯一碳源"
+   },
+   {
+    "label": "B",
+    "text": "细菌纯培养时，需用涂布器蘸取单个菌落进行涂布"
+   },
+   {
+    "label": "C",
+    "text": "利用显微镜直接计数，可估算出菌悬液中细菌的总数"
+   },
+   {
+    "label": "D",
+    "text": "探究甲、乙降解效果的协同性，至少需设三个实验组"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_kAY7rCNw4AW9psKeyV744Q#2026河南·微生物的选择培养与计数]"
+ },
+ {
+  "root_id": "mkjr_61mHu.yRH_oLXCaY3O70ew",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "微生物的选择培养与计数"
+  ],
+  "province": "湖南",
+  "year": "2026",
+  "type": "多选",
+  "answer": "AB",
+  "stem": "科研人员拟筛选耐镉细菌用于生态修复。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "宜从镉污染的土壤或水体中分离耐镉细菌"
+   },
+   {
+    "label": "B",
+    "text": "配制培养基时需添加碳源、氮源和无机盐等营养成分"
+   },
+   {
+    "label": "C",
+    "text": "含氯化镉的培养基可选择耐镉细菌并鉴定其种属"
+   },
+   {
+    "label": "D",
+    "text": "利用稀释涂布平板法计数时，统计的菌落数往往比活菌实际数目多"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_61mHu.yRH_oLXCaY3O70ew#2026湖南·微生物的选择培养与计数]"
+ },
+ {
+  "root_id": "mkjr_LKwk3Lyq4Q4P0R6pMDXHww",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "微生物的选择培养与计数"
+  ],
+  "province": "四川",
+  "year": "2025",
+  "type": "单选",
+  "answer": "C",
+  "stem": "微塑料由塑料废弃物风化形成，难以降解，会危害生态环境和人体健康。有人分离到X和Y两种微塑料降解菌，将总菌量相同的X、Y、X+Y（X:Y=1:1）分别接种于含有等量微塑料的蛋白胨液体培养基中，培养一段时间后测定微塑料的残留率（残留率=剩余量/添加量×100%），结果如下图。下列叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "用平板划线法能测定X菌组中的活菌数"
+   },
+   {
+    "label": "B",
+    "text": "Y菌组微塑料残留率较高，故菌浓度也高"
+   },
+   {
+    "label": "C",
+    "text": "混合菌种对微塑料的降解能力高于单一菌种"
+   },
+   {
+    "label": "D",
+    "text": "能在该培养基中生长繁殖的微生物都能降解微塑料"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_LKwk3Lyq4Q4P0R6pMDXHww#2025四川·微生物的选择培养与计数]"
+ },
+ {
+  "root_id": "mkjr_89Zb7gCkb3WJ6ENKOzwISA",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "传统发酵技术"
+  ],
+  "province": "云南",
+  "year": "2025",
+  "type": "单选",
+  "answer": "B",
+  "stem": "黄酒是我国古老的发酵酒之一，传统酿制中，先用蒸煮过的小麦或麸皮为原料，对之前发酵留存的少量酒曲（曲种）进行扩大制曲；再将酒曲和蒸煮后的糯米、大米混合处理一段时间后，添加足量酒母（含酵母菌）完成发酵，压榨成品。下列说法错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "小麦、麸皮等原料为酒曲中微生物的生长繁殖提供了碳源和氮源等营养物质"
+   },
+   {
+    "label": "B",
+    "text": "为避免制曲过程被杂菌污染影响黄酒品质，扩大制曲前需对留存的酒曲灭菌"
+   },
+   {
+    "label": "C",
+    "text": "糯米、大米蒸煮后立即与酒曲混合会导致酶空间结构改变而降低其催化效率"
+   },
+   {
+    "label": "D",
+    "text": "将酒曲混合糯米、大米处理一段时间，是为了获得酒母发酵时的底物葡萄糖"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_89Zb7gCkb3WJ6ENKOzwISA#2025云南·传统发酵技术]"
+ },
+ {
+  "root_id": "mkjr_l0Pm0hwvMrn5ID5WgTdxow",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "传统发酵技术"
+  ],
+  "province": "山东",
+  "year": "2023",
+  "type": "单选",
+  "answer": "C",
+  "stem": "以下是以泡菜坛为容器制作泡菜时的4个处理：①沸盐水冷却后再倒入坛中；②盐水需要浸没全部菜料；③盖好坛盖后，向坛盖边沿的水槽中注满水；④检测泡菜中亚硝酸盐的含量。下列说法正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "①主要是为了防止菜料表面的醋酸杆菌被杀死"
+   },
+   {
+    "label": "B",
+    "text": "②的主要目的是用盐水杀死菜料表面的杂菌"
+   },
+   {
+    "label": "C",
+    "text": "③是为了使气体只能从泡菜坛排出而不能进入"
+   },
+   {
+    "label": "D",
+    "text": "④可检测到完整发酵过程中亚硝酸盐含量逐渐降低"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_l0Pm0hwvMrn5ID5WgTdxow#2023山东·传统发酵技术]"
+ },
+ {
+  "root_id": "mkjr_rxMTZfg.E4GLZDhP.9Z1IQ",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "传统发酵技术",
+   "发酵工程的应用"
+  ],
+  "province": "山东",
+  "year": "2023",
+  "type": "多选",
+  "answer": "AB",
+  "stem": "果酒的家庭制作与啤酒的工业化生产相比，共同点有（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "都利用了酵母菌无氧呼吸产生酒精的原理"
+   },
+   {
+    "label": "B",
+    "text": "都需要一定的有氧环境供发酵菌种繁殖"
+   },
+   {
+    "label": "C",
+    "text": "发酵前都需要对原料进行灭菌"
+   },
+   {
+    "label": "D",
+    "text": "发酵结束后都必须进行消毒以延长保存期"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_rxMTZfg.E4GLZDhP.9Z1IQ#2023山东·传统发酵技术]"
+ },
+ {
+  "root_id": "mkjr_qHlgNGSRNebU1LO7bF7Eng",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "微生物的选择培养与计数"
+  ],
+  "province": "广东",
+  "year": "2023",
+  "type": "单选",
+  "answer": "D",
+  "stem": "研究者拟从堆肥中取样并筛选能高效降解羽毛、蹄角等废弃物中角蛋白的嗜热菌。根据堆肥温度变化曲线（如图）和选择培养基筛选原理来判断，下列最可能筛选到目标菌的条件组合是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "a点时取样、尿素氮源培养基"
+   },
+   {
+    "label": "B",
+    "text": "b点时取样、角蛋白氮源培养基"
+   },
+   {
+    "label": "C",
+    "text": "b点时取样、蛋白胨氮源培养基"
+   },
+   {
+    "label": "D",
+    "text": "c点时取样、角蛋白氮源培养基"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_qHlgNGSRNebU1LO7bF7Eng#2023广东·微生物的选择培养与计数]"
+ },
+ {
+  "root_id": "mkjr_epFzaVZhg_yjhdtjqMLa6A",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "微生物的纯培养"
+  ],
+  "province": "江苏",
+  "year": "2023",
+  "type": "单选",
+  "answer": "A",
+  "stem": "下列关于细菌和酵母菌实验的叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "通常酵母菌培养基比细菌培养基有更高的碳氮比"
+   },
+   {
+    "label": "B",
+    "text": "通常细菌的生长速度比酵母菌快，菌落比酵母菌落大"
+   },
+   {
+    "label": "C",
+    "text": "通常细菌培养基用高压蒸汽灭菌法灭菌，酵母菌培养基用过滤除菌法除菌"
+   },
+   {
+    "label": "D",
+    "text": "血细胞计数板既可用于酵母菌的数量测定，也可用于细菌的数量测定"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_epFzaVZhg_yjhdtjqMLa6A#2023江苏·微生物的纯培养]"
+ },
+ {
+  "root_id": "mkjr_7Xfy.6XNWSoRMNfrWBRa4g",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "发酵工程的应用"
+  ],
+  "province": "山东",
+  "year": "2022",
+  "type": "多选",
+  "answer": "ACD",
+  "stem": "啤酒的工业化生产中，大麦经发芽、焙烤、碾磨、糖化、蒸煮、发酵、消毒等工序后，最终过滤、调节、分装。下列说法正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "用赤霉素处理大麦，可使大麦种子无须发芽就能产生α-淀粉酶"
+   },
+   {
+    "label": "B",
+    "text": "焙烤是为了利用高温杀死大麦种子胚并进行灭菌"
+   },
+   {
+    "label": "C",
+    "text": "糖浆经蒸煮、冷却后需接种酵母菌进行发酵"
+   },
+   {
+    "label": "D",
+    "text": "通过转基因技术可减少啤酒酵母双乙酰的生成，缩短啤酒的发酵周期"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_7Xfy.6XNWSoRMNfrWBRa4g#2022山东·发酵工程的应用]"
+ },
+ {
+  "root_id": "mkjr_XzAYBew9tZ_iDudZa0xzRA",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "微生物菌种的选育",
+   "发酵条件的控制"
+  ],
+  "province": "贵州",
+  "year": "2026",
+  "type": "单选",
+  "answer": "B",
+  "stem": "棘白菌素是一类新型抗真菌药物。科研人员在构巢曲霉中导入ecd基因后获得棘白菌素的高产菌株，并用发酵罐分时段控制搅拌转速进行发酵生产。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "获取上述高产菌株采用了微生物菌种选育的自然育种技术"
+   },
+   {
+    "label": "B",
+    "text": "该高产菌株在发酵过程中的不同阶段对溶解氧的需求不同"
+   },
+   {
+    "label": "C",
+    "text": "从平板上挑取单菌落直接接种到发酵罐的灭菌培养基中"
+   },
+   {
+    "label": "D",
+    "text": "为防止杂菌污染，不能在发酵过程中向发酵罐添加物质"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_XzAYBew9tZ_iDudZa0xzRA#2026贵州·微生物菌种的选育]"
+ },
+ {
+  "root_id": "mkjr_bJ7mWsiLxdfrsNz2s_rfzQ",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "微生物的选择培养与计数"
+  ],
+  "province": "黑吉辽蒙",
+  "year": "2026",
+  "type": "多选",
+  "answer": "BC",
+  "stem": "某奶酒以牛奶为主要原料，经微生物发酵酿制而成。为提高发酵效率，需筛选具有乳糖利用率高、乙醇产量高等特性的酵母菌菌株。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "选择培养基应以葡萄糖为唯一碳源"
+   },
+   {
+    "label": "B",
+    "text": "选择培养基中可添加抗生素抑制细菌生长"
+   },
+   {
+    "label": "C",
+    "text": "制备固体培养基需先高压蒸汽灭菌再倒平板"
+   },
+   {
+    "label": "D",
+    "text": "接种后的平板应在37℃恒温培养"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_bJ7mWsiLxdfrsNz2s_rfzQ#2026黑吉辽蒙·微生物的选择培养与计数]"
+ },
+ {
+  "root_id": "mkjr_NVwHQs2SaYOP7COVwn8tuQ",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "微生物的选择培养与计数"
+  ],
+  "province": "天津",
+  "year": "2025",
+  "type": "单选",
+  "answer": "C",
+  "stem": "为探究高NH4+含量废水的生物处理效果，配制NH4+为唯一氮源的人工模拟废水，均分至3个密闭反应器中，分别添加等量的G1菌、A6菌及两菌等比例混合的菌液，培养后NH4+浓度变化如图所示。分析错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "人工模拟废水需进行灭菌处理"
+   },
+   {
+    "label": "B",
+    "text": "G1菌单独培养时，种群数量不增加"
+   },
+   {
+    "label": "C",
+    "text": "A6菌单独培养时，NH4+的去除速率持续降低"
+   },
+   {
+    "label": "D",
+    "text": "两菌混合培养可促进NH4+的去除"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_NVwHQs2SaYOP7COVwn8tuQ#2025天津·微生物的选择培养与计数]"
+ },
+ {
+  "root_id": "mkjr_0CbeS2UHvA9BxxGkLEmsAg",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "微生物的选择培养与计数"
+  ],
+  "province": "山东",
+  "year": "2025",
+  "type": "单选",
+  "answer": "D",
+  "stem": "深海淤泥中含有某种能降解纤维素的细菌。探究不同压强下，该细菌在以纤维素或淀粉为唯一碳源的培养基上的生长情况。其他条件相同且适宜，实验处理及结果如表所示。下列说法正确的是（ ） [图] 注： “+”表示有；“一”表示无",
+  "options": [
+   {
+    "label": "A",
+    "text": "可用平板划线法对该菌计数"
+   },
+   {
+    "label": "B",
+    "text": "制备培养基的过程中，应先倒平板再进行高压蒸汽灭菌"
+   },
+   {
+    "label": "C",
+    "text": "由②④组可知，在以纤维素为唯一碳源的培养基上，该菌可在常压下生长"
+   },
+   {
+    "label": "D",
+    "text": "由③④组可知，高压下该菌不能在以淀粉为唯一碳源的培养基上生长"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_0CbeS2UHvA9BxxGkLEmsAg#2025山东·微生物的选择培养与计数]"
+ },
+ {
+  "root_id": "mkjr_9uJTJ0bKkhN8iePsxDuElQ",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "传统发酵技术"
+  ],
+  "province": "山东",
+  "year": "2025",
+  "type": "多选",
+  "answer": "BC",
+  "stem": "酿造某大曲白酒的过程中，微生物的主要来源有大曲和窖泥。大曲主要提供白酒酿造过程中糖化所需的微生物，制曲过程需经堆积培养，培养时温度可达60℃左右；将大曲和酿酒原料混合，初步发酵后放入窖池；窖池发酵是白酒酿造过程中微生物发酵的最后阶段。下列说法正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "堆积培养过程中的高温有利于筛选酿酒酵母"
+   },
+   {
+    "label": "B",
+    "text": "大曲中存在能分泌淀粉酶的微生物"
+   },
+   {
+    "label": "C",
+    "text": "窖池发酵过程中，酵母菌以无氧呼吸为主"
+   },
+   {
+    "label": "D",
+    "text": "窖池密封不严使酒变酸是因为乳酸含量增加"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_9uJTJ0bKkhN8iePsxDuElQ#2025山东·传统发酵技术]"
+ },
+ {
+  "root_id": "mkjr_Wyneky8MYBeBce.RLJmmGw",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "发酵工程的应用"
+  ],
+  "province": "广西",
+  "year": "2025",
+  "type": "单选",
+  "answer": "C",
+  "stem": "利用微生物分解厨余垃圾可实现资源的再利用。下列说法错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "厨余垃圾分解过程产生的热量，会影响分解效率"
+   },
+   {
+    "label": "B",
+    "text": "对组成复杂的厨余垃圾再分类，可提高利用效率"
+   },
+   {
+    "label": "C",
+    "text": "厨余垃圾中的淀粉，可作为微生物的碳源和氮源"
+   },
+   {
+    "label": "D",
+    "text": "含盐量高的厨余垃圾，可选用耐高盐的微生物分解"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_Wyneky8MYBeBce.RLJmmGw#2025广西·发酵工程的应用]"
+ },
+ {
+  "root_id": "mkjr_k_xvYDynVBHQ_zGKbyj9MQ",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "传统发酵技术"
+  ],
+  "province": "江苏",
+  "year": "2025",
+  "type": "单选",
+  "answer": "B",
+  "stem": "某同学利用红叶李果实制作果醋，图示其操作的简易流程。下列相关叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "果酒、果醋发酵所需菌种的细胞结构相同"
+   },
+   {
+    "label": "B",
+    "text": "过程①中添加适量果胶酶，有利于提高出汁率"
+   },
+   {
+    "label": "C",
+    "text": "过程②中，为使菌种充分吸收营养物质，需每日多次开盖搅拌"
+   },
+   {
+    "label": "D",
+    "text": "过程③发酵时会产生大量气泡，需拧松瓶盖放气"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_k_xvYDynVBHQ_zGKbyj9MQ#2025江苏·传统发酵技术]"
+ },
+ {
+  "root_id": "mkjr_upRM98zR4HW4tujwTxUJGw",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "微生物的纯培养"
+  ],
+  "province": "江苏",
+  "year": "2025",
+  "type": "单选",
+  "answer": "B",
+  "stem": "从种植草莓的土壤中分离致病菌，简易流程如下：制备土壤悬液、分离、纯化、鉴定。下列相关叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "制备的培养基可用紫外线照射进行灭菌"
+   },
+   {
+    "label": "B",
+    "text": "将土样加入无菌水混匀，梯度稀释后取悬液加入平板并涂布"
+   },
+   {
+    "label": "C",
+    "text": "连续划线时，接上次划线的起始端开始划线"
+   },
+   {
+    "label": "D",
+    "text": "鉴定后的致病菌，可接种在斜面培养基上，并在室温下长期保存"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_upRM98zR4HW4tujwTxUJGw#2025江苏·微生物的纯培养]"
+ },
+ {
+  "root_id": "mkjr_nK2SEeQQChAwcgsr89NUyA",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "微生物的纯培养"
+  ],
+  "province": "江西",
+  "year": "2025",
+  "type": "多选",
+  "answer": "AD",
+  "stem": "为高效检测抗菌剂的抗菌效果，研究人员构建了能够表达外源荧光素酶的重组菌Q，将其接种到有足量荧光素的液体培养基中，一段时间后添加待测抗菌剂，定时检测培养液的荧光强度。下列有关该实验的叙述，正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "需要设置一个对照组保证检测结果的准确性"
+   },
+   {
+    "label": "B",
+    "text": "实验过程中所用的培养基是一种选择培养基"
+   },
+   {
+    "label": "C",
+    "text": "在重组菌Q胞内的荧光素酶可催化荧光素水解"
+   },
+   {
+    "label": "D",
+    "text": "培养液的荧光强度变化可作为抗菌效果的判断依据"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_nK2SEeQQChAwcgsr89NUyA#2025江西·微生物的纯培养]"
+ },
+ {
+  "root_id": "mkjr_vyIge5992E3G4EdK7OrGxA",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "传统发酵技术"
+  ],
+  "province": "海南",
+  "year": "2025",
+  "type": "单选",
+  "answer": "A",
+  "stem": "山兰酒以海南山兰早稻米为原料 添加酒曲，经传统发酵酿造而成，发酵结束后快速冷却酒液并过滤，可获得风味独特清澈酒体。米熟化的均匀度、发酵温度均会影响酒的品质。下列有关叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "酿造山兰酒所使用的酒曲为单一菌种"
+   },
+   {
+    "label": "B",
+    "text": "充分蒸熟山兰米有利于淀粉糖化，为酵母菌提供更多的原料"
+   },
+   {
+    "label": "C",
+    "text": "适宜的发酵温度有利于提高酶的活性，进而提高酒的产量"
+   },
+   {
+    "label": "D",
+    "text": "快速冷却有利于保留酒液中易挥发的风味物质"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_vyIge5992E3G4EdK7OrGxA#2025海南·传统发酵技术]"
+ },
+ {
+  "root_id": "mkjr_jdjGc9Py95NRMR9PA_N8XA",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "微生物的选择培养与计数"
+  ],
+  "province": "湖南",
+  "year": "2025",
+  "type": "单选",
+  "answer": "B",
+  "stem": "采集果园土壤进行微生物分离或计数。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "稀释涂布平板法和平板划线法都能用于尿素分解菌的分离和计数"
+   },
+   {
+    "label": "B",
+    "text": "完成平板划线后，培养时需增加一个未接种的平板作为对照"
+   },
+   {
+    "label": "C",
+    "text": "土壤中分离得到的醋酸菌能在无氧条件下将葡萄糖分离成乙酸"
+   },
+   {
+    "label": "D",
+    "text": "用于筛选尿素分解菌的培养基含有蛋白胨、尿素和无机盐等营养物质"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_jdjGc9Py95NRMR9PA_N8XA#2025湖南·微生物的选择培养与计数]"
+ },
+ {
+  "root_id": "mkjr_ti309PoH7oeWe41dLSYUPw",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "传统发酵技术",
+   "发酵工程的基本环节"
+  ],
+  "province": "甘肃",
+  "year": "2025",
+  "type": "单选",
+  "answer": "B",
+  "stem": "我国葡萄酒酿造历史悠久、传统发酵技术延续至今。发酵工程通过选育菌种和控制发酵条件等措施可优化传统发酵工艺，改善葡萄酒品质。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "传统发酵时，葡萄果皮上的多种微生物参与了葡萄酒的发酵过程"
+   },
+   {
+    "label": "B",
+    "text": "工业化生产时，酵母菌需在无氧条件下进行扩大培养和酒精发酵"
+   },
+   {
+    "label": "C",
+    "text": "通过诱变育种或基因工程育种能够改良葡萄酒发酵菌种的性状"
+   },
+   {
+    "label": "D",
+    "text": "大规模发酵时，需要监测发酵温度、pH值、罐压及溶解氧等参数"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_ti309PoH7oeWe41dLSYUPw#2025甘肃·传统发酵技术]"
+ },
+ {
+  "root_id": "mkjr_vD7F6t6J2MmQiVXJnwWfKg",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "微生物菌种的选育"
+  ],
+  "province": "辽宁",
+  "year": "2025",
+  "type": "单选",
+  "answer": "B",
+  "stem": "作图可先使用铅笔画出，确定后必须用黑色字迹的签字笔描黑。 5．保持卡面清洁，不要折叠、不要弄破、弄皱，不准使用涂改液、修正带、刮纸刀。 一、选择题：本题共15小题，每小题2分，共30分。在每小题给出的四个选项中，只有一项是符合题目要求的。 1. 下列关于耐高温的DNA聚合酶的叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "基本单位是脱氧核苷酸"
+   },
+   {
+    "label": "B",
+    "text": "在细胞内或细胞外均可发挥作用"
+   },
+   {
+    "label": "C",
+    "text": "当模板DNA和脱氧核苷酸存在时即可催化反应"
+   },
+   {
+    "label": "D",
+    "text": "为维持较高活性，适宜在70℃~75℃下保存"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_vD7F6t6J2MmQiVXJnwWfKg#2025辽宁·微生物菌种的选育]"
+ },
+ {
+  "root_id": "mkjr_qYFeMgX5bnc8F0Ul_UHKKQ",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "微生物的纯培养"
+  ],
+  "province": "天津",
+  "year": "2024",
+  "type": "单选",
+  "answer": "C",
+  "stem": "实验中常根据菌落外表特征鉴别微生物，进而对实验结果做出判断，下列实验不是根据菌落外表特征做出判断的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "艾弗里证明肺炎链球菌的转化因子是DNA"
+   },
+   {
+    "label": "B",
+    "text": "判断分离酵母菌的固体培养基是否被毛霉污染"
+   },
+   {
+    "label": "C",
+    "text": "利用浸有抗生素的滤纸片筛选大肠杆菌中耐药性强的菌株"
+   },
+   {
+    "label": "D",
+    "text": "判断在尿素为唯一氮源的培养基上生长的尿素降解菌是否有不同种类"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_qYFeMgX5bnc8F0Ul_UHKKQ#2024天津·微生物的纯培养]"
+ },
+ {
+  "root_id": "mkjr_PQyu45XjwVxeNZgwr3h0DA",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "发酵条件的控制"
+  ],
+  "province": "山东",
+  "year": "2024",
+  "type": "单选",
+  "answer": "D",
+  "stem": "在发酵过程中，多个黑曲霉菌体常聚集成团形成菌球体，菌球体大小仅由菌体数量决定。黑曲霉利用糖类发酵产生柠檬酸时需要充足的氧。菌体内铵离子浓度升高时，可解除柠檬酸对其合成途径的反馈抑制。下列说法错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "相同菌体密度下，菌球体越大柠檬酸产生速率越慢"
+   },
+   {
+    "label": "B",
+    "text": "发酵中期添加一定量的硫酸铵可提高柠檬酸产量"
+   },
+   {
+    "label": "C",
+    "text": "发酵过程中pH下降可抑制大部分细菌的生长"
+   },
+   {
+    "label": "D",
+    "text": "发酵结束后，将过滤所得的固体物质进行干燥即可获得柠檬酸产品"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_PQyu45XjwVxeNZgwr3h0DA#2024山东·发酵条件的控制]"
+ },
+ {
+  "root_id": "mkjr_UaMsphwIztkJIrbD3AvwpA",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "微生物菌种的选育"
+  ],
+  "province": "山东",
+  "year": "2024",
+  "type": "单选",
+  "answer": "A",
+  "stem": "酵母菌在合成色氨酸时需要3种酶X、Y和Z，trpX、trpY和trpZ分别为相应酶的编码基因突变的色氨酸依赖型突变体。已知3种酶均不能进出细胞，而色氨酸合成途径的中间产物积累到一定程度时可分泌到胞外。将这3种突变体均匀划线接种到含有少量色氨酸的培养基上，生长情况如图。据图分析，3种酶在该合成途径中的作用顺序为（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "X→Y→Z"
+   },
+   {
+    "label": "B",
+    "text": "Z→Y→X"
+   },
+   {
+    "label": "C",
+    "text": "Y→X→Z"
+   },
+   {
+    "label": "D",
+    "text": "Z→X→Y"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_UaMsphwIztkJIrbD3AvwpA#2024山东·微生物菌种的选育]"
+ },
+ {
+  "root_id": "mkjr_xRDXTKHLMLL.gEPylFZHlQ",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "发酵条件的控制",
+   "发酵工程的基本环节"
+  ],
+  "province": "河北",
+  "year": "2023",
+  "type": "多选",
+  "answer": "ABC",
+  "stem": "乳酸链球菌素（Nisin）是乳酸链球菌分泌的一种抗菌肽。研究者对Nisin发酵生产过程相关指标进行了检测，结果如图。下列叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "适度提高乳酸链球菌接种量可缩短Nisin发酵生产周期"
+   },
+   {
+    "label": "B",
+    "text": "发酵的中后期适量补加蔗糖溶液可促进菌体生长"
+   },
+   {
+    "label": "C",
+    "text": "向发酵罐内适时适量添加碱溶液可提高Nisin产量"
+   },
+   {
+    "label": "D",
+    "text": "发酵结束后主要通过收获并破碎菌体以分离获得Nisin产品"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_xRDXTKHLMLL.gEPylFZHlQ#2023河北·发酵条件的控制]"
+ },
+ {
+  "root_id": "mkjr_P63QUNlXp05uBnSwxo8B0w",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "发酵工程的基本环节",
+   "发酵工程的应用"
+  ],
+  "province": "山西",
+  "year": "2025",
+  "type": "单选",
+  "answer": "C",
+  "stem": "我国是世界上最大的柠檬酸生产国。利用黑曲霉通过深层通气液体发酵技术生产柠檬酸，流程如下图。下列叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "淀粉水解糖为发酵提供碳源和能源"
+   },
+   {
+    "label": "B",
+    "text": "扩大培养可提供足量的黑曲霉菌种"
+   },
+   {
+    "label": "C",
+    "text": "培养基、发酵罐和空气的灭菌方法相同"
+   },
+   {
+    "label": "D",
+    "text": "通气、搅拌有利于溶解氧增加和柠檬酸积累"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_P63QUNlXp05uBnSwxo8B0w#2025山西·发酵工程的基本环节]"
+ },
+ {
+  "root_id": "mkjr_fgUOSI2nJZR9W40D0..m6w",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "微生物的选择培养与计数",
+   "发酵工程的应用"
+  ],
+  "province": "贵州",
+  "year": "2025",
+  "type": "单选",
+  "answer": "D",
+  "stem": "金龟子绿僵菌（Ma）是一种昆虫病原真菌，可以侵染某些农林害虫。Ma寄生时其孢子（单细胞后代）萌发后侵入昆虫体内大量增殖并产生毒素，导致寄主僵化、死亡。下列叙述错误是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "可利用Ma开发成微生物杀虫剂"
+   },
+   {
+    "label": "B",
+    "text": "为分离Ma可从研磨的僵虫组织中取样"
+   },
+   {
+    "label": "C",
+    "text": "稀释涂布平板法可用于分离样品中的Ma"
+   },
+   {
+    "label": "D",
+    "text": "接种培养Ma时使用的器具需消毒"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_fgUOSI2nJZR9W40D0..m6w#2025贵州·微生物的选择培养与计数]"
+ },
+ {
+  "root_id": "mkjr_v9A1yToL_7waMOve7WnZew",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "传统发酵技术"
+  ],
+  "province": "重庆",
+  "year": "2025",
+  "type": "单选",
+  "answer": "D",
+  "stem": "豆瓣酱是我国地方特色调味品，生产豆瓣酱时要将蚕豆瓣制作成豆瓣曲，再添加调料进一步发酵，下列说法错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "沸水浸泡能杀死蚕豆细胞，减少有机物消耗"
+   },
+   {
+    "label": "B",
+    "text": "面粉可为菌种的快速繁殖和生长提供营养"
+   },
+   {
+    "label": "C",
+    "text": "菌种中含有产蛋白酶和淀粉酶的微生物"
+   },
+   {
+    "label": "D",
+    "text": "豆瓣酱的制备主要是利用厌氧微生物发酵"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_v9A1yToL_7waMOve7WnZew#2025重庆·传统发酵技术]"
+ },
+ {
+  "root_id": "mkjr_ncckBSo0HqgR5_5dJrpe9A",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "传统发酵技术"
+  ],
+  "province": "浙江",
+  "year": "2025",
+  "type": "单选",
+  "answer": "B",
+  "stem": "猕猴桃醋生产的基本工艺流程如下，其中①②③表示发酵的三个环节，糖化是将淀粉转化为葡萄糖的过程。 [图] 下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "通过蒸煮可以杀灭猕猴桃自带的绝大多数微生物"
+   },
+   {
+    "label": "B",
+    "text": "麸曲中曲霉的主要作用是对糖类进行氧化分解"
+   },
+   {
+    "label": "C",
+    "text": "环节③需要通入无菌空气"
+   },
+   {
+    "label": "D",
+    "text": "①②③都需要控制温度、pH 等条件"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_ncckBSo0HqgR5_5dJrpe9A#2025浙江·传统发酵技术]"
+ },
+ {
+  "root_id": "mkjr_jir1haM78iCb9b2DTlFhUg",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "传统发酵技术"
+  ],
+  "province": "广西",
+  "year": "2024",
+  "type": "单选",
+  "answer": "C",
+  "stem": "“扬美豆豉”制作技艺属于广西非物质文化遗产，该技艺包括选豆、洗豆、煮豆、制曲、洗曲、调味和发酵等。下列说法错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "煮豆可使蛋白质适度变性，易于被微生物利用"
+   },
+   {
+    "label": "B",
+    "text": "制曲目的是促使有益微生物生长繁殖，并分泌多种酶"
+   },
+   {
+    "label": "C",
+    "text": "调味时加入食盐，主要目的是促进微生物的生长繁殖"
+   },
+   {
+    "label": "D",
+    "text": "发酵过程中，微生物将原料转化为特定代谢产物，使豆豉风味独特"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_jir1haM78iCb9b2DTlFhUg#2024广西·传统发酵技术]"
+ },
+ {
+  "root_id": "mkjr_zOqxGheq.Jyc1UBFgMEMbg",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "微生物的纯培养"
+  ],
+  "province": "江苏",
+  "year": "2024",
+  "type": "单选",
+  "answer": "C",
+  "stem": "酵母菌是基因工程中常用的表达系统。下列相关叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "酵母菌培养液使用前要灭活所有细菌，但不能灭活真菌"
+   },
+   {
+    "label": "B",
+    "text": "酵母菌是真核细胞，需放置在CO2培养箱中进行培养"
+   },
+   {
+    "label": "C",
+    "text": "可用稀释涂布平板法对酵母菌计数"
+   },
+   {
+    "label": "D",
+    "text": "该表达系统不能对合成的蛋白质进行加工和修饰"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_zOqxGheq.Jyc1UBFgMEMbg#2024江苏·微生物的纯培养]"
+ },
+ {
+  "root_id": "mkjr_fW_RmFvghuxb9E8nUPIb6A",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "传统发酵技术"
+  ],
+  "province": "江苏",
+  "year": "2024",
+  "type": "单选",
+  "answer": "D",
+  "stem": "关于“利用乳酸菌发酵制作酸奶或泡菜”的实验，下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "制作泡菜的菜料不宜完全淹没在煮沸后冷却的盐水中"
+   },
+   {
+    "label": "B",
+    "text": "制作酸奶的牛奶须经过高压蒸汽灭菌后再接种乳酸菌"
+   },
+   {
+    "label": "C",
+    "text": "发酵装置需加满菜料或牛奶并封装，以抑制乳酸菌的无氧呼吸"
+   },
+   {
+    "label": "D",
+    "text": "控制好发酵时间，以避免过量乳酸影响酸奶或泡菜的口味和品质"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_fW_RmFvghuxb9E8nUPIb6A#2024江苏·传统发酵技术]"
+ },
+ {
+  "root_id": "mkjr_xHXsDYw9F8XsEaj3o5nMmw",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "传统发酵技术"
+  ],
+  "province": "浙江",
+  "year": "2023",
+  "type": "多选",
+  "answer": "AD",
+  "stem": "关于小曲白酒的酿造过程，下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "糖化主要是利用霉菌将淀粉水解为葡萄糖"
+   },
+   {
+    "label": "B",
+    "text": "发酵液样品的蒸馏产物有无酒精，可用酸性重铬酸钾溶液检测"
+   },
+   {
+    "label": "C",
+    "text": "若酿造过程中酒变酸，则发酵坛密封不严"
+   },
+   {
+    "label": "D",
+    "text": "蒸熟并摊晾的原料加入糟醅，立即密封可高效进行酒精发酵"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_xHXsDYw9F8XsEaj3o5nMmw#2023浙江·传统发酵技术]"
+ },
+ {
+  "root_id": "mkjr_X83H.jQ7Re2ECniRAub.Aw",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "微生物的纯培养"
+  ],
+  "province": "海南",
+  "year": "2022",
+  "type": "单选",
+  "answer": "C",
+  "stem": "为探究校内植物园土壤中的细菌种类，某兴趣小组采集园内土壤样本并开展相关实验。下列有关叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "采样时应随机采集植物园中多个不同地点的土壤样本"
+   },
+   {
+    "label": "B",
+    "text": "培养细菌时，可选用牛肉膏蛋白胨固体培养基"
+   },
+   {
+    "label": "C",
+    "text": "土壤溶液稀释倍数越低，越容易得到单菌落"
+   },
+   {
+    "label": "D",
+    "text": "鉴定细菌种类时，除形态学鉴定外，还可借助生物化学的方法"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_X83H.jQ7Re2ECniRAub.Aw#2022海南·微生物的纯培养]"
+ },
+ {
+  "root_id": "mkjr_5vgEkeQLTWaBR9Cy0wpU0A",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "微生物的选择培养与计数"
+  ],
+  "province": "江苏",
+  "year": "2022",
+  "type": "单选",
+  "answer": "D",
+  "stem": "下列是某同学分离高产脲酶菌的实验设计，不合理的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "选择农田或公园土壤作为样品分离目的菌株"
+   },
+   {
+    "label": "B",
+    "text": "在选择培养基中需添加尿素作为唯一氮源"
+   },
+   {
+    "label": "C",
+    "text": "适当稀释样品是为了在平板上形成单菌落"
+   },
+   {
+    "label": "D",
+    "text": "可分解酚红指示剂使其褪色的菌株是产脲酶菌"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_5vgEkeQLTWaBR9Cy0wpU0A#2022江苏·微生物的选择培养与计数]"
+ },
+ {
+  "root_id": "mkjr_QNQp5GuK9WF02xbH.uBQaQ",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "传统发酵技术"
+  ],
+  "province": "江苏",
+  "year": "2022",
+  "type": "多选",
+  "answer": "ACD",
+  "stem": "在制作发酵食品的学生实践中，控制发酵条件至关重要。下列相关叙述错误的有（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "泡菜发酵后期，尽管乳酸菌占优势，但仍有产气菌繁殖，需开盖放气"
+   },
+   {
+    "label": "B",
+    "text": "制作果酒的葡萄汁不宜超过发酵瓶体积的2/3，制作泡菜的盐水要淹没全部菜料"
+   },
+   {
+    "label": "C",
+    "text": "葡萄果皮上有酵母菌和醋酸菌，制作好葡萄酒后，可直接通入无菌空气制作葡萄醋"
+   },
+   {
+    "label": "D",
+    "text": "果酒与果醋发酵时温度宜控制在18-25℃，泡菜发酵时温度宜控制在30-35℃"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_QNQp5GuK9WF02xbH.uBQaQ#2022江苏·传统发酵技术]"
+ },
+ {
+  "root_id": "mkjr_AQl1axg4ro3ZHgpyuil3Vg",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "微生物的纯培养"
+  ],
+  "province": "湖北",
+  "year": "2022",
+  "type": "单选",
+  "answer": "D",
+  "stem": "灭菌、消毒、无菌操作是生物学实验中常见的操作。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "动、植物细胞DNA的提取必须在无菌条件下进行"
+   },
+   {
+    "label": "B",
+    "text": "微生物、动物细胞培养基中需添加一定量的抗生素以防止污染"
+   },
+   {
+    "label": "C",
+    "text": "为防止蛋白质变性，不能用湿热灭菌法对牛肉膏蛋白胨培养基进行灭菌"
+   },
+   {
+    "label": "D",
+    "text": "可用湿热灭菌法对实验中所使用的微量离心管、细胞培养瓶等进行灭菌"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_AQl1axg4ro3ZHgpyuil3Vg#2022湖北·微生物的纯培养]"
+ },
+ {
+  "root_id": "mkjr_MW9Dj1oToJiyc78DtSIATA",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "传统发酵技术"
+  ],
+  "province": "湖北",
+  "year": "2022",
+  "type": "单选",
+  "answer": "C",
+  "stem": "关于白酒、啤酒和果酒的生产，下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "在白酒、啤酒和果酒的发酵初期需要提供一定的氧气"
+   },
+   {
+    "label": "B",
+    "text": "白酒、啤酒和果酒酿制的过程也是微生物生长繁殖的过程"
+   },
+   {
+    "label": "C",
+    "text": "葡萄糖转化为乙醇所需的酶既存在于细胞质基质，也存在于线粒体"
+   },
+   {
+    "label": "D",
+    "text": "生产白酒、啤酒和果酒的原材料不同，但发酵过程中起主要作用的都是酵母菌"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_MW9Dj1oToJiyc78DtSIATA#2022湖北·传统发酵技术]"
+ },
+ {
+  "root_id": "mkjr_4f2EINy2VhpQybwwgnBsJA",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "发酵工程的应用"
+  ],
+  "province": "湖北",
+  "year": "2022",
+  "type": "单选",
+  "answer": "A",
+  "stem": "废水、废料经加工可变废为宝。某工厂利用果糖生产废水和沼气池废料生产蛋白质的技术路线如图所示。下列叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "该生产过程中，一定有气体生成"
+   },
+   {
+    "label": "B",
+    "text": "微生物生长所需碳源主要来源于沼气池废料"
+   },
+   {
+    "label": "C",
+    "text": "该生产工艺利用微生物厌氧发酵技术生产蛋白质"
+   },
+   {
+    "label": "D",
+    "text": "沼气池废料和果糖生产废水在加入反应器之前需要灭菌处理"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_4f2EINy2VhpQybwwgnBsJA#2022湖北·发酵工程的应用]"
+ },
+ {
+  "root_id": "mkjr_0hemSKshdOZXyolR.rVYmQ",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "微生物的纯培养"
+  ],
+  "province": "辽宁",
+  "year": "2022",
+  "type": "单选",
+  "answer": "D",
+  "stem": "为避免航天器在执行载人航天任务时出现微生物污染风险，需要对航天器及洁净的组装车间进行环境微生物检测。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "航天器上存在适应营养物质匮乏等环境的极端微生物"
+   },
+   {
+    "label": "B",
+    "text": "细菌形成菌膜粘附于航天器设备表面产生生物腐蚀"
+   },
+   {
+    "label": "C",
+    "text": "在组装车间地面和设备表面采集环境微生物样品"
+   },
+   {
+    "label": "D",
+    "text": "采用平板划线法等分离培养微生物，观察菌落特征"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_0hemSKshdOZXyolR.rVYmQ#2022辽宁·微生物的纯培养]"
+ },
+ {
+  "root_id": "mkjr_tpqa7C8sVavuaMGK6RrqRA",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "微生物的纯培养"
+  ],
+  "province": "辽宁",
+  "year": "2022",
+  "type": "多选",
+  "answer": "ACD",
+  "stem": "β-苯乙醇是赋予白酒特征风味的物质。从某酒厂采集并筛选到一株产β-苯乙醇的酵母菌应用于白酒生产。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "所用培养基及接种工具分别采用湿热灭菌和灼烧灭菌"
+   },
+   {
+    "label": "B",
+    "text": "通过配制培养基、灭菌、分离和培养能获得该酵母菌"
+   },
+   {
+    "label": "C",
+    "text": "还需进行发酵实验检测该酵母菌产β-苯乙醇的能力"
+   },
+   {
+    "label": "D",
+    "text": "该酵母菌的应用有利于白酒新产品的开发"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_tpqa7C8sVavuaMGK6RrqRA#2022辽宁·微生物的纯培养]"
+ },
+ {
+  "root_id": "mkjr_LjRE_jsZWtx38iEMX4uRUA",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "食品的保存与防腐"
+  ],
+  "province": "湖南",
+  "year": "2023",
+  "type": "单选",
+  "answer": "C",
+  "stem": "食品保存有干制、腌制、低温保存和高温处理等多种方法。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "干制降低食品的含水量，使微生物不易生长和繁殖，食品保存时间延长"
+   },
+   {
+    "label": "B",
+    "text": "腌制通过添加食盐、糖等制造高渗环境，从而抑制微生物的生长和繁殖"
+   },
+   {
+    "label": "C",
+    "text": "低温保存可抑制微生物的生命活动，温度越低对食品保存越有利"
+   },
+   {
+    "label": "D",
+    "text": "高温处理可杀死食品中绝大部分微生物，并可破坏食品中的酶类"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_LjRE_jsZWtx38iEMX4uRUA#2023湖南·食品的保存与防腐]"
+ },
+ {
+  "root_id": "mkjr_zfcBVJcyMOBulHU66B0Mcg",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "微生物的选择培养与计数"
+  ],
+  "province": "辽宁",
+  "year": "2023",
+  "type": "单选",
+  "answer": "D",
+  "stem": "细菌气溶胶是由悬浮于大气或附着于颗粒物表面的细菌形成的。利用空气微生物采样器对某市人员密集型公共场所采样并检测细菌气溶胶的浓度（菌落数/m³）。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "采样前需对空气微生物采样器进行无菌处理"
+   },
+   {
+    "label": "B",
+    "text": "细菌气溶胶样品恒温培养时需将平板倒置"
+   },
+   {
+    "label": "C",
+    "text": "同一稀释度下至少对3个平板计数并取平均值"
+   },
+   {
+    "label": "D",
+    "text": "稀释涂布平板法检测的细菌气溶胶浓度比实际值高"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_zfcBVJcyMOBulHU66B0Mcg#2023辽宁·微生物的选择培养与计数]"
+ },
+ {
+  "root_id": "mkjr_dxQDuzRpFp2dUeuNj6qKQQ",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "发酵条件的控制",
+   "发酵工程的应用"
+  ],
+  "province": "辽宁",
+  "year": "2023",
+  "type": "单选",
+  "answer": "D",
+  "stem": "利用某种微生物发酵生产DHA油脂，可获取DHA（一种不饱和脂肪酸）。下图为发酵过程中物质含量变化曲线。下列叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "DHA油脂的产量与生物量呈正相关"
+   },
+   {
+    "label": "B",
+    "text": "温度和溶解氧的变化能影响DHA油脂的产量"
+   },
+   {
+    "label": "C",
+    "text": "葡萄糖代谢可为DHA油脂的合成提供能量"
+   },
+   {
+    "label": "D",
+    "text": "12～60h，DHA油脂的合成对氮源的需求比碳源高"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_dxQDuzRpFp2dUeuNj6qKQQ#2023辽宁·发酵条件的控制]"
+ },
+ {
+  "root_id": "mkjr_7_.PqaGWUKlY0fQ09clgYA",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "发酵工程的基本环节",
+   "发酵工程的应用"
+  ],
+  "province": "江西",
+  "year": "2024",
+  "type": "单选",
+  "answer": "D",
+  "stem": "井冈霉素是我国科学家发现的一种氨基寡糖类抗生素，它由吸水链霉菌井冈变种（JGs，一种放线菌，菌体呈丝状生长）发酵而来，在水稻病害防治等领域中得到广泛应用。下列关于JGs发酵生产井冈霉素的叙述，正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "JGs可发酵生产井冈霉素，因为它含有能够编码井冈霉素的基因"
+   },
+   {
+    "label": "B",
+    "text": "JGs接入发酵罐前需要扩大培养，该过程不影响井冈霉素的产量"
+   },
+   {
+    "label": "C",
+    "text": "提高JGs发酵培养基中营养物质的浓度，会提高井冈霉素的产量"
+   },
+   {
+    "label": "D",
+    "text": "稀释涂布平板法不宜用于监控JGs发酵过程中活细胞数量的变化"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_7_.PqaGWUKlY0fQ09clgYA#2024江西·发酵工程的基本环节]"
+ },
+ {
+  "root_id": "mkjr_NnR5nMlH2STbXRIWsQImTg",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "传统发酵技术"
+  ],
+  "province": "浙江",
+  "year": "2024",
+  "type": "多选",
+  "answer": "AD",
+  "stem": "下列关于柿子醋酿造过程的叙述，错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "加酶榨汁环节加入果胶酶，有利于提高柿子汁产量"
+   },
+   {
+    "label": "B",
+    "text": "酒精发酵前可对柿子汁进行杀菌，以利于酒精发酵"
+   },
+   {
+    "label": "C",
+    "text": "若柿子酒的酒精度过高，应稀释后再用于醋酸发酵"
+   },
+   {
+    "label": "D",
+    "text": "用不同品种和成熟度的柿子酿造的柿子醋风味相同"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_NnR5nMlH2STbXRIWsQImTg#2024浙江·传统发酵技术]"
+ },
+ {
+  "root_id": "mkjr_QL4Wbv38P0NB0fVnJ5C8Dg",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "微生物菌种的选育"
+  ],
+  "province": "海南",
+  "year": "2024",
+  "type": "单选",
+  "answer": "D",
+  "stem": "某小组为检测1株粗糙脉孢霉突变株的氨基酸缺陷类型，在相同培养温度和时间的条件下进行实验，结果见表。下列有关叙述错误的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "组别①是②③④⑤的对照组"
+   },
+   {
+    "label": "B",
+    "text": "培养温度和时间属于无关变量"
+   },
+   {
+    "label": "C",
+    "text": "①②结果表明，甲、乙、丙3种氨基酸中有该突变株正常生长所必需的氨基酸"
+   },
+   {
+    "label": "D",
+    "text": "①~⑤结果表明，该突变株为氨基酸甲缺陷型"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_QL4Wbv38P0NB0fVnJ5C8Dg#2024海南·微生物菌种的选育]"
+ },
+ {
+  "root_id": "mkjr_4sWbh9NxhEDItkyNFRU0dA",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "传统发酵技术"
+  ],
+  "province": "湖北",
+  "year": "2024",
+  "type": "单选",
+  "answer": "D",
+  "stem": "制醋、制饴、制酒是我国传统发酵技术。醋酸菌属于好氧型原核生物，常用于食用醋的发酵。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "食用醋的酸味主要来源于乙酸"
+   },
+   {
+    "label": "B",
+    "text": "醋酸菌不适宜在无氧条件下生存"
+   },
+   {
+    "label": "C",
+    "text": "醋酸菌含有催化乙醇氧化成乙酸的酶"
+   },
+   {
+    "label": "D",
+    "text": "葡萄糖在醋酸菌中的氧化分解发生在线粒体内"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_4sWbh9NxhEDItkyNFRU0dA#2024湖北·传统发酵技术]"
+ },
+ {
+  "root_id": "mkjr_Y3Vk9_40uG_IKdiuIyIq_A",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "微生物的纯培养"
+  ],
+  "province": "湖南",
+  "year": "2024",
+  "type": "单选",
+  "answer": "D",
+  "stem": "微生物平板划线和培养的具体操作如图所示，下列操作正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "①②⑤⑥"
+   },
+   {
+    "label": "B",
+    "text": "③④⑥⑦"
+   },
+   {
+    "label": "C",
+    "text": "①②⑦⑧"
+   },
+   {
+    "label": "D",
+    "text": "①③④⑤"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_Y3Vk9_40uG_IKdiuIyIq_A#2024湖南·微生物的纯培养]"
+ },
+ {
+  "root_id": "mkjr_Nn0KGGf10S__Mj9Mkne16Q",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "传统发酵技术"
+  ],
+  "province": "福建",
+  "year": "2024",
+  "type": "单选",
+  "answer": "B",
+  "stem": "虾酱是以虾为原料的传统发酵食品。在乳酸菌、芽孢杆菌等多种微生物共同作用下，原料中的蛋白质和脂肪发生水解，形成虾酱的特有风味。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "虾酱特有风味的形成受发酵时间的影响"
+   },
+   {
+    "label": "B",
+    "text": "传统虾酱的制作过程需要严格执行无菌操作"
+   },
+   {
+    "label": "C",
+    "text": "原料中的蛋白质会被水解成小分子的肽和氨基酸"
+   },
+   {
+    "label": "D",
+    "text": "虾酱发酵过程微生物种类和数量的分析有助于改良风味"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_Nn0KGGf10S__Mj9Mkne16Q#2024福建·传统发酵技术]"
+ },
+ {
+  "root_id": "mkjr_VJiYHxU5Wt9KgOA_Exa0aw",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "发酵条件的控制",
+   "发酵工程的应用"
+  ],
+  "province": "贵州",
+  "year": "2024",
+  "type": "单选",
+  "answer": "C",
+  "stem": "酵母菌W是一种产果胶酶工程菌。为探究酵母菌W的果胶酶产量与甲醇浓度（Ⅰ<Ⅱ<Ⅲ）的关系。将酵母菌W以相同的初始接种量接种到发酵罐，在适宜条件下培养，结果如图所示。下列叙述正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "发酵罐中接种量越高，酵母菌W的K值越大"
+   },
+   {
+    "label": "B",
+    "text": "甲醇浓度为Ⅲ时，酵母菌W的果胶酶合成量最高"
+   },
+   {
+    "label": "C",
+    "text": "72h前，三组实验中，甲醇浓度为Ⅱ时，产果胶酶速率最高"
+   },
+   {
+    "label": "D",
+    "text": "96h后，是酵母菌W用于工业生产中收集果胶酶的最佳时期"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_VJiYHxU5Wt9KgOA_Exa0aw#2024贵州·发酵条件的控制]"
+ },
+ {
+  "root_id": "mkjr_wA1SFrNz8F3q10xkVFAluQ",
+  "chapter": "选必三 第1章 发酵工程",
+  "points": [
+   "微生物的选择培养与计数"
+  ],
+  "province": "重庆",
+  "year": "2024",
+  "type": "单选",
+  "answer": "C",
+  "stem": "养殖场粪便是农家肥的重要来源，其中某些微生物可使氨氮化合物转化为尿素进而产生NH3，影响畜禽健康。为筛选粪便中能利用氨氮化合物且减少NH3产生的微生物。兴趣小组按图进行实验获得目的菌株，正确的是（ ） [图]",
+  "options": [
+   {
+    "label": "A",
+    "text": "①通常在等比稀释后用平板划线法获取单个菌落"
+   },
+   {
+    "label": "B",
+    "text": "②挑取在2种培养基上均能生长的用于后续的实验"
+   },
+   {
+    "label": "C",
+    "text": "③可通过添加脲酶并检测活性，筛选得到甲、乙"
+   },
+   {
+    "label": "D",
+    "text": "粪便中添加菌株甲比乙更有利于NH3的减少"
+   }
+  ],
+  "has_media": true,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_wA1SFrNz8F3q10xkVFAluQ#2024重庆·微生物的选择培养与计数]"
+ }
+]

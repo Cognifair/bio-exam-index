@@ -1,0 +1,365 @@
+[
+ {
+  "root_id": "mkjr_eX8dq2UijOx3lRLULtWyJQ",
+  "chapter": "必修一 第1章 走近细胞",
+  "points": [
+   "原核细胞与真核细胞"
+  ],
+  "province": "云南",
+  "year": "2026",
+  "type": "单选",
+  "answer": "B",
+  "stem": "黏菌是一类特殊的真核微生物，主要以土壤中的细菌和酵母菌为食，环境胁迫使黏菌由单细胞聚集形成多细胞聚集体（具有孢子囊结构）。关于黏菌，下列说法错误的是（　　）",
+  "options": [
+   {
+    "label": "A",
+    "text": "C、H、O、N四种元素含量很高"
+   },
+   {
+    "label": "B",
+    "text": "环状DNA分子存在于拟核中"
+   },
+   {
+    "label": "C",
+    "text": "单细胞生活阶段主要以有丝分裂方式繁殖"
+   },
+   {
+    "label": "D",
+    "text": "吞噬食物需要消耗能量"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_eX8dq2UijOx3lRLULtWyJQ#2026云南·原核细胞与真核细胞]"
+ },
+ {
+  "root_id": "mkjr_pOPL6G8czEvDvE3OjG2MvA",
+  "chapter": "必修一 第1章 走近细胞",
+  "points": [
+   "原核细胞与真核细胞"
+  ],
+  "province": "江西",
+  "year": "2026",
+  "type": "单选",
+  "answer": "C",
+  "stem": "海洋是生命的摇篮。深海热泉周围存在一类具有细胞结构、能够独立生存的特殊微生物，它们既不属于真核生物，也不属于典型的原核生物。下列关于该类生物的推测，合理的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "依赖叶绿体进行光合作用"
+   },
+   {
+    "label": "B",
+    "text": "无机盐离子通过自由扩散进出细胞"
+   },
+   {
+    "label": "C",
+    "text": "胞内酶的最适温度比常见生物体的高"
+   },
+   {
+    "label": "D",
+    "text": "具有细胞壁、细胞膜、细胞质和细胞核等结构"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_pOPL6G8czEvDvE3OjG2MvA#2026江西·原核细胞与真核细胞]"
+ },
+ {
+  "root_id": "mkjr_JU2d6nSFV2N2sOLkJOXXBQ",
+  "chapter": "必修一 第1章 走近细胞",
+  "points": [
+   "细胞是生命活动的基本单位"
+  ],
+  "province": "全国甲",
+  "year": "2024",
+  "type": "单选",
+  "answer": "C",
+  "stem": "细胞是生物体结构和功能的基本单位。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "病毒通常是由蛋白质外壳和核酸构成的单细胞生物"
+   },
+   {
+    "label": "B",
+    "text": "原核生物因为没有线粒体所以都不能进行有氧呼吸"
+   },
+   {
+    "label": "C",
+    "text": "哺乳动物同一个体中细胞的染色体数目有可能不同"
+   },
+   {
+    "label": "D",
+    "text": "小麦根细胞吸收离子消耗的ATP主要由叶绿体产生"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_JU2d6nSFV2N2sOLkJOXXBQ#2024全国甲·细胞是生命活动的基本单位]"
+ },
+ {
+  "root_id": "mkjr_LMLA79IW9OR7YGSvZooFvA",
+  "chapter": "必修一 第1章 走近细胞",
+  "points": [
+   "蓝细菌的结构与功能"
+  ],
+  "province": "北京",
+  "year": "2022",
+  "type": "单选",
+  "answer": "C",
+  "stem": "鱼腥蓝细菌分布广泛，它不仅可以进行光合作用，还具有固氮能力。关于该蓝细菌的叙述，不正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "属于自养生物"
+   },
+   {
+    "label": "B",
+    "text": "可以进行细胞呼吸"
+   },
+   {
+    "label": "C",
+    "text": "DNA位于细胞核中"
+   },
+   {
+    "label": "D",
+    "text": "在物质循环中发挥作用"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_LMLA79IW9OR7YGSvZooFvA#2022北京·蓝细菌的结构与功能]"
+ },
+ {
+  "root_id": "mkjr_cTpwLP6ReFiVmH2FhAw_Pw",
+  "chapter": "必修一 第1章 走近细胞",
+  "points": [
+   "细胞是生命活动的基本单位"
+  ],
+  "province": "海南",
+  "year": "2022",
+  "type": "单选",
+  "answer": "D",
+  "stem": "脊髓灰质炎病毒已被科学家人工合成。该人工合成病毒能够引发小鼠脊髓灰质炎，但其毒性比天然病毒小得多。下列有关叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "该人工合成病毒的结构和功能与天然病毒的完全相同"
+   },
+   {
+    "label": "B",
+    "text": "该人工合成病毒和原核细胞都有细胞膜，无细胞核"
+   },
+   {
+    "label": "C",
+    "text": "该人工合成病毒和真核细胞都能进行细胞呼吸"
+   },
+   {
+    "label": "D",
+    "text": "该人工合成病毒、大肠杆菌和酵母菌都含有遗传物质"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_cTpwLP6ReFiVmH2FhAw_Pw#2022海南·细胞是生命活动的基本单位]"
+ },
+ {
+  "root_id": "mkjr_akco1HRvghvSmnRJ8hJC9w",
+  "chapter": "必修一 第1章 走近细胞",
+  "points": [
+   "蓝细菌的结构与功能"
+  ],
+  "province": "甘肃",
+  "year": "2025",
+  "type": "单选",
+  "answer": "D",
+  "stem": "地达菜又称地木耳，是由念珠蓝细菌形成的胶质群体。关于地达菜的细胞，下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "没有叶绿体，但是能够进行光合作用"
+   },
+   {
+    "label": "B",
+    "text": "没有中心体，细胞不会进行有丝分裂"
+   },
+   {
+    "label": "C",
+    "text": "含有核糖体，能合成细胞所需蛋白质"
+   },
+   {
+    "label": "D",
+    "text": "有细胞骨架，有助于维持细胞的形态"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_akco1HRvghvSmnRJ8hJC9w#2025甘肃·蓝细菌的结构与功能]"
+ },
+ {
+  "root_id": "mkjr_vEYgBZakkgG3a5ujb6Cb6A",
+  "chapter": "必修一 第1章 走近细胞",
+  "points": [
+   "蓝细菌的结构与功能"
+  ],
+  "province": "广东",
+  "year": "2024",
+  "type": "单选",
+  "answer": "D",
+  "stem": "2019年，我国科考队在太平洋马里亚纳海沟采集到一种蓝细菌，其细胞内存在由两层膜组成的片层结构，此结构可进行光合作用与呼吸作用。在该结构中，下列物质存在的可能性最小的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "ATP"
+   },
+   {
+    "label": "B",
+    "text": "NADP+"
+   },
+   {
+    "label": "C",
+    "text": "NADH"
+   },
+   {
+    "label": "D",
+    "text": "DNA"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_vEYgBZakkgG3a5ujb6Cb6A#2024广东·蓝细菌的结构与功能]"
+ },
+ {
+  "root_id": "mkjr_oH5b1uIGXNGuHkmxcu0qtw",
+  "chapter": "必修一 第1章 走近细胞",
+  "points": [
+   "科学方法与技术"
+  ],
+  "province": "广东",
+  "year": "2024",
+  "type": "单选",
+  "answer": "B",
+  "stem": "关于技术进步与科学发现之间的促进关系，下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "电子显微镜的发明促进细胞学说的提出"
+   },
+   {
+    "label": "B",
+    "text": "差速离心法的应用促进对细胞器的认识"
+   },
+   {
+    "label": "C",
+    "text": "光合作用的解析促进花期控制技术的成熟"
+   },
+   {
+    "label": "D",
+    "text": "RNA聚合酶的发现促进PCR技术的发明"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_oH5b1uIGXNGuHkmxcu0qtw#2024广东·科学方法与技术]"
+ },
+ {
+  "root_id": "mkjr_QOhVtARB9_zGT9ydywHlgw",
+  "chapter": "必修一 第1章 走近细胞",
+  "points": [
+   "原核细胞与真核细胞"
+  ],
+  "province": "辽宁",
+  "year": "2022",
+  "type": "单选",
+  "answer": "C",
+  "stem": "下列关于硝化细菌的叙述，错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "可以发生基因突变"
+   },
+   {
+    "label": "B",
+    "text": "在核糖体合成蛋白质"
+   },
+   {
+    "label": "C",
+    "text": "可以进行有丝分裂"
+   },
+   {
+    "label": "D",
+    "text": "能以CO2作为碳源"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_QOhVtARB9_zGT9ydywHlgw#2022辽宁·原核细胞与真核细胞]"
+ },
+ {
+  "root_id": "mkjr_3A5FxVlYb294feo9DfKDAg",
+  "chapter": "必修一 第1章 走近细胞",
+  "points": [
+   "细胞学说的建立过程"
+  ],
+  "province": "辽宁",
+  "year": "2023",
+  "type": "单选",
+  "answer": "C",
+  "stem": "科学家根据对部分植物细胞观察的结果，得出“植物细胞都有细胞核”的结论。下列叙述错误的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "早期的细胞研究主要运用了观察法"
+   },
+   {
+    "label": "B",
+    "text": "上述结论的得出运用了归纳法"
+   },
+   {
+    "label": "C",
+    "text": "运用假说—演绎法将上述结论推演至原核细胞也成立"
+   },
+   {
+    "label": "D",
+    "text": "利用同位素标记法可研究细胞核内的物质变化"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_3A5FxVlYb294feo9DfKDAg#2023辽宁·细胞学说的建立过程]"
+ },
+ {
+  "root_id": "mkjr_IgOHZy606tM5d4R1UKyjbg",
+  "chapter": "必修一 第1章 走近细胞",
+  "points": [
+   "原核细胞与真核细胞"
+  ],
+  "province": "福建",
+  "year": "2024",
+  "type": "单选",
+  "answer": "C",
+  "stem": "幽门螺杆菌是一种定植在胃黏膜上皮细胞表面的细菌，可导致胃溃疡甚至胃癌的发生。下列叙述正确的是（ ）",
+  "options": [
+   {
+    "label": "A",
+    "text": "幽门螺杆菌通过减数分裂进行繁殖"
+   },
+   {
+    "label": "B",
+    "text": "幽门螺杆菌导致的胃癌可遗传给后代"
+   },
+   {
+    "label": "C",
+    "text": "抗病毒药物无法治疗幽门螺杆菌感染"
+   },
+   {
+    "label": "D",
+    "text": "临床检测幽门螺杆菌前应口服抗生素以杀死杂菌"
+   }
+  ],
+  "has_media": false,
+  "duplicates": [],
+  "ref": "[Card#ID/mkjr_IgOHZy606tM5d4R1UKyjbg#2024福建·原核细胞与真核细胞]"
+ }
+]

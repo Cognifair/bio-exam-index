@@ -1,0 +1,4541 @@
+[
+ {
+  "point": "细胞学说的建立过程",
+  "chapter": "必修一 第1章 走近细胞",
+  "keywords": [
+   "施莱登",
+   "施旺",
+   "一切动植物都由细胞发育而来",
+   "细胞是一个统一整体",
+   "新细胞由老细胞分裂产生"
+  ],
+  "count": 1,
+  "root_ids": [
+   "mkjr_3A5FxVlYb294feo9DfKDAg"
+  ],
+  "chapter_file": "chapters/01-必修一-第1章-走近细胞.json"
+ },
+ {
+  "point": "细胞是生命活动的基本单位",
+  "chapter": "必修一 第1章 走近细胞",
+  "keywords": [
+   "病毒",
+   "单细胞生物",
+   "生命活动离不开细胞",
+   "非细胞结构",
+   "寄生"
+  ],
+  "count": 2,
+  "root_ids": [
+   "mkjr_JU2d6nSFV2N2sOLkJOXXBQ",
+   "mkjr_cTpwLP6ReFiVmH2FhAw_Pw"
+  ],
+  "chapter_file": "chapters/01-必修一-第1章-走近细胞.json"
+ },
+ {
+  "point": "原核细胞与真核细胞",
+  "chapter": "必修一 第1章 走近细胞",
+  "keywords": [
+   "拟核",
+   "核膜",
+   "核糖体",
+   "环状DNA",
+   "有丝分裂"
+  ],
+  "count": 4,
+  "root_ids": [
+   "mkjr_eX8dq2UijOx3lRLULtWyJQ",
+   "mkjr_pOPL6G8czEvDvE3OjG2MvA",
+   "mkjr_QOhVtARB9_zGT9ydywHlgw",
+   "mkjr_IgOHZy606tM5d4R1UKyjbg"
+  ],
+  "chapter_file": "chapters/01-必修一-第1章-走近细胞.json"
+ },
+ {
+  "point": "蓝细菌的结构与功能",
+  "chapter": "必修一 第1章 走近细胞",
+  "keywords": [
+   "藻蓝素",
+   "叶绿素",
+   "固氮",
+   "光合作用",
+   "片层结构"
+  ],
+  "count": 3,
+  "root_ids": [
+   "mkjr_LMLA79IW9OR7YGSvZooFvA",
+   "mkjr_akco1HRvghvSmnRJ8hJC9w",
+   "mkjr_vEYgBZakkgG3a5ujb6Cb6A"
+  ],
+  "chapter_file": "chapters/01-必修一-第1章-走近细胞.json"
+ },
+ {
+  "point": "科学方法与技术",
+  "chapter": "必修一 第1章 走近细胞",
+  "keywords": [
+   "观察法",
+   "归纳法",
+   "差速离心法",
+   "同位素标记法",
+   "电子显微镜"
+  ],
+  "count": 1,
+  "root_ids": [
+   "mkjr_oH5b1uIGXNGuHkmxcu0qtw"
+  ],
+  "chapter_file": "chapters/01-必修一-第1章-走近细胞.json"
+ },
+ {
+  "point": "细胞中的元素和化合物",
+  "chapter": "必修一 第2章 组成细胞的分子",
+  "keywords": [
+   "大量元素",
+   "微量元素",
+   "元素种类",
+   "元素含量",
+   "组成"
+  ],
+  "count": 3,
+  "root_ids": [
+   "mkjr_Bfq5tnIEuL2JBoifNpqaEQ",
+   "mkjr_hK5LEvzuOrQAod.R9sgCow",
+   "mkjr_17Xxp3tthBVS4lthF_mj3Q"
+  ],
+  "chapter_file": "chapters/02-必修一-第2章-组成细胞的分子.json"
+ },
+ {
+  "point": "细胞中的无机盐",
+  "chapter": "必修一 第2章 组成细胞的分子",
+  "keywords": [
+   "无机盐",
+   "离子",
+   "缺素症",
+   "钙",
+   "渗透压"
+  ],
+  "count": 4,
+  "root_ids": [
+   "mkjr_bYC4SAJWqqO0WtvaGzI3kw",
+   "mkjr_c_ssKnM1onzQe93IEgF.mQ",
+   "mkjr_Dvlrr9.BMGFGvqxjcql7rw",
+   "mkjr_uI7TmrtBueBgXkqgHZ9TwQ"
+  ],
+  "chapter_file": "chapters/02-必修一-第2章-组成细胞的分子.json"
+ },
+ {
+  "point": "细胞中的水",
+  "chapter": "必修一 第2章 组成细胞的分子",
+  "keywords": [
+   "自由水",
+   "结合水",
+   "溶解性",
+   "代谢",
+   "抗逆性"
+  ],
+  "count": 4,
+  "root_ids": [
+   "mkjr_2Bmzg3k73aI.YatNSGbl6A",
+   "mkjr_.AJ69INVn4X8KoGTxVpLzQ",
+   "mkjr_1jXp.3gpXE.MPuk2sMy08Q",
+   "mkjr_EOO0Asg_TVIhAeQOzI3M1A"
+  ],
+  "chapter_file": "chapters/02-必修一-第2章-组成细胞的分子.json"
+ },
+ {
+  "point": "糖类的种类和作用",
+  "chapter": "必修一 第2章 组成细胞的分子",
+  "keywords": [
+   "单糖",
+   "二糖",
+   "多糖",
+   "淀粉",
+   "糖原",
+   "纤维素"
+  ],
+  "count": 6,
+  "root_ids": [
+   "mkjr_aaDYi_aj2KsoMjXWLobUdw",
+   "mkjr_wrN.R2poe73vu7.gT2Df9g",
+   "mkjr_pujlYCPk.zBcQA9SqwMO5g",
+   "mkjr_7Yd5o6VJ_m7oMEQdyLNXBA",
+   "mkjr_eWC1vrvcjZZrpTvdiPJhvw",
+   "mkjr_OJEdtdCeH_84EkTDF5sotg"
+  ],
+  "chapter_file": "chapters/02-必修一-第2章-组成细胞的分子.json"
+ },
+ {
+  "point": "脂质的种类和作用",
+  "chapter": "必修一 第2章 组成细胞的分子",
+  "keywords": [
+   "脂肪",
+   "磷脂",
+   "固醇",
+   "不饱和脂肪酸",
+   "甘油"
+  ],
+  "count": 6,
+  "root_ids": [
+   "mkjr_wrN.R2poe73vu7.gT2Df9g",
+   "mkjr_cpQAoH2sz5zRhzuMlJIsMg",
+   "mkjr_y8F.SCVQ9tB47YbA2ld1qA",
+   "mkjr_6LCOUlvFjLxlsGTD349HOg",
+   "mkjr_puT.kXB9IieSFkKt2XJKaA",
+   "mkjr_P99qdS2.nJQrZx7_KqzoTw"
+  ],
+  "chapter_file": "chapters/02-必修一-第2章-组成细胞的分子.json"
+ },
+ {
+  "point": "蛋白质的结构与功能",
+  "chapter": "必修一 第2章 组成细胞的分子",
+  "keywords": [
+   "氨基酸",
+   "肽键",
+   "脱水缩合",
+   "空间结构",
+   "蛋白质变性"
+  ],
+  "count": 12,
+  "root_ids": [
+   "mkjr_DrGXIYWJ3quHTR04bQv2LA",
+   "mkjr_BmF0xUBAMRF0W9evQ4e59g",
+   "mkjr_CsGVGDrMvFEacPD76zGhEg",
+   "mkjr_04rrbyCAbVQpytyOW.A02w",
+   "mkjr_AmMfY8f_VpkechU9ZEcXCw",
+   "mkjr_GXx1320XKhfxEDCAv7v9vw",
+   "mkjr_gNXwrA7UC9gnEK15J1d7zA",
+   "mkjr_FcRWhDZ7g34Wtt_Z849l4w",
+   "mkjr_pPr7jTc3RQbnNJ5aKwKBCg",
+   "mkjr_Y9sk39nznaVG.._eVYSOgQ",
+   "mkjr_yquEe28v6mdWj8jj52Au2g",
+   "mkjr_XgJ1NgPH9J5kE66FiC0SxA"
+  ],
+  "chapter_file": "chapters/02-必修一-第2章-组成细胞的分子.json"
+ },
+ {
+  "point": "核酸的种类与结构",
+  "chapter": "必修一 第2章 组成细胞的分子",
+  "keywords": [
+   "核苷酸",
+   "DNA",
+   "RNA",
+   "碱基",
+   "磷酸"
+  ],
+  "count": 1,
+  "root_ids": [
+   "mkjr_Bz_yUj83yYzT6ysjvx.NPw"
+  ],
+  "chapter_file": "chapters/02-必修一-第2章-组成细胞的分子.json"
+ },
+ {
+  "point": "检测生物组织中的糖类、脂肪和蛋白质",
+  "chapter": "必修一 第2章 组成细胞的分子",
+  "keywords": [
+   "斐林试剂",
+   "双缩脲试剂",
+   "苏丹Ⅲ",
+   "砖红色",
+   "橘黄色"
+  ],
+  "count": 6,
+  "root_ids": [
+   "mkjr_yHlIYmGPPMOtcjiJX8Xc2g",
+   "mkjr_e9C6xkKjDVth4yRJV4Ay6w",
+   "mkjr_Z6CaJvj8N4NErh4jf_cuLw",
+   "mkjr_6PZrp62Yqe9kD0hYEZVM1w",
+   "mkjr_M9kTgYE_59CWr2dapyaaFg",
+   "mkjr_dDkvz2l4Xlkn8lHAOCBACw"
+  ],
+  "chapter_file": "chapters/02-必修一-第2章-组成细胞的分子.json"
+ },
+ {
+  "point": "生物大分子以碳链为骨架",
+  "chapter": "必修一 第2章 组成细胞的分子",
+  "keywords": [
+   "单体",
+   "多聚体",
+   "碳链",
+   "基本单位",
+   "连接键"
+  ],
+  "count": 2,
+  "root_ids": [
+   "mkjr_6PZrp62Yqe9kD0hYEZVM1w",
+   "mkjr_JufTIHOMI2KbyOwfQG9tqA"
+  ],
+  "chapter_file": "chapters/02-必修一-第2章-组成细胞的分子.json"
+ },
+ {
+  "point": "细胞膜的结构与功能",
+  "chapter": "必修一 第3章 细胞的基本结构",
+  "keywords": [
+   "磷脂双分子层",
+   "流动镶嵌模型",
+   "选择透过性",
+   "膜蛋白",
+   "细胞膜的流动性"
+  ],
+  "count": 9,
+  "root_ids": [
+   "mkjr_NTqpBekyxFM6buMb3PCQKg",
+   "mkjr_aJIAjEOaHJ8bLuTOzRQjdQ",
+   "mkjr_n1ZBj7rdiwi2AmgknqMDng",
+   "mkjr_tl_tPKmzwKBh2l6jy_fHdw",
+   "mkjr_Zhl2bQr8T_NdBPNL0jumeg",
+   "mkjr_cgUcq7CUh5AyQrDyq0jmdQ",
+   "mkjr_roaJZG7yeZhXgGmPxcbqMw",
+   "mkjr_kpnj_nW7OpLU8aEyoQ.YDw",
+   "mkjr_dGhlL1Gcaz1h7Rv9ujmh.Q"
+  ],
+  "chapter_file": "chapters/03-必修一-第3章-细胞的基本结构.json"
+ },
+ {
+  "point": "对细胞膜成分的探索",
+  "chapter": "必修一 第3章 细胞的基本结构",
+  "keywords": [
+   "罗伯特森模型",
+   "暗—亮—暗",
+   "人鼠细胞融合",
+   "荧光标记",
+   "脂质提取"
+  ],
+  "count": 2,
+  "root_ids": [
+   "mkjr_Zhl2bQr8T_NdBPNL0jumeg",
+   "mkjr_WA__tt9NZR_tWYlqF5H2qQ"
+  ],
+  "chapter_file": "chapters/03-必修一-第3章-细胞的基本结构.json"
+ },
+ {
+  "point": "细胞间的信息交流",
+  "chapter": "必修一 第3章 细胞的基本结构",
+  "keywords": [
+   "受体",
+   "信号分子",
+   "糖被",
+   "胞间连丝",
+   "靶细胞"
+  ],
+  "count": 4,
+  "root_ids": [
+   "mkjr_257TTxxw8kq2h.M5_188Qw",
+   "mkjr_n1ZBj7rdiwi2AmgknqMDng",
+   "mkjr_D2Q2_MB2h6cu6e4qkP8Ggw",
+   "mkjr_gcwjkRh_.H6RfvrJE944Tw"
+  ],
+  "chapter_file": "chapters/03-必修一-第3章-细胞的基本结构.json"
+ },
+ {
+  "point": "细胞器之间的分工",
+  "chapter": "必修一 第3章 细胞的基本结构",
+  "keywords": [
+   "线粒体",
+   "叶绿体",
+   "内质网",
+   "高尔基体",
+   "核糖体",
+   "中心体"
+  ],
+  "count": 15,
+  "root_ids": [
+   "mkjr_RAeqZEQTgqt4wgZqXOHKXw",
+   "mkjr_ccWBJ5htXWGCtd8acrdDrQ",
+   "mkjr_XconQyr6RFB1SWEMYxVEpA",
+   "mkjr_RKqtRpCSBafjCvVsuIlkVg",
+   "mkjr_huJTVZwszldpdynl4h5uDA",
+   "mkjr_xeZ_apULl3FCDDWgFlASGw",
+   "mkjr_jCPoISEs4Eo5V.pmzjuDNQ",
+   "mkjr_gSCwKDDvayDYt98gIeLysw",
+   "mkjr_oNfV8o_KYz7R18E6ikoK.Q",
+   "mkjr_ee98hNTBjyRQ6COSY3UOFQ",
+   "mkjr_Hb4rOez2MYyOIsVt1l2Thg",
+   "mkjr_5WgKW6AmtPllqzE9gULABw",
+   "mkjr_EoVqHQsJ8820072dWD7a5g",
+   "mkjr_srUr1GRb7.OCj5eXOMhnEg",
+   "mkjr_izUvmIvu0z.U0qE7JAPoVA"
+  ],
+  "chapter_file": "chapters/03-必修一-第3章-细胞的基本结构.json"
+ },
+ {
+  "point": "溶酶体与液泡的功能",
+  "chapter": "必修一 第3章 细胞的基本结构",
+  "keywords": [
+   "水解酶",
+   "细胞自噬",
+   "衰老损伤的细胞器",
+   "花青素",
+   "细胞液"
+  ],
+  "count": 8,
+  "root_ids": [
+   "mkjr_2_QoT.AHBDg1QjkMGkWfew",
+   "mkjr_Si_KUGML8g_68r0nV7SrQw",
+   "mkjr_625w5lutFyajEEBxVsR2Wg",
+   "mkjr_O0RKh2hMht3rdaqkUsU5Vg",
+   "mkjr_EVqgncwUxcsumPneoGvkYA",
+   "mkjr__tDn.2l5YOdDCXv8zFesfA",
+   "mkjr_nnjSIv3P2Kc4ZpRgFIrhAQ",
+   "mkjr_VlHAnt.oE5jMO6khFSoBDw"
+  ],
+  "chapter_file": "chapters/03-必修一-第3章-细胞的基本结构.json"
+ },
+ {
+  "point": "分泌蛋白的合成与运输",
+  "chapter": "必修一 第3章 细胞的基本结构",
+  "keywords": [
+   "核糖体",
+   "内质网",
+   "高尔基体",
+   "囊泡",
+   "胞吐"
+  ],
+  "count": 4,
+  "root_ids": [
+   "mkjr_tl_tPKmzwKBh2l6jy_fHdw",
+   "mkjr_a6Wf4psYGVrSjQPEKazpgg",
+   "mkjr_gcwjkRh_.H6RfvrJE944Tw",
+   "mkjr_dGhlL1Gcaz1h7Rv9ujmh.Q"
+  ],
+  "chapter_file": "chapters/03-必修一-第3章-细胞的基本结构.json"
+ },
+ {
+  "point": "生物膜系统",
+  "chapter": "必修一 第3章 细胞的基本结构",
+  "keywords": [
+   "细胞器膜",
+   "核膜",
+   "囊泡",
+   "膜融合",
+   "统一整体"
+  ],
+  "count": 5,
+  "root_ids": [
+   "mkjr_byuXoKvabdyXccdjK9Sz5g",
+   "mkjr_DAZdaNZdNKidhbGqKkCcvw",
+   "mkjr_J_pwgrwy.KPOut6z0BAiSA",
+   "mkjr_Ax6_ln0dh2VSxxPoKuiLGw",
+   "mkjr_nnjSIv3P2Kc4ZpRgFIrhAQ"
+  ],
+  "chapter_file": "chapters/03-必修一-第3章-细胞的基本结构.json"
+ },
+ {
+  "point": "细胞骨架",
+  "chapter": "必修一 第3章 细胞的基本结构",
+  "keywords": [
+   "微丝",
+   "微管",
+   "肌动蛋白",
+   "维持细胞形态",
+   "锚定细胞器"
+  ],
+  "count": 6,
+  "root_ids": [
+   "mkjr_NTqpBekyxFM6buMb3PCQKg",
+   "mkjr_cnSxx8I5OSFvjKs.s.jstw",
+   "mkjr_V1CrUbh_vcQp3oHqciKScg",
+   "mkjr_Ax6_ln0dh2VSxxPoKuiLGw",
+   "mkjr_CfdjCBzqFYXvr9bsfyFojQ",
+   "mkjr_4YBSEjlWVZZAzljL0Vaf0Q"
+  ],
+  "chapter_file": "chapters/03-必修一-第3章-细胞的基本结构.json"
+ },
+ {
+  "point": "细胞核的结构与功能",
+  "chapter": "必修一 第3章 细胞的基本结构",
+  "keywords": [
+   "核膜",
+   "核孔",
+   "核仁",
+   "染色质",
+   "遗传信息库"
+  ],
+  "count": 6,
+  "root_ids": [
+   "mkjr_RAeqZEQTgqt4wgZqXOHKXw",
+   "mkjr_TZu76JizwpJv9GHl2mm02Q",
+   "mkjr_ee98hNTBjyRQ6COSY3UOFQ",
+   "mkjr_CfdjCBzqFYXvr9bsfyFojQ",
+   "mkjr_srUr1GRb7.OCj5eXOMhnEg",
+   "mkjr_izUvmIvu0z.U0qE7JAPoVA"
+  ],
+  "chapter_file": "chapters/03-必修一-第3章-细胞的基本结构.json"
+ },
+ {
+  "point": "观察叶绿体和细胞质流动",
+  "chapter": "必修一 第3章 细胞的基本结构",
+  "keywords": [
+   "黑藻",
+   "叶肉细胞",
+   "叶绿体形态",
+   "临时装片",
+   "显微镜"
+  ],
+  "count": 2,
+  "root_ids": [
+   "mkjr_jCPoISEs4Eo5V.pmzjuDNQ",
+   "mkjr_cGUKn1I9.Xu__YTk1.eiyQ"
+  ],
+  "chapter_file": "chapters/03-必修一-第3章-细胞的基本结构.json"
+ },
+ {
+  "point": "渗透作用与质壁分离",
+  "chapter": "必修一 第4章 细胞的物质输入和输出",
+  "keywords": [
+   "半透膜",
+   "浓度差",
+   "原生质层",
+   "细胞液浓度",
+   "质壁分离复原"
+  ],
+  "count": 11,
+  "root_ids": [
+   "mkjr_f.cv95eMcDj.tQgcr8mjSg",
+   "mkjr_mc4X3PQckKvlbu2PrQCpxw",
+   "mkjr_bw3SuTq6PrOrgF_YCmamWg",
+   "mkjr_WcMGkDI0cFMtIb978QHSig",
+   "mkjr_WjtUCtrg.Bym7rzRac7lNA",
+   "mkjr_iM4u8U.va1aUxrFqZRNOSw",
+   "mkjr_NbjExH5mO7XZ8snUEtmvew",
+   "mkjr_txSRIRtYZ.Hd8YPFnWOYsg",
+   "mkjr_wMP1f5hSt8feXkzEzYwQQg",
+   "mkjr_6e6nbN2VdgoqMB_TrGsMxA",
+   "mkjr_hF.EDyJSavqR1Vt1TMybiQ"
+  ],
+  "chapter_file": "chapters/04-必修一-第4章-细胞的物质输入和输出.json"
+ },
+ {
+  "point": "自由扩散",
+  "chapter": "必修一 第4章 细胞的物质输入和输出",
+  "keywords": [
+   "脂溶性",
+   "顺浓度梯度",
+   "不需转运蛋白",
+   "不消耗能量"
+  ],
+  "count": 6,
+  "root_ids": [
+   "mkjr_GZ9QM5P5A8GGjI5X2wR8qw",
+   "mkjr_xdyKRJaMxo3dlZHqfUwUdw",
+   "mkjr_5Wjyh3X51UZMY2GJ_ZFGhw",
+   "mkjr_nWTVWHtg_mLSQjJ34wPx.w",
+   "mkjr_3QFPXiGj1uHHlQ9UhMj5yg",
+   "mkjr_ggNNC6hr7fa_p5kAuW4lHg"
+  ],
+  "chapter_file": "chapters/04-必修一-第4章-细胞的物质输入和输出.json"
+ },
+ {
+  "point": "协助扩散",
+  "chapter": "必修一 第4章 细胞的物质输入和输出",
+  "keywords": [
+   "通道蛋白",
+   "载体蛋白",
+   "顺浓度梯度",
+   "不消耗能量"
+  ],
+  "count": 10,
+  "root_ids": [
+   "mkjr_Dvy_X.xmtinWenDrprXQOA",
+   "mkjr_XR9wTeVfDYEeC2WgvK1lIw",
+   "mkjr_uMSxSbpA2ryRrMHFym4MJQ",
+   "mkjr_qelO0GPf7wJVUFrpVFsheg",
+   "mkjr_9EKwOD8yXgmEe_NujzRV7w",
+   "mkjr_TPg1XcgZpUfrFDE4JQYxoA",
+   "mkjr_oFnqrRqTac3kH0egm587og",
+   "mkjr_006czNL8hIIUk67au7hD3g",
+   "mkjr_oiMz0NFwxaYwbOgxR3yQSg",
+   "mkjr_DlifwhAaf1Rr14ZJSPaH6g"
+  ],
+  "chapter_file": "chapters/04-必修一-第4章-细胞的物质输入和输出.json"
+ },
+ {
+  "point": "水通道蛋白",
+  "chapter": "必修一 第4章 细胞的物质输入和输出",
+  "keywords": [
+   "水分子",
+   "AQP",
+   "渗透压",
+   "水转运速率"
+  ],
+  "count": 2,
+  "root_ids": [
+   "mkjr_VY0HU2zxfbHC6mYzuwWnPg",
+   "mkjr_fEzUXYLFuMQhnRb8fNGWrg"
+  ],
+  "chapter_file": "chapters/04-必修一-第4章-细胞的物质输入和输出.json"
+ },
+ {
+  "point": "主动运输",
+  "chapter": "必修一 第4章 细胞的物质输入和输出",
+  "keywords": [
+   "逆浓度梯度",
+   "载体蛋白",
+   "ATP水解",
+   "构象改变",
+   "协同运输"
+  ],
+  "count": 21,
+  "root_ids": [
+   "mkjr_UoMBgM3hDwfHW2zTswKzRQ",
+   "mkjr_GVJfall7vOXDBXc851kZzw",
+   "mkjr_u0OYXCoV87jKfYzUFNoNlw",
+   "mkjr_xdyKRJaMxo3dlZHqfUwUdw",
+   "mkjr_ttY3EVqlew86XbS4ZvteEg",
+   "mkjr_XR9wTeVfDYEeC2WgvK1lIw",
+   "mkjr_2VwEUVNaiIJGqnI8BtNGDQ",
+   "mkjr_uMSxSbpA2ryRrMHFym4MJQ",
+   "mkjr_RiD8FtSluNoLXKy4zvn0dQ",
+   "mkjr_MF68qR5VTCrZHJBvJhNZTg",
+   "mkjr_qelO0GPf7wJVUFrpVFsheg",
+   "mkjr_42KXE7DRfdCS2JMdqTaRSQ",
+   "mkjr_006czNL8hIIUk67au7hD3g",
+   "mkjr_C4N70PdOhlga8tpCeDnpqw",
+   "mkjr_oiMz0NFwxaYwbOgxR3yQSg",
+   "mkjr_glBJkMv1fyUKEbOXvkbTyA",
+   "mkjr_do7gZpMgf4CpbrfMng2mCQ",
+   "mkjr_ggNNC6hr7fa_p5kAuW4lHg",
+   "mkjr_6e6nbN2VdgoqMB_TrGsMxA",
+   "mkjr_wV2sAHSAN26iy.Jf5n1_wA",
+   "mkjr_gt8NrlaWB6p1P3dKkF3GFA"
+  ],
+  "chapter_file": "chapters/04-必修一-第4章-细胞的物质输入和输出.json"
+ },
+ {
+  "point": "胞吞胞吐",
+  "chapter": "必修一 第4章 细胞的物质输入和输出",
+  "keywords": [
+   "大分子",
+   "囊泡",
+   "膜的流动性",
+   "消耗能量",
+   "溶酶体"
+  ],
+  "count": 5,
+  "root_ids": [
+   "mkjr_67X.5.U9GLu09rRMuApgPw",
+   "mkjr_Nkip4hmvsFb2Rm8UQGcL4g",
+   "mkjr_2VwEUVNaiIJGqnI8BtNGDQ",
+   "mkjr_ywpqSgTUlsoV968OcBrcpg",
+   "mkjr_DfjP3LiXTDdgxyWm1z1qFg"
+  ],
+  "chapter_file": "chapters/04-必修一-第4章-细胞的物质输入和输出.json"
+ },
+ {
+  "point": "物质跨膜运输的影响因素",
+  "chapter": "必修一 第4章 细胞的物质输入和输出",
+  "keywords": [
+   "浓度差",
+   "载体数量",
+   "能量供应",
+   "温度",
+   "呼吸抑制剂"
+  ],
+  "count": 2,
+  "root_ids": [
+   "mkjr_5Wjyh3X51UZMY2GJ_ZFGhw",
+   "mkjr_oFnqrRqTac3kH0egm587og"
+  ],
+  "chapter_file": "chapters/04-必修一-第4章-细胞的物质输入和输出.json"
+ },
+ {
+  "point": "细胞膜的通透性",
+  "chapter": "必修一 第4章 细胞的物质输入和输出",
+  "keywords": [
+   "选择透过性",
+   "膜损伤",
+   "通透性增大",
+   "胞内外物质"
+  ],
+  "count": 2,
+  "root_ids": [
+   "mkjr_piLJuPAAJYDcQMoGx3AXAQ",
+   "mkjr_G5v6PPG1TLIiBMIk95AARg"
+  ],
+  "chapter_file": "chapters/04-必修一-第4章-细胞的物质输入和输出.json"
+ },
+ {
+  "point": "酶的本质与作用",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "keywords": [
+   "蛋白质",
+   "RNA",
+   "核酶",
+   "降低活化能",
+   "生物催化剂"
+  ],
+  "count": 5,
+  "root_ids": [
+   "mkjr_gGSgXjDs1vyCMspYL9F1tA",
+   "mkjr__NQms0InTncmLTH3uu8Arg",
+   "mkjr_5wDzqQuPyVGGu91Kism3sg",
+   "mkjr_VXEzO62IYmdTEH_qbqsRlA",
+   "mkjr_l.Dws9s3t0WfFVeClVTyFw"
+  ],
+  "chapter_file": "chapters/05-必修一-第5章-细胞的能量供应和利用.json"
+ },
+ {
+  "point": "酶的高效性与专一性",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "keywords": [
+   "高效性",
+   "专一性",
+   "底物",
+   "催化效率"
+  ],
+  "count": 6,
+  "root_ids": [
+   "mkjr_gGcw3EqVHBo6DVcX2YDI9g",
+   "mkjr_WFbnSO.e02nNF55Tpoo2JA",
+   "mkjr_ETV1nvVT5mUkf3qoclpZrw",
+   "mkjr_O91Cq.ek9_nJXxomSbQ33w",
+   "mkjr_K0nN9HeqY_H7_dg75FKOQw",
+   "mkjr_lDAGuikfvr9OamIaBNJQfQ"
+  ],
+  "chapter_file": "chapters/05-必修一-第5章-细胞的能量供应和利用.json"
+ },
+ {
+  "point": "影响酶活性的因素",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "keywords": [
+   "温度",
+   "pH",
+   "底物浓度",
+   "酶用量",
+   "抑制剂"
+  ],
+  "count": 13,
+  "root_ids": [
+   "mkjr_AVyaVGWo.vXDFw0dwHfhvQ",
+   "mkjr_6wVJ1Qy1UjcByJVo1qzNYw",
+   "mkjr_jhYb0y94dxTnW0kbttslKg",
+   "mkjr_ZFmdcXCiVDgx6ZnpR8n9Ew",
+   "mkjr_tWWSaq1EiSImhNyLRpAUHQ",
+   "mkjr_xJXRnS3nchw9LniSWvzX4A",
+   "mkjr_Yl5jdkV3bQiJBLMUo3uSpw",
+   "mkjr_WfZC4B42Fpb6F64DV3kHUQ",
+   "mkjr_CjwWowaIEnRGSdl5pgqgtA",
+   "mkjr_MQMq5nkpM9acoA0DS4UkKw",
+   "mkjr_KgeH4Of4HPUx4Op0qwwCcA",
+   "mkjr_cJxUUV3L7NTVhFCZmWdWJA",
+   "mkjr_AoBJfVJoiebUDvZp1imDQQ"
+  ],
+  "chapter_file": "chapters/05-必修一-第5章-细胞的能量供应和利用.json"
+ },
+ {
+  "point": "ATP的结构与功能",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "keywords": [
+   "腺苷",
+   "高能磷酸键",
+   "ATP与ADP相互转化",
+   "直接能源物质",
+   "主动运输"
+  ],
+  "count": 5,
+  "root_ids": [
+   "mkjr_XCcp6tOfS62uHvTV_EE4rw",
+   "mkjr__tkSDGRoz3LYeBcRq_CnEw",
+   "mkjr_E_25UnT17LYSlmXBJtHHkA",
+   "mkjr_vT8KbwibNsy52toe.BKoug",
+   "mkjr_MYeInNMvsVbHpNX4gvB6Xw"
+  ],
+  "chapter_file": "chapters/05-必修一-第5章-细胞的能量供应和利用.json"
+ },
+ {
+  "point": "有氧呼吸的过程",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "keywords": [
+   "丙酮酸",
+   "[H]",
+   "线粒体内膜",
+   "电子传递链",
+   "水",
+   "CO2"
+  ],
+  "count": 24,
+  "root_ids": [
+   "mkjr_PKi_0LOg_ZIPVKXr5gH1Xw",
+   "mkjr_JTyVHVo1dqlLlPOrrqWDug",
+   "mkjr_JC9DJE0a4PVxPGG2TTxC1A",
+   "mkjr_J0PTRVnvsS1_KaJLiVs0Nw",
+   "mkjr_4IgrfCmF_4Dqv1VME80Wqw",
+   "mkjr_O3JiWFORZnrLDP8Q8kelBA",
+   "mkjr_4y_m_xEviuqDhLw2MSbQRQ",
+   "mkjr_Wh6RcOM1SI9mT3oMgWkhgg",
+   "mkjr_OgAdrxXAmtVBugZyUaPrqA",
+   "mkjr_qS4cE9pwaVnpVDpzUWD8qQ",
+   "mkjr_udZP66HjsxjERG6C6pL4Ig",
+   "mkjr_EJMJc0PD1bQk7mVKahWifg",
+   "mkjr_Jk6keLsZl6_RfCzpbKK0Jg",
+   "mkjr_LH7vNjTX32dSiJhgBGlrkQ",
+   "mkjr_r_9jE03wGIS7PjsnFPgNMQ",
+   "mkjr_lhp1dFi7.a6l9_993AN3cQ",
+   "mkjr_hXJrh0OxqECLMMFyKUuR0w",
+   "mkjr_eZ2K2EJi8Za73wcTeIR.2w",
+   "mkjr_omzEPDMztwaOrOeipj9d_Q",
+   "mkjr_9KZ4QyTDXKGexsTAyIbr_Q",
+   "mkjr_LcjFTaTh56odI0mgxaqypw",
+   "mkjr_lDAGuikfvr9OamIaBNJQfQ",
+   "mkjr_eFLOHg42OxzOwelTq5P1vA",
+   "mkjr_IiA04hEpjeUYXuvSzDUprg"
+  ],
+  "chapter_file": "chapters/05-必修一-第5章-细胞的能量供应和利用.json"
+ },
+ {
+  "point": "无氧呼吸",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "keywords": [
+   "细胞质基质",
+   "丙酮酸",
+   "乳酸",
+   "乙醇",
+   "第一阶段"
+  ],
+  "count": 14,
+  "root_ids": [
+   "mkjr_Z1imYqHJn.QIX6FmksRAtg",
+   "mkjr_PKi_0LOg_ZIPVKXr5gH1Xw",
+   "mkjr_.GzANb4BVhdiO0NHlnoI_w",
+   "mkjr_e8YKp5EsLBhXWEIKxuYd6g",
+   "mkjr_p0_1TevmR9_waAa3lDYaYQ",
+   "mkjr_ZrZsDlUZczcj6kvw2577kw",
+   "mkjr_Wh6RcOM1SI9mT3oMgWkhgg",
+   "mkjr_OgAdrxXAmtVBugZyUaPrqA",
+   "mkjr_qS4cE9pwaVnpVDpzUWD8qQ",
+   "mkjr_GIHWPMKV.bRXiscg0OPgrw",
+   "mkjr_r_9jE03wGIS7PjsnFPgNMQ",
+   "mkjr_eZ2K2EJi8Za73wcTeIR.2w",
+   "mkjr_9KZ4QyTDXKGexsTAyIbr_Q",
+   "mkjr_P20Myer.JdKMsA1p281sSA"
+  ],
+  "chapter_file": "chapters/05-必修一-第5章-细胞的能量供应和利用.json"
+ },
+ {
+  "point": "细胞呼吸方式的判断",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "keywords": [
+   "O2消耗量",
+   "CO2释放量",
+   "呼吸商",
+   "葡萄糖消耗量",
+   "供能占比"
+  ],
+  "count": 4,
+  "root_ids": [
+   "mkjr_XkEMsMNTwRaxGLM5qyVwvQ",
+   "mkjr_FgkD2mDqTsyiUw4VwRakbA",
+   "mkjr_5GNyJGbkm_PO29CeeNNgFg",
+   "mkjr_ZrINkmBO2.HTGG1RrIH9vg"
+  ],
+  "chapter_file": "chapters/05-必修一-第5章-细胞的能量供应和利用.json"
+ },
+ {
+  "point": "细胞呼吸原理的应用",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "keywords": [
+   "低温储藏",
+   "低氧",
+   "种子萌发",
+   "果蔬保鲜",
+   "运动供能"
+  ],
+  "count": 6,
+  "root_ids": [
+   "mkjr_GKxQzsK0sr5PjbwacPXO0g",
+   "mkjr_aL1.zHDWrLlPyWxqE2I7cQ",
+   "mkjr_WHJFysTHF.srYxPEfCPD7A",
+   "mkjr_mYXXxqzTk5aXK0znkDnP8w",
+   "mkjr_69OpypvVH1b1IuZEfd1uHw",
+   "mkjr_QzyJmq5LJtDi_yKn798eHw"
+  ],
+  "chapter_file": "chapters/05-必修一-第5章-细胞的能量供应和利用.json"
+ },
+ {
+  "point": "探究酵母菌细胞呼吸的方式",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "keywords": [
+   "酵母菌",
+   "澄清石灰水",
+   "溴麝香草酚蓝",
+   "酸性重铬酸钾",
+   "有氧与无氧条件"
+  ],
+  "count": 2,
+  "root_ids": [
+   "mkjr_Jt9O1XkEvMaAHJ4wDtEkVQ",
+   "mkjr_fSYxRu4oFo6rT7NFFMkPGw"
+  ],
+  "chapter_file": "chapters/05-必修一-第5章-细胞的能量供应和利用.json"
+ },
+ {
+  "point": "叶绿体中的色素",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "keywords": [
+   "叶绿素",
+   "类胡萝卜素",
+   "吸收光谱",
+   "层析液",
+   "类囊体薄膜"
+  ],
+  "count": 5,
+  "root_ids": [
+   "mkjr_5BNS6oaGqKvsuHsFq3Hzpw",
+   "mkjr_wv1a3avvCCqMONYGkXT_Yg",
+   "mkjr_5PRmF8SICDoBXzN.LgJJ0A",
+   "mkjr_aVvDSCKTS.m2jEs0rDi7ug",
+   "mkjr_ZK0w2hVJ.BxPoAwOGtdCIw"
+  ],
+  "chapter_file": "chapters/05-必修一-第5章-细胞的能量供应和利用.json"
+ },
+ {
+  "point": "光合作用的光反应",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "keywords": [
+   "类囊体薄膜",
+   "水的光解",
+   "NADPH",
+   "ATP",
+   "光能转化"
+  ],
+  "count": 5,
+  "root_ids": [
+   "mkjr_2EoUG.NAn03fRht70gLcvA",
+   "mkjr_AdCEv86aPZTYl3pVXZZ2nA",
+   "mkjr_h5_3WfHjvJi8qAy0dTv.2w",
+   "mkjr_whzQrFbcV9p69B.GrZ_Qkw",
+   "mkjr_4zG6YhmUmSzfnbx09OwWLA"
+  ],
+  "chapter_file": "chapters/05-必修一-第5章-细胞的能量供应和利用.json"
+ },
+ {
+  "point": "光合作用的暗反应",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "keywords": [
+   "CO2固定",
+   "C3还原",
+   "C5",
+   "ATP和NADPH",
+   "叶绿体基质"
+  ],
+  "count": 4,
+  "root_ids": [
+   "mkjr_hxNfXUqQqFMGgI5HYsHZqw",
+   "mkjr_AdCEv86aPZTYl3pVXZZ2nA",
+   "mkjr_QX8N7mPPSYmjYUpfM.h2ZA",
+   "mkjr_K5vHTeEfUJ4VQvp6gI9LNg"
+  ],
+  "chapter_file": "chapters/05-必修一-第5章-细胞的能量供应和利用.json"
+ },
+ {
+  "point": "影响光合作用的因素",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "keywords": [
+   "光照强度",
+   "CO2浓度",
+   "温度",
+   "净光合速率",
+   "气孔导度"
+  ],
+  "count": 8,
+  "root_ids": [
+   "mkjr_NtYYzz2Y3UYjbf5gAJhBrg",
+   "mkjr_hxNfXUqQqFMGgI5HYsHZqw",
+   "mkjr_tVjhgVCm1jQ1KilTZ1Vfmw",
+   "mkjr_4Xq8tG.qsLDIkU1k4LHFdw",
+   "mkjr_zwOg9uPdDN8GBzibF3PmiQ",
+   "mkjr_7wUY1eMP8rMvm7sLAPXMRA",
+   "mkjr_gS9SrrI0h1ViGQiywbfpxA",
+   "mkjr_4zG6YhmUmSzfnbx09OwWLA"
+  ],
+  "chapter_file": "chapters/05-必修一-第5章-细胞的能量供应和利用.json"
+ },
+ {
+  "point": "光合作用与细胞呼吸的关系",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "keywords": [
+   "CO2变化",
+   "O2变化",
+   "净光合速率",
+   "密闭容器",
+   "有机物积累"
+  ],
+  "count": 3,
+  "root_ids": [
+   "mkjr_2EoUG.NAn03fRht70gLcvA",
+   "mkjr_M6rQbZF2rsz.hF7QlsprEA",
+   "mkjr_XrU1l.F8rCZC01n5qFY8Hw"
+  ],
+  "chapter_file": "chapters/05-必修一-第5章-细胞的能量供应和利用.json"
+ },
+ {
+  "point": "化能合成作用",
+  "chapter": "必修一 第5章 细胞的能量供应和利用",
+  "keywords": [
+   "硝化细菌",
+   "NH3氧化",
+   "自养",
+   "CO2固定"
+  ],
+  "count": 1,
+  "root_ids": [
+   "mkjr_5R8rN4jutn.YUSsTm4MaGA"
+  ],
+  "chapter_file": "chapters/05-必修一-第5章-细胞的能量供应和利用.json"
+ },
+ {
+  "point": "细胞周期",
+  "chapter": "必修一 第6章 细胞的生命历程",
+  "keywords": [
+   "分裂间期",
+   "分裂期",
+   "CDK-cyclin",
+   "G1期/S期/G2期",
+   "阶段性转换"
+  ],
+  "count": 8,
+  "root_ids": [
+   "mkjr_5IDnCkCdCbwdE_NBXYySKQ",
+   "mkjr_5c8EI3PurwCmkchNgadLZg",
+   "mkjr_EbNnk54Pg0OqgA6YfCnusQ",
+   "mkjr_odFi4OpWg.PLRB78dW1Krw",
+   "mkjr_WFtLLtsCXsumiG9kEuUX7g",
+   "mkjr_FnFuh6LQjo5d8ak77rR3DA",
+   "mkjr_fNRFd8EntFZhXAJXl2ukEg",
+   "mkjr_DvcnTk2K2HXSFo51j5cb8A"
+  ],
+  "chapter_file": "chapters/06-必修一-第6章-细胞的生命历程.json"
+ },
+ {
+  "point": "细胞的有丝分裂",
+  "chapter": "必修一 第6章 细胞的生命历程",
+  "keywords": [
+   "纺锤体",
+   "染色体",
+   "着丝粒",
+   "后期",
+   "赤道板"
+  ],
+  "count": 13,
+  "root_ids": [
+   "mkjr_VxjnjjM4IBWOgHvJgZ25Hw",
+   "mkjr_rvdn4YMaz4dDaLkNuG1EDQ",
+   "mkjr_jYtVZubijbEJ5avb0AMxVg",
+   "mkjr_3zxEKHHBGu1CXhRnTokddw",
+   "mkjr_uHDoYnrYKaYeXkTTUBzhpQ",
+   "mkjr_Hbtd_h3u0Roau2R4W9fwew",
+   "mkjr_RBQD5h20L6s_hdMDkWiCHQ",
+   "mkjr_SlTuaericI1OSrerS7BUVw",
+   "mkjr_odFi4OpWg.PLRB78dW1Krw",
+   "mkjr_Oumz20a16JcNC_8lYZe2cA",
+   "mkjr_UrSm4xVPVHFz1D5iHaCmXQ",
+   "mkjr_BDbPv_k3kwQmNmncm1f3oQ",
+   "mkjr_fEpcrbvSSDVCFRTjzWuABA"
+  ],
+  "chapter_file": "chapters/06-必修一-第6章-细胞的生命历程.json"
+ },
+ {
+  "point": "观察根尖细胞的有丝分裂",
+  "chapter": "必修一 第6章 细胞的生命历程",
+  "keywords": [
+   "解离",
+   "漂洗",
+   "染色",
+   "制片",
+   "分生区"
+  ],
+  "count": 8,
+  "root_ids": [
+   "mkjr_eZ8VUHz9wSkPP245m9ADbw",
+   "mkjr_NJ5jUmy5m2RzYm5azD_Lrg",
+   "mkjr_NNX8HWyvdRbm9P_K7kM0qw",
+   "mkjr_3zxEKHHBGu1CXhRnTokddw",
+   "mkjr_fLQ381zJ5BqdSQ6RIA5sxw",
+   "mkjr_OZJbA2lgWgh23_EHtVnwXg",
+   "mkjr_jkFSRixhHn2lK_GKWLq3mQ",
+   "mkjr_Oumz20a16JcNC_8lYZe2cA"
+  ],
+  "chapter_file": "chapters/06-必修一-第6章-细胞的生命历程.json"
+ },
+ {
+  "point": "细胞的分化",
+  "chapter": "必修一 第6章 细胞的生命历程",
+  "keywords": [
+   "基因选择性表达",
+   "分化程度",
+   "干细胞",
+   "去分化",
+   "持久性"
+  ],
+  "count": 15,
+  "root_ids": [
+   "mkjr_hUcUEStg1hdGxdnqu_l1tQ",
+   "mkjr_jVWoOwh7EMitFtpfqxAq_Q",
+   "mkjr_1FjCTALSmxGflr7dijbx8w",
+   "mkjr_z0lxxwOFmfsj90evm0mppA",
+   "mkjr_2EgxmHDs5KyIJ4IGomwQQw",
+   "mkjr_K6JxB58TKfVE2p_FpIojNQ",
+   "mkjr_pA55r3ClN.4s8oApWeR36A",
+   "mkjr_KXGcLkWDUd7WemmT7LTRQQ",
+   "mkjr_Hbtd_h3u0Roau2R4W9fwew",
+   "mkjr_fkJX3CfI5NS37edu3AypzA",
+   "mkjr_BA85G772e15A1VSGgL42Mg",
+   "mkjr_l_C9uJw0hYHjFN4pCZu3Tw",
+   "mkjr_ksKkNAkK7mpr1DqUvC1F.A",
+   "mkjr_EmCTVjplNeY46Zm2M5PJvA",
+   "mkjr_J4LKXrdS3Z1i9sqyKx2a0Q"
+  ],
+  "chapter_file": "chapters/06-必修一-第6章-细胞的生命历程.json"
+ },
+ {
+  "point": "细胞的全能性",
+  "chapter": "必修一 第6章 细胞的生命历程",
+  "keywords": [
+   "完整植株",
+   "组织培养",
+   "脱分化",
+   "再分化",
+   "发育潜能"
+  ],
+  "count": 3,
+  "root_ids": [
+   "mkjr_jVWoOwh7EMitFtpfqxAq_Q",
+   "mkjr_pA55r3ClN.4s8oApWeR36A",
+   "mkjr_EmCTVjplNeY46Zm2M5PJvA"
+  ],
+  "chapter_file": "chapters/06-必修一-第6章-细胞的生命历程.json"
+ },
+ {
+  "point": "细胞的衰老",
+  "chapter": "必修一 第6章 细胞的生命历程",
+  "keywords": [
+   "自由基",
+   "端粒",
+   "酶活性下降",
+   "色素积累",
+   "细胞核体积"
+  ],
+  "count": 14,
+  "root_ids": [
+   "mkjr_vvMDjDOciStKwpft6xLbmg",
+   "mkjr_GOej5ZjzIT2ObXCIEy2l5Q",
+   "mkjr_5c8EI3PurwCmkchNgadLZg",
+   "mkjr_aHzgcMrUevICS2pBc5ahfw",
+   "mkjr_djlqXLpQKLorbdx7b4ZNlw",
+   "mkjr_qLU_c6b2nrfF.cOHrPE9dQ",
+   "mkjr_2EgxmHDs5KyIJ4IGomwQQw",
+   "mkjr_pYUcRy6D6Hfks9re9NK2xA",
+   "mkjr_BVMaSarLmJ.5d.ayXnYCZQ",
+   "mkjr_js.NxzK7fV2Ea93wQZqMXw",
+   "mkjr_cXkE_5wIKX7EknGEnN3S7A",
+   "mkjr_NEj9B3Xskl3esF0d2k6V7Q",
+   "mkjr_DvcnTk2K2HXSFo51j5cb8A",
+   "mkjr_RI.CBJ2EhuxsTtgnTU8wrA"
+  ],
+  "chapter_file": "chapters/06-必修一-第6章-细胞的生命历程.json"
+ },
+ {
+  "point": "细胞的凋亡",
+  "chapter": "必修一 第6章 细胞的生命历程",
+  "keywords": [
+   "程序性死亡",
+   "凋亡基因",
+   "Bax与Bcl-2",
+   "基因调控",
+   "自然更新"
+  ],
+  "count": 11,
+  "root_ids": [
+   "mkjr_gY8pYPJ72temSE2UUpHmgQ",
+   "mkjr_TbmuF5xpF5yh3UcSd1rETg",
+   "mkjr_beC3AogyoDJXyzlYunvnTw",
+   "mkjr_0v3zvYBUVZIlBGTxEQoVkA",
+   "mkjr_y1Johfri_t5h3XW69tvDxg",
+   "mkjr_QQohYKG5Cr01ENs7kPNJrw",
+   "mkjr_UVG1enF20C0xVhGaXPa2cw",
+   "mkjr_cXkE_5wIKX7EknGEnN3S7A",
+   "mkjr_PyaJR5EG_rRNNUyq4XDx6A",
+   "mkjr_fNRFd8EntFZhXAJXl2ukEg",
+   "mkjr__yi4c1YFuGhTAi2f.M_YEg"
+  ],
+  "chapter_file": "chapters/06-必修一-第6章-细胞的生命历程.json"
+ },
+ {
+  "point": "细胞的坏死与焦亡",
+  "chapter": "必修一 第6章 细胞的生命历程",
+  "keywords": [
+   "细胞坏死",
+   "细胞焦亡",
+   "细胞膜破裂",
+   "炎症反应",
+   "免疫应答"
+  ],
+  "count": 2,
+  "root_ids": [
+   "mkjr_unPMssZ3NurXA_ivzWNRyg",
+   "mkjr_beC3AogyoDJXyzlYunvnTw"
+  ],
+  "chapter_file": "chapters/06-必修一-第6章-细胞的生命历程.json"
+ },
+ {
+  "point": "细胞自噬",
+  "chapter": "必修一 第6章 细胞的生命历程",
+  "keywords": [
+   "溶酶体",
+   "降解",
+   "受损细胞器",
+   "自噬性降解",
+   "稳态"
+  ],
+  "count": 2,
+  "root_ids": [
+   "mkjr_aHzgcMrUevICS2pBc5ahfw",
+   "mkjr_djlqXLpQKLorbdx7b4ZNlw"
+  ],
+  "chapter_file": "chapters/06-必修一-第6章-细胞的生命历程.json"
+ },
+ {
+  "point": "细胞的癌变",
+  "chapter": "必修一 第6章 细胞的生命历程",
+  "keywords": [
+   "原癌基因",
+   "抑癌基因",
+   "糖蛋白减少",
+   "无限增殖",
+   "分散转移"
+  ],
+  "count": 5,
+  "root_ids": [
+   "mkjr_vvMDjDOciStKwpft6xLbmg",
+   "mkjr_rvdn4YMaz4dDaLkNuG1EDQ",
+   "mkjr_rO.AVpXXycxqi3pW762TNw",
+   "mkjr_QQohYKG5Cr01ENs7kPNJrw",
+   "mkjr_NEj9B3Xskl3esF0d2k6V7Q"
+  ],
+  "chapter_file": "chapters/06-必修一-第6章-细胞的生命历程.json"
+ },
+ {
+  "point": "自由组合定律",
+  "chapter": "必修二 第1章 遗传因子的发现",
+  "keywords": [
+   "两对等位基因",
+   "非同源染色体",
+   "9:3:3:1",
+   "配子种类",
+   "F2表型比"
+  ],
+  "count": 7,
+  "root_ids": [
+   "mkjr_fdgRjsKXEBDKmGGRmJBYRg",
+   "mkjr_5qgntYWjMC3OZ9myAiMw0Q",
+   "mkjr_Yx2lXNb6ps9Ybnpdovh5fw",
+   "mkjr_nlX7xXnNVQpesxbzPEA61Q",
+   "mkjr_SGfkeNo.2OlZ5K0GrW0qgA",
+   "mkjr_YnjQ7i76LLjnrKyU2i28Wg",
+   "mkjr_iZlmKnjjQSXgw.Y4zx9Zug"
+  ],
+  "chapter_file": "chapters/07-必修二-第1章-遗传因子的发现.json"
+ },
+ {
+  "point": "异常分离比问题",
+  "chapter": "必修二 第1章 遗传因子的发现",
+  "keywords": [
+   "基因互作",
+   "13:3",
+   "9:6",
+   "纯合致死",
+   "2:1"
+  ],
+  "count": 6,
+  "root_ids": [
+   "mkjr_GKbwvCAcIfi.UCizifRWUQ",
+   "mkjr_Jk6GpNxi5CbDN_xMO0dTXw",
+   "mkjr_lRpjplIvL7fGgCM2JC4IYA",
+   "mkjr_9ODFlVGOisKebOdPITkHhg",
+   "mkjr_SnsvMYUJ26xVo1RWe0G1jw",
+   "mkjr_PvTxxUtOPCmB_K6VDtbNRg"
+  ],
+  "chapter_file": "chapters/07-必修二-第1章-遗传因子的发现.json"
+ },
+ {
+  "point": "分离定律",
+  "chapter": "必修二 第1章 遗传因子的发现",
+  "keywords": [
+   "一对相对性状",
+   "等位基因",
+   "测交",
+   "F2比例",
+   "显隐性判断"
+  ],
+  "count": 3,
+  "root_ids": [
+   "mkjr_GhrvtL0YtC8xDK3Htp6zQQ",
+   "mkjr_M8JC1j8XfT_RKC4_RZOMBw",
+   "mkjr_9Vn5q.d4_8LeICy3mLHKEw"
+  ],
+  "chapter_file": "chapters/07-必修二-第1章-遗传因子的发现.json"
+ },
+ {
+  "point": "复等位基因",
+  "chapter": "必修二 第1章 遗传因子的发现",
+  "keywords": [
+   "多个等位基因",
+   "显隐性关系",
+   "基因型种类",
+   "表型种类"
+  ],
+  "count": 2,
+  "root_ids": [
+   "mkjr_w1MTzFfrsph.6BADXW56nQ",
+   "mkjr_1HawAF0nQEzkMEELfdfcNQ"
+  ],
+  "chapter_file": "chapters/07-必修二-第1章-遗传因子的发现.json"
+ },
+ {
+  "point": "基因型与表型的推断",
+  "chapter": "必修二 第1章 遗传因子的发现",
+  "keywords": [
+   "亲本基因型",
+   "子代比例",
+   "纯合子",
+   "杂交组合",
+   "概率计算"
+  ],
+  "count": 2,
+  "root_ids": [
+   "mkjr_o0Emy..yQmUb5UFSoyQnxg",
+   "mkjr_08UQPM_kpen6h.FB7850pw"
+  ],
+  "chapter_file": "chapters/07-必修二-第1章-遗传因子的发现.json"
+ },
+ {
+  "point": "孟德尔实验的科学方法",
+  "chapter": "必修二 第1章 遗传因子的发现",
+  "keywords": [
+   "假说—演绎法",
+   "豌豆",
+   "自花传粉",
+   "人工杂交",
+   "统计学分析"
+  ],
+  "count": 2,
+  "root_ids": [
+   "mkjr_zZ52vo.4EHChZiKs58fePw",
+   "mkjr_rrrzChfho7mHVGfSEG_o.Q"
+  ],
+  "chapter_file": "chapters/07-必修二-第1章-遗传因子的发现.json"
+ },
+ {
+  "point": "性状分离比的模拟",
+  "chapter": "必修二 第1章 遗传因子的发现",
+  "keywords": [
+   "彩球",
+   "雌雄生殖器官",
+   "随机抓取",
+   "D、d配子",
+   "重复次数"
+  ],
+  "count": 1,
+  "root_ids": [
+   "mkjr_QgV25msKMA0CFjoOnjASIQ"
+  ],
+  "chapter_file": "chapters/07-必修二-第1章-遗传因子的发现.json"
+ },
+ {
+  "point": "减数分裂的过程",
+  "chapter": "必修二 第2章 基因和染色体的关系",
+  "keywords": [
+   "同源染色体",
+   "联会",
+   "四分体",
+   "着丝粒分裂",
+   "减数分裂Ⅱ"
+  ],
+  "count": 11,
+  "root_ids": [
+   "mkjr_U39HbsYw6.RHfCF7nsyusQ",
+   "mkjr_6OAlgvehoybjI8VdjXGfWg",
+   "mkjr_dc8NzTDihUZN67nJ_3Fv1A",
+   "mkjr_39_M_rbmnNUNEwgxL_KXIw",
+   "mkjr_YoeetmKJdIausYN8qyfHOQ",
+   "mkjr_vOSQGhXTyOCG8u0lqj7avA",
+   "mkjr_iPZmKkn1FmkjK6sOuu2zQA",
+   "mkjr_9JPmWyNOqCKck6I4M51ZyA",
+   "mkjr_eThlnE2b3eFaQ_u14vUTgg",
+   "mkjr_uXvD9eEMPbjBEEk6ETCKGQ",
+   "mkjr_UT4mmJA2VOl18pTHKWKhCQ"
+  ],
+  "chapter_file": "chapters/08-必修二-第2章-基因和染色体的关系.json"
+ },
+ {
+  "point": "细胞分裂的图像判断",
+  "chapter": "必修二 第2章 基因和染色体的关系",
+  "keywords": [
+   "分裂图像",
+   "时期判断",
+   "赤道板",
+   "染色体形态",
+   "细胞质分裂"
+  ],
+  "count": 6,
+  "root_ids": [
+   "mkjr_Rz8yunSb3Nl9_Xia4Nhc.Q",
+   "mkjr_vA.YWAxJnB.voMPraD8dlQ",
+   "mkjr_yNp9xyVLnTN97.FydJlWrg",
+   "mkjr_eMSS9cIcbnnIJR2mBI.vWA",
+   "mkjr_ntl1masTHf6k2T5hSWwNpA",
+   "mkjr_qFBBbCTv72GBK8tq2jAjrQ"
+  ],
+  "chapter_file": "chapters/08-必修二-第2章-基因和染色体的关系.json"
+ },
+ {
+  "point": "减数分裂中的数量变化",
+  "chapter": "必修二 第2章 基因和染色体的关系",
+  "keywords": [
+   "染色体数目",
+   "核DNA数目",
+   "染色单体",
+   "数量变化",
+   "着丝粒数"
+  ],
+  "count": 6,
+  "root_ids": [
+   "mkjr_yNp9xyVLnTN97.FydJlWrg",
+   "mkjr_Q6vbiu2I_ceHvJ9Al7BEtA",
+   "mkjr_Z2uIWH28eQNV1PpV7t4G8A",
+   "mkjr_nIwnd.zz5CVyZ4xCTg34vA",
+   "mkjr_MHZlrL7id2uIxvWBHpzRig",
+   "mkjr_8j4FkhfOY4YAuJsskPYJ2g"
+  ],
+  "chapter_file": "chapters/08-必修二-第2章-基因和染色体的关系.json"
+ },
+ {
+  "point": "交叉互换与基因重组",
+  "chapter": "必修二 第2章 基因和染色体的关系",
+  "keywords": [
+   "非姐妹染色单体",
+   "互换",
+   "重组型配子",
+   "基因重组",
+   "交换率"
+  ],
+  "count": 10,
+  "root_ids": [
+   "mkjr_Rz8yunSb3Nl9_Xia4Nhc.Q",
+   "mkjr_eaj376xFaZxQCdB6RmfA8A",
+   "mkjr_uwfLLxDNWknPtpQsSMfIXw",
+   "mkjr_fnhMyVsC.39r2PX6f5yckA",
+   "mkjr_ntl1masTHf6k2T5hSWwNpA",
+   "mkjr_YwdMnDjrBpBNT6wcjZ8lKw",
+   "mkjr_IHld.HpOs7UeZROct6d3ew",
+   "mkjr_nIwnd.zz5CVyZ4xCTg34vA",
+   "mkjr_IuI5ADAl6Msnz8Lx6KDd1A",
+   "mkjr_wpdyee0YLjTxjeixf329EA"
+  ],
+  "chapter_file": "chapters/08-必修二-第2章-基因和染色体的关系.json"
+ },
+ {
+  "point": "配子的形成与受精作用",
+  "chapter": "必修二 第2章 基因和染色体的关系",
+  "keywords": [
+   "初级卵母细胞",
+   "精细胞",
+   "极体",
+   "受精卵",
+   "受精作用"
+  ],
+  "count": 2,
+  "root_ids": [
+   "mkjr_ldl4ZQ.blxRkMXKjbsBTiA",
+   "mkjr_0lphjF4r9fzDpbAUa447_w"
+  ],
+  "chapter_file": "chapters/08-必修二-第2章-基因和染色体的关系.json"
+ },
+ {
+  "point": "减数分裂异常与配子变异",
+  "chapter": "必修二 第2章 基因和染色体的关系",
+  "keywords": [
+   "同源染色体不分离",
+   "姐妹染色单体不分离",
+   "异常配子",
+   "非整倍体",
+   "性染色体异常"
+  ],
+  "count": 11,
+  "root_ids": [
+   "mkjr_Uf6juMdkLbt931iVaoNHaA",
+   "mkjr_vA.YWAxJnB.voMPraD8dlQ",
+   "mkjr_E3xK4yTirAsF7XMfOrl8bA",
+   "mkjr_fnhMyVsC.39r2PX6f5yckA",
+   "mkjr_TSoMQOKMR_cUFV2sUTtSXw",
+   "mkjr_xiyTnH6R5o99cE2lc4XiLA",
+   "mkjr_SiOoqrj2odXc0oGKj_ylJQ",
+   "mkjr_KbQdPOm6zrMuxLHJSGzknw",
+   "mkjr_WMd4GMliJW8jDE18B6yGYw",
+   "mkjr_6YddqeePKjgiIQ.uERKduA",
+   "mkjr_RljkhFpdbWKwB6evlyZ2Fg"
+  ],
+  "chapter_file": "chapters/08-必修二-第2章-基因和染色体的关系.json"
+ },
+ {
+  "point": "基因在染色体上",
+  "chapter": "必修二 第2章 基因和染色体的关系",
+  "keywords": [
+   "摩尔根",
+   "果蝇杂交实验",
+   "假说—演绎法",
+   "基因位置图谱",
+   "平行关系"
+  ],
+  "count": 4,
+  "root_ids": [
+   "mkjr_KFpwHs70YJRPGTwLkRKtnA",
+   "mkjr_tIPGJAeFK2JQpFxy6LIHUQ",
+   "mkjr_B4aXBwviy8FeQgmkR8t3vQ",
+   "mkjr_IuI5ADAl6Msnz8Lx6KDd1A"
+  ],
+  "chapter_file": "chapters/08-必修二-第2章-基因和染色体的关系.json"
+ },
+ {
+  "point": "基因位置的实验判断",
+  "chapter": "必修二 第2章 基因和染色体的关系",
+  "keywords": [
+   "正反交",
+   "测交",
+   "常染色体",
+   "性染色体",
+   "独立遗传"
+  ],
+  "count": 8,
+  "root_ids": [
+   "mkjr_QvProDZe_XT7zdtnQqGv0g",
+   "mkjr_fVIPdl4Tg8G_nc6SPuY4bg",
+   "mkjr_wU614vDNe7uyK9Ph8NRt4A",
+   "mkjr_uMuhmXuRLoNFfexqis8JSQ",
+   "mkjr__6EcFyE4SlPrhyuCXLALyA",
+   "mkjr_BIZ6789p.yNaCltY3nBWfQ",
+   "mkjr_B4aXBwviy8FeQgmkR8t3vQ",
+   "mkjr_rva7vujj76Q2zLdQWIuJww"
+  ],
+  "chapter_file": "chapters/08-必修二-第2章-基因和染色体的关系.json"
+ },
+ {
+  "point": "伴性遗传的特点",
+  "chapter": "必修二 第2章 基因和染色体的关系",
+  "keywords": [
+   "红绿色盲",
+   "X染色体隐性",
+   "交叉遗传",
+   "同源区段",
+   "男性患者"
+  ],
+  "count": 21,
+  "root_ids": [
+   "mkjr_eaj376xFaZxQCdB6RmfA8A",
+   "mkjr_nOHBynRmQfoAGzzRnIErVw",
+   "mkjr_3UZn8..BlYO2ZnYb4eawAA",
+   "mkjr_Y9pbg6eBVB.N1tQF3FmZ7g",
+   "mkjr_fVIPdl4Tg8G_nc6SPuY4bg",
+   "mkjr_Uk32T_0MBr7_F4nHpTOW2A",
+   "mkjr_uMuhmXuRLoNFfexqis8JSQ",
+   "mkjr_E3xK4yTirAsF7XMfOrl8bA",
+   "mkjr_xSi3j3tkADpK5xFU5QtREQ",
+   "mkjr_T4tb5bgrQpNpkKaBsfjRsQ",
+   "mkjr_U_fkaxQ_lff7ukpotY6KMg",
+   "mkjr_0fNg_resX31p3ysk1zVeZg",
+   "mkjr_sPd1gKPyZYomfdDhfGUWpg",
+   "mkjr__60e7Ag6qSJgOkdIm4IYkw",
+   "mkjr_tub3.tySRBWPvCCH9hB8wA",
+   "mkjr_fPPnDC2dMEHrtCD0EVQr.g",
+   "mkjr_6YddqeePKjgiIQ.uERKduA",
+   "mkjr_1EhmL5e0EzmPzAC0kmmyRA",
+   "mkjr_8j4FkhfOY4YAuJsskPYJ2g",
+   "mkjr_TBoKbYb0uNOhScliuk6Yiw",
+   "mkjr_EgifthpANjAVOgdIED15TQ"
+  ],
+  "chapter_file": "chapters/08-必修二-第2章-基因和染色体的关系.json"
+ },
+ {
+  "point": "遗传系谱图的分析",
+  "chapter": "必修二 第2章 基因和染色体的关系",
+  "keywords": [
+   "系谱图",
+   "显隐性判断",
+   "基因型推断",
+   "患病概率",
+   "携带者"
+  ],
+  "count": 11,
+  "root_ids": [
+   "mkjr_nOHBynRmQfoAGzzRnIErVw",
+   "mkjr_QvProDZe_XT7zdtnQqGv0g",
+   "mkjr_Y9pbg6eBVB.N1tQF3FmZ7g",
+   "mkjr_xSi3j3tkADpK5xFU5QtREQ",
+   "mkjr_U_fkaxQ_lff7ukpotY6KMg",
+   "mkjr_sPd1gKPyZYomfdDhfGUWpg",
+   "mkjr_AWcdCbeBKwRcG4hQvNZq2w",
+   "mkjr__60e7Ag6qSJgOkdIm4IYkw",
+   "mkjr_fPPnDC2dMEHrtCD0EVQr.g",
+   "mkjr_wpdyee0YLjTxjeixf329EA",
+   "mkjr_EgifthpANjAVOgdIED15TQ"
+  ],
+  "chapter_file": "chapters/08-必修二-第2章-基因和染色体的关系.json"
+ },
+ {
+  "point": "染色体组与多倍体",
+  "chapter": "必修二 第2章 基因和染色体的关系",
+  "keywords": [
+   "染色体组",
+   "多倍体",
+   "单倍体",
+   "配子发育",
+   "染色体数目变异"
+  ],
+  "count": 6,
+  "root_ids": [
+   "mkjr_Uf6juMdkLbt931iVaoNHaA",
+   "mkjr_6OAlgvehoybjI8VdjXGfWg",
+   "mkjr_eMSS9cIcbnnIJR2mBI.vWA",
+   "mkjr_TSoMQOKMR_cUFV2sUTtSXw",
+   "mkjr_YwdMnDjrBpBNT6wcjZ8lKw",
+   "mkjr_0lphjF4r9fzDpbAUa447_w"
+  ],
+  "chapter_file": "chapters/08-必修二-第2章-基因和染色体的关系.json"
+ },
+ {
+  "point": "性别决定与伴性育种",
+  "chapter": "必修二 第2章 基因和染色体的关系",
+  "keywords": [
+   "性别决定",
+   "ZW型",
+   "雌雄鉴别",
+   "育种",
+   "性染色体组成"
+  ],
+  "count": 8,
+  "root_ids": [
+   "mkjr_ld83onVMYa1u3CGTqf0M3Q",
+   "mkjr_ETEVRLkxLauncDy8O4ZU3w",
+   "mkjr_L69xfWnXiRnuPtKwsgYEEQ",
+   "mkjr_ozdVF2.QddzUnTxUhDDARQ",
+   "mkjr_tub3.tySRBWPvCCH9hB8wA",
+   "mkjr_KbQdPOm6zrMuxLHJSGzknw",
+   "mkjr_RljkhFpdbWKwB6evlyZ2Fg",
+   "mkjr_TBoKbYb0uNOhScliuk6Yiw"
+  ],
+  "chapter_file": "chapters/08-必修二-第2章-基因和染色体的关系.json"
+ },
+ {
+  "point": "肺炎链球菌转化实验",
+  "chapter": "必修二 第3章 基因的本质",
+  "keywords": [
+   "格里菲思",
+   "艾弗里",
+   "R型菌转化",
+   "转化因子",
+   "减法原理"
+  ],
+  "count": 5,
+  "root_ids": [
+   "mkjr_V8_vvQwdicHcF0DOqDJKPw",
+   "mkjr_bbiX9juFneQNj..hhcxH.g",
+   "mkjr_ziaQzeCVuWmCToMdGQY7Ag",
+   "mkjr_9FnaZHlU9Pu6tqI2kOUonQ",
+   "mkjr_xwtXbnRvN1ropfW3fJIJRQ"
+  ],
+  "chapter_file": "chapters/09-必修二-第3章-基因的本质.json"
+ },
+ {
+  "point": "噬菌体侵染细菌实验",
+  "chapter": "必修二 第3章 基因的本质",
+  "keywords": [
+   "赫尔希和蔡斯",
+   "T2噬菌体",
+   "32P与35S标记",
+   "上清液与沉淀物",
+   "侵染与增殖"
+  ],
+  "count": 4,
+  "root_ids": [
+   "mkjr_F3cric.SFDnZZZ.kGSGAkA",
+   "mkjr_4KIWaVorLYGPQolYn.xK_Q",
+   "mkjr_ziaQzeCVuWmCToMdGQY7Ag",
+   "mkjr_RaCpsCFr2kK5frRiSJ.M6g"
+  ],
+  "chapter_file": "chapters/09-必修二-第3章-基因的本质.json"
+ },
+ {
+  "point": "DNA是主要的遗传物质",
+  "chapter": "必修二 第3章 基因的本质",
+  "keywords": [
+   "烟草花叶病毒",
+   "RNA病毒",
+   "遗传物质的化学本质",
+   "科学史结论"
+  ],
+  "count": 3,
+  "root_ids": [
+   "mkjr_hIPTXnOcJ1AJI4ldFbNdtg",
+   "mkjr_VuqJr8A9BMmz2tOEJF0IfA",
+   "mkjr_xwtXbnRvN1ropfW3fJIJRQ"
+  ],
+  "chapter_file": "chapters/09-必修二-第3章-基因的本质.json"
+ },
+ {
+  "point": "DNA的结构",
+  "chapter": "必修二 第3章 基因的本质",
+  "keywords": [
+   "双螺旋",
+   "碱基互补配对",
+   "反向平行",
+   "氢键",
+   "脱氧核糖与磷酸交替连接"
+  ],
+  "count": 7,
+  "root_ids": [
+   "mkjr_uhQ4NNGKs_374L4MOcU6WA",
+   "mkjr_bbiX9juFneQNj..hhcxH.g",
+   "mkjr_VejhBQ3m0WkikIkLotyW2w",
+   "mkjr__1MGSVQ2lP.90ps7Lutp2A",
+   "mkjr_LwpXiw2oLXcjhMqsoz8NBQ",
+   "mkjr_MfIsx.bbIxGKsP5r5sCYFA",
+   "mkjr_9nXXomDSpVJE5wzOZhKphw"
+  ],
+  "chapter_file": "chapters/09-必修二-第3章-基因的本质.json"
+ },
+ {
+  "point": "DNA的复制",
+  "chapter": "必修二 第3章 基因的本质",
+  "keywords": [
+   "半保留复制",
+   "解旋酶与DNA聚合酶",
+   "同位素标记离心",
+   "5′端向3′端延伸",
+   "PCR"
+  ],
+  "count": 9,
+  "root_ids": [
+   "mkjr_RC5x9LXjLpZU0YNGfznxww",
+   "mkjr_I6QyyEqpcIHUcaZ42R2gxA",
+   "mkjr_Nd1tUoQq81mAQgut8v4ZJQ",
+   "mkjr_1UXSNiOAzb6_bkB4x1pkcA",
+   "mkjr_V4ntfgsTXn_gG2fZ7ajk7w",
+   "mkjr_7fv7BBDDiy8_Hdoo9xyyTQ",
+   "mkjr_6koj5Gwu8ejEKrELQvUNsQ",
+   "mkjr_gtf9RHKKsS_1nlcyR8BaTg",
+   "mkjr_DpPi_3JNdDaSIp1xGEEiSg"
+  ],
+  "chapter_file": "chapters/09-必修二-第3章-基因的本质.json"
+ },
+ {
+  "point": "DNA的粗提取与鉴定",
+  "chapter": "必修二 第3章 基因的本质",
+  "keywords": [
+   "二苯胺",
+   "NaCl溶液溶解度",
+   "冷酒精",
+   "研磨与过滤",
+   "离心"
+  ],
+  "count": 2,
+  "root_ids": [
+   "mkjr_Qh746lKkjPNsOZ0VATvvSA",
+   "mkjr_Mdha5SZbn3690IIKxJhizA"
+  ],
+  "chapter_file": "chapters/09-必修二-第3章-基因的本质.json"
+ },
+ {
+  "point": "基因是有遗传效应的DNA片段",
+  "chapter": "必修二 第3章 基因的本质",
+  "keywords": [
+   "遗传效应",
+   "基因与DNA",
+   "染色体",
+   "等位基因"
+  ],
+  "count": 1,
+  "root_ids": [
+   "mkjr__1MGSVQ2lP.90ps7Lutp2A"
+  ],
+  "chapter_file": "chapters/09-必修二-第3章-基因的本质.json"
+ },
+ {
+  "point": "RNA的结构与功能",
+  "chapter": "必修二 第4章 基因的表达",
+  "keywords": [
+   "核糖核苷酸",
+   "单链",
+   "tRNA",
+   "rRNA",
+   "碱基互补配对"
+  ],
+  "count": 2,
+  "root_ids": [
+   "mkjr_SC1crvGGWDKMm5F3J610_Q",
+   "mkjr_mwpxwyPuhFneHHiC5vCNAw"
+  ],
+  "chapter_file": "chapters/10-必修二-第4章-基因的表达.json"
+ },
+ {
+  "point": "遗传信息的转录",
+  "chapter": "必修二 第4章 基因的表达",
+  "keywords": [
+   "RNA聚合酶",
+   "模板链",
+   "启动子",
+   "转录产物",
+   "5'→3'"
+  ],
+  "count": 3,
+  "root_ids": [
+   "mkjr_x5QJLy3wqOuVrKvQcG54aQ",
+   "mkjr_xxev6oPzGbKGchqajYqymg",
+   "mkjr_QZMPIWBok4tCHQNwA7fU.g"
+  ],
+  "chapter_file": "chapters/10-必修二-第4章-基因的表达.json"
+ },
+ {
+  "point": "遗传信息的翻译",
+  "chapter": "必修二 第4章 基因的表达",
+  "keywords": [
+   "密码子",
+   "tRNA",
+   "核糖体",
+   "氨基酸",
+   "终止密码子"
+  ],
+  "count": 11,
+  "root_ids": [
+   "mkjr_le4GNXxtnC198v8g5dHR_w",
+   "mkjr_VYYTnB0kKLoOB1KFjf057g",
+   "mkjr_dug4nJezMIIMgb4HrtCJWg",
+   "mkjr_s2TVXHnw5hRFWe0CbF9uaA",
+   "mkjr_Yrl3bucgx3WvlUZzLmSElg",
+   "mkjr_loUXff1.IdbU1XHx9ito3A",
+   "mkjr_jyjUO5Up0K5ZM4jmx3OVxg",
+   "mkjr_aFvKaDUjvNgUtpersVGpYw",
+   "mkjr_KIbfiNS.bPSHXhNLWHX7Dg",
+   "mkjr_xOUB2ePiTtHAqiAzFywe0g",
+   "mkjr_ybC05.3KbiFGyFNPDKCysg"
+  ],
+  "chapter_file": "chapters/10-必修二-第4章-基因的表达.json"
+ },
+ {
+  "point": "中心法则",
+  "chapter": "必修二 第4章 基因的表达",
+  "keywords": [
+   "DNA复制",
+   "逆转录",
+   "RNA复制",
+   "信息流向",
+   "碱基互补配对"
+  ],
+  "count": 6,
+  "root_ids": [
+   "mkjr_XGQrWSeBejK5XO4fgm1FWQ",
+   "mkjr_eXaIh3Ow4e3dOIfcnxCnEQ",
+   "mkjr_1vbo5.IevGyfhZW0dEi9HQ",
+   "mkjr_qHn8KGo1ZBiMKGf787AKdA",
+   "mkjr_2vFIer1CNkoHf3tJH9YK4w",
+   "mkjr_hZNccBLuoBj1LNw7SUyx7A"
+  ],
+  "chapter_file": "chapters/10-必修二-第4章-基因的表达.json"
+ },
+ {
+  "point": "基因对性状的控制",
+  "chapter": "必修二 第4章 基因的表达",
+  "keywords": [
+   "酶的合成",
+   "蛋白质结构",
+   "性状",
+   "等位基因",
+   "基因突变"
+  ],
+  "count": 5,
+  "root_ids": [
+   "mkjr_T44zwpdb4bcNUWCeQvwyFQ",
+   "mkjr_LUHoqdadxKZFs1iNgLJhng",
+   "mkjr_a5kWywsnafBmW3Ki1SJ_3Q",
+   "mkjr_F.SgoAZxidd206ZnKheIxA",
+   "mkjr_uUD3D_m29QNLy11MFIhb.Q"
+  ],
+  "chapter_file": "chapters/10-必修二-第4章-基因的表达.json"
+ },
+ {
+  "point": "基因表达调控",
+  "chapter": "必修二 第4章 基因的表达",
+  "keywords": [
+   "转录因子",
+   "启动子",
+   "非编码RNA",
+   "翻译抑制",
+   "选择性表达"
+  ],
+  "count": 3,
+  "root_ids": [
+   "mkjr_9QbroHTIIFYMtWU8D3m8XA",
+   "mkjr_z8o7eYXI4yKtRBEFZzQ.WQ",
+   "mkjr_VNoezInvecEHSXG2KkTdEA"
+  ],
+  "chapter_file": "chapters/10-必修二-第4章-基因的表达.json"
+ },
+ {
+  "point": "表观遗传",
+  "chapter": "必修二 第4章 基因的表达",
+  "keywords": [
+   "DNA甲基化",
+   "组蛋白修饰",
+   "染色质重塑",
+   "可遗传",
+   "碱基序列不变"
+  ],
+  "count": 15,
+  "root_ids": [
+   "mkjr_5ubgOlXuVpD1IWrsiRAS_A",
+   "mkjr_h11KuO35PRGGIiWYmkCCFg",
+   "mkjr_OsvKAk9hDaPs_2fIWeLhFQ",
+   "mkjr_vpH8zEPadgwnZ0_pcVQ3Qg",
+   "mkjr_Qx3Zvl4AfyG5.kfeDAGSOg",
+   "mkjr_Q1IP4GmEYC_aAX4n7l4aAg",
+   "mkjr_0nA3RLhOwMPlML.GbH4otg",
+   "mkjr_z8jFUy7LwQWoWHg2lJBSDA",
+   "mkjr_fKEcYx7cUXCyf3uMnL9KGA",
+   "mkjr_ErOHvHT9RTYtPV.wKjBtaQ",
+   "mkjr_wTCJtkGXKG6_1i71.s6PVg",
+   "mkjr_m4o2TRvA1esW8xpckB48hA",
+   "mkjr_80jFNK5lhlvXg3ZN958vLw",
+   "mkjr_usoSVM72mzWJcvkU8PRQOA",
+   "mkjr_XhQR3NLGC68jbc9RI1ypyQ"
+  ],
+  "chapter_file": "chapters/10-必修二-第4章-基因的表达.json"
+ },
+ {
+  "point": "基因突变",
+  "chapter": "必修二 第5章 基因突变及其他变异",
+  "keywords": [
+   "碱基对替换",
+   "碱基增添或缺失",
+   "诱发突变",
+   "不定向性",
+   "突变基因"
+  ],
+  "count": 7,
+  "root_ids": [
+   "mkjr_6XEgPAuzc..h5QTkFzsicA",
+   "mkjr_owJJ4rUSdaqAvgHUjvjzoQ",
+   "mkjr_pYMYgf8D.v2O95cXU109MA",
+   "mkjr_huexyFbgLiXSZswF64pxWg",
+   "mkjr_VxUX5QEvG2D4FfM3BH4.Lw",
+   "mkjr_an4WQ0BQtau77ZqhQWso.Q",
+   "mkjr_4MTcbzCJ0vPkRnNEemAknw"
+  ],
+  "chapter_file": "chapters/11-必修二-第5章-基因突变及其他变异.json"
+ },
+ {
+  "point": "基因重组",
+  "chapter": "必修二 第5章 基因突变及其他变异",
+  "keywords": [
+   "自由组合",
+   "交叉互换",
+   "有性生殖",
+   "重组个体"
+  ],
+  "count": 1,
+  "root_ids": [
+   "mkjr_DCZitwzBh3tz.L2b_UznSg"
+  ],
+  "chapter_file": "chapters/11-必修二-第5章-基因突变及其他变异.json"
+ },
+ {
+  "point": "染色体结构变异",
+  "chapter": "必修二 第5章 基因突变及其他变异",
+  "keywords": [
+   "缺失",
+   "重复",
+   "倒位",
+   "易位",
+   "片段移接"
+  ],
+  "count": 8,
+  "root_ids": [
+   "mkjr_CfBb2dZd6w2J_8j9Qyty_Q",
+   "mkjr_eEi7MjEfsVavzH2OfP0QoA",
+   "mkjr__7j9bybLj7uXUmzOqYnJog",
+   "mkjr_JYnbUmC3HK1x_Qr1LBBeIw",
+   "mkjr_rQhvDjtqkUFzeaDYrBL0Bg",
+   "mkjr_nxZkDkhXhjSrisVg.yjrJQ",
+   "mkjr_vHV6wLqEk73tdV__go4k6w",
+   "mkjr_HZkWFVLnCVkeKqLT6LLXvA"
+  ],
+  "chapter_file": "chapters/11-必修二-第5章-基因突变及其他变异.json"
+ },
+ {
+  "point": "染色体数目变异",
+  "chapter": "必修二 第5章 基因突变及其他变异",
+  "keywords": [
+   "非整倍体",
+   "三体",
+   "单体",
+   "染色体不分离",
+   "性染色体数目异常"
+  ],
+  "count": 3,
+  "root_ids": [
+   "mkjr_dKftCpgxMehxFRJ8sK0v7Q",
+   "mkjr_Yf.z1gCXGOt1BLzbTcTFsA",
+   "mkjr_aYiuCAxIcBL986c0zr8XBQ"
+  ],
+  "chapter_file": "chapters/11-必修二-第5章-基因突变及其他变异.json"
+ },
+ {
+  "point": "单倍体与多倍体",
+  "chapter": "必修二 第5章 基因突变及其他变异",
+  "keywords": [
+   "染色体组",
+   "多倍体",
+   "单倍体",
+   "联会紊乱",
+   "可育性"
+  ],
+  "count": 4,
+  "root_ids": [
+   "mkjr_oYx8N9gKA9GfbfXL35SCbA",
+   "mkjr_UcUwecwtZvuoIocyQgY0dA",
+   "mkjr_wnr0iTBcS7V3hFL87hIksg",
+   "mkjr_gd4h.Jb4KyRp.P0pizwRow"
+  ],
+  "chapter_file": "chapters/11-必修二-第5章-基因突变及其他变异.json"
+ },
+ {
+  "point": "育种方法",
+  "chapter": "必修二 第5章 基因突变及其他变异",
+  "keywords": [
+   "杂交育种",
+   "诱变育种",
+   "单倍体育种",
+   "多倍体育种",
+   "花药离体培养"
+  ],
+  "count": 1,
+  "root_ids": [
+   "mkjr_1b8UHird3cnfAPiUZgtnIA"
+  ],
+  "chapter_file": "chapters/11-必修二-第5章-基因突变及其他变异.json"
+ },
+ {
+  "point": "细胞癌变",
+  "chapter": "必修二 第5章 基因突变及其他变异",
+  "keywords": [
+   "原癌基因",
+   "抑癌基因",
+   "突变累积",
+   "表观遗传变化",
+   "癌细胞特征"
+  ],
+  "count": 4,
+  "root_ids": [
+   "mkjr_Ugx1wzos.h3TMY6aLtubxw",
+   "mkjr_dwaN2ArEkXbdfmI3ZRciPA",
+   "mkjr_WpxV7DDLuYu945lfe0LCdQ",
+   "mkjr_.UnVkOphTMbna6imYMZYaA"
+  ],
+  "chapter_file": "chapters/11-必修二-第5章-基因突变及其他变异.json"
+ },
+ {
+  "point": "人类遗传病",
+  "chapter": "必修二 第5章 基因突变及其他变异",
+  "keywords": [
+   "单基因遗传病",
+   "多基因遗传病",
+   "染色体异常遗传病",
+   "遗传方式",
+   "家系分析"
+  ],
+  "count": 5,
+  "root_ids": [
+   "mkjr_ZtQWeQwMckFskmGNOHsa5g",
+   "mkjr_XSUjXJuahzUyQ7dkP.6SYQ",
+   "mkjr_S_esN2RoIEubzSQxEhL_AA",
+   "mkjr_Gg_eui7jESDcokkJHb5kfA",
+   "mkjr_lZlBGKVSOZjOdd3Gca4s5Q"
+  ],
+  "chapter_file": "chapters/11-必修二-第5章-基因突变及其他变异.json"
+ },
+ {
+  "point": "遗传病的检测与预防",
+  "chapter": "必修二 第5章 基因突变及其他变异",
+  "keywords": [
+   "产前诊断",
+   "基因检测",
+   "分子杂交探针",
+   "遗传咨询",
+   "无创产前筛查"
+  ],
+  "count": 2,
+  "root_ids": [
+   "mkjr__hVkMJbFn3SlAkM_5wVw5Q",
+   "mkjr_yTmIYuafoTAJ3QJ.8YgXng"
+  ],
+  "chapter_file": "chapters/11-必修二-第5章-基因突变及其他变异.json"
+ },
+ {
+  "point": "化石证据",
+  "chapter": "必修二 第6章 生物的进化",
+  "keywords": [
+   "化石",
+   "地层",
+   "直接证据",
+   "古生物",
+   "年代测定"
+  ],
+  "count": 4,
+  "root_ids": [
+   "mkjr_EqdUVsXXZz.aU6eHKfp_UA",
+   "mkjr_uDCMWPPol.1es9Ru0NgB9g",
+   "mkjr_20LxqrtoC6X8W1GZMXYZzQ",
+   "mkjr_dKByf5vtV0mgK6CQEkXl0w"
+  ],
+  "chapter_file": "chapters/12-必修二-第6章-生物的进化.json"
+ },
+ {
+  "point": "比较解剖学与胚胎学证据",
+  "chapter": "必修二 第6章 生物的进化",
+  "keywords": [
+   "同源器官",
+   "痕迹器官",
+   "胚胎发育",
+   "共同祖先"
+  ],
+  "count": 1,
+  "root_ids": [
+   "mkjr_NXsuxhvIbWVmnCHu8v0C7g"
+  ],
+  "chapter_file": "chapters/12-必修二-第6章-生物的进化.json"
+ },
+ {
+  "point": "分子水平证据",
+  "chapter": "必修二 第6章 生物的进化",
+  "keywords": [
+   "碱基序列",
+   "蛋白质序列",
+   "线粒体DNA",
+   "基因组比较",
+   "亲缘关系"
+  ],
+  "count": 8,
+  "root_ids": [
+   "mkjr_HEvgkPii54jyQ2uXLlxt7w",
+   "mkjr_y_zGT4FHhjXnfErX_GOY1Q",
+   "mkjr_77RAOm1oiofbLBS9CeWUvw",
+   "mkjr_yGZHhe1Wxfwp2_Jw21sVbQ",
+   "mkjr_7a81NZjr98llatPDTHasHw",
+   "mkjr_wsJXAUxJts6mTFOKvh5j8Q",
+   "mkjr_NXsuxhvIbWVmnCHu8v0C7g",
+   "mkjr_cnW2DNVzS2l.dBTzbNMD9g"
+  ],
+  "chapter_file": "chapters/12-必修二-第6章-生物的进化.json"
+ },
+ {
+  "point": "拉马克与达尔文的进化学说",
+  "chapter": "必修二 第6章 生物的进化",
+  "keywords": [
+   "用进废退",
+   "获得性遗传",
+   "共同由来",
+   "自然选择学说",
+   "过度繁殖"
+  ],
+  "count": 2,
+  "root_ids": [
+   "mkjr_FuKiCo5W52.AUxuzL6GMDg",
+   "mkjr_l8VzAHMOmDX179VDqu5nwQ"
+  ],
+  "chapter_file": "chapters/12-必修二-第6章-生物的进化.json"
+ },
+ {
+  "point": "自然选择与适应",
+  "chapter": "必修二 第6章 生物的进化",
+  "keywords": [
+   "选择压力",
+   "有利变异",
+   "适应性",
+   "保护色",
+   "表型可塑"
+  ],
+  "count": 4,
+  "root_ids": [
+   "mkjr_tPJ8kUrB7mCXKkM6cW9LpA",
+   "mkjr_MlGQg8PRvmhAQn4OCoquqw",
+   "mkjr__g3FxUKYbJcegeSJ9WajIg",
+   "mkjr_qcm2aJSNA48179IV_tughw"
+  ],
+  "chapter_file": "chapters/12-必修二-第6章-生物的进化.json"
+ },
+ {
+  "point": "种群基因频率的变化",
+  "chapter": "必修二 第6章 生物的进化",
+  "keywords": [
+   "种群",
+   "基因库",
+   "突变",
+   "遗传平衡",
+   "基因频率计算"
+  ],
+  "count": 17,
+  "root_ids": [
+   "mkjr_SKOeuWdN95rhl_f3nIz.Fw",
+   "mkjr_ohXDbZRGEs11ZPOufe4zyw",
+   "mkjr_HEvgkPii54jyQ2uXLlxt7w",
+   "mkjr_5xX5Qpjimfj.RD0JiU43LQ",
+   "mkjr_3Gwlv2FLmdf0GNIUU55isQ",
+   "mkjr_fmZS.OMLoqHWWZTppDa_bA",
+   "mkjr_Y4CHgM2h3z3qSJWV.PcXQA",
+   "mkjr_3yyx3r0.pCd6gl0OyULX2w",
+   "mkjr_jMit3BThk8r_l_il05Db6A",
+   "mkjr_2.pgjApO8XXSJvDAJeZmPQ",
+   "mkjr_Pu52dFkaE3Iqp6cLQuw79g",
+   "mkjr__A3xkiTgn1kNlPGHNRs1Rg",
+   "mkjr_EkLpi1FLxA4OY0C19n6PUw",
+   "mkjr_tYRezmogZtHt847ZOhlP9w",
+   "mkjr_DwS18.62ldyr3G1dwVQ6fA",
+   "mkjr_2aBrNks6nkCJ4UsLWBoh4A",
+   "mkjr_537.L4OIMnwvspfHKRGcfQ"
+  ],
+  "chapter_file": "chapters/12-必修二-第6章-生物的进化.json"
+ },
+ {
+  "point": "物种形成与隔离",
+  "chapter": "必修二 第6章 生物的进化",
+  "keywords": [
+   "生殖隔离",
+   "地理隔离",
+   "基因交流",
+   "多倍体",
+   "新物种"
+  ],
+  "count": 10,
+  "root_ids": [
+   "mkjr_C_.vHoRxrH00OH8OvfBFSg",
+   "mkjr_iMM2CRHpzJl2weVseZbBtw",
+   "mkjr_y0F_b9Xeky6OVif0XZSUzQ",
+   "mkjr__YCnHIfAReScYtwgOknGhg",
+   "mkjr_uDCMWPPol.1es9Ru0NgB9g",
+   "mkjr_7a81NZjr98llatPDTHasHw",
+   "mkjr_cEHSc7zXuZOvBSTFYg.LAg",
+   "mkjr_4ytondXfBm3eluFkHE4ydA",
+   "mkjr_yi_cUl19sTZVAeiYN9kOzg",
+   "mkjr_ACNE67I_nuY_ciMKFIXuxA"
+  ],
+  "chapter_file": "chapters/12-必修二-第6章-生物的进化.json"
+ },
+ {
+  "point": "协同进化与生物多样性",
+  "chapter": "必修二 第6章 生物的进化",
+  "keywords": [
+   "相互影响",
+   "捕食",
+   "寄生",
+   "生物多样性",
+   "生态系统"
+  ],
+  "count": 5,
+  "root_ids": [
+   "mkjr__iUmWmx_bRHmyAX1noVsGA",
+   "mkjr_4vH3sASbuBHrsh9k4Shqjw",
+   "mkjr_2XIkgOVKjWDLOMO2iqZKMw",
+   "mkjr_APGWbOYH1P85MbntLvIPQQ",
+   "mkjr_4aU1aCw4BGvKQuZBt9YEqA"
+  ],
+  "chapter_file": "chapters/12-必修二-第6章-生物的进化.json"
+ },
+ {
+  "point": "内环境的组成",
+  "chapter": "选必一 第1章 人体的内环境与稳态",
+  "keywords": [
+   "细胞外液",
+   "血浆",
+   "组织液",
+   "淋巴液",
+   "物质交换"
+  ],
+  "count": 4,
+  "root_ids": [
+   "mkjr_xD_t8ZtX2Qbk.hPhr1K4ig",
+   "mkjr_a940Uf42M9YaCDukF0NW1Q",
+   "mkjr_FmVd7BkCf1kDIXiDgeLUBg",
+   "mkjr_ZkOcyZzqzbKDCZUlHql3ZA"
+  ],
+  "chapter_file": "chapters/13-选必一-第1章-人体的内环境与稳态.json"
+ },
+ {
+  "point": "内环境的理化性质",
+  "chapter": "选必一 第1章 人体的内环境与稳态",
+  "keywords": [
+   "血浆pH",
+   "渗透压",
+   "缓冲物质",
+   "酸碱平衡",
+   "无机盐离子"
+  ],
+  "count": 10,
+  "root_ids": [
+   "mkjr_YOBtR5_olKd2lY7GJp2NWw",
+   "mkjr_L9Lj3eTLv50viJs_yQOAMQ",
+   "mkjr_i_ZMesywxbAXzlxQdYSrvA",
+   "mkjr_uGPWqC5euvoRNtFgvvC1IA",
+   "mkjr_lBlvCC_eoisuHLUVwi0Y6w",
+   "mkjr_EZ3PbUwAPAu6vYK3qGMQFQ",
+   "mkjr_lP_WR16BV6KM9w5no24iAw",
+   "mkjr_6V8I2pL2fmu9QJm2w_JsZA",
+   "mkjr_jrIhQMidY71sbEwSfnuQ6A",
+   "mkjr_vEUlgvsRLpvs.DYBM19sKA"
+  ],
+  "chapter_file": "chapters/13-选必一-第1章-人体的内环境与稳态.json"
+ },
+ {
+  "point": "内环境稳态的调节机制",
+  "chapter": "选必一 第1章 人体的内环境与稳态",
+  "keywords": [
+   "神经—体液—免疫调节网络",
+   "反馈调节",
+   "水盐平衡",
+   "体温调节",
+   "抗利尿激素"
+  ],
+  "count": 4,
+  "root_ids": [
+   "mkjr_iUUtdsfTbyI.ybrWnAp_Cw",
+   "mkjr_ALOcYX2lC8G4t4Ta8TcUJw",
+   "mkjr_SKfshvtpdXdeoR5Y1..lVA",
+   "mkjr_7SPTwAR1KHfnBOrQpZvhVA"
+  ],
+  "chapter_file": "chapters/13-选必一-第1章-人体的内环境与稳态.json"
+ },
+ {
+  "point": "组织水肿的成因",
+  "chapter": "选必一 第1章 人体的内环境与稳态",
+  "keywords": [
+   "血浆蛋白减少",
+   "淋巴回流受阻",
+   "毛细血管通透性",
+   "组织液增多"
+  ],
+  "count": 2,
+  "root_ids": [
+   "mkjr_92xrnO66aRWvsKtvg.nB6Q",
+   "mkjr_LnQ_9ZgaGE8d66PdHrQ6xA"
+  ],
+  "chapter_file": "chapters/13-选必一-第1章-人体的内环境与稳态.json"
+ },
+ {
+  "point": "稳态失调的实例",
+  "chapter": "选必一 第1章 人体的内环境与稳态",
+  "keywords": [
+   "睡眠不足",
+   "代谢紊乱",
+   "功能异常",
+   "疾病风险"
+  ],
+  "count": 2,
+  "root_ids": [
+   "mkjr_rEA3stcY15zJRQO2284c5w",
+   "mkjr_5kvlbgJl2kMnDx8GzoMzvA"
+  ],
+  "chapter_file": "chapters/13-选必一-第1章-人体的内环境与稳态.json"
+ },
+ {
+  "point": "神经系统的基本结构",
+  "chapter": "选必一 第2章 神经调节",
+  "keywords": [
+   "中枢神经系统",
+   "外周神经系统",
+   "脑神经",
+   "脊神经",
+   "神经胶质细胞"
+  ],
+  "count": 2,
+  "root_ids": [
+   "mkjr_vJNuv2KuiWXmLPVRJ7Cjyg",
+   "mkjr_AdWML2PyOem9RQ0N9P7xuQ"
+  ],
+  "chapter_file": "chapters/14-选必一-第2章-神经调节.json"
+ },
+ {
+  "point": "自主神经系统",
+  "chapter": "选必一 第2章 神经调节",
+  "keywords": [
+   "交感神经",
+   "副交感神经",
+   "内脏运动神经",
+   "双重支配"
+  ],
+  "count": 7,
+  "root_ids": [
+   "mkjr_xWjUFec0KBsyUzuNx5LlqA",
+   "mkjr_2OaFdBIbwxk8BeOiL9K0Rw",
+   "mkjr_OKq4IqkxtsMT8mKPfw4UdA",
+   "mkjr_K9WqaBlMpnQKSy8lI2GgHQ",
+   "mkjr_DTLzk2REdWhkMrEspqPP9w",
+   "mkjr_eHIH1QYbZRz0Dvti2sC6QQ",
+   "mkjr_SoNVlPlZ2R3.n6rkuZF9TQ"
+  ],
+  "chapter_file": "chapters/14-选必一-第2章-神经调节.json"
+ },
+ {
+  "point": "反射与反射弧",
+  "chapter": "选必一 第2章 神经调节",
+  "keywords": [
+   "反射弧",
+   "感受器",
+   "传入神经",
+   "效应器",
+   "非条件反射"
+  ],
+  "count": 6,
+  "root_ids": [
+   "mkjr_eQ1BhPu5c_NOekGjrQ6F4A",
+   "mkjr_9_c5h8DNstW_NPfww8HqDQ",
+   "mkjr_1dYff9btKeaVUxhKRUk_og",
+   "mkjr_K9WqaBlMpnQKSy8lI2GgHQ",
+   "mkjr_EUfD8i9ow2HqzICmQhfKSg",
+   "mkjr_esEdSh2S9xZBxc5iUINuMw"
+  ],
+  "chapter_file": "chapters/14-选必一-第2章-神经调节.json"
+ },
+ {
+  "point": "条件反射的建立与消退",
+  "chapter": "选必一 第2章 神经调节",
+  "keywords": [
+   "条件反射",
+   "非条件反射",
+   "消退",
+   "大脑皮层"
+  ],
+  "count": 4,
+  "root_ids": [
+   "mkjr_TUNFq1P7EILd1VOF3.U5Zw",
+   "mkjr_AdWML2PyOem9RQ0N9P7xuQ",
+   "mkjr_2ePZI7GGma2X_BE03SXBXw",
+   "mkjr_eHIH1QYbZRz0Dvti2sC6QQ"
+  ],
+  "chapter_file": "chapters/14-选必一-第2章-神经调节.json"
+ },
+ {
+  "point": "神经冲动的产生与传导",
+  "chapter": "选必一 第2章 神经调节",
+  "keywords": [
+   "静息电位",
+   "动作电位",
+   "钠钾泵",
+   "钠离子内流",
+   "局部电流"
+  ],
+  "count": 10,
+  "root_ids": [
+   "mkjr_z1nDaZ.gKEWeCvkXa_Ms2A",
+   "mkjr_3uGuI7B23u.lVEN8sdE9qg",
+   "mkjr_iMDw9oesYWDzU7FKvUbDQA",
+   "mkjr_7fDJ4N3iIpFSCosNcK.BzA",
+   "mkjr_IvHE_4RyYw2AhkpNpFUekQ",
+   "mkjr_8fGaUjDi2ZWdlfaCDxDltQ",
+   "mkjr_JhebuQMW_cgUI_SXI39fng",
+   "mkjr_C36Of64chpUnJuHuVJej2w",
+   "mkjr_.lpY4IC1EDcTwtNRIghm0A",
+   "mkjr_rvc4bCBBX4nY.wo6D9z6JA"
+  ],
+  "chapter_file": "chapters/14-选必一-第2章-神经调节.json"
+ },
+ {
+  "point": "突触的结构与传递",
+  "chapter": "选必一 第2章 神经调节",
+  "keywords": [
+   "突触小泡",
+   "神经递质",
+   "突触后膜",
+   "受体",
+   "单向传递"
+  ],
+  "count": 17,
+  "root_ids": [
+   "mkjr_z1nDaZ.gKEWeCvkXa_Ms2A",
+   "mkjr_9PAmj8on.hAPvKXaIt0Hsg",
+   "mkjr_N_r_OLMGv5efxw7yF5_G1g",
+   "mkjr_5mWh0CD2PJe5a.4QK9nnBw",
+   "mkjr_6tTljh.nJNl.g3pnE1SmcQ",
+   "mkjr_aDK2IT5JnIrm5IVx0oyeZA",
+   "mkjr_yBgz3GGU8ZGCSp.RvCjDoQ",
+   "mkjr__IakzP0AhfLo9FogIQYu2g",
+   "mkjr_1dYff9btKeaVUxhKRUk_og",
+   "mkjr_.cdj33VbvxiMZ9A7M7aLhw",
+   "mkjr_dOgmvG5WVjMwV5CTtwMFQw",
+   "mkjr_C36Of64chpUnJuHuVJej2w",
+   "mkjr_nN7JYTVvhrWYoVM_eXWLNw",
+   "mkjr_EUfD8i9ow2HqzICmQhfKSg",
+   "mkjr_tqyLjEmqPsMg1eIZ6Jdv8g",
+   "mkjr_esEdSh2S9xZBxc5iUINuMw",
+   "mkjr_92utjK7LtHj41v8djeM3cQ"
+  ],
+  "chapter_file": "chapters/14-选必一-第2章-神经调节.json"
+ },
+ {
+  "point": "神经系统的分级调节",
+  "chapter": "选必一 第2章 神经调节",
+  "keywords": [
+   "高级中枢",
+   "低级中枢",
+   "大脑皮层",
+   "小脑",
+   "脊髓"
+  ],
+  "count": 5,
+  "root_ids": [
+   "mkjr_xWjUFec0KBsyUzuNx5LlqA",
+   "mkjr_eQ1BhPu5c_NOekGjrQ6F4A",
+   "mkjr_3uGuI7B23u.lVEN8sdE9qg",
+   "mkjr_KtnSqS3GrSmLgD.3k1UK9w",
+   "mkjr_iMDw9oesYWDzU7FKvUbDQA"
+  ],
+  "chapter_file": "chapters/14-选必一-第2章-神经调节.json"
+ },
+ {
+  "point": "人脑的高级功能",
+  "chapter": "选必一 第2章 神经调节",
+  "keywords": [
+   "言语区",
+   "S区",
+   "学习与记忆",
+   "情绪"
+  ],
+  "count": 3,
+  "root_ids": [
+   "mkjr_vJNuv2KuiWXmLPVRJ7Cjyg",
+   "mkjr_nN7JYTVvhrWYoVM_eXWLNw",
+   "mkjr_2ePZI7GGma2X_BE03SXBXw"
+  ],
+  "chapter_file": "chapters/14-选必一-第2章-神经调节.json"
+ },
+ {
+  "point": "激素与内分泌腺",
+  "chapter": "选必一 第3章 体液调节",
+  "keywords": [
+   "内分泌腺",
+   "激素种类",
+   "分泌细胞",
+   "内分泌系统"
+  ],
+  "count": 3,
+  "root_ids": [
+   "mkjr_fPGt.Fd9Os73ZAKuitsuBw",
+   "mkjr_eEXKP547w2h4_6.FHcJekg",
+   "mkjr_yVHyAnSIU67avV6pjRPjkg"
+  ],
+  "chapter_file": "chapters/15-选必一-第3章-体液调节.json"
+ },
+ {
+  "point": "激素调节的特点",
+  "chapter": "选必一 第3章 体液调节",
+  "keywords": [
+   "体液运输",
+   "靶细胞受体",
+   "微量高效",
+   "信号分子"
+  ],
+  "count": 5,
+  "root_ids": [
+   "mkjr_C1Nh4nGZeNDk4d56nP7Znw",
+   "mkjr_weeHUbUJbvY1cgR6Lqc8zg",
+   "mkjr_xFK5khEWLRQz0cwDNLOllQ",
+   "mkjr__v53WrqXR4CWT9J9YAGHYQ",
+   "mkjr_8QtKjczQTTxC0m9gMWC_xg"
+  ],
+  "chapter_file": "chapters/15-选必一-第3章-体液调节.json"
+ },
+ {
+  "point": "血糖平衡的调节",
+  "chapter": "选必一 第3章 体液调节",
+  "keywords": [
+   "胰岛素",
+   "胰高血糖素",
+   "肾上腺素",
+   "血糖浓度",
+   "胰岛B细胞"
+  ],
+  "count": 8,
+  "root_ids": [
+   "mkjr_NQKF.rBHyaldwc9weyQlkg",
+   "mkjr_SnilV3py.OKWCxlRrsR_yw",
+   "mkjr_ajF8hY_tgYYNvawB6ZayWQ",
+   "mkjr_f7CcJDafCTVbAmKKHXZ4uA",
+   "mkjr_eEXKP547w2h4_6.FHcJekg",
+   "mkjr_86mxChwKMvTAOzOjkL2kYA",
+   "mkjr_bJlZ_I8dWF4Tz9_6aX9LvQ",
+   "mkjr_.ZS8KG3YRVh18pND0SkTsQ"
+  ],
+  "chapter_file": "chapters/15-选必一-第3章-体液调节.json"
+ },
+ {
+  "point": "血糖异常与糖尿病",
+  "chapter": "选必一 第3章 体液调节",
+  "keywords": [
+   "糖尿病",
+   "高血糖",
+   "胰岛素抵抗",
+   "降糖药物",
+   "血糖筛查"
+  ],
+  "count": 4,
+  "root_ids": [
+   "mkjr_.gBw7C8aOnydiah49P2X6w",
+   "mkjr_JqebymX764YqND6sgQF44w",
+   "mkjr_4nSYxjg1B4oAfEGEKk3hdQ",
+   "mkjr_SEWv65npW3nmgIkEaoV6ZQ"
+  ],
+  "chapter_file": "chapters/15-选必一-第3章-体液调节.json"
+ },
+ {
+  "point": "甲状腺激素的分泌调节",
+  "chapter": "选必一 第3章 体液调节",
+  "keywords": [
+   "甲状腺激素",
+   "促甲状腺激素",
+   "碘",
+   "TRH",
+   "甲状腺肿大"
+  ],
+  "count": 4,
+  "root_ids": [
+   "mkjr_TdteCKtohKhiK._rYuCnXg",
+   "mkjr_9G64UcP3C213Zs8nWnYg1Q",
+   "mkjr_xFK5khEWLRQz0cwDNLOllQ",
+   "mkjr_h8SirK7LF0D._6wXircaHg"
+  ],
+  "chapter_file": "chapters/15-选必一-第3章-体液调节.json"
+ },
+ {
+  "point": "分级调节与反馈调节",
+  "chapter": "选必一 第3章 体液调节",
+  "keywords": [
+   "下丘脑—垂体—靶腺轴",
+   "负反馈",
+   "促激素释放激素",
+   "促激素"
+  ],
+  "count": 6,
+  "root_ids": [
+   "mkjr_SnilV3py.OKWCxlRrsR_yw",
+   "mkjr_9AjGQUvKn5LfaXhvkx0vOA",
+   "mkjr_czAWVxFh1pm.DODkhz0Fzg",
+   "mkjr_bm4eMZSd.7Hd33I55wzhIw",
+   "mkjr_8nbpxcVzxv7e5uoGYRvO7w",
+   "mkjr_.ZS8KG3YRVh18pND0SkTsQ"
+  ],
+  "chapter_file": "chapters/15-选必一-第3章-体液调节.json"
+ },
+ {
+  "point": "体温调节",
+  "chapter": "选必一 第3章 体液调节",
+  "keywords": [
+   "产热",
+   "散热",
+   "体温调节中枢",
+   "寒冷刺激",
+   "骨骼肌战栗"
+  ],
+  "count": 4,
+  "root_ids": [
+   "mkjr_1OOKGuEpX6x34JP28PhluQ",
+   "mkjr_HVmd_kGMGlm4XnvvuzPIIg",
+   "mkjr_tsRSMoIHm1pMaS_nNOWrjw",
+   "mkjr_hxieeGnHjm.2.J_0Hn.DYw"
+  ],
+  "chapter_file": "chapters/15-选必一-第3章-体液调节.json"
+ },
+ {
+  "point": "水盐平衡调节",
+  "chapter": "选必一 第3章 体液调节",
+  "keywords": [
+   "抗利尿激素",
+   "醛固酮",
+   "渗透压",
+   "肾小管重吸收",
+   "尿量"
+  ],
+  "count": 9,
+  "root_ids": [
+   "mkjr_ACrb4O_yiOSj7NGTeCvYCw",
+   "mkjr_SxAn0QtriQOMbrVi8pK4Fg",
+   "mkjr_BJk2wxvCP6aNZhzHedGzwQ",
+   "mkjr_86mxChwKMvTAOzOjkL2kYA",
+   "mkjr_sdD1LDxOcmAMRVF5FSjXVQ",
+   "mkjr_M2tOVBcd98f3jFqcEpybgA",
+   "mkjr_J_2hzZ.CDbI_Rki54EAkZQ",
+   "mkjr_I6kD..nZjv8Ys9gN9ZwDeQ",
+   "mkjr_mF_7y6YoUaSGyHJ.1BBW4w"
+  ],
+  "chapter_file": "chapters/15-选必一-第3章-体液调节.json"
+ },
+ {
+  "point": "血钙平衡的调节",
+  "chapter": "选必一 第3章 体液调节",
+  "keywords": [
+   "甲状旁腺激素",
+   "降钙素",
+   "骨细胞",
+   "维生素D",
+   "血钙"
+  ],
+  "count": 3,
+  "root_ids": [
+   "mkjr_RK8upmOxou26QSkjTjd5yw",
+   "mkjr_GWd3tzgUYXTQBTZJQLMqKQ",
+   "mkjr_L4hLVvuz3bHmcbCTEcsunQ"
+  ],
+  "chapter_file": "chapters/15-选必一-第3章-体液调节.json"
+ },
+ {
+  "point": "神经—体液调节的关系",
+  "chapter": "选必一 第3章 体液调节",
+  "keywords": [
+   "神经调节",
+   "反射",
+   "大脑皮层",
+   "神经递质",
+   "传入传出神经"
+  ],
+  "count": 3,
+  "root_ids": [
+   "mkjr_N2_BvLY51aTOR4ffAEYv6Q",
+   "mkjr_J_2hzZ.CDbI_Rki54EAkZQ",
+   "mkjr_sbDK_L5H2a0Z_XVdXgtdRg"
+  ],
+  "chapter_file": "chapters/15-选必一-第3章-体液调节.json"
+ },
+ {
+  "point": "激素功能的实验探究",
+  "chapter": "选必一 第3章 体液调节",
+  "keywords": [
+   "加法原理",
+   "减法原理",
+   "对照实验",
+   "自变量控制",
+   "器官摘除"
+  ],
+  "count": 4,
+  "root_ids": [
+   "mkjr_fPGt.Fd9Os73ZAKuitsuBw",
+   "mkjr_SxAn0QtriQOMbrVi8pK4Fg",
+   "mkjr_yVHyAnSIU67avV6pjRPjkg",
+   "mkjr_sbDK_L5H2a0Z_XVdXgtdRg"
+  ],
+  "chapter_file": "chapters/15-选必一-第3章-体液调节.json"
+ },
+ {
+  "point": "体液调节综合",
+  "chapter": "选必一 第3章 体液调节",
+  "keywords": [
+   "信息分子",
+   "调节网络",
+   "稳态",
+   "指标变化"
+  ],
+  "count": 2,
+  "root_ids": [
+   "mkjr_zrpC1dugL9MIZAmddneu5w",
+   "mkjr_sYtOKR_nMnLS235MX6TsrA"
+  ],
+  "chapter_file": "chapters/15-选必一-第3章-体液调节.json"
+ },
+ {
+  "point": "免疫系统的组成",
+  "chapter": "选必一 第4章 免疫调节",
+  "keywords": [
+   "免疫器官",
+   "免疫细胞",
+   "免疫活性物质",
+   "胸腺",
+   "淋巴结"
+  ],
+  "count": 4,
+  "root_ids": [
+   "mkjr_KMXZf1vjh6UayYKQ_4a5FQ",
+   "mkjr_0wAHanc9mv.cVlWbQfhdxQ",
+   "mkjr_UW184G210OhO0unCjXo64A",
+   "mkjr_dh_32BuQ59jOfMhqpH55pw"
+  ],
+  "chapter_file": "chapters/16-选必一-第4章-免疫调节.json"
+ },
+ {
+  "point": "免疫系统的功能",
+  "chapter": "选必一 第4章 免疫调节",
+  "keywords": [
+   "免疫防御",
+   "免疫自稳",
+   "免疫监视",
+   "清除肿瘤",
+   "免疫逃逸"
+  ],
+  "count": 11,
+  "root_ids": [
+   "mkjr_okTdXlPH1k31P3NCOCy7lg",
+   "mkjr_hCbSDtQ0FVbY9C30xhFPow",
+   "mkjr_RIigJ3OjJh4XJs_M_01VuQ",
+   "mkjr_MWmBnXP3pWJT.d3TyPApZQ",
+   "mkjr_DAwi3vZEAqg1lRO9I1MlRw",
+   "mkjr_fgTXFi0XyRG_VOYMoUpMvA",
+   "mkjr_cMwzwZkcRw8dZ1Xs.Q2wCA",
+   "mkjr_m_nibCS.rsAdn0s_77BrRw",
+   "mkjr_AJLERDHW9VG6RBEJ.Smwog",
+   "mkjr_wA2SQ5TDix4bTjica0VAiw",
+   "mkjr_djtDMQTU8K1bkj8AGCDnbA"
+  ],
+  "chapter_file": "chapters/16-选必一-第4章-免疫调节.json"
+ },
+ {
+  "point": "非特异性免疫",
+  "chapter": "选必一 第4章 免疫调节",
+  "keywords": [
+   "第一道防线",
+   "第二道防线",
+   "皮肤和黏膜",
+   "吞噬细胞",
+   "溶菌酶"
+  ],
+  "count": 2,
+  "root_ids": [
+   "mkjr_f.3cDs59h4nMxU0K1p1yTg",
+   "mkjr_nwxLYT2VtVZ.xi4m3T7hsA"
+  ],
+  "chapter_file": "chapters/16-选必一-第4章-免疫调节.json"
+ },
+ {
+  "point": "抗原呈递与识别",
+  "chapter": "选必一 第4章 免疫调节",
+  "keywords": [
+   "抗原呈递细胞",
+   "树突状细胞",
+   "抗原MHC复合体",
+   "T细胞受体",
+   "分子标签"
+  ],
+  "count": 5,
+  "root_ids": [
+   "mkjr_FtXB.IFMzfDmeb_7pCDN8g",
+   "mkjr_8MVSVL15kXo7VyexC4qkaw",
+   "mkjr_R4k7wb9HyGFp1RaCWKWabQ",
+   "mkjr_UW184G210OhO0unCjXo64A",
+   "mkjr_jrXN3hxUQt1tiaYoCKid4Q"
+  ],
+  "chapter_file": "chapters/16-选必一-第4章-免疫调节.json"
+ },
+ {
+  "point": "体液免疫",
+  "chapter": "选必一 第4章 免疫调节",
+  "keywords": [
+   "B细胞",
+   "辅助性T细胞",
+   "浆细胞",
+   "抗体",
+   "细胞因子"
+  ],
+  "count": 9,
+  "root_ids": [
+   "mkjr_FtXB.IFMzfDmeb_7pCDN8g",
+   "mkjr_qbm6ib7gydUqx7UjX1Fung",
+   "mkjr_v5XmijPEfFJkFm6491DzRg",
+   "mkjr_wuC2b_isxEIQjphDfNZmFA",
+   "mkjr_8xuhhVQ.VYpMvXT8VaUORg",
+   "mkjr_cbjAcNYjaiwridCzrbXmPQ",
+   "mkjr_OHgySf1Il58unstdTxZ58w",
+   "mkjr_nwxLYT2VtVZ.xi4m3T7hsA",
+   "mkjr_zJxQbj._KfPft.Lsn.rXTw"
+  ],
+  "chapter_file": "chapters/16-选必一-第4章-免疫调节.json"
+ },
+ {
+  "point": "细胞免疫",
+  "chapter": "选必一 第4章 免疫调节",
+  "keywords": [
+   "细胞毒性T细胞",
+   "靶细胞裂解",
+   "记忆T细胞",
+   "抗原暴露",
+   "细胞因子"
+  ],
+  "count": 5,
+  "root_ids": [
+   "mkjr_hCbSDtQ0FVbY9C30xhFPow",
+   "mkjr_UF0zNmCGY0XjqY1aLGm8bQ",
+   "mkjr_6B53TadTgxtZ_r4Hlg1zYA",
+   "mkjr_cMwzwZkcRw8dZ1Xs.Q2wCA",
+   "mkjr_W3qXM9SewnCTfMjd5tkr3A"
+  ],
+  "chapter_file": "chapters/16-选必一-第4章-免疫调节.json"
+ },
+ {
+  "point": "体液免疫与细胞免疫的关系",
+  "chapter": "选必一 第4章 免疫调节",
+  "keywords": [
+   "协同作用",
+   "辅助性T细胞",
+   "B细胞活化",
+   "靶细胞裂解",
+   "记忆细胞"
+  ],
+  "count": 8,
+  "root_ids": [
+   "mkjr_FEqJu3jpPqIMQh5IJgEt2Q",
+   "mkjr_e351Klo8JaKEfugubvClPQ",
+   "mkjr_6B53TadTgxtZ_r4Hlg1zYA",
+   "mkjr_VA7Y7OPQ5BbOCkBbHjo.xg",
+   "mkjr_xacm9cMt9MG.k5ia88SZxw",
+   "mkjr_dsa2pqaKsQveStEbx8kxjw",
+   "mkjr_R4k7wb9HyGFp1RaCWKWabQ",
+   "mkjr_W3qXM9SewnCTfMjd5tkr3A"
+  ],
+  "chapter_file": "chapters/16-选必一-第4章-免疫调节.json"
+ },
+ {
+  "point": "免疫记忆与二次免疫",
+  "chapter": "选必一 第4章 免疫调节",
+  "keywords": [
+   "记忆细胞",
+   "二次免疫",
+   "再次接触",
+   "记忆B细胞",
+   "记忆T细胞"
+  ],
+  "count": 3,
+  "root_ids": [
+   "mkjr_UF0zNmCGY0XjqY1aLGm8bQ",
+   "mkjr_dsa2pqaKsQveStEbx8kxjw",
+   "mkjr_jrXN3hxUQt1tiaYoCKid4Q"
+  ],
+  "chapter_file": "chapters/16-选必一-第4章-免疫调节.json"
+ },
+ {
+  "point": "免疫失调病",
+  "chapter": "选必一 第4章 免疫调节",
+  "keywords": [
+   "过敏反应",
+   "自身免疫病",
+   "免疫缺陷病",
+   "组织损伤",
+   "个体差异"
+  ],
+  "count": 8,
+  "root_ids": [
+   "mkjr_GxOBQYUZ9X1Bt3MbhQvMzg",
+   "mkjr_c_3Vvabqrg3FUEDgdD01kg",
+   "mkjr_Qa5Q.Bukds.Am8CwIFviIQ",
+   "mkjr_ydrxelavZp3RcQkQnMB0YA",
+   "mkjr_m_nibCS.rsAdn0s_77BrRw",
+   "mkjr_Er4w0rnCAe1znOyqrABdMw",
+   "mkjr_rq1Zmjm3heP.O46VyxKWlA",
+   "mkjr_vm9oJu3iQ4Vf_qly3XOWGA"
+  ],
+  "chapter_file": "chapters/16-选必一-第4章-免疫调节.json"
+ },
+ {
+  "point": "免疫学的应用",
+  "chapter": "选必一 第4章 免疫调节",
+  "keywords": [
+   "疫苗",
+   "抗体检测",
+   "免疫治疗",
+   "器官移植",
+   "免疫抑制剂"
+  ],
+  "count": 11,
+  "root_ids": [
+   "mkjr_okTdXlPH1k31P3NCOCy7lg",
+   "mkjr_8MVSVL15kXo7VyexC4qkaw",
+   "mkjr_VxNgTu1dpS3dPx9bqMcSdQ",
+   "mkjr_9GVa432Vsy5OXkqFQwXZAg",
+   "mkjr_wuC2b_isxEIQjphDfNZmFA",
+   "mkjr_xacm9cMt9MG.k5ia88SZxw",
+   "mkjr_ydrxelavZp3RcQkQnMB0YA",
+   "mkjr_JqraUDCaTY2rNjXpK23p0A",
+   "mkjr_rq1Zmjm3heP.O46VyxKWlA",
+   "mkjr_kPF6z43..8nM..W6uQrBTw",
+   "mkjr_dh_32BuQ59jOfMhqpH55pw"
+  ],
+  "chapter_file": "chapters/16-选必一-第4章-免疫调节.json"
+ },
+ {
+  "point": "生长素的发现",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "keywords": [
+   "向光性",
+   "胚芽鞘",
+   "单侧光",
+   "弯曲生长"
+  ],
+  "count": 1,
+  "root_ids": [
+   "mkjr_kD.SOOZnJuQvJsjCkvYyBw"
+  ],
+  "chapter_file": "chapters/17-选必一-第5章-植物生命活动的调节.json"
+ },
+ {
+  "point": "生长素的合成运输与分布",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "keywords": [
+   "极性运输",
+   "色氨酸",
+   "形态学上端",
+   "载体蛋白",
+   "非极性运输"
+  ],
+  "count": 3,
+  "root_ids": [
+   "mkjr_XlvQLrDG7ykT_kVI3FdY9Q",
+   "mkjr_ap0y9yzvX6k7.fg9z2vTxg",
+   "mkjr_E95pP4DPJJldgpFZdVFAKQ"
+  ],
+  "chapter_file": "chapters/17-选必一-第5章-植物生命活动的调节.json"
+ },
+ {
+  "point": "生长素的生理作用",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "keywords": [
+   "两重性",
+   "顶端优势",
+   "浓度",
+   "器官敏感性",
+   "促进生根"
+  ],
+  "count": 5,
+  "root_ids": [
+   "mkjr_4V88422bIKVhxq0nU_A_tg",
+   "mkjr_ubowxBrFcp01Fi6tVgo0Zw",
+   "mkjr_aO57Nrfv9UnxYqY5z_.f.Q",
+   "mkjr_uf2gIuU6eRPGCvLgXnbAig",
+   "mkjr_gu.STERCubzSKKH6Wd5mVg"
+  ],
+  "chapter_file": "chapters/17-选必一-第5章-植物生命活动的调节.json"
+ },
+ {
+  "point": "其他植物激素",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "keywords": [
+   "赤霉素",
+   "细胞分裂素",
+   "脱落酸",
+   "乙烯",
+   "合成部位"
+  ],
+  "count": 13,
+  "root_ids": [
+   "mkjr_iwc_PmHWTZMXXyTUiBg2ww",
+   "mkjr_uOD3lE2zcp5khv0h6FOoJw",
+   "mkjr_ubowxBrFcp01Fi6tVgo0Zw",
+   "mkjr_aYeB6qNS9gdCw1LSkWIGvg",
+   "mkjr_UMaEJgqMKZi6Fab.muOChQ",
+   "mkjr_X..FXdBJCmNjGROheyDAQw",
+   "mkjr_wK5rZTSaoPYYhLRsDe6UJA",
+   "mkjr_rYcGlbxOhHLDo_l9yvFZuA",
+   "mkjr_Vve42d4l85MspiYv0Aihhw",
+   "mkjr_tewN2eRZv3g8asGzkxZvMg",
+   "mkjr_bS0eRE1INQOOJIYQA63STg",
+   "mkjr_yyGFUt0Gy1QxSP2y_6CrYg",
+   "mkjr_a3jkQhZC6XqtVjfcj0D9Bg"
+  ],
+  "chapter_file": "chapters/17-选必一-第5章-植物生命活动的调节.json"
+ },
+ {
+  "point": "植物激素间的相互作用",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "keywords": [
+   "协同作用",
+   "拮抗",
+   "比值",
+   "诱导",
+   "调控网络"
+  ],
+  "count": 10,
+  "root_ids": [
+   "mkjr_9mF9dWk901NOZwl56IC4Kw",
+   "mkjr_LIeLm8qlRlsqhYWwifGz9A",
+   "mkjr_ZsHhkbxX7Mec5cufKu4qGQ",
+   "mkjr_XsYuKOta.TXei0W3In27ug",
+   "mkjr_GxMlH56yJVVm_K6k4IawVw",
+   "mkjr_dh.ny36_U1CHVBtHR9PwLA",
+   "mkjr_VhBNQEJoz1BG_wS4jQn52w",
+   "mkjr_Dc689bC6czBKpJ9wVxiauQ",
+   "mkjr_snrDn.QcxFWAK0pVdZIasQ",
+   "mkjr_PcWaV1FDldR9Sqfl7x2yww"
+  ],
+  "chapter_file": "chapters/17-选必一-第5章-植物生命活动的调节.json"
+ },
+ {
+  "point": "植物激素作用的机制",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "keywords": [
+   "受体",
+   "信号转导",
+   "基因表达",
+   "酶活性"
+  ],
+  "count": 2,
+  "root_ids": [
+   "mkjr_Ne01dM6MnbcYesjk1y2sLg",
+   "mkjr_l52rk.8w4ZXFMxHDrzC5Rw"
+  ],
+  "chapter_file": "chapters/17-选必一-第5章-植物生命活动的调节.json"
+ },
+ {
+  "point": "植物生长调节剂的应用",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "keywords": [
+   "人工合成",
+   "乙烯利",
+   "萘乙酸",
+   "矮壮素",
+   "除草剂"
+  ],
+  "count": 8,
+  "root_ids": [
+   "mkjr_TAzv1E_YH9yTs0Y0frTZjw",
+   "mkjr_RiEbHedrz1Zykv33WhH8LQ",
+   "mkjr_QRdmKu1zzE.tXp1nukyisg",
+   "mkjr_nAsxPsXjTYdPPfu6Dk9CPw",
+   "mkjr_iFykB09WF_1uGnSi2xmVTw",
+   "mkjr_B_c5XFyS.djXvMlx2r.FWw",
+   "mkjr_DTg69DB5SIXgfYtr80wZww",
+   "mkjr_Vvq17hm29jrfMN.h.Eu05w"
+  ],
+  "chapter_file": "chapters/17-选必一-第5章-植物生命活动的调节.json"
+ },
+ {
+  "point": "光参与调节植物生命活动",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "keywords": [
+   "光敏色素",
+   "红光",
+   "光周期",
+   "光质",
+   "开花"
+  ],
+  "count": 10,
+  "root_ids": [
+   "mkjr_sCMQ4zAWB2D6vJShM_14Pw",
+   "mkjr_7uAse.I7qoJHhidminLrRw",
+   "mkjr_oHj95hFB7LoId0x5zJcXWw",
+   "mkjr_1RzDgxoMxvcw01YfvejN7w",
+   "mkjr_zHqJTiD5TMpd0BVL25VW.Q",
+   "mkjr_5JJrpj3v65UZCxq8QAHPqQ",
+   "mkjr_y29_han3.4uL6uEyMn87WA",
+   "mkjr_1kXw7sMLcUcxGyhdj3IAGw",
+   "mkjr_71ynqvRIPsXtg.GSp0Ho4A",
+   "mkjr_fujrdHSBFKbCEcbRKMsjsw"
+  ],
+  "chapter_file": "chapters/17-选必一-第5章-植物生命活动的调节.json"
+ },
+ {
+  "point": "温度参与调节植物生命活动",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "keywords": [
+   "春化作用",
+   "低温",
+   "基因表达",
+   "开花"
+  ],
+  "count": 1,
+  "root_ids": [
+   "mkjr_qqPOVHvsYCKP3.EFMpaovw"
+  ],
+  "chapter_file": "chapters/17-选必一-第5章-植物生命活动的调节.json"
+ },
+ {
+  "point": "重力参与调节植物生命活动",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "keywords": [
+   "向重力性",
+   "根的向地性",
+   "茎背地生长",
+   "生长素分布"
+  ],
+  "count": 1,
+  "root_ids": [
+   "mkjr__UGPyPRvwYDkOBy6KnzoSw"
+  ],
+  "chapter_file": "chapters/17-选必一-第5章-植物生命活动的调节.json"
+ },
+ {
+  "point": "探究植物激素的作用",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "keywords": [
+   "实验设计",
+   "自变量",
+   "加法与减法原理",
+   "突变体",
+   "预实验"
+  ],
+  "count": 6,
+  "root_ids": [
+   "mkjr_oLJUqhMDjps4JD7_cFmYEQ",
+   "mkjr_lG8zEGEvlzhECXRKGpVayQ",
+   "mkjr_0AMxccJjpuFbD7fJXwpi2A",
+   "mkjr_zcinEaEk7IN8MrhdKMtyAA",
+   "mkjr_5.Lpov8Wsm9AdbDXyUGazw",
+   "mkjr_B_c5XFyS.djXvMlx2r.FWw"
+  ],
+  "chapter_file": "chapters/17-选必一-第5章-植物生命活动的调节.json"
+ },
+ {
+  "point": "植物生长发育的整体调控",
+  "chapter": "选必一 第5章 植物生命活动的调节",
+  "keywords": [
+   "基因表达",
+   "激素调节",
+   "环境因素",
+   "共同调控"
+  ],
+  "count": 2,
+  "root_ids": [
+   "mkjr_to6k19ATWAMyz2ChQcN3.g",
+   "mkjr_NnWNei3.R6jznTk6Jllgqw"
+  ],
+  "chapter_file": "chapters/17-选必一-第5章-植物生命活动的调节.json"
+ },
+ {
+  "point": "种群的出生率和死亡率",
+  "chapter": "选必二 第1章 种群及其动态",
+  "keywords": [
+   "出生率",
+   "死亡率",
+   "存活率",
+   "自然增长率",
+   "种群密度变化"
+  ],
+  "count": 5,
+  "root_ids": [
+   "mkjr_eGWuC7AzFolPeIx.PkGYeA",
+   "mkjr_L1qM5..ikGcDDg5ikWTowg",
+   "mkjr_1g9P5aW6FH5M60G_.euSvg",
+   "mkjr_qSTqetCtyR.lmXITNLxdmw",
+   "mkjr_Qv_yixDOpv4tu5VBXGX5aA"
+  ],
+  "chapter_file": "chapters/18-选必二-第1章-种群及其动态.json"
+ },
+ {
+  "point": "种群的年龄结构与性别比例",
+  "chapter": "选必二 第1章 种群及其动态",
+  "keywords": [
+   "增长型",
+   "稳定型",
+   "衰退型",
+   "年龄组成",
+   "雌雄比例"
+  ],
+  "count": 9,
+  "root_ids": [
+   "mkjr_ztn0h6iaXxWImEO_aZMSiQ",
+   "mkjr_L1qM5..ikGcDDg5ikWTowg",
+   "mkjr_M9mcD9ZcPMSmotc8NIE6XA",
+   "mkjr_J9mRkoowMb1pAIjikeHZuA",
+   "mkjr_N3FB9XukJl.MBin_AzXY7g",
+   "mkjr_.TqrrmWgnCKyCZAFkX_kpQ",
+   "mkjr_AKqpDzgMGCDVDN72MsMqcg",
+   "mkjr_pPgmEfVpSfuJC93lNOf2Lw",
+   "mkjr_4jdyaIEmr5jIp9eLNFrCCw"
+  ],
+  "chapter_file": "chapters/18-选必二-第1章-种群及其动态.json"
+ },
+ {
+  "point": "种群密度的调查方法",
+  "chapter": "选必二 第1章 种群及其动态",
+  "keywords": [
+   "样方法",
+   "标记重捕法",
+   "逐个计数法",
+   "红外触发相机",
+   "目测估计法"
+  ],
+  "count": 12,
+  "root_ids": [
+   "mkjr_Kz82ac_9tEhV9UF5zpCbXw",
+   "mkjr_.mFDquf13iBZmO67.Bg8Ng",
+   "mkjr_CqEetDiVcH29rE4855NU3A",
+   "mkjr_M9mcD9ZcPMSmotc8NIE6XA",
+   "mkjr_1DSinkHZww1Z6r9hLcx06Q",
+   "mkjr_WL6Ll__4pl4Kt.kEiJDXQQ",
+   "mkjr_A2gseXsztWvAsceN2t0kXw",
+   "mkjr_ZTFkkBsJX9fXZk_FmxBKxg",
+   "mkjr_N3FB9XukJl.MBin_AzXY7g",
+   "mkjr_OsSAVVb5kLEwezhfiGLIag",
+   "mkjr_s1qEo.C9SPTZssoNstp9ag",
+   "mkjr_Ylp6YG7GmdNufNOaQD6ibw"
+  ],
+  "chapter_file": "chapters/18-选必二-第1章-种群及其动态.json"
+ },
+ {
+  "point": "种群数量的增长曲线",
+  "chapter": "选必二 第1章 种群及其动态",
+  "keywords": [
+   "J形增长",
+   "S形增长",
+   "K/2",
+   "增长速率",
+   "增长率"
+  ],
+  "count": 7,
+  "root_ids": [
+   "mkjr_9KEV9StuLEF2yGN61hmRjQ",
+   "mkjr_6ycH4TAXuMMHvUkvkL3lWA",
+   "mkjr_wvj9D1_YuMZZxvytwfWmeQ",
+   "mkjr_68PyA3yNmlHe66Ad72u.YA",
+   "mkjr_Y_Igcnd2xFbesM3.C_vw8w",
+   "mkjr_AKqpDzgMGCDVDN72MsMqcg",
+   "mkjr_9T2gqp3oB8DHz1YxGTpfPQ"
+  ],
+  "chapter_file": "chapters/18-选必二-第1章-种群及其动态.json"
+ },
+ {
+  "point": "环境容纳量",
+  "chapter": "选必二 第1章 种群及其动态",
+  "keywords": [
+   "K值",
+   "环境阻力",
+   "临界密度",
+   "最大持续产量",
+   "相对稳定"
+  ],
+  "count": 10,
+  "root_ids": [
+   "mkjr_9KEV9StuLEF2yGN61hmRjQ",
+   "mkjr_68PyA3yNmlHe66Ad72u.YA",
+   "mkjr_Ls0HnyDhSOOoeBQ3_S36Vg",
+   "mkjr_dNHRxXGXS3JXO8bjG.t6gg",
+   "mkjr_7RQc71HRRdZGgbT2Pf24Vw",
+   "mkjr_HlLJRwrrKeU6TKSJ5PmMWQ",
+   "mkjr_Y_Igcnd2xFbesM3.C_vw8w",
+   "mkjr_Hj1fFXE6K5MC7N3ynZ5Beg",
+   "mkjr_UFDGg7cDuIiQiYvSwX_V9w",
+   "mkjr_9T2gqp3oB8DHz1YxGTpfPQ"
+  ],
+  "chapter_file": "chapters/18-选必二-第1章-种群及其动态.json"
+ },
+ {
+  "point": "影响种群数量变化的因素",
+  "chapter": "选必二 第1章 种群及其动态",
+  "keywords": [
+   "密度制约因素",
+   "非密度制约因素",
+   "气候",
+   "食物",
+   "天敌"
+  ],
+  "count": 15,
+  "root_ids": [
+   "mkjr_yC2BKsZpqX7GINSsi0ckfg",
+   "mkjr_eGWuC7AzFolPeIx.PkGYeA",
+   "mkjr_9lK6P0PYwu3ANFmy21i.TQ",
+   "mkjr_qSTqetCtyR.lmXITNLxdmw",
+   "mkjr_Ls0HnyDhSOOoeBQ3_S36Vg",
+   "mkjr_dNHRxXGXS3JXO8bjG.t6gg",
+   "mkjr_qPHv8NGfjeloiJrNdYU8gw",
+   "mkjr_MWwv0oF3IzsiEBhBdMpdYQ",
+   "mkjr_OsSAVVb5kLEwezhfiGLIag",
+   "mkjr__V5eFE4.V91srTxztp7G3A",
+   "mkjr_6q_zAW_7_K_X74W7b7w2TQ",
+   "mkjr_Qv_yixDOpv4tu5VBXGX5aA",
+   "mkjr_Wf9xKTWgCaYYFsqCT2BqCw",
+   "mkjr_xepvivQ.LhrpsTQvWqMChw",
+   "mkjr_Hj1fFXE6K5MC7N3ynZ5Beg"
+  ],
+  "chapter_file": "chapters/18-选必二-第1章-种群及其动态.json"
+ },
+ {
+  "point": "种群数量的波动",
+  "chapter": "选必二 第1章 种群及其动态",
+  "keywords": [
+   "波动",
+   "非周期性",
+   "种群爆发",
+   "数量下降",
+   "动态变化"
+  ],
+  "count": 3,
+  "root_ids": [
+   "mkjr_qPHv8NGfjeloiJrNdYU8gw",
+   "mkjr_MWwv0oF3IzsiEBhBdMpdYQ",
+   "mkjr_ELLX_eFCF4AsoxwzBNvi.A"
+  ],
+  "chapter_file": "chapters/18-选必二-第1章-种群及其动态.json"
+ },
+ {
+  "point": "群落的物种组成",
+  "chapter": "选必二 第2章 群落及其演替",
+  "keywords": [
+   "物种丰富度",
+   "优势种",
+   "物种组成",
+   "物种数目"
+  ],
+  "count": 9,
+  "root_ids": [
+   "mkjr__qYKdog6Xrf7PP0HkumjQA",
+   "mkjr_LO1pD4A9ok3yENXVEKi61Q",
+   "mkjr__s449qXqBkrYJJ_K_mFiYA",
+   "mkjr_c2hZyyA5HLlOUFjcL0nrig",
+   "mkjr_yRggxdKoKmQLbLHYlmYguw",
+   "mkjr_RWi92fZOb5NR6iiBWTVq_Q",
+   "mkjr_BytJeTiVPR8vIyAOTs7LuQ",
+   "mkjr_7e.YA._2K4mCpT0kybGINw",
+   "mkjr_WoOlxO713N0ltChdTdXKmQ"
+  ],
+  "chapter_file": "chapters/19-选必二-第2章-群落及其演替.json"
+ },
+ {
+  "point": "物种丰富度的调查",
+  "chapter": "选必二 第2章 群落及其演替",
+  "keywords": [
+   "样方法",
+   "最小面积",
+   "取样器取样",
+   "记名计数法",
+   "取样调查"
+  ],
+  "count": 3,
+  "root_ids": [
+   "mkjr_tEjHK0uG7E5spJG7iSdlUA",
+   "mkjr_wWh.Buk6vcENYyA90s8zeg",
+   "mkjr_S315BihhOgujwvhOxEH6Pw"
+  ],
+  "chapter_file": "chapters/19-选必二-第2章-群落及其演替.json"
+ },
+ {
+  "point": "种间关系",
+  "chapter": "选必二 第2章 群落及其演替",
+  "keywords": [
+   "竞争",
+   "捕食",
+   "寄生",
+   "互利共生",
+   "原始合作"
+  ],
+  "count": 5,
+  "root_ids": [
+   "mkjr_oRF4RE9JjychdKMxoGerSw",
+   "mkjr_6cCZaBqgYWjjgz22gACmiw",
+   "mkjr_9X6T8esKxfnvZuw0FHd8Fw",
+   "mkjr_0gyMfOWvwBXAMitN_YKCdw",
+   "mkjr_B7MnQil0VZio6EgMGHetHQ"
+  ],
+  "chapter_file": "chapters/19-选必二-第2章-群落及其演替.json"
+ },
+ {
+  "point": "群落的空间结构",
+  "chapter": "选必二 第2章 群落及其演替",
+  "keywords": [
+   "垂直结构",
+   "水平结构",
+   "分层现象",
+   "镶嵌分布"
+  ],
+  "count": 7,
+  "root_ids": [
+   "mkjr_lDSiDa7PGJxsH.cHJb3hJA",
+   "mkjr_CpwGnwwzv2bvYcidCE.4aQ",
+   "mkjr_EiIzfXLwfbVmLCJ3KY2HQQ",
+   "mkjr_mBsCZqvx8wFmFyJ5xHckMQ",
+   "mkjr_nlFd1dzIkoK8KnRiQMtEYA",
+   "mkjr_M3jq3FhmGTx.QwKRldh6Bw",
+   "mkjr_S2WIZIcuas6RTX3OS4fleA"
+  ],
+  "chapter_file": "chapters/19-选必二-第2章-群落及其演替.json"
+ },
+ {
+  "point": "群落的季节性",
+  "chapter": "选必二 第2章 群落及其演替",
+  "keywords": [
+   "季节变化",
+   "迁徙",
+   "物种组成变化",
+   "季节性"
+  ],
+  "count": 3,
+  "root_ids": [
+   "mkjr_lcLh0kLmDPHq1HfCwNs.kw",
+   "mkjr_Ki5zj4Al1ICRw9eMMQ68wg",
+   "mkjr_WoOlxO713N0ltChdTdXKmQ"
+  ],
+  "chapter_file": "chapters/19-选必二-第2章-群落及其演替.json"
+ },
+ {
+  "point": "生态位",
+  "chapter": "选必二 第2章 群落及其演替",
+  "keywords": [
+   "生态位分化",
+   "生态位重叠",
+   "生态位宽度",
+   "资源利用"
+  ],
+  "count": 12,
+  "root_ids": [
+   "mkjr_S0ZL4BB0YjxaXnm.UK4Cwg",
+   "mkjr_cwZcK5thJCvvRrwePqxLrg",
+   "mkjr_4e.b3ojM4mX_5a.sd0vLEA",
+   "mkjr_W3SU0.aNWHqAUJceh5T0Bg",
+   "mkjr__X1h0FUHzeNlApc31qp9vw",
+   "mkjr_DSK7y6QxAL.3XYoTN70YFA",
+   "mkjr_ZggHRHJZjdm7FjzKZ3XW2g",
+   "mkjr_mVZ__22ZDPeewQkR9bdRBQ",
+   "mkjr_7k0jejoa0C45oyM38uZtpg",
+   "mkjr_yppK2kU8DqOKJ8M9LZ1udQ",
+   "mkjr_5mn.YTENKL2b.Ng1nVU7dw",
+   "mkjr_P0buWpjyd8SfV0sT6Pn87A"
+  ],
+  "chapter_file": "chapters/19-选必二-第2章-群落及其演替.json"
+ },
+ {
+  "point": "群落的演替",
+  "chapter": "选必二 第2章 群落及其演替",
+  "keywords": [
+   "初生演替",
+   "次生演替",
+   "优势种更替",
+   "演替方向"
+  ],
+  "count": 12,
+  "root_ids": [
+   "mkjr_CpwGnwwzv2bvYcidCE.4aQ",
+   "mkjr_4e.b3ojM4mX_5a.sd0vLEA",
+   "mkjr_7PxJx7cPmOrjq55BFQXqRg",
+   "mkjr_gdFS3FLkPoFu9pfKbFl0NA",
+   "mkjr_BWtJgKulrdmlCtKHbgW9qQ",
+   "mkjr_EGdY7LODZb5HpsNsa4UIkw",
+   "mkjr_.63jq2QdMgbeOU.Bv2gcxQ",
+   "mkjr_oSyCxhHa3cMNifoeB_6CMA",
+   "mkjr_4OxtKISaSW7fNVuLmNAdOQ",
+   "mkjr_jrxTVZvNsZUZFzFt42tpOA",
+   "mkjr_.PPkNPsmiihYQdSCzzNAMw",
+   "mkjr_nHzosrG_npPPBdWhQjn3DA"
+  ],
+  "chapter_file": "chapters/19-选必二-第2章-群落及其演替.json"
+ },
+ {
+  "point": "人类活动对群落演替的影响",
+  "chapter": "选必二 第2章 群落及其演替",
+  "keywords": [
+   "退耕还林",
+   "围封禁牧",
+   "人工造林",
+   "外来物种入侵"
+  ],
+  "count": 5,
+  "root_ids": [
+   "mkjr_vtc_zb5FltclOrVvd_nMHQ",
+   "mkjr_BWtJgKulrdmlCtKHbgW9qQ",
+   "mkjr_7e.YA._2K4mCpT0kybGINw",
+   "mkjr_.PPkNPsmiihYQdSCzzNAMw",
+   "mkjr_GthsD.4sXM32YS_JMFQcmg"
+  ],
+  "chapter_file": "chapters/19-选必二-第2章-群落及其演替.json"
+ },
+ {
+  "point": "生态系统的组成成分",
+  "chapter": "选必二 第3章 生态系统及其稳定性",
+  "keywords": [
+   "生产者",
+   "消费者",
+   "分解者",
+   "非生物环境"
+  ],
+  "count": 4,
+  "root_ids": [
+   "mkjr_qq.cxVQRvcl5x6UQEe8FEA",
+   "mkjr_TN4OLhxHfEbYzyItDtJJVw",
+   "mkjr_DfPlnE8h4WuQsGvdfr8.hg",
+   "mkjr_QVPuOsStgjjB1940kDM4Jg"
+  ],
+  "chapter_file": "chapters/20-选必二-第3章-生态系统及其稳定性.json"
+ },
+ {
+  "point": "食物链和食物网",
+  "chapter": "选必二 第3章 生态系统及其稳定性",
+  "keywords": [
+   "食物链",
+   "食物网",
+   "营养级",
+   "营养结构"
+  ],
+  "count": 8,
+  "root_ids": [
+   "mkjr_r3WSpTBiiFM07UYe3FroYw",
+   "mkjr_X1EFgwbEmhnj1mdnubxVTw",
+   "mkjr_Wh9dV_Fu6T3jru.powM8xQ",
+   "mkjr_s9vXpxQuo6WGRFSz7jPcxg",
+   "mkjr_3G_naBRaa_YoK01kfGVUSA",
+   "mkjr_N9b_6OAS7iRJaLjk.b6LBg",
+   "mkjr_IHRle0FNWoQQyjVWi7pp_w",
+   "mkjr_.kj_HzTnLC5vPgBnmyYYDQ"
+  ],
+  "chapter_file": "chapters/20-选必二-第3章-生态系统及其稳定性.json"
+ },
+ {
+  "point": "能量流动的过程",
+  "chapter": "选必二 第3章 生态系统及其稳定性",
+  "keywords": [
+   "同化量",
+   "摄入量",
+   "呼吸消耗",
+   "生长发育和繁殖"
+  ],
+  "count": 5,
+  "root_ids": [
+   "mkjr_9_UYnn.aSAiK5rLlu52A0g",
+   "mkjr_lGiOIVfxiUbLpRjfDeMefA",
+   "mkjr_pHG8EPfvPZ5NTsBa2Zrqmw",
+   "mkjr_24KBbLoEx5O3T6GaiMKORA",
+   "mkjr_4sxrVSPxDf5Eln1xrWWPdQ"
+  ],
+  "chapter_file": "chapters/20-选必二-第3章-生态系统及其稳定性.json"
+ },
+ {
+  "point": "能量流动的特点",
+  "chapter": "选必二 第3章 生态系统及其稳定性",
+  "keywords": [
+   "单向流动",
+   "逐级递减",
+   "能量传递效率",
+   "生态金字塔"
+  ],
+  "count": 5,
+  "root_ids": [
+   "mkjr_eCvgKFNJbSZxwwDua5OfVg",
+   "mkjr_1vzP5.gIrbUqGUr__bu42g",
+   "mkjr_Y66d.EjLoeCfZcrlqXKFvw",
+   "mkjr_73_jeniBlGYQYuBVm76eMQ",
+   "mkjr_L6nkRkFoBI.uiD1tfOQ3LA"
+  ],
+  "chapter_file": "chapters/20-选必二-第3章-生态系统及其稳定性.json"
+ },
+ {
+  "point": "研究能量流动的实践意义",
+  "chapter": "选必二 第3章 生态系统及其稳定性",
+  "keywords": [
+   "能量利用率",
+   "生态农业",
+   "多级利用",
+   "调整能量流动关系"
+  ],
+  "count": 2,
+  "root_ids": [
+   "mkjr_SS93JXdW6zBn09fLmKF.OQ",
+   "mkjr_Q1SOO_kyi9FF7SoE9p7RKg"
+  ],
+  "chapter_file": "chapters/20-选必二-第3章-生态系统及其稳定性.json"
+ },
+ {
+  "point": "生态系统的物质循环",
+  "chapter": "选必二 第3章 生态系统及其稳定性",
+  "keywords": [
+   "碳循环",
+   "生物地球化学循环",
+   "无机环境",
+   "物质循环往复"
+  ],
+  "count": 10,
+  "root_ids": [
+   "mkjr_eCvgKFNJbSZxwwDua5OfVg",
+   "mkjr_1vzP5.gIrbUqGUr__bu42g",
+   "mkjr_U.9oavz.qarV7zO3H4ztvQ",
+   "mkjr_Y66d.EjLoeCfZcrlqXKFvw",
+   "mkjr_Wh9dV_Fu6T3jru.powM8xQ",
+   "mkjr_fLc3p7LZMLJIQD3VelSetg",
+   "mkjr_24KBbLoEx5O3T6GaiMKORA",
+   "mkjr_R2O0WMjQ5Nya..2qQev1GQ",
+   "mkjr_XHcOXv7imsjxfNyCJ9zwXg",
+   "mkjr_smEfj9jBuKuwwDWr5okcsA"
+  ],
+  "chapter_file": "chapters/20-选必二-第3章-生态系统及其稳定性.json"
+ },
+ {
+  "point": "生物富集",
+  "chapter": "选必二 第3章 生态系统及其稳定性",
+  "keywords": [
+   "富集",
+   "食物链",
+   "营养级",
+   "有害物质积累"
+  ],
+  "count": 2,
+  "root_ids": [
+   "mkjr_DfPlnE8h4WuQsGvdfr8.hg",
+   "mkjr_smEfj9jBuKuwwDWr5okcsA"
+  ],
+  "chapter_file": "chapters/20-选必二-第3章-生态系统及其稳定性.json"
+ },
+ {
+  "point": "能量流动和物质循环的关系",
+  "chapter": "选必二 第3章 生态系统及其稳定性",
+  "keywords": [
+   "物质是能量的载体",
+   "能量是物质循环的动力",
+   "开放系统"
+  ],
+  "count": 2,
+  "root_ids": [
+   "mkjr_ozJVfOjpCTMg3JjeUa1WwQ",
+   "mkjr_bwhqEcJMd.bt38ZWfLvo5Q"
+  ],
+  "chapter_file": "chapters/20-选必二-第3章-生态系统及其稳定性.json"
+ },
+ {
+  "point": "生态系统的信息传递",
+  "chapter": "选必二 第3章 生态系统及其稳定性",
+  "keywords": [
+   "物理信息",
+   "化学信息",
+   "行为信息",
+   "种间关系"
+  ],
+  "count": 7,
+  "root_ids": [
+   "mkjr_bsqNQbMupQTcAxchTqhXmA",
+   "mkjr_s9vXpxQuo6WGRFSz7jPcxg",
+   "mkjr_4sxrVSPxDf5Eln1xrWWPdQ",
+   "mkjr_yGuPuGv2WAzjUdR0zOOAHA",
+   "mkjr_u7nl1VKGCDUoh6bxQ7ErwQ",
+   "mkjr_aPEzcIAurlhEHed9ZVqaxg",
+   "mkjr_7Ocym68NyPZz.8qtu92A8Q"
+  ],
+  "chapter_file": "chapters/20-选必二-第3章-生态系统及其稳定性.json"
+ },
+ {
+  "point": "生态系统的稳定性",
+  "chapter": "选必二 第3章 生态系统及其稳定性",
+  "keywords": [
+   "自我调节能力",
+   "负反馈调节",
+   "维持平衡稳定"
+  ],
+  "count": 6,
+  "root_ids": [
+   "mkjr_DqRiLkiB_wbWTdWSQCB7Pg",
+   "mkjr_bwhqEcJMd.bt38ZWfLvo5Q",
+   "mkjr_qq.cxVQRvcl5x6UQEe8FEA",
+   "mkjr_oO42hB93_BwFgu1oh8VxhA",
+   "mkjr_pHG8EPfvPZ5NTsBa2Zrqmw",
+   "mkjr_GBt4Yu2QBCMHziuckB6DKw"
+  ],
+  "chapter_file": "chapters/20-选必二-第3章-生态系统及其稳定性.json"
+ },
+ {
+  "point": "抵抗力稳定性与恢复力稳定性",
+  "chapter": "选必二 第3章 生态系统及其稳定性",
+  "keywords": [
+   "抵抗力稳定性",
+   "恢复力稳定性",
+   "物种丰富度",
+   "营养结构"
+  ],
+  "count": 3,
+  "root_ids": [
+   "mkjr_oO42hB93_BwFgu1oh8VxhA",
+   "mkjr_N9b_6OAS7iRJaLjk.b6LBg",
+   "mkjr_QVPuOsStgjjB1940kDM4Jg"
+  ],
+  "chapter_file": "chapters/20-选必二-第3章-生态系统及其稳定性.json"
+ },
+ {
+  "point": "生态系统的整体性",
+  "chapter": "选必二 第3章 生态系统及其稳定性",
+  "keywords": [
+   "生命共同体",
+   "相互依存",
+   "统一整体"
+  ],
+  "count": 1,
+  "root_ids": [
+   "mkjr_k4VRHxH03YjlIvD.ZNkHGQ"
+  ],
+  "chapter_file": "chapters/20-选必二-第3章-生态系统及其稳定性.json"
+ },
+ {
+  "point": "生态足迹",
+  "chapter": "选必二 第4章 人与环境",
+  "keywords": [
+   "生态承载力",
+   "生态超载",
+   "生态盈余",
+   "碳足迹",
+   "绿色生活方式"
+  ],
+  "count": 4,
+  "root_ids": [
+   "mkjr_LF1kgWyGrea9hnEUMvPKpQ",
+   "mkjr_rCPuHl_RmbvrQ8jiZjtK7Q",
+   "mkjr_FLPoikrvNCqzx1xgD0FFXQ",
+   "mkjr_Xz3Rgs.F5_IhOeQqx.j_DQ"
+  ],
+  "chapter_file": "chapters/21-选必二-第4章-人与环境.json"
+ },
+ {
+  "point": "全球性生态环境问题",
+  "chapter": "选必二 第4章 人与环境",
+  "keywords": [
+   "全球变暖",
+   "酸雨",
+   "水体富营养化",
+   "生物富集",
+   "土地荒漠化"
+  ],
+  "count": 5,
+  "root_ids": [
+   "mkjr_pmlGJeKRZGMJfcopudMKww",
+   "mkjr_kSAw3BqJK8zfGi2IIXwZXQ",
+   "mkjr_kuTPgJdMG5LqV_M4FxUvmw",
+   "mkjr_Mie8MhSzyWhWwVjXZPgiWg",
+   "mkjr_px7TxJ_1dthjdIpGeMc7lA"
+  ],
+  "chapter_file": "chapters/21-选必二-第4章-人与环境.json"
+ },
+ {
+  "point": "生物多样性及其价值",
+  "chapter": "选必二 第4章 人与环境",
+  "keywords": [
+   "遗传多样性",
+   "物种多样性",
+   "生态系统多样性",
+   "直接价值",
+   "间接价值"
+  ],
+  "count": 6,
+  "root_ids": [
+   "mkjr_HjZja3e404HI9_6eK.Trbg",
+   "mkjr_3aO._S9oVNlAAtOT39AFAQ",
+   "mkjr_11gGPTqn3CvHhwFJW6fyFw",
+   "mkjr_onlSKh8riCqP7_e8AAW30g",
+   "mkjr_psJBwRLyyubXkSJDtNYPXw",
+   "mkjr_NkaMhsku.FOfCyPhQ6T6Cg"
+  ],
+  "chapter_file": "chapters/21-选必二-第4章-人与环境.json"
+ },
+ {
+  "point": "生物多样性的保护",
+  "chapter": "选必二 第4章 人与环境",
+  "keywords": [
+   "就地保护",
+   "易地保护",
+   "生态廊道",
+   "基因库",
+   "外来物种入侵"
+  ],
+  "count": 11,
+  "root_ids": [
+   "mkjr_.T55B45icBJsptGhouRywg",
+   "mkjr_8T1M7ALkGKTzVjINidSESQ",
+   "mkjr_TDtQ.vgJh74WOFxl3Q7U6g",
+   "mkjr_AimgdS7pvobuDIYnGHfKCw",
+   "mkjr_xhXS07YdnNR4TY_802d7Zg",
+   "mkjr_uLz4zWRVSHu65sfi7rKhBQ",
+   "mkjr_Uq3BlivqpXalm6BSDYclvA",
+   "mkjr_UkIfNEubdX9deUR8IcaBAQ",
+   "mkjr_fTwmh2Gk67CCvOvQTbEbCQ",
+   "mkjr_CDMbXu_g2_Q40oIWVZ2kTg",
+   "mkjr_x__AY14XruWF7QY8rXcdIg"
+  ],
+  "chapter_file": "chapters/21-选必二-第4章-人与环境.json"
+ },
+ {
+  "point": "生态工程的基本原理",
+  "chapter": "选必二 第4章 人与环境",
+  "keywords": [
+   "自生",
+   "循环",
+   "协调",
+   "整体"
+  ],
+  "count": 5,
+  "root_ids": [
+   "mkjr_eIWrY66tX6Wvg36GLfTz0Q",
+   "mkjr_GEUOyBV2eBwZpR8Zw5sdhg",
+   "mkjr_cYE4YTRYpd9JKRuhzgpr4Q",
+   "mkjr_lgiQrxWlreGILskAlNRZPw",
+   "mkjr_gZtvK5hw7yuJ6SahX9E0Ug"
+  ],
+  "chapter_file": "chapters/21-选必二-第4章-人与环境.json"
+ },
+ {
+  "point": "生态工程的实例",
+  "chapter": "选必二 第4章 人与环境",
+  "keywords": [
+   "湿地生态恢复",
+   "矿区生态修复",
+   "生态农业",
+   "防护林建设",
+   "草方格固沙"
+  ],
+  "count": 16,
+  "root_ids": [
+   "mkjr_HjZja3e404HI9_6eK.Trbg",
+   "mkjr_mUzGSsj2k_4eHs_z2mZNbA",
+   "mkjr_11gGPTqn3CvHhwFJW6fyFw",
+   "mkjr_tkkPMxqngAxLpz9JUO4X6A",
+   "mkjr_PtwBg3GpT5397g.cXqBEaw",
+   "mkjr_kQcjFpLzOQsckAmkSoXIpQ",
+   "mkjr_GEUOyBV2eBwZpR8Zw5sdhg",
+   "mkjr_cYE4YTRYpd9JKRuhzgpr4Q",
+   "mkjr_W_fakvD4gTXUw3AuHjB6Rw",
+   "mkjr_GuXk2_R9e5Oqr1J4Lnxc.A",
+   "mkjr_FAbBg6QJ2rs9VvmboN4WMw",
+   "mkjr_8KaNLL5hy4G7ntmLGJ1GkQ",
+   "mkjr_tEsUOY2QO7kdglauxiigpA",
+   "mkjr_.re8bg.SGB2bqxgulT2NZg",
+   "mkjr_px7TxJ_1dthjdIpGeMc7lA",
+   "mkjr_jXd_wqaYptA8Obw8Cttc3Q"
+  ],
+  "chapter_file": "chapters/21-选必二-第4章-人与环境.json"
+ },
+ {
+  "point": "传统发酵技术",
+  "chapter": "选必三 第1章 发酵工程",
+  "keywords": [
+   "果酒",
+   "果醋",
+   "泡菜",
+   "酒曲",
+   "乳酸菌"
+  ],
+  "count": 19,
+  "root_ids": [
+   "mkjr_bHe7fVx1pf.dwqPBWJRklQ",
+   "mkjr_NUad8Ox4tfaY2DhcCa_mvg",
+   "mkjr_89Zb7gCkb3WJ6ENKOzwISA",
+   "mkjr_l0Pm0hwvMrn5ID5WgTdxow",
+   "mkjr_rxMTZfg.E4GLZDhP.9Z1IQ",
+   "mkjr_9uJTJ0bKkhN8iePsxDuElQ",
+   "mkjr_k_xvYDynVBHQ_zGKbyj9MQ",
+   "mkjr_vyIge5992E3G4EdK7OrGxA",
+   "mkjr_ti309PoH7oeWe41dLSYUPw",
+   "mkjr_v9A1yToL_7waMOve7WnZew",
+   "mkjr_ncckBSo0HqgR5_5dJrpe9A",
+   "mkjr_jir1haM78iCb9b2DTlFhUg",
+   "mkjr_fW_RmFvghuxb9E8nUPIb6A",
+   "mkjr_xHXsDYw9F8XsEaj3o5nMmw",
+   "mkjr_QNQp5GuK9WF02xbH.uBQaQ",
+   "mkjr_MW9Dj1oToJiyc78DtSIATA",
+   "mkjr_NnR5nMlH2STbXRIWsQImTg",
+   "mkjr_4sWbh9NxhEDItkyNFRU0dA",
+   "mkjr_Nn0KGGf10S__Mj9Mkne16Q"
+  ],
+  "chapter_file": "chapters/22-选必三-第1章-发酵工程.json"
+ },
+ {
+  "point": "微生物的选择培养与计数",
+  "chapter": "选必三 第1章 发酵工程",
+  "keywords": [
+   "选择培养基",
+   "唯一碳源",
+   "稀释涂布平板法",
+   "菌落计数",
+   "透明圈"
+  ],
+  "count": 16,
+  "root_ids": [
+   "mkjr_61rdgP9jb3USrGgSDATQCA",
+   "mkjr_leyYpSeCI6mkltS7h_EeOQ",
+   "mkjr_plJpg1fr9VVP.PrJSKpTlw",
+   "mkjr_LSxFW7HwiFTktzG_VZHy5Q",
+   "mkjr_kAY7rCNw4AW9psKeyV744Q",
+   "mkjr_61mHu.yRH_oLXCaY3O70ew",
+   "mkjr_LKwk3Lyq4Q4P0R6pMDXHww",
+   "mkjr_qHlgNGSRNebU1LO7bF7Eng",
+   "mkjr_bJ7mWsiLxdfrsNz2s_rfzQ",
+   "mkjr_NVwHQs2SaYOP7COVwn8tuQ",
+   "mkjr_0CbeS2UHvA9BxxGkLEmsAg",
+   "mkjr_jdjGc9Py95NRMR9PA_N8XA",
+   "mkjr_fgUOSI2nJZR9W40D0..m6w",
+   "mkjr_5vgEkeQLTWaBR9Cy0wpU0A",
+   "mkjr_zfcBVJcyMOBulHU66B0Mcg",
+   "mkjr_wA1SFrNz8F3q10xkVFAluQ"
+  ],
+  "chapter_file": "chapters/22-选必三-第1章-发酵工程.json"
+ },
+ {
+  "point": "微生物的纯培养",
+  "chapter": "选必三 第1章 发酵工程",
+  "keywords": [
+   "培养基",
+   "灭菌",
+   "倒平板",
+   "平板划线",
+   "纯化"
+  ],
+  "count": 11,
+  "root_ids": [
+   "mkjr_1Gxx0PwtcrCzmsQ.DnJtxw",
+   "mkjr_epFzaVZhg_yjhdtjqMLa6A",
+   "mkjr_upRM98zR4HW4tujwTxUJGw",
+   "mkjr_nK2SEeQQChAwcgsr89NUyA",
+   "mkjr_qYFeMgX5bnc8F0Ul_UHKKQ",
+   "mkjr_zOqxGheq.Jyc1UBFgMEMbg",
+   "mkjr_X83H.jQ7Re2ECniRAub.Aw",
+   "mkjr_AQl1axg4ro3ZHgpyuil3Vg",
+   "mkjr_0hemSKshdOZXyolR.rVYmQ",
+   "mkjr_tpqa7C8sVavuaMGK6RrqRA",
+   "mkjr_Y3Vk9_40uG_IKdiuIyIq_A"
+  ],
+  "chapter_file": "chapters/22-选必三-第1章-发酵工程.json"
+ },
+ {
+  "point": "发酵工程的应用",
+  "chapter": "选必三 第1章 发酵工程",
+  "keywords": [
+   "柠檬酸",
+   "井冈霉素",
+   "单细胞蛋白",
+   "啤酒生产",
+   "废弃物处理"
+  ],
+  "count": 9,
+  "root_ids": [
+   "mkjr_rxMTZfg.E4GLZDhP.9Z1IQ",
+   "mkjr_7Xfy.6XNWSoRMNfrWBRa4g",
+   "mkjr_Wyneky8MYBeBce.RLJmmGw",
+   "mkjr_P63QUNlXp05uBnSwxo8B0w",
+   "mkjr_fgUOSI2nJZR9W40D0..m6w",
+   "mkjr_4f2EINy2VhpQybwwgnBsJA",
+   "mkjr_dxQDuzRpFp2dUeuNj6qKQQ",
+   "mkjr_7_.PqaGWUKlY0fQ09clgYA",
+   "mkjr_VJiYHxU5Wt9KgOA_Exa0aw"
+  ],
+  "chapter_file": "chapters/22-选必三-第1章-发酵工程.json"
+ },
+ {
+  "point": "发酵条件的控制",
+  "chapter": "选必三 第1章 发酵工程",
+  "keywords": [
+   "温度",
+   "pH",
+   "溶解氧",
+   "通气搅拌",
+   "补料"
+  ],
+  "count": 5,
+  "root_ids": [
+   "mkjr_XzAYBew9tZ_iDudZa0xzRA",
+   "mkjr_PQyu45XjwVxeNZgwr3h0DA",
+   "mkjr_xRDXTKHLMLL.gEPylFZHlQ",
+   "mkjr_dxQDuzRpFp2dUeuNj6qKQQ",
+   "mkjr_VJiYHxU5Wt9KgOA_Exa0aw"
+  ],
+  "chapter_file": "chapters/22-选必三-第1章-发酵工程.json"
+ },
+ {
+  "point": "微生物菌种的选育",
+  "chapter": "选必三 第1章 发酵工程",
+  "keywords": [
+   "诱变育种",
+   "基因工程育种",
+   "高产菌株",
+   "营养缺陷型"
+  ],
+  "count": 4,
+  "root_ids": [
+   "mkjr_XzAYBew9tZ_iDudZa0xzRA",
+   "mkjr_vD7F6t6J2MmQiVXJnwWfKg",
+   "mkjr_UaMsphwIztkJIrbD3AvwpA",
+   "mkjr_QL4Wbv38P0NB0fVnJ5C8Dg"
+  ],
+  "chapter_file": "chapters/22-选必三-第1章-发酵工程.json"
+ },
+ {
+  "point": "发酵工程的基本环节",
+  "chapter": "选必三 第1章 发酵工程",
+  "keywords": [
+   "扩大培养",
+   "发酵罐",
+   "培养基配制",
+   "产品分离提纯",
+   "发酵流程"
+  ],
+  "count": 4,
+  "root_ids": [
+   "mkjr_ti309PoH7oeWe41dLSYUPw",
+   "mkjr_xRDXTKHLMLL.gEPylFZHlQ",
+   "mkjr_P63QUNlXp05uBnSwxo8B0w",
+   "mkjr_7_.PqaGWUKlY0fQ09clgYA"
+  ],
+  "chapter_file": "chapters/22-选必三-第1章-发酵工程.json"
+ },
+ {
+  "point": "食品的保存与防腐",
+  "chapter": "选必三 第1章 发酵工程",
+  "keywords": [
+   "干制",
+   "腌制",
+   "低温保存",
+   "高温处理",
+   "防腐"
+  ],
+  "count": 2,
+  "root_ids": [
+   "mkjr_bHe7fVx1pf.dwqPBWJRklQ",
+   "mkjr_LjRE_jsZWtx38iEMX4uRUA"
+  ],
+  "chapter_file": "chapters/22-选必三-第1章-发酵工程.json"
+ },
+ {
+  "point": "植物组织培养技术",
+  "chapter": "选必三 第2章 细胞工程",
+  "keywords": [
+   "外植体",
+   "脱分化",
+   "愈伤组织",
+   "再分化",
+   "植物激素比例"
+  ],
+  "count": 17,
+  "root_ids": [
+   "mkjr_n9YeXa.IMCwFQ06EY6RnIQ",
+   "mkjr_uL_L01PxQa94BjfP_dV34w",
+   "mkjr_F4IWR6G1B4AcqPk.pmbcSw",
+   "mkjr_1V9FVt_Mq6vFv51nrGBTLQ",
+   "mkjr_fkbmwZtfHNiANzEXe.w5vA",
+   "mkjr_5_VDE7sKMK8SMo7_2Nv3Rg",
+   "mkjr_bzw5lmn_GEYIZZsjWUDN_w",
+   "mkjr_CcQFHa.tHFr8Pv4YiiXShA",
+   "mkjr_HiLuFVWsp69UIwbjMzgVXg",
+   "mkjr_v9_2vcpu.J_cgD3MQCGHIg",
+   "mkjr_iaP0D8H6U0j4WmFgrEIdwg",
+   "mkjr_CC_yhqnCmenYmlfBPdodOw",
+   "mkjr_Zmr0apuvSN9cS9aM4Cqj8w",
+   "mkjr_JqxZZISfbVZEZkmdcUKdYw",
+   "mkjr_gt0abnMolXlrvZai_0uaIQ",
+   "mkjr_dsB07muB6LZNGJvqKGgU2Q",
+   "mkjr_eyeKqn4PWv5K2R6NR_YnLg"
+  ],
+  "chapter_file": "chapters/23-选必三-第2章-细胞工程.json"
+ },
+ {
+  "point": "植物体细胞杂交",
+  "chapter": "选必三 第2章 细胞工程",
+  "keywords": [
+   "原生质体",
+   "纤维素酶和果胶酶",
+   "原生质体融合",
+   "细胞壁再生",
+   "杂种植株"
+  ],
+  "count": 8,
+  "root_ids": [
+   "mkjr_F4IWR6G1B4AcqPk.pmbcSw",
+   "mkjr_1V9FVt_Mq6vFv51nrGBTLQ",
+   "mkjr_LV4_R_Ovh4N30H90Q4vG8Q",
+   "mkjr_w.XXcv0Whz3kyZX4ZF9Djw",
+   "mkjr_qw1NIkfe_P5sSOw2zmihhw",
+   "mkjr_v9_2vcpu.J_cgD3MQCGHIg",
+   "mkjr_vrcZK3JxQtXHLB39kNqLdA",
+   "mkjr_.rRyf5pn92Nel7IJkD4DyQ"
+  ],
+  "chapter_file": "chapters/23-选必三-第2章-细胞工程.json"
+ },
+ {
+  "point": "植物细胞培养",
+  "chapter": "选必三 第2章 细胞工程",
+  "keywords": [
+   "悬浮培养",
+   "次生代谢物",
+   "细胞干重",
+   "工厂化生产"
+  ],
+  "count": 5,
+  "root_ids": [
+   "mkjr_Av2_LhjclfQSbmu04ko0.Q",
+   "mkjr__uMpuPIU_z0hqcCas2H7pw",
+   "mkjr_kpk9UKquZQwcMVHhvEwpcA",
+   "mkjr_8Byr205oXnnRhhoK8aFqOw",
+   "mkjr_x5ym.Qu9KcVAokIYWXUEJQ"
+  ],
+  "chapter_file": "chapters/23-选必三-第2章-细胞工程.json"
+ },
+ {
+  "point": "动物细胞培养",
+  "chapter": "选必三 第2章 细胞工程",
+  "keywords": [
+   "胰蛋白酶处理",
+   "贴壁生长",
+   "接触抑制",
+   "传代培养",
+   "培养液更换"
+  ],
+  "count": 7,
+  "root_ids": [
+   "mkjr_kI4_Lez4MUxv9kpin.muRw",
+   "mkjr_7Ej6VDBg3opnUIvvPw4ImQ",
+   "mkjr_oxF8V4egaOaPNOY37RXVjw",
+   "mkjr_0Jy7R8Ov0Pnx6h3bPU5yxA",
+   "mkjr_RCR_LLuIDQksDjFJO0d48Q",
+   "mkjr_wLXogP3tLxabaKF19k7onA",
+   "mkjr_KLewRNM2X41svk1xUtbV1w"
+  ],
+  "chapter_file": "chapters/23-选必三-第2章-细胞工程.json"
+ },
+ {
+  "point": "动物细胞融合与单克隆抗体",
+  "chapter": "选必三 第2章 细胞工程",
+  "keywords": [
+   "杂交瘤细胞",
+   "骨髓瘤细胞",
+   "B淋巴细胞",
+   "克隆化培养",
+   "抗体检测"
+  ],
+  "count": 11,
+  "root_ids": [
+   "mkjr_8h5H2USLoVz3GldxLBqLSQ",
+   "mkjr_kI4_Lez4MUxv9kpin.muRw",
+   "mkjr_g75RyVMwebvIVIc3LaCUTA",
+   "mkjr_tq7CeiNTDJQBP.09NYvRyQ",
+   "mkjr_AEByuM2g2D7BxLpJhrsoTQ",
+   "mkjr_yiGuFOud.uU0lQ1jcBBeGA",
+   "mkjr_M30acr8m._v8fPxnbBsmJg",
+   "mkjr_22F3XqU9omhvINQrzRg2Qg",
+   "mkjr_hdceG.uIPRx0WEZYYXo6IA",
+   "mkjr_JqxZZISfbVZEZkmdcUKdYw",
+   "mkjr_pPHPYD8W5PTGYs5FTLHdbQ"
+  ],
+  "chapter_file": "chapters/23-选必三-第2章-细胞工程.json"
+ },
+ {
+  "point": "核移植技术",
+  "chapter": "选必三 第2章 细胞工程",
+  "keywords": [
+   "重构胚",
+   "去核卵母细胞",
+   "MⅡ期卵母细胞",
+   "体细胞核",
+   "克隆动物"
+  ],
+  "count": 10,
+  "root_ids": [
+   "mkjr_7LdCWGTiqlsIYyKm6ZPvzA",
+   "mkjr_3jrngELzuz9hudjg.TbkFA",
+   "mkjr_6tkd5TBGGRrwHhlBpW61xQ",
+   "mkjr_5V8rNHYs_hcrv45b8gBpeQ",
+   "mkjr_tq7CeiNTDJQBP.09NYvRyQ",
+   "mkjr_12DS1r4MyuyjCuTSePAv8Q",
+   "mkjr_MENoTvhIMsP4jG_3FPt8Eg",
+   "mkjr_Bq5MvUiKJo0om0E.UkyA7Q",
+   "mkjr_uJ6neOxBdm2U7bzfl5UYPg",
+   "mkjr_HahYuCuyKcggjTfjo0_89g"
+  ],
+  "chapter_file": "chapters/23-选必三-第2章-细胞工程.json"
+ },
+ {
+  "point": "干细胞培养",
+  "chapter": "选必三 第2章 细胞工程",
+  "keywords": [
+   "胚胎干细胞",
+   "iPS细胞",
+   "定向分化",
+   "全能性"
+  ],
+  "count": 7,
+  "root_ids": [
+   "mkjr_R.QDoYD2jzKZIXtAPVbuhw",
+   "mkjr_wb9AZ2YWcoG0CkoRq2BW9g",
+   "mkjr_RqTwFXVYh6xeAsI_saZMeA",
+   "mkjr_vAXmYwjVt0E0zPSR75SWJg",
+   "mkjr_qLDDMTC8Rt3gZZWtgcW.mw",
+   "mkjr_PKGCj4aXRm3UoEk39EZIxg",
+   "mkjr_YQ78_4uNEObYJqfNEgU4vQ"
+  ],
+  "chapter_file": "chapters/23-选必三-第2章-细胞工程.json"
+ },
+ {
+  "point": "体外受精",
+  "chapter": "选必三 第2章 细胞工程",
+  "keywords": [
+   "精子获能",
+   "超数排卵",
+   "卵母细胞成熟",
+   "受精卵"
+  ],
+  "count": 5,
+  "root_ids": [
+   "mkjr_wVnWqtzxvXDitgu1DLVwHg",
+   "mkjr_6Y7ISxlp1sVcJt1AGVvc4Q",
+   "mkjr_C3AJYeCbQgyLPwlxrt5pQA",
+   "mkjr_vm8RLKvtmkNJtaFF.4Bs9A",
+   "mkjr_KgfWjoTJhLy1E6K3yA8pKw"
+  ],
+  "chapter_file": "chapters/23-选必三-第2章-细胞工程.json"
+ },
+ {
+  "point": "胚胎早期发育",
+  "chapter": "选必三 第2章 细胞工程",
+  "keywords": [
+   "桑葚胚",
+   "囊胚",
+   "内细胞团",
+   "滋养层",
+   "孵化"
+  ],
+  "count": 4,
+  "root_ids": [
+   "mkjr_QPtoOODxZzxJcogjOu7Ikg",
+   "mkjr_TkIRESUJD62XSyJvrxz7BQ",
+   "mkjr_j955rOywKKKxHkDA6m4xvw",
+   "mkjr_uJ6neOxBdm2U7bzfl5UYPg"
+  ],
+  "chapter_file": "chapters/23-选必三-第2章-细胞工程.json"
+ },
+ {
+  "point": "胚胎移植与胚胎分割",
+  "chapter": "选必三 第2章 细胞工程",
+  "keywords": [
+   "同期发情",
+   "供体与受体",
+   "胚胎分割",
+   "同卵双胎",
+   "胚胎成活率"
+  ],
+  "count": 7,
+  "root_ids": [
+   "mkjr_wVnWqtzxvXDitgu1DLVwHg",
+   "mkjr_6Y7ISxlp1sVcJt1AGVvc4Q",
+   "mkjr_hpsAF5F8cU2nJi.1CH_LQA",
+   "mkjr_vm8RLKvtmkNJtaFF.4Bs9A",
+   "mkjr_HahYuCuyKcggjTfjo0_89g",
+   "mkjr_KgfWjoTJhLy1E6K3yA8pKw",
+   "mkjr_eyeKqn4PWv5K2R6NR_YnLg"
+  ],
+  "chapter_file": "chapters/23-选必三-第2章-细胞工程.json"
+ },
+ {
+  "point": "基因工程的基本工具",
+  "chapter": "选必三 第3章 基因工程",
+  "keywords": [
+   "限制酶",
+   "DNA连接酶",
+   "载体",
+   "质粒",
+   "黏性末端"
+  ],
+  "count": 4,
+  "root_ids": [
+   "mkjr_zoQ1YSXjd1uHvXOo4EhmpQ",
+   "mkjr_9FC1SDbUnOvfTHOGa7UlTQ",
+   "mkjr_HuLU.Kj7sMI29SJPvqG_4w",
+   "mkjr_cepHZqC8l4QlDNkbDyR_Hw"
+  ],
+  "chapter_file": "chapters/24-选必三-第3章-基因工程.json"
+ },
+ {
+  "point": "DNA的粗提取与鉴定",
+  "chapter": "选必三 第3章 基因工程",
+  "keywords": [
+   "二苯胺",
+   "裂解",
+   "沉淀",
+   "鉴定",
+   "DNA纯度"
+  ],
+  "count": 3,
+  "root_ids": [
+   "mkjr_.A3ap0nvgeXoLKkGscLAWw",
+   "mkjr_D1DU_7qnAfMP4rEfqmMLQQ",
+   "mkjr_nVtEKKctDVGCs39HcpDG_g"
+  ],
+  "chapter_file": "chapters/24-选必三-第3章-基因工程.json"
+ },
+ {
+  "point": "目的基因的获取与扩增",
+  "chapter": "选必三 第3章 基因工程",
+  "keywords": [
+   "PCR",
+   "引物",
+   "模板DNA",
+   "热稳定DNA聚合酶",
+   "扩增"
+  ],
+  "count": 5,
+  "root_ids": [
+   "mkjr_2ppxZuL_ATYq4QRkeoM59g",
+   "mkjr_rWUFxfB2wkeIs8CEJWPkfQ",
+   "mkjr_qIJc9VzJJ4Lsqp2ZyQ7zqQ",
+   "mkjr_SkrbjuH09mxsLakeimsR0A",
+   "mkjr_Z03WcQMP4nDlzmLBQ8U5sQ"
+  ],
+  "chapter_file": "chapters/24-选必三-第3章-基因工程.json"
+ },
+ {
+  "point": "基因表达载体的构建",
+  "chapter": "选必三 第3章 基因工程",
+  "keywords": [
+   "酶切位点",
+   "启动子",
+   "终止子",
+   "标记基因",
+   "重组质粒"
+  ],
+  "count": 8,
+  "root_ids": [
+   "mkjr_WZEpQi_2BN8sFZQD4XCnmA",
+   "mkjr_ZaLjYA2y7BnDiqvvuDkVqA",
+   "mkjr_q5FQpYZ9fZgOXrrxsaOuCw",
+   "mkjr_HwrU5uLLLQSjrBwzFDj1sg",
+   "mkjr__Vf8mNnlMuv.AsfDveZWsg",
+   "mkjr_0At1GmhOkHgpfYKw0cRO2Q",
+   "mkjr_cepHZqC8l4QlDNkbDyR_Hw",
+   "mkjr_qIJc9VzJJ4Lsqp2ZyQ7zqQ"
+  ],
+  "chapter_file": "chapters/24-选必三-第3章-基因工程.json"
+ },
+ {
+  "point": "将目的基因导入受体细胞",
+  "chapter": "选必三 第3章 基因工程",
+  "keywords": [
+   "农杆菌转化法",
+   "显微注射",
+   "Ca2+处理",
+   "受体细胞",
+   "受精卵"
+  ],
+  "count": 3,
+  "root_ids": [
+   "mkjr_c5Tm6nVruNEduHS4m0VieA",
+   "mkjr_q5FQpYZ9fZgOXrrxsaOuCw",
+   "mkjr_E8wobIVpEBqT3aA3cxlW9g"
+  ],
+  "chapter_file": "chapters/24-选必三-第3章-基因工程.json"
+ },
+ {
+  "point": "目的基因的检测与鉴定",
+  "chapter": "选必三 第3章 基因工程",
+  "keywords": [
+   "分子杂交",
+   "抗原抗体杂交",
+   "电泳",
+   "标记基因筛选",
+   "个体水平鉴定"
+  ],
+  "count": 9,
+  "root_ids": [
+   "mkjr_IVOu8ofP4CC_TIPqhPiwmA",
+   "mkjr_HwrU5uLLLQSjrBwzFDj1sg",
+   "mkjr_zoQ1YSXjd1uHvXOo4EhmpQ",
+   "mkjr_9FC1SDbUnOvfTHOGa7UlTQ",
+   "mkjr_HuLU.Kj7sMI29SJPvqG_4w",
+   "mkjr_rWUFxfB2wkeIs8CEJWPkfQ",
+   "mkjr_0At1GmhOkHgpfYKw0cRO2Q",
+   "mkjr_A.tZAaWKIGGuCcjcv7.2LQ",
+   "mkjr_Z03WcQMP4nDlzmLBQ8U5sQ"
+  ],
+  "chapter_file": "chapters/24-选必三-第3章-基因工程.json"
+ },
+ {
+  "point": "基因工程的应用",
+  "chapter": "选必三 第3章 基因工程",
+  "keywords": [
+   "转基因生物",
+   "工程菌",
+   "乳腺生物反应器",
+   "基因治疗",
+   "基因编辑"
+  ],
+  "count": 3,
+  "root_ids": [
+   "mkjr_IVOu8ofP4CC_TIPqhPiwmA",
+   "mkjr_c5Tm6nVruNEduHS4m0VieA",
+   "mkjr_H9YfMMI9F9ZdxY7yEwTWpg"
+  ],
+  "chapter_file": "chapters/24-选必三-第3章-基因工程.json"
+ },
+ {
+  "point": "蛋白质工程的原理和应用",
+  "chapter": "选必三 第3章 基因工程",
+  "keywords": [
+   "定点突变",
+   "基因改造",
+   "蛋白质设计",
+   "预期功能",
+   "胰岛素类似物"
+  ],
+  "count": 2,
+  "root_ids": [
+   "mkjr_fnABhdBljeAOxilcOlJS5A",
+   "mkjr_H9YfMMI9F9ZdxY7yEwTWpg"
+  ],
+  "chapter_file": "chapters/24-选必三-第3章-基因工程.json"
+ },
+ {
+  "point": "生物技术的安全与伦理",
+  "chapter": "选必三 第3章 基因工程",
+  "keywords": [
+   "转基因安全",
+   "伦理",
+   "生殖性克隆",
+   "生物武器",
+   "监管"
+  ],
+  "count": 2,
+  "root_ids": [
+   "mkjr_pLjJC4DQHPvVmR3xpjmFig",
+   "mkjr_2ppxZuL_ATYq4QRkeoM59g"
+  ],
+  "chapter_file": "chapters/24-选必三-第3章-基因工程.json"
+ },
+ {
+  "point": "教材基础实验综合",
+  "chapter": "未分类",
+  "keywords": [
+   "教材实验",
+   "实验叙述辨析",
+   "实验现象与结论"
+  ],
+  "count": 3,
+  "root_ids": [
+   "mkjr_jyaU6fI26u1yDGhsP0fFwA",
+   "mkjr_eoGEoyHPZqeqR1gONNl6rA",
+   "mkjr_WeGu2rpFQnyYrYzqF3lANw"
+  ],
+  "chapter_file": "chapters/25-未分类.json"
+ },
+ {
+  "point": "实验操作与原理",
+  "chapter": "未分类",
+  "keywords": [
+   "操作顺序",
+   "实验方法",
+   "方法原理"
+  ],
+  "count": 2,
+  "root_ids": [
+   "mkjr_2FyAHk8GA_K6SVKtEwZsUw",
+   "mkjr_JmPfPj5rsZBl0_n93_c4QQ"
+  ],
+  "chapter_file": "chapters/25-未分类.json"
+ },
+ {
+  "point": "实验试剂与材料",
+  "chapter": "未分类",
+  "keywords": [
+   "试剂选择",
+   "材料替代",
+   "选材取材"
+  ],
+  "count": 1,
+  "root_ids": [
+   "mkjr_eoGEoyHPZqeqR1gONNl6rA"
+  ],
+  "chapter_file": "chapters/25-未分类.json"
+ },
+ {
+  "point": "实验结论与推理",
+  "chapter": "未分类",
+  "keywords": [
+   "推测",
+   "推论",
+   "科学探究"
+  ],
+  "count": 1,
+  "root_ids": [
+   "mkjr_WeGu2rpFQnyYrYzqF3lANw"
+  ],
+  "chapter_file": "chapters/25-未分类.json"
+ }
+]
