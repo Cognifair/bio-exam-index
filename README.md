@@ -8,7 +8,7 @@
 
 | 用途 | URL |
 |---|---|
-| 主索引（考点 → root_id，约 60 KB） | `https://cdn.jsdelivr.net/gh/Cognifair/bio-exam-index@v1/points.json` |
+| 主索引（考点 → root_id，约 116 KB） | `https://cdn.jsdelivr.net/gh/Cognifair/bio-exam-index@v1/points.json` |
 | 元信息（章清单、题量、版本） | `https://cdn.jsdelivr.net/gh/Cognifair/bio-exam-index@v1/index.json` |
 | 逐题分片（题干/选项/答案） | `https://cdn.jsdelivr.net/gh/Cognifair/bio-exam-index@v1/chapters/<文件名>` |
 | 备用线路（GitHub raw） | `https://raw.githubusercontent.com/Cognifair/bio-exam-index/v1/points.json` |

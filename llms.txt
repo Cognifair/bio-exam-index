@@ -1,6 +1,6 @@
 # 高考生物真题卡索引（Cognifair）
 
-主索引:  https://cdn.jsdelivr.net/gh/Cognifair/bio-exam-index@v1/points.json      (60 KB，字段 point/chapter/keywords/count/root_ids/chapter_file)
+主索引:  https://cdn.jsdelivr.net/gh/Cognifair/bio-exam-index@v1/points.json      (116 KB，字段 point/chapter/keywords/count/root_ids/chapter_file)
 元信息:  https://cdn.jsdelivr.net/gh/Cognifair/bio-exam-index@v1/index.json
 逐题:    https://cdn.jsdelivr.net/gh/Cognifair/bio-exam-index@v1/chapters/<file>   (题干/选项/答案，按 root_id 查)
 备用:    https://raw.githubusercontent.com/Cognifair/bio-exam-index/v1/points.json
